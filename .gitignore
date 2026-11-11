@@ -1,0 +1,9 @@
+# 音频、临时文件和旧归档都不进仓库
+*.m4a
+*.mp3
+*.wav
+_归档/
+desktop.ini
+Thumbs.db
+~$*
+*.tmp
