@@ -376,3 +376,67 @@ truly
 
 写上 第五十三版；生成的内容和  第五十二版内容一样，只不过是 第五十二版的优化版
 55
+
+
+
+
+附件是我上个对话的结果，现在我希望根据视频生成skill做下列单词的精简版的视频，制作精简版的：
+
+
+需要的文件再下面的链接里面，你下载查看一下：
+
+
+https://github.com/Jacklee15333/ciyuanchaifeng/tree/f5b14a67c56626dc54fd2c62bcd9ea2c851c6617/%E6%9C%80%E6%96%B0%E5%B7%A5%E4%BD%9C%E7%89%88
+
+
+
+
+
+上传的时候新建一个文件夹 ： 7A-U4
+
+camera
+speaker
+thermostat
+itself
+alarm
+stranger
+lock
+explore
+rock
+shower
+mode
+text message
+bedroom
+bathroom
+suggest
+protect
+review
+heating
+guide
+personal
+owner
+alarm clock
+keep track of
+schedule
+health care
+order
+signal
+sense
+manage
+remind
+produce
+store
+sore
+throat
+understand
+already
+depend
+depend on
+oven
+truly
+
+
+要生成一个就上传一个，不要等到最后一起上传，那样很慢
+
+
+
