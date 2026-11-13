@@ -316,3 +316,53 @@ pro - 也是拉丁语,多表示方向上的“向前”,不是时间上的“先
 
 这一轮还是一样,先不生成视频,先把这个整体的视频图片生成出来我看看
 
+
+这个版本已经不错了,然后你看能不能再把两个音色再训练一下,结合我发给你的两个比较长一点的音色,让我的声音慢一点点,再自然一点,目前声音有点块,不是很自然;
+
+然后再做下面的任务:
+
+看一下这个skill,我希望能生成下面的单词的视频:
+camera
+speaker
+thermostat
+itself
+alarm
+stranger
+lock
+explore
+rock
+shower
+mode
+text message
+bedroom
+bathroom
+suggest
+protect
+review
+heating
+guide
+personal
+owner
+alarm clock
+keep track of
+schedule
+health care
+order
+signal
+sense
+manage
+remind
+produce
+store
+sore
+throat
+understand
+already
+depend
+depend on
+oven
+truly
+
+
+要注意更新新的视频生成skill,就是我希望每一轮工具用完了,让我点击继续的时候,先把已经生成好的视频发出来,我下载,不要放到最后一起生成出来,那样会比较久,我希望当前生成了多少就发多少,但是上一轮在点击继续之前发给我的,这一轮就不要发了,要不然越来越多,而且还有重复的;等到最后一个生成完了,可以发一个大的压缩包,把所有的都给我
+
