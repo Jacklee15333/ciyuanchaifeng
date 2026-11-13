@@ -23,3 +23,8 @@ Permissions 里找到 Contents，改成 Read and write     这个找不到
 滚到最下面，点绿色的 Generate token，复制以 github_pat_ 开头的那一串发给我。
 
 另外，有效期 30 天有点长。可以在 Expiration 里改成 7 天；保持 30 天也行，只要你下载完文件就回去把它删掉。
+
+
+
+
+github 令牌一个月期限 ： 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
