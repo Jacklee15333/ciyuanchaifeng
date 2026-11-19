@@ -160,6 +160,8 @@
 - unsafe：【词性转换】写成 safe n.保险柜，应是 safe adj.安全的
 - safe-keep：英语一般不说 safe-keep，常用名词 safekeeping（for safekeeping）或 keep sth safe；【变形】还编造了 safe-keeped
 - real-life-like：不是常用词，“逼真的”一般说 lifelike 或 realistic
+- checked：【变形】编造了 checkeds、checkeded、checkeding；checked 作形容词“方格的”没有这些变形
+- check-ups：【变形】写“一般不可数，不加 s”不对，check-ups 本身就是 check-up 的复数
 
 ## 总表里出现两次的词（细节数据按单词存一份，两行共用；出题时两个意思都要考到）
 

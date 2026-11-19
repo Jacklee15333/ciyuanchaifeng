@@ -1498,31 +1498,31 @@
 19	60	real-life	adj. 现实生活中的、真人真事的	细节数据有	缺	词/r/real-life.json
 19	61	real-life-like	adj. 逼真的、像真的一样的	细节数据有	缺	词/r/real-life-like.json
 19	62	check	n. 检查；批改 v. 核对	细节数据有	缺	词/c/check.json
-19	63	checked	adj. 方格图案的	缺	缺	
-19	64	cross-check	n. 交叉核对	缺	缺	
-19	65	checklist	n. 核对清单、检查表	缺	缺	
-19	66	check-up	n. 体检	缺	缺	
-19	67	check-ups	n. 体检	缺	缺	
-19	68	checkout	n. 收银台；退房	缺	缺	
-19	69	double-check	v. 再检查一遍、复核	缺	缺	
-19	70	checkable	adj. 可核查的、可检验的	缺	缺	
-19	71	chess	n. 棋	缺	缺	
-19	72	travel	v. 旅行	缺	缺	
-19	73	traveller	n. 旅行者、旅客	缺	缺	
-19	74	traveler	n. 旅行者、旅客	缺	缺	
-19	75	time-travel	n. 时间旅行、穿越时空	缺	缺	
-19	76	again	adv. 再一次	缺	缺	
-19	77	against	prep. 对着	缺	缺	
-19	78	meanly	adv. 卑鄙地、刻薄地；吝啬地	缺	缺	
-19	79	end	n. 末尾；终点 v. 结束	缺	缺	
-19	80	ending	n. 结局	缺	缺	
-19	81	endless	adj. 无尽的、没完没了的	缺	缺	
-19	82	never-ending	adj. 没完没了的、永无止境的	缺	缺	
-19	83	soon	adv. 不久；很快	缺	缺	
-20	1	lesson	n. 课；教训	缺	缺	
-20	2	legend	n. 传说	缺	缺	
-20	3	legendary	adj. 传说中的	缺	缺	
-20	4	collect	v. 收集	缺	缺	
+19	63	checked	adj. 方格图案的	细节数据有	缺	词/c/checked.json
+19	64	cross-check	n. 交叉核对	细节数据有	缺	词/c/cross-check.json
+19	65	checklist	n. 核对清单、检查表	细节数据有	缺	词/c/checklist.json
+19	66	check-up	n. 体检	细节数据有	缺	词/c/check-up.json
+19	67	check-ups	n. 体检	细节数据有	缺	词/c/check-ups.json
+19	68	checkout	n. 收银台；退房	细节数据有	缺	词/c/checkout.json
+19	69	double-check	v. 再检查一遍、复核	细节数据有	缺	词/d/double-check.json
+19	70	checkable	adj. 可核查的、可检验的	细节数据有	缺	词/c/checkable.json
+19	71	chess	n. 棋	细节数据有	缺	词/c/chess.json
+19	72	travel	v. 旅行	细节数据有	缺	词/t/travel.json
+19	73	traveller	n. 旅行者、旅客	细节数据有	缺	词/t/traveller.json
+19	74	traveler	n. 旅行者、旅客	细节数据有	缺	词/t/traveler.json
+19	75	time-travel	n. 时间旅行、穿越时空	细节数据有	缺	词/t/time-travel.json
+19	76	again	adv. 再一次	细节数据有	缺	词/a/again.json
+19	77	against	prep. 对着	细节数据有	缺	词/a/against.json
+19	78	meanly	adv. 卑鄙地、刻薄地；吝啬地	细节数据有	缺	词/m/meanly.json
+19	79	end	n. 末尾；终点 v. 结束	细节数据有	缺	词/e/end.json
+19	80	ending	n. 结局	细节数据有	缺	词/e/ending.json
+19	81	endless	adj. 无尽的、没完没了的	细节数据有	缺	词/e/endless.json
+19	82	never-ending	adj. 没完没了的、永无止境的	细节数据有	缺	词/n/never-ending.json
+19	83	soon	adv. 不久；很快	细节数据有	缺	词/s/soon.json
+20	1	lesson	n. 课；教训	细节数据有	缺	词/l/lesson.json
+20	2	legend	n. 传说	细节数据有	缺	词/l/legend.json
+20	3	legendary	adj. 传说中的	细节数据有	缺	词/l/legendary.json
+20	4	collect	v. 收集	细节数据有	缺	词/c/collect.json
 20	5	collection	n. 收集	缺	缺	
 20	6	collector	n. 收藏家；集电器	缺	缺	
 20	7	collective	adj. 集体的、共同的	缺	缺	
