@@ -1036,56 +1036,56 @@
 13	75	everywhere	adv. 到处	细节数据有	缺	词/e/everywhere.json
 13	76	everyday	adj. 每日的	细节数据有	缺	词/e/everyday.json
 13	77	everyone	pron. 每人	细节数据有	缺	词/e/everyone.json
-13	78	call	v. 叫、喊；称呼 n. 电话	缺	缺	
-13	79	recall	v. 回想、记起	缺	缺	
-14	1	watch	n. 手表 v. 观看；当心	缺	缺	
-14	2	watcher	n. 观察者；长期关注某领域的人	缺	缺	
-14	3	rewatch	v. 重看、再看	缺	缺	
-14	4	watchful	adj. 警惕的、留心的	缺	缺	
-14	5	wait	v. 等	缺	缺	
-14	6	waiter	n. 侍者	缺	缺	
-14	7	waitress	n. 女侍者	缺	缺	
-14	8	await	v. 等候、等待；在前面等着某人	缺	缺	
-14	9	wake	v. 醒来	缺	缺	
-14	10	woke	v. wake 的过去式	缺	缺	
-14	11	woken	v. wake 的过去分词	缺	缺	
-14	12	awake	adj. 醒着的 v. 唤起	缺	缺	
-14	13	awoke	v. awake 的过去式	缺	缺	
-14	14	awaken	v. 唤醒	缺	缺	
-14	15	awakening	n. 觉醒、醒悟	缺	缺	
-14	16	stopwatch	n. 秒表、跑表	缺	缺	
-14	17	vegetable	n. 蔬菜	缺	缺	
-14	18	veggie	adj. 素食的	缺	缺	
-14	19	vegetation	n. 植被、草木	缺	缺	
-14	20	vegetarian	n. 素食者	缺	缺	
-14	21	decide	v. 决定	缺	缺	
-14	22	decision	n. 决定	缺	缺	
-14	23	decisive	adj. 决定性的；果断的	缺	缺	
-14	24	decision-maker	n. 决策者	缺	缺	
-14	25	pesticide	n. 杀虫剂；农药	缺	缺	
-14	26	genocide	n. 种族灭绝	缺	缺	
-14	27	suicide	n. 自杀	缺	缺	
-14	28	suicidal	adj. 有自杀倾向的	缺	缺	
-14	29	scissor	v. 用剪刀剪	缺	缺	
-14	30	scissors	n. 剪刀	缺	缺	
-14	31	precise	adj. 精确的、准确的；恰好的	缺	缺	
-14	32	precisely	adv. 精确地；恰恰、正是	缺	缺	
-14	33	precision	n. 精确、精确度	缺	缺	
-14	34	cement	n. 水泥；黏合剂 v. 巩固	缺	缺	
-14	35	incise	v. 刻、雕	缺	缺	
-14	36	incision	n. 切开	缺	缺	
-14	37	walk	v. 步行	缺	缺	
-14	38	walker	n. 步行者、走路的人	缺	缺	
-14	39	sidewalk	n. 人行道	缺	缺	
-14	40	week	n. 星期	缺	缺	
-14	41	weekly	adj. 每周的、一周一次的	缺	缺	
-14	42	weekend	n. 周末	缺	缺	
-14	43	weekday	n. 工作日	缺	缺	
-14	44	happen	v. 发生；碰巧	缺	缺	
-14	45	happenstance	n. 偶然、巧合	缺	缺	
-14	46	happy	adj. 幸福的；快乐的	缺	缺	
-14	47	happily	adv. 幸福地；快乐地	缺	缺	
-14	48	happiness	n. 幸福	缺	缺	
+13	78	call	v. 叫、喊；称呼 n. 电话	细节数据有	缺	词/c/call.json
+13	79	recall	v. 回想、记起	细节数据有	缺	词/r/recall.json
+14	1	watch	n. 手表 v. 观看；当心	细节数据有	缺	词/w/watch.json
+14	2	watcher	n. 观察者；长期关注某领域的人	细节数据有	缺	词/w/watcher.json
+14	3	rewatch	v. 重看、再看	细节数据有	缺	词/r/rewatch.json
+14	4	watchful	adj. 警惕的、留心的	细节数据有	缺	词/w/watchful.json
+14	5	wait	v. 等	细节数据有	缺	词/w/wait.json
+14	6	waiter	n. 侍者	细节数据有	缺	词/w/waiter.json
+14	7	waitress	n. 女侍者	细节数据有	缺	词/w/waitress.json
+14	8	await	v. 等候、等待；在前面等着某人	细节数据有	缺	词/a/await.json
+14	9	wake	v. 醒来	细节数据有	缺	词/w/wake.json
+14	10	woke	v. wake 的过去式	细节数据有	缺	词/w/woke.json
+14	11	woken	v. wake 的过去分词	细节数据有	缺	词/w/woken.json
+14	12	awake	adj. 醒着的 v. 唤起	细节数据有	缺	词/a/awake.json
+14	13	awoke	v. awake 的过去式	细节数据有	缺	词/a/awoke.json
+14	14	awaken	v. 唤醒	细节数据有	缺	词/a/awaken.json
+14	15	awakening	n. 觉醒、醒悟	细节数据有	缺	词/a/awakening.json
+14	16	stopwatch	n. 秒表、跑表	细节数据有	缺	词/s/stopwatch.json
+14	17	vegetable	n. 蔬菜	细节数据有	缺	词/v/vegetable.json
+14	18	veggie	adj. 素食的	细节数据有	缺	词/v/veggie.json
+14	19	vegetation	n. 植被、草木	细节数据有	缺	词/v/vegetation.json
+14	20	vegetarian	n. 素食者	细节数据有	缺	词/v/vegetarian.json
+14	21	decide	v. 决定	细节数据有	缺	词/d/decide.json
+14	22	decision	n. 决定	细节数据有	缺	词/d/decision.json
+14	23	decisive	adj. 决定性的；果断的	细节数据有	缺	词/d/decisive.json
+14	24	decision-maker	n. 决策者	细节数据有	缺	词/d/decision-maker.json
+14	25	pesticide	n. 杀虫剂；农药	细节数据有	缺	词/p/pesticide.json
+14	26	genocide	n. 种族灭绝	细节数据有	缺	词/g/genocide.json
+14	27	suicide	n. 自杀	细节数据有	缺	词/s/suicide.json
+14	28	suicidal	adj. 有自杀倾向的	细节数据有	缺	词/s/suicidal.json
+14	29	scissor	v. 用剪刀剪	细节数据有	缺	词/s/scissor.json
+14	30	scissors	n. 剪刀	细节数据有	缺	词/s/scissors.json
+14	31	precise	adj. 精确的、准确的；恰好的	细节数据有	缺	词/p/precise.json
+14	32	precisely	adv. 精确地；恰恰、正是	细节数据有	缺	词/p/precisely.json
+14	33	precision	n. 精确、精确度	细节数据有	缺	词/p/precision.json
+14	34	cement	n. 水泥；黏合剂 v. 巩固	细节数据有	缺	词/c/cement.json
+14	35	incise	v. 刻、雕	细节数据有	缺	词/i/incise.json
+14	36	incision	n. 切开	细节数据有	缺	词/i/incision.json
+14	37	walk	v. 步行	细节数据有	缺	词/w/walk.json
+14	38	walker	n. 步行者、走路的人	细节数据有	缺	词/w/walker.json
+14	39	sidewalk	n. 人行道	细节数据有	缺	词/s/sidewalk.json
+14	40	week	n. 星期	细节数据有	缺	词/w/week.json
+14	41	weekly	adj. 每周的、一周一次的	细节数据有	缺	词/w/weekly.json
+14	42	weekend	n. 周末	细节数据有	缺	词/w/weekend.json
+14	43	weekday	n. 工作日	细节数据有	缺	词/w/weekday.json
+14	44	happen	v. 发生；碰巧	细节数据有	缺	词/h/happen.json
+14	45	happenstance	n. 偶然、巧合	细节数据有	缺	词/h/happenstance.json
+14	46	happy	adj. 幸福的；快乐的	细节数据有	缺	词/h/happy.json
+14	47	happily	adv. 幸福地；快乐地	细节数据有	缺	词/h/happily.json
+14	48	happiness	n. 幸福	细节数据有	缺	词/h/happiness.json
 14	49	unhappy	adj. 不开心的	缺	缺	
 14	50	unhappiness	n. 不快乐、不幸福；不满	缺	缺	
 14	51	unhappily	adv. 不快乐地；不幸地、遗憾地	缺	缺	

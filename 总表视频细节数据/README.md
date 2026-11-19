@@ -121,6 +121,9 @@
 - statistics：【变形】写“不可数，没有复数”不对，statistics（统计数字）本身是复数形式，谓语用复数（The statistics show…）
 - static：初中含义是 adj.，【变形】却按名词写“不可数，没有复数”，词性对不上
 - everyday：【变形】编造了 more everyday、most everyday，everyday（日常的）没有比较级
+- awoke：【变形】编造了 awokes、awoked、awoking；awoke 本身是 awake 的过去式（过去分词 awoken）
+- scissors：【变形】写“不可数，没有复数”不对，scissors 本身是复数形式，谓语用复数（The scissors are…），“一把”说 a pair of scissors
+- watchful：【词性转换】写 watch n.手表，应是 watch v.注视、当心
 
 ## 总表里出现两次的词（细节数据按单词存一份，两行共用；出题时两个意思都要考到）
 
