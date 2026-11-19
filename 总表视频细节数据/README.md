@@ -48,6 +48,7 @@
 | 2026-11-19 | 题目第 6 批 | 100 | daily … wag（体检全部 0 个问题；someday、living、take 三个词“答案就是本词”超过 1 道，改了再存）。累计 232 个词有题目 |
 | 2026-11-19 | 题目第 7 批 | 100 | wagon … historian（体检全部 0 个问题；no、inch 两个词改过再存）。累计 332 个词有题目 |
 | 2026-11-19 | 题目第 8 批 | 100 | historic … preferable（体检全部 0 个问题；wizard、preference 两个词改过再存）。累计 432 个词有题目 |
+| 2026-11-19 | 题目第 9 批 | 100 | refer … whenever（体检全部 0 个问题；born、kept 两个词改过再存）。累计 532 个词有题目 |
 | 2026-11-19 | 试做 truly | 0 | 只用自带素材加表情图拼画面：起草检查不通过（表情图要换成写实插图、每幅画都要动、小图标要自己画）。结论：多数词要专门画插图，每个词的工作量和 7A-U4 一样；全表 9299 个词做不完，要先定先做哪些（等用户定） |
 
 ## 总表里看着不对的地方（出题时绕开了，以后用维护技能核对）
@@ -68,4 +69,6 @@
 - ones：初中含义写“数字1的复数”，考点写“一般不可数”；latest、findings：考点写“一般不可数”；seen：初中含义只写“被看作”。
 - sightseeing：易混一栏写成“tour 是“””，后半句缺了；uneven：词性转换写成“even adv.甚至”（应是 even adj. 平的）。
 - video-called、gotten：考点写了 video-calleds、gottened 这样的变形；witness：考点写“不可数，没有复数”（其实常用 witnesses）；starter：初中含义只写“发令员”（常见意思还有“头盘”“首先 for starters”）；comprehensive：考点写“一般不可数”（它是形容词）。
+- bore：初中含义写“承受了；生了”（bear 的过去式），考点却写 bores、bored、boring（那是“使厌烦”的 bore），两个词混在一起；题目两个意思都考到了。
+- feelings、unborn、sportsmen：考点写“一般不可数，不加 s”；relative：考点写“比较级 more relative”；best-kept：初中含义写成名词“鲜为人知的好东西”（一般是形容词，常见搭配 best-kept secret）。
 

@@ -433,107 +433,107 @@
 6	29	prefer	v. 宁愿	细节数据有	缺	词/p/prefer.json
 6	30	preference	n. 偏爱、偏好；优先	细节数据有	缺	词/p/preference.json
 6	31	preferable	adj. 更可取的、更好的	细节数据有	缺	词/p/preferable.json
-6	32	refer	v. 提到；指的是	缺	缺	
-6	33	reference	n. 参考	缺	缺	
-6	34	suffer	v. 受苦	缺	缺	
-6	35	suffering	n. 痛苦、苦难	缺	缺	
-6	36	infer	v. 推断、推论	缺	缺	
-6	37	inference	n. 推论、推断	缺	缺	
-6	38	fertile	adj. 肥沃的；能生育的	缺	缺	
-6	39	fertilize	v. 施肥	缺	缺	
-6	40	fertilizer	n. 肥料	缺	缺	
-6	41	fertility	n. 肥沃、肥力	缺	缺	
-6	42	transfer	v. 转移；调动	缺	缺	
-6	43	confer	v. 商议、协商；授予	缺	缺	
-6	44	conference	n. 会议	缺	缺	
-6	45	conferencing	n. 开会、会议	缺	缺	
-6	46	referee	n. 裁判	缺	缺	
-6	47	relate	v. 讲述；与…有关	缺	缺	
-6	48	related	adj. 有关的、相关的	缺	缺	
-6	49	relationship	n. 关系	缺	缺	
-6	50	relation	n. 关系；亲戚	缺	缺	
-6	51	relative	n. 亲属	缺	缺	
-6	52	relatively	adv. 相对地、比较而言	缺	缺	
-6	53	relativity	n. 相对论	缺	缺	
-6	54	relatable	adj. 能引起共鸣的	缺	缺	
-6	55	translate	v. 翻译	缺	缺	
-6	56	translation	n. 翻译；转化	缺	缺	
-6	57	translator	n. 译者、翻译	缺	缺	
-6	58	superlative	adj. 极好的、卓越的	缺	缺	
-6	59	born	v. 出生	缺	缺	
-6	60	unborn	adj. 未出生的	缺	缺	
-6	61	birth	n. 出生、诞生；分娩	缺	缺	
-6	62	inbornly	adv. 天生地、与生俱来地	缺	缺	
-6	63	inborn	adj. 天生的、先天的	缺	缺	
-6	64	birthplace	n. 出生地、故乡；发源地	缺	缺	
-6	65	bear	n. 熊	缺	缺	
+6	32	refer	v. 提到；指的是	细节数据有	缺	词/r/refer.json
+6	33	reference	n. 参考	细节数据有	缺	词/r/reference.json
+6	34	suffer	v. 受苦	细节数据有	缺	词/s/suffer.json
+6	35	suffering	n. 痛苦、苦难	细节数据有	缺	词/s/suffering.json
+6	36	infer	v. 推断、推论	细节数据有	缺	词/i/infer.json
+6	37	inference	n. 推论、推断	细节数据有	缺	词/i/inference.json
+6	38	fertile	adj. 肥沃的；能生育的	细节数据有	缺	词/f/fertile.json
+6	39	fertilize	v. 施肥	细节数据有	缺	词/f/fertilize.json
+6	40	fertilizer	n. 肥料	细节数据有	缺	词/f/fertilizer.json
+6	41	fertility	n. 肥沃、肥力	细节数据有	缺	词/f/fertility.json
+6	42	transfer	v. 转移；调动	细节数据有	缺	词/t/transfer.json
+6	43	confer	v. 商议、协商；授予	细节数据有	缺	词/c/confer.json
+6	44	conference	n. 会议	细节数据有	缺	词/c/conference.json
+6	45	conferencing	n. 开会、会议	细节数据有	缺	词/c/conferencing.json
+6	46	referee	n. 裁判	细节数据有	缺	词/r/referee.json
+6	47	relate	v. 讲述；与…有关	细节数据有	缺	词/r/relate.json
+6	48	related	adj. 有关的、相关的	细节数据有	缺	词/r/related.json
+6	49	relationship	n. 关系	细节数据有	缺	词/r/relationship.json
+6	50	relation	n. 关系；亲戚	细节数据有	缺	词/r/relation.json
+6	51	relative	n. 亲属	细节数据有	缺	词/r/relative.json
+6	52	relatively	adv. 相对地、比较而言	细节数据有	缺	词/r/relatively.json
+6	53	relativity	n. 相对论	细节数据有	缺	词/r/relativity.json
+6	54	relatable	adj. 能引起共鸣的	细节数据有	缺	词/r/relatable.json
+6	55	translate	v. 翻译	细节数据有	缺	词/t/translate.json
+6	56	translation	n. 翻译；转化	细节数据有	缺	词/t/translation.json
+6	57	translator	n. 译者、翻译	细节数据有	缺	词/t/translator.json
+6	58	superlative	adj. 极好的、卓越的	细节数据有	缺	词/s/superlative.json
+6	59	born	v. 出生	细节数据有	缺	词/b/born.json
+6	60	unborn	adj. 未出生的	细节数据有	缺	词/u/unborn.json
+6	61	birth	n. 出生、诞生；分娩	细节数据有	缺	词/b/birth.json
+6	62	inbornly	adv. 天生地、与生俱来地	细节数据有	缺	词/i/inbornly.json
+6	63	inborn	adj. 天生的、先天的	细节数据有	缺	词/i/inborn.json
+6	64	birthplace	n. 出生地、故乡；发源地	细节数据有	缺	词/b/birthplace.json
+6	65	bear	n. 熊	细节数据有	缺	词/b/bear.json
 6	66	bore	v. 承受了；生了	缺	缺	
-6	67	unbearable	adj. 难以忍受的、受不了的	缺	缺	
-6	68	bearable	adj. 可以忍受的	缺	缺	
-6	69	bearably	adv. 还能忍受地、过得去地；较少用	缺	缺	
-6	70	unbearably	adv. 难以忍受地	缺	缺	
-6	71	bearer	n. 持有人；送信人、传递者	缺	缺	
-6	72	burden	n. 负担、重担	缺	缺	
-6	73	metaphor	n. 隐喻、暗喻；象征	缺	缺	
-6	74	feel	v. 感觉；摸	缺	缺	
-6	75	felt	v. 感觉到了；摸了	缺	缺	
-6	76	feeling	n. 感觉；同情、体谅	缺	缺	
-6	77	feelings	n. 感情、情感	缺	缺	
-6	78	keep	v. 保持；继续不断	缺	缺	
-6	79	kept	v. 保持了；一直	缺	缺	
-6	80	keeper	n. 看守人、管理员	缺	缺	
-6	81	well-kept	adj. 保养得好的、整洁的；严守的	缺	缺	
-6	82	best-kept	n. 鲜为人知的好东西	缺	缺	
-7	1	during	prep. 在…期间	缺	缺	
-7	2	endure	v. 忍受、忍耐；持久、存续	缺	缺	
-7	3	enduring	adj. 持久的、经久不衰的	缺	缺	
-7	4	endurance	n. 耐力、忍耐力；持久	缺	缺	
-7	5	durable	adj. 耐用的、经久的	缺	缺	
-7	6	duration	n. 持续时间、期间	缺	缺	
-7	7	true	adj. 真的	缺	缺	
+6	67	unbearable	adj. 难以忍受的、受不了的	细节数据有	缺	词/u/unbearable.json
+6	68	bearable	adj. 可以忍受的	细节数据有	缺	词/b/bearable.json
+6	69	bearably	adv. 还能忍受地、过得去地；较少用	细节数据有	缺	词/b/bearably.json
+6	70	unbearably	adv. 难以忍受地	细节数据有	缺	词/u/unbearably.json
+6	71	bearer	n. 持有人；送信人、传递者	细节数据有	缺	词/b/bearer.json
+6	72	burden	n. 负担、重担	细节数据有	缺	词/b/burden.json
+6	73	metaphor	n. 隐喻、暗喻；象征	细节数据有	缺	词/m/metaphor.json
+6	74	feel	v. 感觉；摸	细节数据有	缺	词/f/feel.json
+6	75	felt	v. 感觉到了；摸了	细节数据有	缺	词/f/felt.json
+6	76	feeling	n. 感觉；同情、体谅	细节数据有	缺	词/f/feeling.json
+6	77	feelings	n. 感情、情感	细节数据有	缺	词/f/feelings.json
+6	78	keep	v. 保持；继续不断	细节数据有	缺	词/k/keep.json
+6	79	kept	v. 保持了；一直	细节数据有	缺	词/k/kept.json
+6	80	keeper	n. 看守人、管理员	细节数据有	缺	词/k/keeper.json
+6	81	well-kept	adj. 保养得好的、整洁的；严守的	细节数据有	缺	词/w/well-kept.json
+6	82	best-kept	n. 鲜为人知的好东西	细节数据有	缺	词/b/best-kept.json
+7	1	during	prep. 在…期间	细节数据有	缺	词/d/during.json
+7	2	endure	v. 忍受、忍耐；持久、存续	细节数据有	缺	词/e/endure.json
+7	3	enduring	adj. 持久的、经久不衰的	细节数据有	缺	词/e/enduring.json
+7	4	endurance	n. 耐力、忍耐力；持久	细节数据有	缺	词/e/endurance.json
+7	5	durable	adj. 耐用的、经久的	细节数据有	缺	词/d/durable.json
+7	6	duration	n. 持续时间、期间	细节数据有	缺	词/d/duration.json
+7	7	true	adj. 真的	细节数据有	缺	词/t/true.json
 7	8	truly	adv. 真正地、的确	总表有	缺	
-7	9	truth	n. 真理	缺	缺	
-7	10	truthful	adj. 诚实的、说真话的	缺	缺	
-7	11	trust	v. 信任	缺	缺	
-7	12	distrust	n. 不信任、怀疑	缺	缺	
-7	13	mistrust	n. 不信任、怀疑	缺	缺	
-7	14	trustworthy	adj. 值得信赖的、可靠的	缺	缺	
-7	15	tree	n. 树	缺	缺	
-7	16	treetop	n. 树梢、树顶	缺	缺	
-7	17	tree-planting	n. 植树	缺	缺	
-7	18	treehouse	n. 树屋	缺	缺	
-7	19	important	adj. 重要的	缺	缺	
-7	20	importantly	adv. 重要地	缺	缺	
-7	21	unimportant	adj. 不重要的、无关紧要的	缺	缺	
-7	22	importance	n. 重要性	缺	缺	
-7	23	support	vt. 支持；赞助	缺	缺	
-7	24	supportive	adj. 支持的、给予帮助和鼓励的	缺	缺	
-7	25	supporter	n. 支持者、拥护者	缺	缺	
-7	26	report	n. 报道；成绩单	缺	缺	
-7	27	reported	adj. 据报道的、据说的	缺	缺	
-7	28	reporter	n. 记者	缺	缺	
-7	29	reportedly	adv. 据报道、据说	缺	缺	
-7	30	sport	n. 体育运动；锻炼	缺	缺	
-7	31	sporting	adj. 体育运动的	缺	缺	
-7	32	sporty	adj. 爱运动的、体格健壮的	缺	缺	
-7	33	sportsmanship	n. 体育道德、运动家精神	缺	缺	
-7	34	sportsman	n. 有体育精神的人	缺	缺	
-7	35	sportsmen	n. 运动爱好者们	缺	缺	
-7	36	sportswear	n. 运动服、休闲装	缺	缺	
-7	37	transport	v. 运输	缺	缺	
-7	38	transportation	n. 运输工具	缺	缺	
-7	39	portable	adj. 便携的、手提的	缺	缺	
-7	40	export	v. 出口	缺	缺	
-7	41	import	v. 进口	缺	缺	
-7	42	portfolio	n. 文件夹、画夹；作品集	缺	缺	
-7	43	porter	n. 搬运工、行李员；黑啤酒	缺	缺	
-7	44	port	n. 港口、口岸	缺	缺	
-7	45	opportunity	n. 机会、时机	缺	缺	
-7	46	passport	n. 护照	缺	缺	
-7	47	porch	n. 门廊	缺	缺	
-7	48	however	adv. 可是 conj. 然而；尽管如此	缺	缺	
-7	49	when	conj. 当…时；既然、可是却	缺	缺	
-7	50	whenever	conj. 每当、无论何时	缺	缺	
+7	9	truth	n. 真理	细节数据有	缺	词/t/truth.json
+7	10	truthful	adj. 诚实的、说真话的	细节数据有	缺	词/t/truthful.json
+7	11	trust	v. 信任	细节数据有	缺	词/t/trust.json
+7	12	distrust	n. 不信任、怀疑	细节数据有	缺	词/d/distrust.json
+7	13	mistrust	n. 不信任、怀疑	细节数据有	缺	词/m/mistrust.json
+7	14	trustworthy	adj. 值得信赖的、可靠的	细节数据有	缺	词/t/trustworthy.json
+7	15	tree	n. 树	细节数据有	缺	词/t/tree.json
+7	16	treetop	n. 树梢、树顶	细节数据有	缺	词/t/treetop.json
+7	17	tree-planting	n. 植树	细节数据有	缺	词/t/tree-planting.json
+7	18	treehouse	n. 树屋	细节数据有	缺	词/t/treehouse.json
+7	19	important	adj. 重要的	细节数据有	缺	词/i/important.json
+7	20	importantly	adv. 重要地	细节数据有	缺	词/i/importantly.json
+7	21	unimportant	adj. 不重要的、无关紧要的	细节数据有	缺	词/u/unimportant.json
+7	22	importance	n. 重要性	细节数据有	缺	词/i/importance.json
+7	23	support	vt. 支持；赞助	细节数据有	缺	词/s/support.json
+7	24	supportive	adj. 支持的、给予帮助和鼓励的	细节数据有	缺	词/s/supportive.json
+7	25	supporter	n. 支持者、拥护者	细节数据有	缺	词/s/supporter.json
+7	26	report	n. 报道；成绩单	细节数据有	缺	词/r/report.json
+7	27	reported	adj. 据报道的、据说的	细节数据有	缺	词/r/reported.json
+7	28	reporter	n. 记者	细节数据有	缺	词/r/reporter.json
+7	29	reportedly	adv. 据报道、据说	细节数据有	缺	词/r/reportedly.json
+7	30	sport	n. 体育运动；锻炼	细节数据有	缺	词/s/sport.json
+7	31	sporting	adj. 体育运动的	细节数据有	缺	词/s/sporting.json
+7	32	sporty	adj. 爱运动的、体格健壮的	细节数据有	缺	词/s/sporty.json
+7	33	sportsmanship	n. 体育道德、运动家精神	细节数据有	缺	词/s/sportsmanship.json
+7	34	sportsman	n. 有体育精神的人	细节数据有	缺	词/s/sportsman.json
+7	35	sportsmen	n. 运动爱好者们	细节数据有	缺	词/s/sportsmen.json
+7	36	sportswear	n. 运动服、休闲装	细节数据有	缺	词/s/sportswear.json
+7	37	transport	v. 运输	细节数据有	缺	词/t/transport.json
+7	38	transportation	n. 运输工具	细节数据有	缺	词/t/transportation.json
+7	39	portable	adj. 便携的、手提的	细节数据有	缺	词/p/portable.json
+7	40	export	v. 出口	细节数据有	缺	词/e/export.json
+7	41	import	v. 进口	细节数据有	缺	词/i/import.json
+7	42	portfolio	n. 文件夹、画夹；作品集	细节数据有	缺	词/p/portfolio.json
+7	43	porter	n. 搬运工、行李员；黑啤酒	细节数据有	缺	词/p/porter.json
+7	44	port	n. 港口、口岸	细节数据有	缺	词/p/port.json
+7	45	opportunity	n. 机会、时机	细节数据有	缺	词/o/opportunity.json
+7	46	passport	n. 护照	细节数据有	缺	词/p/passport.json
+7	47	porch	n. 门廊	细节数据有	缺	词/p/porch.json
+7	48	however	adv. 可是 conj. 然而；尽管如此	细节数据有	缺	词/h/however.json
+7	49	when	conj. 当…时；既然、可是却	细节数据有	缺	词/w/when.json
+7	50	whenever	conj. 每当、无论何时	细节数据有	缺	词/w/whenever.json
 7	51	where	adv. 在哪里	缺	缺	
 7	52	wherever	conj. 无论在哪里；在…的任何地方	缺	缺	
 7	53	whereas	conj. 而、然而	缺	缺	
@@ -4859,7 +4859,7 @@
 62	28	tastier	adj. 更美味的	缺	缺	
 62	29	tasteful	adj. 有品味的、雅致的；得体的	缺	缺	
 62	30	tasteless	adj. 无味的；低俗的、没品位的	缺	缺	
-62	31	bore	v. 使厌烦	缺	缺	
+62	31	bore	v. 使厌烦	细节数据有	缺	词/b/bore.json
 62	32	boring	adj. 乏味的；无聊的	缺	缺	
 62	33	bored	adj. 感到乏味的；厌倦的	缺	缺	
 62	34	boredom	n. 厌倦、无聊	缺	缺	
