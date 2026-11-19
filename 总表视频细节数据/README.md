@@ -51,6 +51,11 @@
 | 2026-11-19 | 题目第 7 批 | 100 | wagon … historian（体检全部 0 个问题；no、inch 两个词改过再存）。累计 332 个词有题目 |
 | 2026-11-19 | 题目第 8 批 | 100 | historic … preferable（体检全部 0 个问题；wizard、preference 两个词改过再存）。累计 432 个词有题目 |
 | 2026-11-19 | 题目第 9 批 | 100 | refer … whenever（体检全部 0 个问题；born、kept 两个词改过再存）。累计 532 个词有题目 |
+| 2026-11-19 | 题目第 10 批 | 100 | where … adverbial（体检全部 0 个问题；quotation、without、playfully、shortly 改过再存）。累计 632 个词有题目 |
+| 2026-11-19 | 题目第 11 批 | 100 | verbal … better（体检全部 0 个问题）。累计 732 个词有题目 |
+| 2026-11-19 | 题目第 12 批 | 100 | best … partner（体检全部 0 个问题）。累计 832 个词有题目 |
+| 2026-11-19 | 题目第 13 批 | 100 | partnership … plain（体检全部 0 个问题）。累计 932 个词有题目 |
+| 2026-11-19 | 题目第 14 批 | 100 | explain … everyone（体检全部 0 个问题）。累计 1032 个词有题目 |
 | 2026-11-19 | 试做 truly | 0 | 只用自带素材加表情图拼画面：起草检查不通过（表情图要换成写实插图、每幅画都要动、小图标要自己画）。结论：多数词要专门画插图，每个词的工作量和 7A-U4 一样；全表 9299 个词做不完，要先定先做哪些（等用户定） |
 
 ## 总表里看着不对的地方（出题时绕开了，以后用维护技能核对）
@@ -73,6 +78,49 @@
 - video-called、gotten：考点写了 video-calleds、gottened 这样的变形；witness：考点写“不可数，没有复数”（其实常用 witnesses）；starter：初中含义只写“发令员”（常见意思还有“头盘”“首先 for starters”）；comprehensive：考点写“一般不可数”（它是形容词）。
 - bore：初中含义写“承受了；生了”（bear 的过去式），考点却写 bores、bored、boring（那是“使厌烦”的 bore），两个词混在一起；题目两个意思都考到了。
 - feelings、unborn、sportsmen：考点写“一般不可数，不加 s”；relative：考点写“比较级 more relative”；best-kept：初中含义写成名词“鲜为人知的好东西”（一般是形容词，常见搭配 best-kept secret）。
+- neither：变形写了比较级 neitherer、最高级 neitherest，neither 没有比较级、最高级
+- either：变形写了比较级 eitherer、最高级 eitherest，either 没有比较级、最高级
+- which：初中含义写成“adj. 那一个”，应是“哪一个”；变形写了比较级 whicher、最高级 whichest，which 没有比较级、最高级
+- qualifications：变形写成“不可数，没有复数”，qualifications 本身就是 qualification 的复数
+- plaything：变形写成“不可数，没有复数”，其实是可数名词，复数 playthings
+- gameplay：变形写复数 gameplays，gameplay 一般不可数
+- told：初中含义只写“v. 过去分词”，它也是 tell 的过去式
+- platformed：变形是编造的（platformeds、platformeded、platformeding），它本身就是 platform 的过去式、过去分词
+- shortened：变形是编造的（shorteneds、shorteneded、shorteneding），它本身是 shorten 的过去式、过去分词
+- shears：变形写“不可数，没有复数”不准确，shears 本身是复数形式的名词（a pair of shears），谓语用复数
+- outskirts：变形写“不可数，没有复数”不准确，outskirts 本身是复数形式的名词（the outskirts），谓语用复数
+- wordplay：变形写复数 wordplays，易混又说 wordplay 是总称、不可数，前后矛盾；一般作不可数
+- inventor：初中含义写成“v. 发明家”，词性应是 n.
+- eventually：【易混】写成 eventually / eventuell，eventuell 是德语词，不是英语；应换成 eventually / finally（eventually 强调几经周折才……）
+- eventual：【易混】说明写成“eventual 是一对“假朋友””，话不通；应写 eventual（最终的、结果上的）/ final（最后一个的、不再改的）
+- outcome：【易混】outcome / consequence 里 consequence 的说明是空的（偏“”），应补上“偏（不好的）后果”
+- basics：【变形】写成“不可数，没有复数”，basics 本身就是复数形式（The basics are…），应写“总用复数”
+- washed：【变形】编造了 washeds、washeded、washeding；washed 作形容词没有这些变形
+- through：【变形】编造了比较级 througher、最高级 throughest；through 是介词，没有比较级
+- goods：【变形】写成“不可数，没有复数”，goods 本身是复数形式，谓语用复数（The goods are…）；【易混】里 merchandis 少了 e
+- better：初中含义写成“adv. 较好的”，词性和释义对不上；应是 adj. 较好的 / adv. 更好地
+- wells：【变形】编造了 wellses、wellsed、wellsing，还写“n. 一般不可数”；wells 本身就是 well（井 / 涌出）的复数或三单，不再变形
+- writings：【变形】写“不可数，没有复数”不准确，writings（著作）本身是复数形式，谓语用复数
+- co-writing：【变形】编造了 co-writings、co-writinged、co-writinging；co-writing 本身是 co-write 的现在分词 / 动名词
+- parcel：初中含义只写“n. 一块地”，初中最常用的是“包裹”（辨析里也说英式 parcel = 包裹），应补上
+- participation：【变形】写“复数 participations”，“参与”一般不可数，不用复数
+- questionable：【易混】questionable / doubtful 里 doubtful 的说明是空的（偏“”），应补“（人）拿不准的、怀疑的”
+- request：【词性转换】写成 require v.需求，require 是另一个词；request 本身既是 n. 又是 v.
+- requirement：【易混】requirement / requisite 里 requirement 的说明是空的（“”），应补“（被）要求达到的条件”
+- tour：【易混】tour / sightseeing 里 tour 的说明是空的（“”），应补“（一次）观光游览”
+- rotary：初中含义是 adj.，【变形】却写“n. 一般不可数，不加 s”，词性对不上
+- control：【变形】写“英式双写 l，美式 controled”不对，英美都写 controlled；初中含义只写 n.，变形却全是动词形式，应补 v. 控制
+- misunderstanding：【变形】写“不可数，没有复数”不准确，“一次误会”可数（a misunderstanding、misunderstandings）
+- misunderstood：【变形】编造了 misunderstoods、misunderstooded、misunderstooding；它本身是 misunderstand 的过去式、过去分词
+- understandable：【易混】understandable / comprehensible 里 comprehensible 的说明是空的（偏“”），应补“（内容）能看懂的”
+- standby：【变形】编造了形容词比较级 standbier、最高级 standbiest，standby 作形容词没有比较级
+- stored：【变形】编造了 storeds、storeded、storeding；stored 本身是 store 的过去式、过去分词
+- storage：【变形】写“复数 storages”，“储存”一般不可数
+- planned：【变形】编造了 planneds、planneded、planneding；planned 本身是 plan 的过去式、过去分词
+- following：【变形】编造了 more following、most following，following 作“下列的”没有比较级
+- statistics：【变形】写“不可数，没有复数”不对，statistics（统计数字）本身是复数形式，谓语用复数（The statistics show…）
+- static：初中含义是 adj.，【变形】却按名词写“不可数，没有复数”，词性对不上
+- everyday：【变形】编造了 more everyday、most everyday，everyday（日常的）没有比较级
 
 ## 总表里出现两次的词（细节数据按单词存一份，两行共用；出题时两个意思都要考到）
 
