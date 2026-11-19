@@ -1598,15 +1598,15 @@
 20	77	choice	n. 选择	细节数据有	缺	词/c/choice.json
 20	78	smile	v. 微笑	细节数据有	缺	词/s/smile.json
 20	79	smiling	adj. 面带微笑的 v. 动名词	细节数据有	缺	词/s/smiling.json
-20	80	never-smiling	adj. 从不笑的、总板着脸的	缺	缺	
-20	81	soundly	adv. 彻底地、狠狠地；稳妥地、合理地	缺	缺	
-21	1	project	n. 工程；作业	缺	缺	
-21	2	projection	n. 投影、放映；预测、推算	缺	缺	
-21	3	projectionist	n. 放映员	缺	缺	
-21	4	projector	n. 投影仪；放映机	缺	缺	
+20	80	never-smiling	adj. 从不笑的、总板着脸的	细节数据有	缺	词/n/never-smiling.json
+20	81	soundly	adv. 彻底地、狠狠地；稳妥地、合理地	细节数据有	缺	词/s/soundly.json
+21	1	project	n. 工程；作业	细节数据有	缺	词/p/project.json
+21	2	projection	n. 投影、放映；预测、推算	细节数据有	缺	词/p/projection.json
+21	3	projectionist	n. 放映员	细节数据有	缺	词/p/projectionist.json
+21	4	projector	n. 投影仪；放映机	细节数据有	缺	词/p/projector.json
 21	5	object	n. 物体；对象	缺	缺	
-21	6	objection	n. 反对、异议	缺	缺	
-21	7	objective	adj. 客观的、不偏不倚的 n. 目标	缺	缺	
+21	6	objection	n. 反对、异议	细节数据有	缺	词/o/objection.json
+21	7	objective	adj. 客观的、不偏不倚的 n. 目标	细节数据有	缺	词/o/objective.json
 21	8	subject	n. 题目；学科	缺	缺	
 21	9	subjective	adj. 主观的；个人感受上的	缺	缺	
 21	10	adjective	n. 形容词	缺	缺	
