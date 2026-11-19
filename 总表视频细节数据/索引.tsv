@@ -331,108 +331,108 @@
 5	7	history	n. 历史	细节数据有	缺	词/h/history.json
 5	8	historical	adj. 历史的	细节数据有	缺	词/h/historical.json
 5	9	historian	n. 历史学家	细节数据有	缺	词/h/historian.json
-5	10	historic	adj. 有历史意义的、历史性的	缺	缺	
-5	11	historically	adv. 历史上、从历史上看	缺	缺	
-5	12	prehistoric	adj. 史前的	缺	缺	
-5	13	history-making	adj. 创造历史的、具有历史意义的	缺	缺	
-5	14	storey	n. 层	缺	缺	
-5	15	two-storey	adj. 两层的	缺	缺	
-5	16	idea	n. 主意	缺	缺	
-5	17	idol	n. 偶像	缺	缺	
-5	18	ideal	adj. 理想的、完美的 n. 典范	缺	缺	
-5	19	visit	v. 参观；访问	缺	缺	
-5	20	visitor	n. 参观者；访问者	缺	缺	
-5	21	revisit	v. 重游、再次拜访	缺	缺	
-5	22	must-visit	adj. 必去的	缺	缺	
-5	23	advise	v. 劝告	缺	缺	
-5	24	adviser	n. 顾问；指导老师	缺	缺	
-5	25	advisor	n. 顾问；指导老师	缺	缺	
-5	26	advice	n. 忠告	缺	缺	
-5	27	visible	adj. 看得见的；明显的	缺	缺	
-5	28	invisible	adj. 看不见的、无形的；被忽视的	缺	缺	
-5	29	visibility	n. 能见度	缺	缺	
-5	30	revise	v. 修改、修订	缺	缺	
-5	31	revision	n. 修订、修改	缺	缺	
-5	32	vision	n. 视力；愿景、构想	缺	缺	
-5	33	visionary	adj. 有远见的、有前瞻性的	缺	缺	
-5	34	television	n. 电视	缺	缺	
-5	35	visual	adj. 视觉的、视力的	缺	缺	
-5	36	visualise	v. 想象、设想	缺	缺	
-5	37	visualize	v. 想象、在脑中形成画面	缺	缺	
-5	38	visa	n. 签证	缺	缺	
-5	39	supervise	v. 监督、管理；指导	缺	缺	
-5	40	view	n. 看法；风景	缺	缺	
-5	41	viewer	n. 观看者	缺	缺	
-5	42	interview	v. 采访	缺	缺	
-5	43	interviewee	n. 受访者；被面试者	缺	缺	
-5	44	interviewer	n. 面试官；采访者、记者	缺	缺	
+5	10	historic	adj. 有历史意义的、历史性的	细节数据有	缺	词/h/historic.json
+5	11	historically	adv. 历史上、从历史上看	细节数据有	缺	词/h/historically.json
+5	12	prehistoric	adj. 史前的	细节数据有	缺	词/p/prehistoric.json
+5	13	history-making	adj. 创造历史的、具有历史意义的	细节数据有	缺	词/h/history-making.json
+5	14	storey	n. 层	细节数据有	缺	词/s/storey.json
+5	15	two-storey	adj. 两层的	细节数据有	缺	词/t/two-storey.json
+5	16	idea	n. 主意	细节数据有	缺	词/i/idea.json
+5	17	idol	n. 偶像	细节数据有	缺	词/i/idol.json
+5	18	ideal	adj. 理想的、完美的 n. 典范	细节数据有	缺	词/i/ideal.json
+5	19	visit	v. 参观；访问	细节数据有	缺	词/v/visit.json
+5	20	visitor	n. 参观者；访问者	细节数据有	缺	词/v/visitor.json
+5	21	revisit	v. 重游、再次拜访	细节数据有	缺	词/r/revisit.json
+5	22	must-visit	adj. 必去的	细节数据有	缺	词/m/must-visit.json
+5	23	advise	v. 劝告	细节数据有	缺	词/a/advise.json
+5	24	adviser	n. 顾问；指导老师	细节数据有	缺	词/a/adviser.json
+5	25	advisor	n. 顾问；指导老师	细节数据有	缺	词/a/advisor.json
+5	26	advice	n. 忠告	细节数据有	缺	词/a/advice.json
+5	27	visible	adj. 看得见的；明显的	细节数据有	缺	词/v/visible.json
+5	28	invisible	adj. 看不见的、无形的；被忽视的	细节数据有	缺	词/i/invisible.json
+5	29	visibility	n. 能见度	细节数据有	缺	词/v/visibility.json
+5	30	revise	v. 修改、修订	细节数据有	缺	词/r/revise.json
+5	31	revision	n. 修订、修改	细节数据有	缺	词/r/revision.json
+5	32	vision	n. 视力；愿景、构想	细节数据有	缺	词/v/vision.json
+5	33	visionary	adj. 有远见的、有前瞻性的	细节数据有	缺	词/v/visionary.json
+5	34	television	n. 电视	细节数据有	缺	词/t/television.json
+5	35	visual	adj. 视觉的、视力的	细节数据有	缺	词/v/visual.json
+5	36	visualise	v. 想象、设想	细节数据有	缺	词/v/visualise.json
+5	37	visualize	v. 想象、在脑中形成画面	细节数据有	缺	词/v/visualize.json
+5	38	visa	n. 签证	细节数据有	缺	词/v/visa.json
+5	39	supervise	v. 监督、管理；指导	细节数据有	缺	词/s/supervise.json
+5	40	view	n. 看法；风景	细节数据有	缺	词/v/view.json
+5	41	viewer	n. 观看者	细节数据有	缺	词/v/viewer.json
+5	42	interview	v. 采访	细节数据有	缺	词/i/interview.json
+5	43	interviewee	n. 受访者；被面试者	细节数据有	缺	词/i/interviewee.json
+5	44	interviewer	n. 面试官；采访者、记者	细节数据有	缺	词/i/interviewer.json
 5	45	review	v. 复习 n. 评论、书评	总表有	kit有（7A-U4）	
-5	46	reviewable	adj. 可复审的、可审查的	缺	缺	
-5	47	reviewer	n. 评论家、书评人	缺	缺	
-5	48	viewpoint	n. 观点、看法	缺	缺	
-5	49	survey	v. 调查	缺	缺	
-5	50	survey-taker	n. 填写问卷的人、受访者	缺	缺	
-5	51	envy	n. 羡慕、嫉妒	缺	缺	
-5	52	envious	adj. 羡慕的、嫉妒的	缺	缺	
-5	53	video	n. 录像；视频	缺	缺	
-5	54	video-call	n. 视频通话	缺	缺	
-5	55	video-called	v. 视频通话了	缺	缺	
-5	56	video-editing	n. 视频剪辑	缺	缺	
-5	57	provide	v. 提供	缺	缺	
-5	58	provider	n. 提供者、供应商；养家的人	缺	缺	
-5	59	provision	n. 提供、供应；预备	缺	缺	
-5	60	evidence	n. 证据；迹象	缺	缺	
-5	61	improvise	v. 即兴创作、即兴表演；临时凑合、因陋就简	缺	缺	
+5	46	reviewable	adj. 可复审的、可审查的	细节数据有	缺	词/r/reviewable.json
+5	47	reviewer	n. 评论家、书评人	细节数据有	缺	词/r/reviewer.json
+5	48	viewpoint	n. 观点、看法	细节数据有	缺	词/v/viewpoint.json
+5	49	survey	v. 调查	细节数据有	缺	词/s/survey.json
+5	50	survey-taker	n. 填写问卷的人、受访者	细节数据有	缺	词/s/survey-taker.json
+5	51	envy	n. 羡慕、嫉妒	细节数据有	缺	词/e/envy.json
+5	52	envious	adj. 羡慕的、嫉妒的	细节数据有	缺	词/e/envious.json
+5	53	video	n. 录像；视频	细节数据有	缺	词/v/video.json
+5	54	video-call	n. 视频通话	细节数据有	缺	词/v/video-call.json
+5	55	video-called	v. 视频通话了	细节数据有	缺	词/v/video-called.json
+5	56	video-editing	n. 视频剪辑	细节数据有	缺	词/v/video-editing.json
+5	57	provide	v. 提供	细节数据有	缺	词/p/provide.json
+5	58	provider	n. 提供者、供应商；养家的人	细节数据有	缺	词/p/provider.json
+5	59	provision	n. 提供、供应；预备	细节数据有	缺	词/p/provision.json
+5	60	evidence	n. 证据；迹象	细节数据有	缺	词/e/evidence.json
+5	61	improvise	v. 即兴创作、即兴表演；临时凑合、因陋就简	细节数据有	缺	词/i/improvise.json
 5	62	guide	n. 导游、向导 v. 引导、带领	总表有	kit有（7A-U4）	
-5	63	guidance	n. 指导、引导	缺	缺	
-5	64	wise	adj. 聪明的	缺	缺	
-5	65	wisely	adv. 明智地	缺	缺	
-5	66	wisdom	n. 智慧	缺	缺	
-5	67	witness	n. 证人、目击者	缺	缺	
-5	68	wit	n. 机智、风趣	缺	缺	
-5	69	outwit	v. 智胜、以智谋打败	缺	缺	
-5	70	wizard	n. 巫师、男巫；奇才、高手	缺	缺	
-5	71	start	v. 开始；着手	缺	缺	
-5	72	starter	n. 发令员	缺	缺	
-5	73	restart	v. 重新开始	缺	缺	
-5	74	startle	v. 使吓一跳、使惊愕	缺	缺	
-5	75	world	n. 世界	缺	缺	
-5	76	underworld	n. 黑社会、黑道	缺	缺	
-5	77	worldwide	adj. 全世界的	缺	缺	
-5	78	world-building	n. 世界观构建、架空世界的设定	缺	缺	
-5	79	world-class	adj. 世界一流的、世界级的	缺	缺	
-5	80	while	conj. 当…的时候；而、然而 n. 一会儿	缺	缺	
-6	1	get	v. 成为；得到	缺	缺	
-6	2	got	v. 得到了；变得	缺	缺	
-6	3	gotten	v. （美式）get 的过去分词	缺	缺	
-6	4	forget	v. 忘记	缺	缺	
-6	5	forgot	v. 忘了	缺	缺	
-6	6	forgotten	adj. 被遗忘的	缺	缺	
-6	7	unforgettable	adj. 难忘的	缺	缺	
-6	8	forgetful	adj. 健忘的	缺	缺	
-6	9	forgetfulness	n. 健忘；疏忽	缺	缺	
-6	10	forgettable	adj. 平淡无奇的、不值得记住的	缺	缺	
-6	11	guess	v. 猜测	缺	缺	
-6	12	surprise	n. 惊奇	缺	缺	
-6	13	surprised	adj. 感到惊奇的	缺	缺	
-6	14	surprising	adj. 令人惊讶的、出人意料的	缺	缺	
-6	15	surprisingly	adv. 出人意料地	缺	缺	
-6	16	prison	n. 监狱	缺	缺	
-6	17	prisoner	n. 囚犯；俘虏	缺	缺	
-6	18	apprentice	n. 学徒	缺	缺	
-6	19	apprenticeship	n. 学徒身份	缺	缺	
-6	20	enterprise	n. 企业；进取心	缺	缺	
-6	21	entrepreneur	n. 创业者、企业家	缺	缺	
-6	22	comprehensive	adj. 全面的、综合的	缺	缺	
-6	23	differ	v. 不同、有差别；意见不一	缺	缺	
-6	24	different	adj. 不同的	缺	缺	
-6	25	differently	adv. 不同地、以不同的方式；不一样	缺	缺	
-6	26	difference	n. 不同	缺	缺	
-6	27	offer	v. 提供	缺	缺	
-6	28	offering	n. 祭品、供品	缺	缺	
-6	29	prefer	v. 宁愿	缺	缺	
-6	30	preference	n. 偏爱、偏好；优先	缺	缺	
-6	31	preferable	adj. 更可取的、更好的	缺	缺	
+5	63	guidance	n. 指导、引导	细节数据有	缺	词/g/guidance.json
+5	64	wise	adj. 聪明的	细节数据有	缺	词/w/wise.json
+5	65	wisely	adv. 明智地	细节数据有	缺	词/w/wisely.json
+5	66	wisdom	n. 智慧	细节数据有	缺	词/w/wisdom.json
+5	67	witness	n. 证人、目击者	细节数据有	缺	词/w/witness.json
+5	68	wit	n. 机智、风趣	细节数据有	缺	词/w/wit.json
+5	69	outwit	v. 智胜、以智谋打败	细节数据有	缺	词/o/outwit.json
+5	70	wizard	n. 巫师、男巫；奇才、高手	细节数据有	缺	词/w/wizard.json
+5	71	start	v. 开始；着手	细节数据有	缺	词/s/start.json
+5	72	starter	n. 发令员	细节数据有	缺	词/s/starter.json
+5	73	restart	v. 重新开始	细节数据有	缺	词/r/restart.json
+5	74	startle	v. 使吓一跳、使惊愕	细节数据有	缺	词/s/startle.json
+5	75	world	n. 世界	细节数据有	缺	词/w/world.json
+5	76	underworld	n. 黑社会、黑道	细节数据有	缺	词/u/underworld.json
+5	77	worldwide	adj. 全世界的	细节数据有	缺	词/w/worldwide.json
+5	78	world-building	n. 世界观构建、架空世界的设定	细节数据有	缺	词/w/world-building.json
+5	79	world-class	adj. 世界一流的、世界级的	细节数据有	缺	词/w/world-class.json
+5	80	while	conj. 当…的时候；而、然而 n. 一会儿	细节数据有	缺	词/w/while.json
+6	1	get	v. 成为；得到	细节数据有	缺	词/g/get.json
+6	2	got	v. 得到了；变得	细节数据有	缺	词/g/got.json
+6	3	gotten	v. （美式）get 的过去分词	细节数据有	缺	词/g/gotten.json
+6	4	forget	v. 忘记	细节数据有	缺	词/f/forget.json
+6	5	forgot	v. 忘了	细节数据有	缺	词/f/forgot.json
+6	6	forgotten	adj. 被遗忘的	细节数据有	缺	词/f/forgotten.json
+6	7	unforgettable	adj. 难忘的	细节数据有	缺	词/u/unforgettable.json
+6	8	forgetful	adj. 健忘的	细节数据有	缺	词/f/forgetful.json
+6	9	forgetfulness	n. 健忘；疏忽	细节数据有	缺	词/f/forgetfulness.json
+6	10	forgettable	adj. 平淡无奇的、不值得记住的	细节数据有	缺	词/f/forgettable.json
+6	11	guess	v. 猜测	细节数据有	缺	词/g/guess.json
+6	12	surprise	n. 惊奇	细节数据有	缺	词/s/surprise.json
+6	13	surprised	adj. 感到惊奇的	细节数据有	缺	词/s/surprised.json
+6	14	surprising	adj. 令人惊讶的、出人意料的	细节数据有	缺	词/s/surprising.json
+6	15	surprisingly	adv. 出人意料地	细节数据有	缺	词/s/surprisingly.json
+6	16	prison	n. 监狱	细节数据有	缺	词/p/prison.json
+6	17	prisoner	n. 囚犯；俘虏	细节数据有	缺	词/p/prisoner.json
+6	18	apprentice	n. 学徒	细节数据有	缺	词/a/apprentice.json
+6	19	apprenticeship	n. 学徒身份	细节数据有	缺	词/a/apprenticeship.json
+6	20	enterprise	n. 企业；进取心	细节数据有	缺	词/e/enterprise.json
+6	21	entrepreneur	n. 创业者、企业家	细节数据有	缺	词/e/entrepreneur.json
+6	22	comprehensive	adj. 全面的、综合的	细节数据有	缺	词/c/comprehensive.json
+6	23	differ	v. 不同、有差别；意见不一	细节数据有	缺	词/d/differ.json
+6	24	different	adj. 不同的	细节数据有	缺	词/d/different.json
+6	25	differently	adv. 不同地、以不同的方式；不一样	细节数据有	缺	词/d/differently.json
+6	26	difference	n. 不同	细节数据有	缺	词/d/difference.json
+6	27	offer	v. 提供	细节数据有	缺	词/o/offer.json
+6	28	offering	n. 祭品、供品	细节数据有	缺	词/o/offering.json
+6	29	prefer	v. 宁愿	细节数据有	缺	词/p/prefer.json
+6	30	preference	n. 偏爱、偏好；优先	细节数据有	缺	词/p/preference.json
+6	31	preferable	adj. 更可取的、更好的	细节数据有	缺	词/p/preferable.json
 6	32	refer	v. 提到；指的是	缺	缺	
 6	33	reference	n. 参考	缺	缺	
 6	34	suffer	v. 受苦	缺	缺	
