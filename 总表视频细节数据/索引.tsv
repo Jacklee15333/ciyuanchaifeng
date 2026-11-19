@@ -1807,31 +1807,31 @@
 23	46	dose	n. 剂量、一剂 v. 给…服药	细节数据有	缺	词/d/dose.json
 23	47	care	n. 照料；小心 v. 介意	细节数据有	缺	词/c/care.json
 23	48	caring	adj. 有爱心的、体贴的 n. 照护	细节数据有	缺	词/c/caring.json
-23	49	carefully	adv. 小心地；仔细地	缺	缺	
-23	50	careful	adj. 小心的；仔细的	缺	缺	
-23	51	careless	adj. 粗心的	缺	缺	
-23	52	carelessly	adv. 粗心地	缺	缺	
-23	53	carefulness	n. 小心、谨慎	缺	缺	
-23	54	carelessness	n. 粗心、疏忽	缺	缺	
-23	55	carer	adj. （英式）照护者：照顾孩子或无法自理的成年人的人，可以是家人，也可以是受	缺	缺	
-23	56	caretaker	n. 照顾者	缺	缺	
-23	57	caregiving	n. 照护工作	缺	缺	
-23	58	final	adj. 最后的；终极的	缺	缺	
-23	59	finally	adv. 最后	缺	缺	
-23	60	finalize	v. 敲定	缺	缺	
-23	61	semi-final	n. 半决赛	缺	缺	
-23	62	finish	v. 结束；做完	缺	缺	
-23	63	finished	adj. 完成的；精致的	缺	缺	
-23	64	unfinished	adj. 未完成的	缺	缺	
-23	65	finisher	n. 跑完全程的人；射门终结者	缺	缺	
-23	66	fine	adj. 晴朗的；美好的	缺	缺	
-23	67	refine	v. 提炼、精炼；改进、使完善	缺	缺	
-23	68	definite	adj. 明确的、确定的	缺	缺	
-23	69	definitely	adv. 肯定、无疑；明确地	缺	缺	
-23	70	define	v. 给…下定义；使轮廓分明	缺	缺	
-23	71	definition	n. 定义、释义；清晰度	缺	缺	
-23	72	redefine	v. 重新定义、重新界定	缺	缺	
-23	73	high-definition	adj. 高清的	缺	缺	
+23	49	carefully	adv. 小心地；仔细地	细节数据有	缺	词/c/carefully.json
+23	50	careful	adj. 小心的；仔细的	细节数据有	缺	词/c/careful.json
+23	51	careless	adj. 粗心的	细节数据有	缺	词/c/careless.json
+23	52	carelessly	adv. 粗心地	细节数据有	缺	词/c/carelessly.json
+23	53	carefulness	n. 小心、谨慎	细节数据有	缺	词/c/carefulness.json
+23	54	carelessness	n. 粗心、疏忽	细节数据有	缺	词/c/carelessness.json
+23	55	carer	adj. （英式）照护者：照顾孩子或无法自理的成年人的人，可以是家人，也可以是受	细节数据有	缺	词/c/carer.json
+23	56	caretaker	n. 照顾者	细节数据有	缺	词/c/caretaker.json
+23	57	caregiving	n. 照护工作	细节数据有	缺	词/c/caregiving.json
+23	58	final	adj. 最后的；终极的	细节数据有	缺	词/f/final.json
+23	59	finally	adv. 最后	细节数据有	缺	词/f/finally.json
+23	60	finalize	v. 敲定	细节数据有	缺	词/f/finalize.json
+23	61	semi-final	n. 半决赛	细节数据有	缺	词/s/semi-final.json
+23	62	finish	v. 结束；做完	细节数据有	缺	词/f/finish.json
+23	63	finished	adj. 完成的；精致的	细节数据有	缺	词/f/finished.json
+23	64	unfinished	adj. 未完成的	细节数据有	缺	词/u/unfinished.json
+23	65	finisher	n. 跑完全程的人；射门终结者	细节数据有	缺	词/f/finisher.json
+23	66	fine	adj. 晴朗的；美好的	细节数据有	缺	词/f/fine.json
+23	67	refine	v. 提炼、精炼；改进、使完善	细节数据有	缺	词/r/refine.json
+23	68	definite	adj. 明确的、确定的	细节数据有	缺	词/d/definite.json
+23	69	definitely	adv. 肯定、无疑；明确地	细节数据有	缺	词/d/definitely.json
+23	70	define	v. 给…下定义；使轮廓分明	细节数据有	缺	词/d/define.json
+23	71	definition	n. 定义、释义；清晰度	细节数据有	缺	词/d/definition.json
+23	72	redefine	v. 重新定义、重新界定	细节数据有	缺	词/r/redefine.json
+23	73	high-definition	adj. 高清的	细节数据有	缺	词/h/high-definition.json
 23	74	finance	n. 金融；财务、理财	缺	缺	
 23	75	finances	n. 财务状况、资金	缺	缺	
 23	76	financial	adj. 金融的、财务的；经济上的	缺	缺	

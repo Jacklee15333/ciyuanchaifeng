@@ -183,6 +183,7 @@
 - irrelevant：【词性转换】写成“in adv.在家”，和本词无关，应是 relevant adj.相关的
 - less：【变形】编造了最高级 lessest，little 的最高级是 least
 - least：【变形】编造了 leaster、leastest；least 本身就是 little 的最高级
+- carer：初中含义标成 adj.，还编造了比较级 carerer、carerest；carer 是名词“照护者”
 
 ## 总表里出现两次的词（细节数据按单词存一份，两行共用；出题时两个意思都要考到）
 
