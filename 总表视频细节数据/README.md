@@ -31,7 +31,7 @@
 
 出题的规矩照维护技能 SKILL.md“练习题七列和答案列”（第 122、123、126 条）：第 1 题听力；2–5 题考「考点」和区别，题型不重复；6、7 题专考前面没考到的考点、写“考点：”；答案就是本词原形的最多 1 道；句子 12 个词以内、初中词汇、答案唯一；每道一句讲解。
 1. `python3 工具/next_words.py <总表.xlsx> 8`：下一批还缺题目的词和它们的总表材料（含义、初中含义、考点、辨析）。
-2. 照 `工具/lianxi.py` 原稿的写法（一个词 7 道，选择题第一个选项写对的）写成 `{单词: [7 道]}` 的 json。
+2. 写原稿：一次 100 个词时用简写稿（`工具/compact.py` 开头写了格式：一道题一行，`听|单|形|选|改|完` 开头，“|”分隔，选项用“ / ”分隔，选择题第一个选项写对的），`python3 工具/compact.py 简写稿.txt 原稿.json` 转成 json；材料用 `next_words.py 总表 100 --brief`（一个词两行）。也可以直接照 `工具/lianxi.py` 原稿的写法写 `{单词: [7 道]}` 的 json。
 3. `python3 工具/save_questions.py <原稿.json> <总表版本>`：写成总表那两种格、体检（0 个问题才存）、存进 `词/`、更新索引。
 4. 马上传到仓库（一批一传，防止对话中断丢掉）。
 
@@ -44,4 +44,15 @@
 | 2026-11-19 | 题目第 2 批 | 8 | rematch、mismatch、matcher、makeup、shoemaker、mason、shoe、people（体检 0 个问题）。注意：总表 makeup 的考点写“复数 makeups”，化妆品的意思一般不可数，题目里没考这一条，以后可以用维护技能核对 |
 | 2026-11-19 | 题目第 3 批 | 8 | popular、popularity、popularise、popularize、popularly、unpopular、population、populate（体检 0 个问题） |
 | 2026-11-19 | 题目第 4 批 | 8 | populated、populous、public、publicly、publicize、publish、publishing、publisher（体检 0 个问题；前 4 个总表没写考点，照规矩考意思、搭配和形近词） |
+| 2026-11-19 | 题目第 5 批 | 100 | publication … day（按总表顺序 100 个词，改用简写稿一次写 100 个；体检全部 0 个问题）。累计 132 个词有题目 |
 | 2026-11-19 | 试做 truly | 0 | 只用自带素材加表情图拼画面：起草检查不通过（表情图要换成写实插图、每幅画都要动、小图标要自己画）。结论：多数词要专门画插图，每个词的工作量和 7A-U4 一样；全表 9299 个词做不完，要先定先做哪些（等用户定） |
+
+## 总表里看着不对的地方（出题时绕开了，以后用维护技能核对）
+
+- makeup：考点写“复数 makeups”，“化妆品”的意思一般不可数。
+- reusables：考点写“复数 reusableses（加 es）”，reusables 本身就是复数。
+- usage：初中含义写成“v. 使用”，考点里有 usaged、usaging 这样的动词变形；usage 只是名词。
+- timekeeper：初中含义只写“钟表”，常见意思还有“计时员”“守时的人”。
+- Mr：考点写“复数 mrs”（Mr 的复数是 Messrs）；Mrs、Ms：考点写“一般不可数，不加 s”。
+- organism：考点写“不可数，没有复数”，其实常用复数 organisms。
+- day：初中含义写成“天一”；nano-surgeon：初中含义写到“纳米外科医生：在细胞”就断了。
