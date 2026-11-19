@@ -1631,31 +1631,31 @@
 21	29	reactor	n. 反应堆	细节数据有	缺	词/r/reactor.json
 21	30	interactive	adj. 互动的、交互式的	细节数据有	缺	词/i/interactive.json
 21	31	interact	v. 相互作用、相互影响	细节数据有	缺	词/i/interact.json
-21	32	interaction	n. 相互作用	缺	缺	
-21	33	activate	v. 启动、激活	缺	缺	
-21	34	activation	n. 启动、激活	缺	缺	
-21	35	proactive	adj. 积极主动的、先发制人的	缺	缺	
-21	36	proactively	adv. 主动地、积极预防地	缺	缺	
-21	37	microreactor	n. 微型反应堆	缺	缺	
-21	38	non-reactive	adj. 不与食物起反应的	缺	缺	
-21	39	action-packed	adj. 动作场面多的、紧张刺激的	缺	缺	
-21	40	actual	adj. 实际的、真实的	缺	缺	
-21	41	actually	adv. 实际上	缺	缺	
-21	42	transact	v. 办理、进行	缺	缺	
-21	43	transaction	n. 交易、一笔业务	缺	缺	
-21	44	exact	adj. 准确的、精确的	缺	缺	
+21	32	interaction	n. 相互作用	细节数据有	缺	词/i/interaction.json
+21	33	activate	v. 启动、激活	细节数据有	缺	词/a/activate.json
+21	34	activation	n. 启动、激活	细节数据有	缺	词/a/activation.json
+21	35	proactive	adj. 积极主动的、先发制人的	细节数据有	缺	词/p/proactive.json
+21	36	proactively	adv. 主动地、积极预防地	细节数据有	缺	词/p/proactively.json
+21	37	microreactor	n. 微型反应堆	细节数据有	缺	词/m/microreactor.json
+21	38	non-reactive	adj. 不与食物起反应的	细节数据有	缺	词/n/non-reactive.json
+21	39	action-packed	adj. 动作场面多的、紧张刺激的	细节数据有	缺	词/a/action-packed.json
+21	40	actual	adj. 实际的、真实的	细节数据有	缺	词/a/actual.json
+21	41	actually	adv. 实际上	细节数据有	缺	词/a/actually.json
+21	42	transact	v. 办理、进行	细节数据有	缺	词/t/transact.json
+21	43	transaction	n. 交易、一笔业务	细节数据有	缺	词/t/transaction.json
+21	44	exact	adj. 准确的、精确的	细节数据有	缺	词/e/exact.json
 21	45	exactly	adv. 确切的	缺	缺	
-21	46	exam	n. 考试；检查	缺	缺	
-21	47	essay	n. 随笔、小品文	缺	缺	
-21	48	examine	v. 检查、审查	缺	缺	
-21	49	examination	n. 考试；检查	缺	缺	
-21	50	examinee	n. 应试者、考生（正式用语	缺	缺	
-21	51	agent	n. 代理人、经纪人；特工	缺	缺	
-21	52	agency	n. 代理机构、中介	缺	缺	
-21	53	famous	adj. 著名的	缺	缺	
-21	54	famously	adv. 众所周知地	缺	缺	
-21	55	fame	n. 名声、名望	缺	缺	
-21	56	world-famous	adj. 世界闻名的	缺	缺	
+21	46	exam	n. 考试；检查	细节数据有	缺	词/e/exam.json
+21	47	essay	n. 随笔、小品文	细节数据有	缺	词/e/essay.json
+21	48	examine	v. 检查、审查	细节数据有	缺	词/e/examine.json
+21	49	examination	n. 考试；检查	细节数据有	缺	词/e/examination.json
+21	50	examinee	n. 应试者、考生（正式用语	细节数据有	缺	词/e/examinee.json
+21	51	agent	n. 代理人、经纪人；特工	细节数据有	缺	词/a/agent.json
+21	52	agency	n. 代理机构、中介	细节数据有	缺	词/a/agency.json
+21	53	famous	adj. 著名的	细节数据有	缺	词/f/famous.json
+21	54	famously	adv. 众所周知地	细节数据有	缺	词/f/famously.json
+21	55	fame	n. 名声、名望	细节数据有	缺	词/f/fame.json
+21	56	world-famous	adj. 世界闻名的	细节数据有	缺	词/w/world-famous.json
 21	57	profess	v. 声称、自称；公开表示	缺	缺	
 21	58	profession	n. 职业	缺	缺	
 21	59	professional	adj. 职业的	缺	缺	

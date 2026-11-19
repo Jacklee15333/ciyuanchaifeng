@@ -61,6 +61,7 @@
 | 2026-11-19 | 题目第 17 批 | 100 | strength … interface（体检拦下 knowledgeable（答案就是本词 2 道），改好再存，全部 0 个问题）。累计 1331 个词有题目 |
 | 2026-11-19 | 题目第 18 批 | 100 | face-to-face … simple（体检拦下 hand、indirectly（答案就是本词超过 1 道），改好再存，全部 0 个问题）。累计 1442 个词有题目 |
 | 2026-11-19 | 题目第 19 批 | 100 | simply … election（体检拦下 application（答案就是本词 2 道），改好再存，全部 0 个问题）。累计 1542 个词有题目 |
+| 2026-11-19 | 题目第 20 批 | 100 | intelligence … microreactor（体检拦下 object（答案就是本词 2 道），改好再存，全部 0 个问题）。累计 1649 个词有题目 |
 | 2026-11-19 | 试做 truly | 0 | 只用自带素材加表情图拼画面：起草检查不通过（表情图要换成写实插图、每幅画都要动、小图标要自己画）。结论：多数词要专门画插图，每个词的工作量和 7A-U4 一样；全表 9299 个词做不完，要先定先做哪些（等用户定） |
 
 ## 总表里看着不对的地方（出题时绕开了，以后用维护技能核对）
@@ -169,6 +170,9 @@
 - mid：【变形】编造了比较级 midder、最高级 middest，mid 没有比较级
 - middlemen：【变形】写“复数 middlemens”是编造的，middlemen 本身就是 middleman 的复数
 - smiling：【变形】编造了 smilings、smilinged、smilinging；smiling 本身是 smile 的现在分词
+- exactly：初中含义写成“adv. 确切的”，副词应是“确切地、正好”
+- examinee：初中含义的括号没写完（“（正式用语”）
+- proactive：【易混】proactive / reactive 的说明话不通（“reactive 是一对：一个‘事前主动’”），应写 reactive 是“事后才反应的”
 
 ## 总表里出现两次的词（细节数据按单词存一份，两行共用；出题时两个意思都要考到）
 
