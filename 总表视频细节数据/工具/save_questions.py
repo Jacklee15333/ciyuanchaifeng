@@ -7,7 +7,9 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import lianxi as L
 src = json.load(open(sys.argv[1], encoding='utf-8')); ver = sys.argv[2] if len(sys.argv) > 2 else '第七十九版'
 idx_p = os.path.join(D, '索引.tsv'); lines = open(idx_p, encoding='utf-8').read().splitlines()
-pos = {l.split('\t')[2]: i for i, l in enumerate(lines) if i}
+pos = {}
+for i, l in enumerate(lines):
+    if i: pos.setdefault(l.split('\t')[2], []).append(i)   # 同一个词在总表里可能出现两次，两行都标上
 ok = bad = 0
 for w, qs in src.items():
     if len(qs) != 7:
@@ -23,8 +25,8 @@ for w, qs in src.items():
     rec.update({'总表版本': ver, '题目': dict(zip(L.COLS, cells), 答案=daan), '题目原稿': qs,
                 '题目生成': time.strftime('%Y-%m-%d') + ' Claude（云端）', '题目检查': '维护技能 lianxi.py 体检 0 个问题'})
     json.dump(rec, open(p, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
-    if w in pos:
-        c = lines[pos[w]].split('\t'); c[4] = '细节数据有'; c[6] = rel; lines[pos[w]] = '\t'.join(c)
+    for i in pos.get(w, []):
+        c = lines[i].split('\t'); c[4] = '细节数据有'; c[6] = rel; lines[i] = '\t'.join(c)
     ok += 1
 open(idx_p, 'w', encoding='utf-8').write('\n'.join(lines) + '\n')
 left = sum(1 for l in lines[1:] if l.split('\t')[4] == '缺')
