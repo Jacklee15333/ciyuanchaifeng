@@ -1143,7 +1143,7 @@
 15	21	specifically	adv. 特意、专门；具体地说、明确地	细节数据有	缺	词/s/specifically.json
 15	22	specify	v. 具体说明、明确规定	细节数据有	缺	词/s/specify.json
 15	23	spice	n. 香料、调味品	细节数据有	缺	词/s/spice.json
-15	24	spicy	adj. 辣的、香料味重的	缺	缺	
+15	24	spicy	adj. 辣的、香料味重的	细节数据有	缺	词/s/spicy.json
 15	25	specimen	n. 标本、样本	细节数据有	缺	词/s/specimen.json
 15	26	respect	v. 尊敬	细节数据有	缺	词/r/respect.json
 15	27	respectful	adj. 恭敬的、有礼貌的	细节数据有	缺	词/r/respectful.json
@@ -1185,56 +1185,56 @@
 15	63	built	adj. 建成的	细节数据有	缺	词/b/built.json
 15	64	rebuild	v. 重建	细节数据有	缺	词/r/rebuild.json
 15	65	rebuilt	v. 过去分词：重建了的 adj. 翻新的	细节数据有	缺	词/r/rebuilt.json
-15	66	builder	n. 建筑工人、营造商	缺	缺	
-15	67	built-in	adj. 内置的、嵌入式的；固有的、与生俱来的	缺	缺	
-15	68	booth	n. 货摊、展位；小亭、小隔间	缺	缺	
-15	69	bower	n. 树荫处、凉亭；闺房	缺	缺	
-15	70	be	v. 是；成为(原形	缺	缺	
-15	71	been	aux. v. 构成完成时的被动语态	缺	缺	
-15	72	being	n. 生物；人	缺	缺	
-15	73	beings	n. 生物、人	缺	缺	
-15	74	physical	adj. 身体的；物理的	缺	缺	
-15	75	physically	adv. 身体上；实际上、按自然规律	缺	缺	
-15	76	physics	n. 物理 n. 学科	缺	缺	
-15	77	P.E.	n. 体育	缺	缺	
-15	78	non-physical	adj. 非身体的、非肢体的	缺	缺	
-15	79	physicist	n. 物理学家	缺	缺	
-15	80	physique	n. 体格、体型	缺	缺	
-15	81	so	adv. 如此；也 conj. 为的是	缺	缺	
-16	1	before	prep. 在…之前	缺	缺	
-16	2	forward	adv. 向前；今后	缺	缺	
-16	3	fore	adj. 前部的	缺	缺	
-16	4	foremost	adj. 最重要的、首要的	缺	缺	
-16	5	afford	v. 负担得起	缺	缺	
-16	6	affordable	adj. 买得起的、负担得起的	缺	缺	
-16	7	forth	adv. 向前、向外；从…起	缺	缺	
-16	8	further	adv. 更远、更进一步	缺	缺	
-16	9	furthermore	adv. 此外、而且	缺	缺	
-16	10	farther	adv. 更远	缺	缺	
-16	11	first	adj. 第一的；最初的 adv. 首先	缺	缺	
-16	12	firstly	adv. 首先、第一	缺	缺	
-16	13	first-ever	adj. 有史以来第一次的、首次的	缺	缺	
-16	14	former	adj. 以前的、前任的	缺	缺	
-16	15	far	adj. 远的	缺	缺	
-16	16	afar	adv. 在远处、从远方	缺	缺	
-16	17	faraway	adj. 遥远的	缺	缺	
-16	18	far-off	adj. 遥远的	缺	缺	
-16	19	prince	n. 王子	缺	缺	
-16	20	princess	n. 公主；王妃	缺	缺	
-16	21	princely	adj. 亲王的	缺	缺	
-16	22	principal	adj. 主要的、首要的 n. 本金	缺	缺	
-16	23	principle	n. 原则、准则	缺	缺	
-16	24	prime	adj. 首要的；上等的 n. 全盛时期	缺	缺	
-16	25	primary	adj. 初等的	缺	缺	
-16	26	primarily	adv. 主要地；首先、起初	缺	缺	
-16	27	primal	adj. 原始的、最初的；本能的、根本的	缺	缺	
-16	28	premier	adj. 首要的、最好的	缺	缺	
-16	29	premiere	n. 首演、首映	缺	缺	
-16	30	priority	n. 优先、优先权	缺	缺	
-16	31	prioritize	v. 优先处理	缺	缺	
-16	32	prioritise	v. 优先处理	缺	缺	
-16	33	strong	adj. 强的；坚固的	缺	缺	
-16	34	strongly	adv. 强烈地、坚决地	缺	缺	
+15	66	builder	n. 建筑工人、营造商	细节数据有	缺	词/b/builder.json
+15	67	built-in	adj. 内置的、嵌入式的；固有的、与生俱来的	细节数据有	缺	词/b/built-in.json
+15	68	booth	n. 货摊、展位；小亭、小隔间	细节数据有	缺	词/b/booth.json
+15	69	bower	n. 树荫处、凉亭；闺房	细节数据有	缺	词/b/bower.json
+15	70	be	v. 是；成为(原形	细节数据有	缺	词/b/be.json
+15	71	been	aux. v. 构成完成时的被动语态	细节数据有	缺	词/b/been.json
+15	72	being	n. 生物；人	细节数据有	缺	词/b/being.json
+15	73	beings	n. 生物、人	细节数据有	缺	词/b/beings.json
+15	74	physical	adj. 身体的；物理的	细节数据有	缺	词/p/physical.json
+15	75	physically	adv. 身体上；实际上、按自然规律	细节数据有	缺	词/p/physically.json
+15	76	physics	n. 物理 n. 学科	细节数据有	缺	词/p/physics.json
+15	77	P.E.	n. 体育	细节数据有	缺	词/p/P.E..json
+15	78	non-physical	adj. 非身体的、非肢体的	细节数据有	缺	词/n/non-physical.json
+15	79	physicist	n. 物理学家	细节数据有	缺	词/p/physicist.json
+15	80	physique	n. 体格、体型	细节数据有	缺	词/p/physique.json
+15	81	so	adv. 如此；也 conj. 为的是	细节数据有	缺	词/s/so.json
+16	1	before	prep. 在…之前	细节数据有	缺	词/b/before.json
+16	2	forward	adv. 向前；今后	细节数据有	缺	词/f/forward.json
+16	3	fore	adj. 前部的	细节数据有	缺	词/f/fore.json
+16	4	foremost	adj. 最重要的、首要的	细节数据有	缺	词/f/foremost.json
+16	5	afford	v. 负担得起	细节数据有	缺	词/a/afford.json
+16	6	affordable	adj. 买得起的、负担得起的	细节数据有	缺	词/a/affordable.json
+16	7	forth	adv. 向前、向外；从…起	细节数据有	缺	词/f/forth.json
+16	8	further	adv. 更远、更进一步	细节数据有	缺	词/f/further.json
+16	9	furthermore	adv. 此外、而且	细节数据有	缺	词/f/furthermore.json
+16	10	farther	adv. 更远	细节数据有	缺	词/f/farther.json
+16	11	first	adj. 第一的；最初的 adv. 首先	细节数据有	缺	词/f/first.json
+16	12	firstly	adv. 首先、第一	细节数据有	缺	词/f/firstly.json
+16	13	first-ever	adj. 有史以来第一次的、首次的	细节数据有	缺	词/f/first-ever.json
+16	14	former	adj. 以前的、前任的	细节数据有	缺	词/f/former.json
+16	15	far	adj. 远的	细节数据有	缺	词/f/far.json
+16	16	afar	adv. 在远处、从远方	细节数据有	缺	词/a/afar.json
+16	17	faraway	adj. 遥远的	细节数据有	缺	词/f/faraway.json
+16	18	far-off	adj. 遥远的	细节数据有	缺	词/f/far-off.json
+16	19	prince	n. 王子	细节数据有	缺	词/p/prince.json
+16	20	princess	n. 公主；王妃	细节数据有	缺	词/p/princess.json
+16	21	princely	adj. 亲王的	细节数据有	缺	词/p/princely.json
+16	22	principal	adj. 主要的、首要的 n. 本金	细节数据有	缺	词/p/principal.json
+16	23	principle	n. 原则、准则	细节数据有	缺	词/p/principle.json
+16	24	prime	adj. 首要的；上等的 n. 全盛时期	细节数据有	缺	词/p/prime.json
+16	25	primary	adj. 初等的	细节数据有	缺	词/p/primary.json
+16	26	primarily	adv. 主要地；首先、起初	细节数据有	缺	词/p/primarily.json
+16	27	primal	adj. 原始的、最初的；本能的、根本的	细节数据有	缺	词/p/primal.json
+16	28	premier	adj. 首要的、最好的	细节数据有	缺	词/p/premier.json
+16	29	premiere	n. 首演、首映	细节数据有	缺	词/p/premiere.json
+16	30	priority	n. 优先、优先权	细节数据有	缺	词/p/priority.json
+16	31	prioritize	v. 优先处理	细节数据有	缺	词/p/prioritize.json
+16	32	prioritise	v. 优先处理	细节数据有	缺	词/p/prioritise.json
+16	33	strong	adj. 强的；坚固的	细节数据有	缺	词/s/strong.json
+16	34	strongly	adv. 强烈地、坚决地	细节数据有	缺	词/s/strongly.json
 16	35	strength	n. 力量、体力；强度、坚固度	缺	缺	
 16	36	strengthen	v. 加强、增强	缺	缺	
 16	37	strong-minded	adj. 意志坚强的、有主见的	缺	缺	
