@@ -131,106 +131,106 @@
 2	51	organic	adj. 有机的；器官的	细节数据有	缺	词/o/organic.json
 2	52	organism	n. 生物、有机体	细节数据有	缺	词/o/organism.json
 2	53	day	n. 天一	细节数据有	缺	词/d/day.json
-2	54	daily	adj. 每日的	缺	缺	
-2	55	daylight	n. 日光、天光；黎明	缺	缺	
-2	56	midday	n. 正午、中午	缺	缺	
-2	57	one-day	adj. 为期一天的、一日的	缺	缺	
-2	58	daytime	n. 白天、日间	缺	缺	
-2	59	someday	adv. 某一天、有朝一日	缺	缺	
-2	60	yesterday	n. 昨天；不久以前	缺	缺	
-2	61	nowadays	adv. 当今	缺	缺	
-2	62	dawn	n. 黎明、拂晓；开端	缺	缺	
-2	63	Saturday	n. 星期六	缺	缺	
-2	64	Tuesday	n. 星期二	缺	缺	
-2	65	Wednesday	n. 星期三	缺	缺	
-2	66	Wed.	n. 星期三	缺	缺	
-2	67	Thursday	n. 星期四	缺	缺	
-2	68	Monday	n. 星期一	缺	缺	
-2	69	Mon.	n. 星期一	缺	缺	
-2	70	Friday	n. 星期五	缺	缺	
-2	71	Fri.	n. 星期五	缺	缺	
-2	72	other	adj. 其他的；另外的 pron. 别人	缺	缺	
-2	73	others	pron. 别人、其他人	缺	缺	
-2	74	another	adj. 再一；另一	缺	缺	
-2	75	otherwise	adv. 否则、不然；在其他方面	缺	缺	
-2	76	learn	v. 学习	缺	缺	
-2	77	learning	n. 学习	缺	缺	
-2	78	learnt	v. 学过、学会了；得知	缺	缺	
-2	79	learner	n. 学习者、学员	缺	缺	
-2	80	need	aux. v. 必须 v. 需要	缺	缺	
-2	81	needed	v. 需要	缺	缺	
-2	82	needy	adj. 贫困的	缺	缺	
-3	1	live	v. 生活；居住	缺	缺	
-3	2	living	n. 生计 adj. 活着的；现存的、仍在用的	缺	缺	
-3	3	livable	adj. 适合居住的、宜居的	缺	缺	
-3	4	life	n. 生命	缺	缺	
-3	5	lifeless	adj. 死的、没有生命迹象的	缺	缺	
-3	6	alive	adj. 活着的	缺	缺	
-3	7	lively	adj. 活泼的、精力充沛的；热闹的	缺	缺	
-3	8	liven	v. 使活跃起来、使更有趣	缺	缺	
-3	9	lifetime	n. 一生、终身	缺	缺	
-3	10	lifelong	adj. 终身的、毕生的	缺	缺	
-3	11	life-changing	adj. 改变人生的、影响一生的	缺	缺	
-3	12	afterlife	n. 来世、死后的世界	缺	缺	
-3	13	half-life	n. 半衰期	缺	缺	
-3	14	life-giving	adj. 赋予生命的、滋养万物的；使人恢复精神的	缺	缺	
-3	15	liveliness	n. 活泼、活力；热闹	缺	缺	
-3	16	leave	v. 离开；留下、遗留	缺	缺	
-3	17	leftover	n. 残余、遗留	缺	缺	
-3	18	think	v. 想；思考	缺	缺	
-3	19	thought	n. 思想	缺	缺	
-3	20	thinking	n. 思考；想法、见解	缺	缺	
-3	21	thoughtful	adj. 体贴的、为别人着想的；若有所思的	缺	缺	
-3	22	thinker	n. 思想家	缺	缺	
-3	23	thoughtfully	adv. 体贴地；若有所思地	缺	缺	
-3	24	thoughtless	adj. 欠考虑的、轻率的；不体谅人的	缺	缺	
-3	25	thoughtlessly	adv. 不假思索地、轻率地；不体谅人地	缺	缺	
-3	26	unthinkable	adj. 不可想象的、难以置信的；绝不可接受的、绝不可能的	缺	缺	
-3	27	thank	v. 感谢	缺	缺	
-3	28	thanks	int. 谢谢	缺	缺	
-3	29	thankful	adj. 感谢的	缺	缺	
-3	30	thankfully	adv. 感激地	缺	缺	
-3	31	Thanksgiving	n. 感恩节	缺	缺	
-3	32	show	v. 出示；表明 n. 展览	缺	缺	
-3	33	shown	adj. 被展示的、放映的	缺	缺	
-3	34	showcase	n. 展示的平台、舞台；陈列柜	缺	缺	
-3	35	showtime	n. 开演时间	缺	缺	
-3	36	take	v. 拿；做	缺	缺	
-3	37	took	v. 拿了、取了；花了	缺	缺	
-3	38	taken	adj. 有人的；被…吸引	缺	缺	
-3	39	retake	v. 重考；夺回、收复	缺	缺	
-3	40	taker	n. 接受者、拿取者	缺	缺	
-3	41	intake	n. 摄入；进气口、进水口	缺	缺	
-3	42	takeoff	n. 模仿、恶搞	缺	缺	
-3	43	takeout	n. 外卖、外带	缺	缺	
-3	44	mistake	n. 错误	缺	缺	
-3	45	mistook	v. 误解了；弄错了	缺	缺	
-3	46	mistaken	adj. 错误的	缺	缺	
-3	47	mistakenly	adv. 错误地、误以为地	缺	缺	
-3	48	undertake	v. 承担、接受；着手、从事	缺	缺	
-3	49	say	v. 说	缺	缺	
-3	50	said	v. 说过	缺	缺	
-3	51	saying	n. 谚语；格言	缺	缺	
-3	52	unsaid	adj. 没说出来的；心照不宣的	缺	缺	
-3	53	way	n. 路；方式	缺	缺	
-3	54	midway	adv. 在中途、在中间	缺	缺	
-3	55	subway	n. 地铁；过街地道	缺	缺	
-3	56	halfway	adv. 在中途、到一半 adj. 不彻底的	缺	缺	
-3	57	one-way	adj. 单行的	缺	缺	
-3	58	two-way	adj. 双向的；可收可发的	缺	缺	
-3	59	away	adv. 离开	缺	缺	
-3	60	runway	n. 跑道	缺	缺	
-3	61	highway	n. 公路、干道	缺	缺	
-3	62	expressway	n. 高速公路、快速路	缺	缺	
-3	63	weigh	v. 称重；权衡、考虑	缺	缺	
-3	64	weight	n. 重量	缺	缺	
-3	65	weightless	adj. 失重的	缺	缺	
-3	66	outweigh	v. 比…重；超过	缺	缺	
-3	67	overweight	adj. 超重的	缺	缺	
-3	68	weighty	adj. 重大的、严肃的；有说服力的	缺	缺	
-3	69	lightweight	adj. 轻便的、重量轻的	缺	缺	
-3	70	open-weight	n. 开放权重的	缺	缺	
-3	71	wag	v. 摇	缺	缺	
+2	54	daily	adj. 每日的	细节数据有	缺	词/d/daily.json
+2	55	daylight	n. 日光、天光；黎明	细节数据有	缺	词/d/daylight.json
+2	56	midday	n. 正午、中午	细节数据有	缺	词/m/midday.json
+2	57	one-day	adj. 为期一天的、一日的	细节数据有	缺	词/o/one-day.json
+2	58	daytime	n. 白天、日间	细节数据有	缺	词/d/daytime.json
+2	59	someday	adv. 某一天、有朝一日	细节数据有	缺	词/s/someday.json
+2	60	yesterday	n. 昨天；不久以前	细节数据有	缺	词/y/yesterday.json
+2	61	nowadays	adv. 当今	细节数据有	缺	词/n/nowadays.json
+2	62	dawn	n. 黎明、拂晓；开端	细节数据有	缺	词/d/dawn.json
+2	63	Saturday	n. 星期六	细节数据有	缺	词/s/Saturday.json
+2	64	Tuesday	n. 星期二	细节数据有	缺	词/t/Tuesday.json
+2	65	Wednesday	n. 星期三	细节数据有	缺	词/w/Wednesday.json
+2	66	Wed.	n. 星期三	细节数据有	缺	词/w/Wed..json
+2	67	Thursday	n. 星期四	细节数据有	缺	词/t/Thursday.json
+2	68	Monday	n. 星期一	细节数据有	缺	词/m/Monday.json
+2	69	Mon.	n. 星期一	细节数据有	缺	词/m/Mon..json
+2	70	Friday	n. 星期五	细节数据有	缺	词/f/Friday.json
+2	71	Fri.	n. 星期五	细节数据有	缺	词/f/Fri..json
+2	72	other	adj. 其他的；另外的 pron. 别人	细节数据有	缺	词/o/other.json
+2	73	others	pron. 别人、其他人	细节数据有	缺	词/o/others.json
+2	74	another	adj. 再一；另一	细节数据有	缺	词/a/another.json
+2	75	otherwise	adv. 否则、不然；在其他方面	细节数据有	缺	词/o/otherwise.json
+2	76	learn	v. 学习	细节数据有	缺	词/l/learn.json
+2	77	learning	n. 学习	细节数据有	缺	词/l/learning.json
+2	78	learnt	v. 学过、学会了；得知	细节数据有	缺	词/l/learnt.json
+2	79	learner	n. 学习者、学员	细节数据有	缺	词/l/learner.json
+2	80	need	aux. v. 必须 v. 需要	细节数据有	缺	词/n/need.json
+2	81	needed	v. 需要	细节数据有	缺	词/n/needed.json
+2	82	needy	adj. 贫困的	细节数据有	缺	词/n/needy.json
+3	1	live	v. 生活；居住	细节数据有	缺	词/l/live.json
+3	2	living	n. 生计 adj. 活着的；现存的、仍在用的	细节数据有	缺	词/l/living.json
+3	3	livable	adj. 适合居住的、宜居的	细节数据有	缺	词/l/livable.json
+3	4	life	n. 生命	细节数据有	缺	词/l/life.json
+3	5	lifeless	adj. 死的、没有生命迹象的	细节数据有	缺	词/l/lifeless.json
+3	6	alive	adj. 活着的	细节数据有	缺	词/a/alive.json
+3	7	lively	adj. 活泼的、精力充沛的；热闹的	细节数据有	缺	词/l/lively.json
+3	8	liven	v. 使活跃起来、使更有趣	细节数据有	缺	词/l/liven.json
+3	9	lifetime	n. 一生、终身	细节数据有	缺	词/l/lifetime.json
+3	10	lifelong	adj. 终身的、毕生的	细节数据有	缺	词/l/lifelong.json
+3	11	life-changing	adj. 改变人生的、影响一生的	细节数据有	缺	词/l/life-changing.json
+3	12	afterlife	n. 来世、死后的世界	细节数据有	缺	词/a/afterlife.json
+3	13	half-life	n. 半衰期	细节数据有	缺	词/h/half-life.json
+3	14	life-giving	adj. 赋予生命的、滋养万物的；使人恢复精神的	细节数据有	缺	词/l/life-giving.json
+3	15	liveliness	n. 活泼、活力；热闹	细节数据有	缺	词/l/liveliness.json
+3	16	leave	v. 离开；留下、遗留	细节数据有	缺	词/l/leave.json
+3	17	leftover	n. 残余、遗留	细节数据有	缺	词/l/leftover.json
+3	18	think	v. 想；思考	细节数据有	缺	词/t/think.json
+3	19	thought	n. 思想	细节数据有	缺	词/t/thought.json
+3	20	thinking	n. 思考；想法、见解	细节数据有	缺	词/t/thinking.json
+3	21	thoughtful	adj. 体贴的、为别人着想的；若有所思的	细节数据有	缺	词/t/thoughtful.json
+3	22	thinker	n. 思想家	细节数据有	缺	词/t/thinker.json
+3	23	thoughtfully	adv. 体贴地；若有所思地	细节数据有	缺	词/t/thoughtfully.json
+3	24	thoughtless	adj. 欠考虑的、轻率的；不体谅人的	细节数据有	缺	词/t/thoughtless.json
+3	25	thoughtlessly	adv. 不假思索地、轻率地；不体谅人地	细节数据有	缺	词/t/thoughtlessly.json
+3	26	unthinkable	adj. 不可想象的、难以置信的；绝不可接受的、绝不可能的	细节数据有	缺	词/u/unthinkable.json
+3	27	thank	v. 感谢	细节数据有	缺	词/t/thank.json
+3	28	thanks	int. 谢谢	细节数据有	缺	词/t/thanks.json
+3	29	thankful	adj. 感谢的	细节数据有	缺	词/t/thankful.json
+3	30	thankfully	adv. 感激地	细节数据有	缺	词/t/thankfully.json
+3	31	Thanksgiving	n. 感恩节	细节数据有	缺	词/t/Thanksgiving.json
+3	32	show	v. 出示；表明 n. 展览	细节数据有	缺	词/s/show.json
+3	33	shown	adj. 被展示的、放映的	细节数据有	缺	词/s/shown.json
+3	34	showcase	n. 展示的平台、舞台；陈列柜	细节数据有	缺	词/s/showcase.json
+3	35	showtime	n. 开演时间	细节数据有	缺	词/s/showtime.json
+3	36	take	v. 拿；做	细节数据有	缺	词/t/take.json
+3	37	took	v. 拿了、取了；花了	细节数据有	缺	词/t/took.json
+3	38	taken	adj. 有人的；被…吸引	细节数据有	缺	词/t/taken.json
+3	39	retake	v. 重考；夺回、收复	细节数据有	缺	词/r/retake.json
+3	40	taker	n. 接受者、拿取者	细节数据有	缺	词/t/taker.json
+3	41	intake	n. 摄入；进气口、进水口	细节数据有	缺	词/i/intake.json
+3	42	takeoff	n. 模仿、恶搞	细节数据有	缺	词/t/takeoff.json
+3	43	takeout	n. 外卖、外带	细节数据有	缺	词/t/takeout.json
+3	44	mistake	n. 错误	细节数据有	缺	词/m/mistake.json
+3	45	mistook	v. 误解了；弄错了	细节数据有	缺	词/m/mistook.json
+3	46	mistaken	adj. 错误的	细节数据有	缺	词/m/mistaken.json
+3	47	mistakenly	adv. 错误地、误以为地	细节数据有	缺	词/m/mistakenly.json
+3	48	undertake	v. 承担、接受；着手、从事	细节数据有	缺	词/u/undertake.json
+3	49	say	v. 说	细节数据有	缺	词/s/say.json
+3	50	said	v. 说过	细节数据有	缺	词/s/said.json
+3	51	saying	n. 谚语；格言	细节数据有	缺	词/s/saying.json
+3	52	unsaid	adj. 没说出来的；心照不宣的	细节数据有	缺	词/u/unsaid.json
+3	53	way	n. 路；方式	细节数据有	缺	词/w/way.json
+3	54	midway	adv. 在中途、在中间	细节数据有	缺	词/m/midway.json
+3	55	subway	n. 地铁；过街地道	细节数据有	缺	词/s/subway.json
+3	56	halfway	adv. 在中途、到一半 adj. 不彻底的	细节数据有	缺	词/h/halfway.json
+3	57	one-way	adj. 单行的	细节数据有	缺	词/o/one-way.json
+3	58	two-way	adj. 双向的；可收可发的	细节数据有	缺	词/t/two-way.json
+3	59	away	adv. 离开	细节数据有	缺	词/a/away.json
+3	60	runway	n. 跑道	细节数据有	缺	词/r/runway.json
+3	61	highway	n. 公路、干道	细节数据有	缺	词/h/highway.json
+3	62	expressway	n. 高速公路、快速路	细节数据有	缺	词/e/expressway.json
+3	63	weigh	v. 称重；权衡、考虑	细节数据有	缺	词/w/weigh.json
+3	64	weight	n. 重量	细节数据有	缺	词/w/weight.json
+3	65	weightless	adj. 失重的	细节数据有	缺	词/w/weightless.json
+3	66	outweigh	v. 比…重；超过	细节数据有	缺	词/o/outweigh.json
+3	67	overweight	adj. 超重的	细节数据有	缺	词/o/overweight.json
+3	68	weighty	adj. 重大的、严肃的；有说服力的	细节数据有	缺	词/w/weighty.json
+3	69	lightweight	adj. 轻便的、重量轻的	细节数据有	缺	词/l/lightweight.json
+3	70	open-weight	n. 开放权重的	细节数据有	缺	词/o/open-weight.json
+3	71	wag	v. 摇	细节数据有	缺	词/w/wag.json
 3	72	wagon	n. 儿童的小拉车	缺	缺	
 3	73	vehicle	n. 车辆、交通工具	缺	缺	
 3	74	previous	adj. 先前的、以前的	缺	缺	
