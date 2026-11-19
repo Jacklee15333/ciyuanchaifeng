@@ -46,6 +46,7 @@
 | 2026-11-19 | 题目第 4 批 | 8 | populated、populous、public、publicly、publicize、publish、publishing、publisher（体检 0 个问题；前 4 个总表没写考点，照规矩考意思、搭配和形近词） |
 | 2026-11-19 | 题目第 5 批 | 100 | publication … day（按总表顺序 100 个词，改用简写稿一次写 100 个；体检全部 0 个问题）。累计 132 个词有题目 |
 | 2026-11-19 | 题目第 6 批 | 100 | daily … wag（体检全部 0 个问题；someday、living、take 三个词“答案就是本词”超过 1 道，改了再存）。累计 232 个词有题目 |
+| 2026-11-19 | 题目第 7 批 | 100 | wagon … historian（体检全部 0 个问题；no、inch 两个词改过再存）。累计 332 个词有题目 |
 | 2026-11-19 | 试做 truly | 0 | 只用自带素材加表情图拼画面：起草检查不通过（表情图要换成写实插图、每幅画都要动、小图标要自己画）。结论：多数词要专门画插图，每个词的工作量和 7A-U4 一样；全表 9299 个词做不完，要先定先做哪些（等用户定） |
 
 ## 总表里看着不对的地方（出题时绕开了，以后用维护技能核对）
@@ -61,4 +62,8 @@
 - other：考点写比较级 otherer、最高级 otherest；another：写 more another、most another（都没有比较级）。
 - half-life：考点写复数 half-lifes（一般写 half-lives）；星期几的复数写成小写 saturdays、tuesdays……（应大写 Saturdays）；Wed.、Mon.、Fri. 写“一般不可数”。
 - open-weight：写成名词、复数 open-weights（其实是形容词“开放权重的”）；takeoff：初中含义只写“模仿、恶搞”，常见意思“起飞”没写。
+- wagon：初中含义只写“儿童的小拉车”；voyage：初中含义只写“太空旅行”（常见意思是坐船或乘飞船的长途旅行）。
+- lone、any、no、later：考点写了不存在的比较级（loner、anier、noer、laterer……）；changed、oversaw：考点写了 changeds、oversawed 这样的变形。
+- ones：初中含义写“数字1的复数”，考点写“一般不可数”；latest、findings：考点写“一般不可数”；seen：初中含义只写“被看作”。
+- sightseeing：易混一栏写成“tour 是“””，后半句缺了；uneven：词性转换写成“even adv.甚至”（应是 even adj. 平的）。
 
