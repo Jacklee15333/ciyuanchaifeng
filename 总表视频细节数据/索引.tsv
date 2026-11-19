@@ -1448,31 +1448,31 @@
 19	10	exploit	v. 开发、充分利用	细节数据有	缺	词/e/exploit.json
 19	11	reply	v. 回答	细节数据有	缺	词/r/reply.json
 19	12	apply	v. 申请；应用	细节数据有	缺	词/a/apply.json
-19	13	application	n. 申请；应用、运用	缺	缺	
-19	14	applicable	adj. 适用的、可应用的	缺	缺	
-19	15	applicant	n. 申请人、求职者	缺	缺	
-19	16	app	n. 应用程序，今多指手机 app	缺	缺	
-19	17	appliance	n. 电器、器具	缺	缺	
-19	18	complicate	v. 使复杂化；使加重	缺	缺	
-19	19	complicated	adj. 复杂的、难懂的	缺	缺	
-19	20	imply	v. 暗示、言下之意是	缺	缺	
-19	21	replica	n. 复制品、仿制品	缺	缺	
-19	22	replicate	v. 复制	缺	缺	
-19	23	multiply	v. 乘；成倍增加	缺	缺	
-19	24	multiple	adj. 多个的、多种的 n. 倍数	缺	缺	
-19	25	complex	adj. 复杂的 n. 建筑群、综合设施；情结	缺	缺	
-19	26	complexion	n. 面色、肤色	缺	缺	
-19	27	save	v. 救；节省	缺	缺	
-19	28	saving	n. 节省、节约	缺	缺	
-19	29	savings	n. 储蓄、积蓄	缺	缺	
-19	30	saver	n. 储蓄者；节省…的东西	缺	缺	
-19	31	life-saving	adj. 救命的、救生的	缺	缺	
-19	32	lifesaving	adj. 救命的、救生的	缺	缺	
-19	33	safe	adj. 安全的 n. 保险柜	缺	缺	
-19	34	safety	n. 安全	缺	缺	
-19	35	safely	adv. 安全地	缺	缺	
-19	36	unsafe	adj. 不安全的、危险的	缺	缺	
-19	37	safe-keep	v. 妥善保管	缺	缺	
+19	13	application	n. 申请；应用、运用	细节数据有	缺	词/a/application.json
+19	14	applicable	adj. 适用的、可应用的	细节数据有	缺	词/a/applicable.json
+19	15	applicant	n. 申请人、求职者	细节数据有	缺	词/a/applicant.json
+19	16	app	n. 应用程序，今多指手机 app	细节数据有	缺	词/a/app.json
+19	17	appliance	n. 电器、器具	细节数据有	缺	词/a/appliance.json
+19	18	complicate	v. 使复杂化；使加重	细节数据有	缺	词/c/complicate.json
+19	19	complicated	adj. 复杂的、难懂的	细节数据有	缺	词/c/complicated.json
+19	20	imply	v. 暗示、言下之意是	细节数据有	缺	词/i/imply.json
+19	21	replica	n. 复制品、仿制品	细节数据有	缺	词/r/replica.json
+19	22	replicate	v. 复制	细节数据有	缺	词/r/replicate.json
+19	23	multiply	v. 乘；成倍增加	细节数据有	缺	词/m/multiply.json
+19	24	multiple	adj. 多个的、多种的 n. 倍数	细节数据有	缺	词/m/multiple.json
+19	25	complex	adj. 复杂的 n. 建筑群、综合设施；情结	细节数据有	缺	词/c/complex.json
+19	26	complexion	n. 面色、肤色	细节数据有	缺	词/c/complexion.json
+19	27	save	v. 救；节省	细节数据有	缺	词/s/save.json
+19	28	saving	n. 节省、节约	细节数据有	缺	词/s/saving.json
+19	29	savings	n. 储蓄、积蓄	细节数据有	缺	词/s/savings.json
+19	30	saver	n. 储蓄者；节省…的东西	细节数据有	缺	词/s/saver.json
+19	31	life-saving	adj. 救命的、救生的	细节数据有	缺	词/l/life-saving.json
+19	32	lifesaving	adj. 救命的、救生的	细节数据有	缺	词/l/lifesaving.json
+19	33	safe	adj. 安全的 n. 保险柜	细节数据有	缺	词/s/safe.json
+19	34	safety	n. 安全	细节数据有	缺	词/s/safety.json
+19	35	safely	adv. 安全地	细节数据有	缺	词/s/safely.json
+19	36	unsafe	adj. 不安全的、危险的	细节数据有	缺	词/u/unsafe.json
+19	37	safe-keep	v. 妥善保管	细节数据有	缺	词/s/safe-keep.json
 19	38	salvage	n. 抢救出的财物	缺	缺	
 19	39	salvation	n. 救赎、得救	缺	缺	
 19	40	salute	v. 敬礼、行礼	缺	缺	

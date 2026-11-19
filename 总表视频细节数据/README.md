@@ -156,6 +156,9 @@
 - e-book：【变形】编造了动词形式 e-books（三单）、e-booked、e-booking，e-book 只作名词
 - detective：初中含义只写 adj.“侦探的”，最常用的是 n.“侦探”；【变形】还编造了 more detective、most detective
 - employment：【变形】编造了动词形式 employments、employmented、employmenting，employment 只作名词
+- savings：【变形】写“不可数，没有复数”不准确，savings 本身是复数形式（My savings are…）
+- unsafe：【词性转换】写成 safe n.保险柜，应是 safe adj.安全的
+- safe-keep：英语一般不说 safe-keep，常用名词 safekeeping（for safekeeping）或 keep sth safe；【变形】还编造了 safe-keeped
 
 ## 总表里出现两次的词（细节数据按单词存一份，两行共用；出题时两个意思都要考到）
 
