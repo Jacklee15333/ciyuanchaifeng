@@ -1336,56 +1336,56 @@
 17	53	surface	n. 表面	细节数据有	缺	词/s/surface.json
 17	54	facial	adj. 面部的	细节数据有	缺	词/f/facial.json
 17	55	interface	n. 界面 v. 交流	细节数据有	缺	词/i/interface.json
-17	56	face-to-face	adj. 面对面的、当面的	缺	缺	
-17	57	backwards-facing	adj. 朝后的、背朝前进方向的	缺	缺	
-17	58	superficial	adj. 表皮的；肤浅的、浅薄的	缺	缺	
-17	59	hand	n. 手；指针 v. 递	缺	缺	
-17	60	handy	adj. 方便的、好用的；手巧的	缺	缺	
-17	61	handmade	adj. 手工制作的	缺	缺	
-17	62	handwritten	adj. 手写的	缺	缺	
-17	63	hands-on	adj. 亲自动手的、实践的	缺	缺	
-17	64	handwriting	n. 笔迹、字迹；书写	缺	缺	
-17	65	handwork	n. 手工活	缺	缺	
-17	66	handout	n. 讲义、资料；施舍、救济	缺	缺	
-17	67	handheld	adj. 手持式的、掌上的	缺	缺	
-17	68	handful	n. 一把；少数、几个	缺	缺	
-17	69	handle	n. 把手、柄 v. 处理、应付；拿、搬动	缺	缺	
-17	70	handsome	adj. 慷慨的	缺	缺	
-17	71	handbag	n. 女式手提包	缺	缺	
-17	72	backhand	adj. 反手的	缺	缺	
-17	73	handbook	n. 手册、指南	缺	缺	
-17	74	handmaid	n. 女仆、侍女；附庸、助手	缺	缺	
-17	75	handmaiden	n. 女仆	缺	缺	
-18	1	right	adj. 对；正确的 adv. 恰恰	缺	缺	
-18	2	upright	adj. 直立的、竖直的	缺	缺	
-18	3	rule	n. 规则 v. 统治	缺	缺	
-18	4	ruler	n. 统治者、君主；尺子、直尺	缺	缺	
-18	5	regular	adj. 规则的	缺	缺	
-18	6	regularly	adv. 定期地、经常；有规律地、均匀地	缺	缺	
-18	7	irregular	adj. 不规则的	缺	缺	
-18	8	rail	n. 栏杆、扶手；铁轨	缺	缺	
-18	9	railing	n. 栏杆、扶栏	缺	缺	
-18	10	railway	n. 铁路	缺	缺	
-18	11	handrail	n. 扶手	缺	缺	
-18	12	railroad	n. 铁路 v. 强行通过、草草推进	缺	缺	
-18	13	regulate	v. 调节、控制	缺	缺	
-18	14	regulation	n. 规章、条例；管理、监管	缺	缺	
-18	15	dress	n. 女服；童装 v. 穿衣	缺	缺	
-18	16	undress	v. 脱衣服	缺	缺	
-18	17	headdress	n. 头饰、冠饰	缺	缺	
-18	18	correct	adj. 正确的；恰当的	缺	缺	
-18	19	correctly	adv. 正确地	缺	缺	
-18	20	incorrect	adj. 不正确的、错误的；不得体的	缺	缺	
-18	21	correction	n. 改正、修改	缺	缺	
-18	22	correctness	n. 正确；得体	缺	缺	
-18	23	incorrectly	adv. 不正确地、错误地	缺	缺	
-18	24	incorrectness	n. 不正确；错误	缺	缺	
-18	25	direct	adj. 直接的 v. 指挥、管理；导演	缺	缺	
-18	26	directly	adv. 直接地	缺	缺	
-18	27	direction	n. 方向；趋势	缺	缺	
-18	28	director	n. 导演	缺	缺	
-18	29	directive	n. 指示、指令	缺	缺	
-18	30	redirect	v. 改寄、转寄	缺	缺	
+17	56	face-to-face	adj. 面对面的、当面的	细节数据有	缺	词/f/face-to-face.json
+17	57	backwards-facing	adj. 朝后的、背朝前进方向的	细节数据有	缺	词/b/backwards-facing.json
+17	58	superficial	adj. 表皮的；肤浅的、浅薄的	细节数据有	缺	词/s/superficial.json
+17	59	hand	n. 手；指针 v. 递	细节数据有	缺	词/h/hand.json
+17	60	handy	adj. 方便的、好用的；手巧的	细节数据有	缺	词/h/handy.json
+17	61	handmade	adj. 手工制作的	细节数据有	缺	词/h/handmade.json
+17	62	handwritten	adj. 手写的	细节数据有	缺	词/h/handwritten.json
+17	63	hands-on	adj. 亲自动手的、实践的	细节数据有	缺	词/h/hands-on.json
+17	64	handwriting	n. 笔迹、字迹；书写	细节数据有	缺	词/h/handwriting.json
+17	65	handwork	n. 手工活	细节数据有	缺	词/h/handwork.json
+17	66	handout	n. 讲义、资料；施舍、救济	细节数据有	缺	词/h/handout.json
+17	67	handheld	adj. 手持式的、掌上的	细节数据有	缺	词/h/handheld.json
+17	68	handful	n. 一把；少数、几个	细节数据有	缺	词/h/handful.json
+17	69	handle	n. 把手、柄 v. 处理、应付；拿、搬动	细节数据有	缺	词/h/handle.json
+17	70	handsome	adj. 慷慨的	细节数据有	缺	词/h/handsome.json
+17	71	handbag	n. 女式手提包	细节数据有	缺	词/h/handbag.json
+17	72	backhand	adj. 反手的	细节数据有	缺	词/b/backhand.json
+17	73	handbook	n. 手册、指南	细节数据有	缺	词/h/handbook.json
+17	74	handmaid	n. 女仆、侍女；附庸、助手	细节数据有	缺	词/h/handmaid.json
+17	75	handmaiden	n. 女仆	细节数据有	缺	词/h/handmaiden.json
+18	1	right	adj. 对；正确的 adv. 恰恰	细节数据有	缺	词/r/right.json
+18	2	upright	adj. 直立的、竖直的	细节数据有	缺	词/u/upright.json
+18	3	rule	n. 规则 v. 统治	细节数据有	缺	词/r/rule.json
+18	4	ruler	n. 统治者、君主；尺子、直尺	细节数据有	缺	词/r/ruler.json
+18	5	regular	adj. 规则的	细节数据有	缺	词/r/regular.json
+18	6	regularly	adv. 定期地、经常；有规律地、均匀地	细节数据有	缺	词/r/regularly.json
+18	7	irregular	adj. 不规则的	细节数据有	缺	词/i/irregular.json
+18	8	rail	n. 栏杆、扶手；铁轨	细节数据有	缺	词/r/rail.json
+18	9	railing	n. 栏杆、扶栏	细节数据有	缺	词/r/railing.json
+18	10	railway	n. 铁路	细节数据有	缺	词/r/railway.json
+18	11	handrail	n. 扶手	细节数据有	缺	词/h/handrail.json
+18	12	railroad	n. 铁路 v. 强行通过、草草推进	细节数据有	缺	词/r/railroad.json
+18	13	regulate	v. 调节、控制	细节数据有	缺	词/r/regulate.json
+18	14	regulation	n. 规章、条例；管理、监管	细节数据有	缺	词/r/regulation.json
+18	15	dress	n. 女服；童装 v. 穿衣	细节数据有	缺	词/d/dress.json
+18	16	undress	v. 脱衣服	细节数据有	缺	词/u/undress.json
+18	17	headdress	n. 头饰、冠饰	细节数据有	缺	词/h/headdress.json
+18	18	correct	adj. 正确的；恰当的	细节数据有	缺	词/c/correct.json
+18	19	correctly	adv. 正确地	细节数据有	缺	词/c/correctly.json
+18	20	incorrect	adj. 不正确的、错误的；不得体的	细节数据有	缺	词/i/incorrect.json
+18	21	correction	n. 改正、修改	细节数据有	缺	词/c/correction.json
+18	22	correctness	n. 正确；得体	细节数据有	缺	词/c/correctness.json
+18	23	incorrectly	adv. 不正确地、错误地	细节数据有	缺	词/i/incorrectly.json
+18	24	incorrectness	n. 不正确；错误	细节数据有	缺	词/i/incorrectness.json
+18	25	direct	adj. 直接的 v. 指挥、管理；导演	细节数据有	缺	词/d/direct.json
+18	26	directly	adv. 直接地	细节数据有	缺	词/d/directly.json
+18	27	direction	n. 方向；趋势	细节数据有	缺	词/d/direction.json
+18	28	director	n. 导演	细节数据有	缺	词/d/director.json
+18	29	directive	n. 指示、指令	细节数据有	缺	词/d/directive.json
+18	30	redirect	v. 改寄、转寄	细节数据有	缺	词/r/redirect.json
 18	31	indirect	adj. 间接的；迂回的	缺	缺	
 18	32	indirectly	adv. 间接地；拐弯抹角地、不明说地	缺	缺	
 18	33	teacher-director	n. 幼儿园里一边上课、一边主持日常管理的人	缺	缺	

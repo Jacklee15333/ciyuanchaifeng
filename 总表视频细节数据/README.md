@@ -149,6 +149,8 @@
 - recognisable、recognizable：初中含义里的括号没写完（“（英式拼写”“（美式拼写”）
 - joyous：【变形】编造了比较级 joyouser、最高级 joyousest，应是 more joyous、most joyous
 - cunning：初中含义是 adj.，【变形】却按名词写“不可数，没有复数”，词性对不上
+- handsome：初中含义只写“adj. 慷慨的”，漏了最常用的“英俊的”
+- railing：【变形】写“不可数，没有复数”不对，railing 可数，常用复数 railings
 
 ## 总表里出现两次的词（细节数据按单词存一份，两行共用；出题时两个意思都要考到）
 
