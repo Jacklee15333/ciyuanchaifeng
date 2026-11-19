@@ -1706,31 +1706,31 @@
 22	25	thus	adv. 因此	细节数据有	缺	词/t/thus.json
 22	26	believe	v. 相信	细节数据有	缺	词/b/believe.json
 22	27	believable	adj. 可信的、令人信服的	细节数据有	缺	词/b/believable.json
-22	28	unbelievable	adj. 难以置信的	缺	缺	
-22	29	unbelievably	adv. 难以置信地	缺	缺	
-22	30	believer	n. 信徒	缺	缺	
+22	28	unbelievable	adj. 难以置信的	细节数据有	缺	词/u/unbelievable.json
+22	29	unbelievably	adv. 难以置信地	细节数据有	缺	词/u/unbelievably.json
+22	30	believer	n. 信徒	细节数据有	缺	词/b/believer.json
 22	31	belief	n. 相信、信心	缺	缺	
-22	32	unbelief	n. 怀疑、不相信	缺	缺	
-22	33	unbelieve	v. 不相信、怀疑	缺	缺	
-22	34	love	v. 爱；很喜欢	缺	缺	
-22	35	loving	adj. 慈爱的、充满爱的	缺	缺	
-22	36	lover	n. 情人、恋人；爱好者	缺	缺	
-22	37	beloved	adj. 心爱的、亲爱的	缺	缺	
-22	38	light	n. 光 adj. 明亮的；轻的	缺	缺	
-22	39	lit	v. 点燃了、照亮了	缺	缺	
-22	40	lighting	n. 照明；灯光	缺	缺	
-22	41	lighter	n. 打火机	缺	缺	
-22	42	lighten	v. 使明亮、变亮	缺	缺	
-22	43	streetlight	n. 路灯	缺	缺	
-22	44	light-up	adj. 会发光的	缺	缺	
-22	45	lighthouse	n. 灯塔	缺	缺	
-22	46	highlight	n. 最精彩的部分 v. 强调；用荧光笔标出	缺	缺	
-22	47	flashlight	n. 闪光灯	缺	缺	
-22	48	lightning	n. 闪电	缺	缺	
-22	49	lightning-fast	adj. 快如闪电的、极其迅速的	缺	缺	
-22	50	headlight	n. 前灯、大灯	缺	缺	
-22	51	lightly	adv. 轻轻地；少量地	缺	缺	
-22	52	lunar	adj. 月亮的；阴历的	缺	缺	
+22	32	unbelief	n. 怀疑、不相信	细节数据有	缺	词/u/unbelief.json
+22	33	unbelieve	v. 不相信、怀疑	细节数据有	缺	词/u/unbelieve.json
+22	34	love	v. 爱；很喜欢	细节数据有	缺	词/l/love.json
+22	35	loving	adj. 慈爱的、充满爱的	细节数据有	缺	词/l/loving.json
+22	36	lover	n. 情人、恋人；爱好者	细节数据有	缺	词/l/lover.json
+22	37	beloved	adj. 心爱的、亲爱的	细节数据有	缺	词/b/beloved.json
+22	38	light	n. 光 adj. 明亮的；轻的	细节数据有	缺	词/l/light.json
+22	39	lit	v. 点燃了、照亮了	细节数据有	缺	词/l/lit.json
+22	40	lighting	n. 照明；灯光	细节数据有	缺	词/l/lighting.json
+22	41	lighter	n. 打火机	细节数据有	缺	词/l/lighter.json
+22	42	lighten	v. 使明亮、变亮	细节数据有	缺	词/l/lighten.json
+22	43	streetlight	n. 路灯	细节数据有	缺	词/s/streetlight.json
+22	44	light-up	adj. 会发光的	细节数据有	缺	词/l/light-up.json
+22	45	lighthouse	n. 灯塔	细节数据有	缺	词/l/lighthouse.json
+22	46	highlight	n. 最精彩的部分 v. 强调；用荧光笔标出	细节数据有	缺	词/h/highlight.json
+22	47	flashlight	n. 闪光灯	细节数据有	缺	词/f/flashlight.json
+22	48	lightning	n. 闪电	细节数据有	缺	词/l/lightning.json
+22	49	lightning-fast	adj. 快如闪电的、极其迅速的	细节数据有	缺	词/l/lightning-fast.json
+22	50	headlight	n. 前灯、大灯	细节数据有	缺	词/h/headlight.json
+22	51	lightly	adv. 轻轻地；少量地	细节数据有	缺	词/l/lightly.json
+22	52	lunar	adj. 月亮的；阴历的	细节数据有	缺	词/l/lunar.json
 22	53	translucent	adj. 半透明的	缺	缺	
 22	54	illuminate	v. 照亮、照明	缺	缺	
 22	55	luminous	adj. 发光的、夜光的；明亮的、鲜艳的	缺	缺	

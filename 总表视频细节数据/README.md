@@ -176,6 +176,9 @@
 - earphone：初中含义的括号没写完（“（多为入耳式”）
 - cleaners：【变形】写“一般不可数，不加 s”不对，cleaners 本身是 cleaner 的复数（也指干洗店）
 - that、those、this、these：【变形】都编造了比较级、最高级（thatter、thoser、thisser、theser 等），指示代词没有比较级
+- unbelieve：英语里一般不说 unbelieve，日常说 don't believe（或 disbelieve）
+- lit：【变形】编造了 lits、litted、litting 和比较级 litter、littest；lit 本身是 light 的过去式、过去分词
+- flashlight：初中含义写“闪光灯”，美式 flashlight 主要指“手电筒”（英式叫 torch）
 
 ## 总表里出现两次的词（细节数据按单词存一份，两行共用；出题时两个意思都要考到）
 
