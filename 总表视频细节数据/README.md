@@ -165,6 +165,10 @@
 - check-ups：【变形】写“一般不可数，不加 s”不对，check-ups 本身就是 check-up 的复数
 - catalogue：初中含义写成“n. 一连串”，最常用的是“目录”
 - meaning：【变形】写“不可数，没有复数”不对，一个词可以有几个 meanings，可数
+- medium：【变形】编造了比较级 more medium、最高级 most medium，medium 没有比较级
+- mid：【变形】编造了比较级 midder、最高级 middest，mid 没有比较级
+- middlemen：【变形】写“复数 middlemens”是编造的，middlemen 本身就是 middleman 的复数
+- smiling：【变形】编造了 smilings、smilinged、smilinging；smiling 本身是 smile 的现在分词
 
 ## 总表里出现两次的词（细节数据按单词存一份，两行共用；出题时两个意思都要考到）
 

@@ -1573,31 +1573,31 @@
 20	52	meaningfully	adv. 有意义地	细节数据有	缺	词/m/meaningfully.json
 20	53	immediate	adj. 立即的；直接的	细节数据有	缺	词/i/immediate.json
 20	54	immediately	adv. 立即	细节数据有	缺	词/i/immediately.json
-20	55	media	n. 媒体、传媒	缺	缺	
-20	56	medium	adj. 中间的	缺	缺	
-20	57	mediate	v. 调解、斡旋	缺	缺	
-20	58	mediation	n. 调解、调停；中介作用	缺	缺	
-20	59	mediator	n. 调解人、调停者	缺	缺	
-20	60	medieval	adj. 中世纪的	缺	缺	
-20	61	meanwhile	adv. 与此同时	缺	缺	
-20	62	meantime	adv. 其间、在此期间	缺	缺	
-20	63	middle	n. 中间；当中	缺	缺	
-20	64	mid	adj. 中间的 prep. 在…之中	缺	缺	
-20	65	middle-aged	adj. 中年的	缺	缺	
-20	66	middleman	n. 中间商、经销商	缺	缺	
-20	67	middlemen	n. 中间商们	缺	缺	
-20	68	amid	prep. 在…之中；在…的情况下	缺	缺	
-20	69	amidst	prep. 在…之中、在…当中	缺	缺	
-20	70	metal	n. 金属	缺	缺	
-20	71	metallic	adj. 金属的；看起来、尝起来	缺	缺	
-20	72	medal	n. 奖牌、奖章	缺	缺	
-20	73	choose	v. 选择	缺	缺	
-20	74	chose	v. choose 的过去式：选择了	缺	缺	
-20	75	chosen	adj. 被选中的、精选的	缺	缺	
-20	76	choosy	adj. 挑剔的、难伺候的	缺	缺	
-20	77	choice	n. 选择	缺	缺	
-20	78	smile	v. 微笑	缺	缺	
-20	79	smiling	adj. 面带微笑的 v. 动名词	缺	缺	
+20	55	media	n. 媒体、传媒	细节数据有	缺	词/m/media.json
+20	56	medium	adj. 中间的	细节数据有	缺	词/m/medium.json
+20	57	mediate	v. 调解、斡旋	细节数据有	缺	词/m/mediate.json
+20	58	mediation	n. 调解、调停；中介作用	细节数据有	缺	词/m/mediation.json
+20	59	mediator	n. 调解人、调停者	细节数据有	缺	词/m/mediator.json
+20	60	medieval	adj. 中世纪的	细节数据有	缺	词/m/medieval.json
+20	61	meanwhile	adv. 与此同时	细节数据有	缺	词/m/meanwhile.json
+20	62	meantime	adv. 其间、在此期间	细节数据有	缺	词/m/meantime.json
+20	63	middle	n. 中间；当中	细节数据有	缺	词/m/middle.json
+20	64	mid	adj. 中间的 prep. 在…之中	细节数据有	缺	词/m/mid.json
+20	65	middle-aged	adj. 中年的	细节数据有	缺	词/m/middle-aged.json
+20	66	middleman	n. 中间商、经销商	细节数据有	缺	词/m/middleman.json
+20	67	middlemen	n. 中间商们	细节数据有	缺	词/m/middlemen.json
+20	68	amid	prep. 在…之中；在…的情况下	细节数据有	缺	词/a/amid.json
+20	69	amidst	prep. 在…之中、在…当中	细节数据有	缺	词/a/amidst.json
+20	70	metal	n. 金属	细节数据有	缺	词/m/metal.json
+20	71	metallic	adj. 金属的；看起来、尝起来	细节数据有	缺	词/m/metallic.json
+20	72	medal	n. 奖牌、奖章	细节数据有	缺	词/m/medal.json
+20	73	choose	v. 选择	细节数据有	缺	词/c/choose.json
+20	74	chose	v. choose 的过去式：选择了	细节数据有	缺	词/c/chose.json
+20	75	chosen	adj. 被选中的、精选的	细节数据有	缺	词/c/chosen.json
+20	76	choosy	adj. 挑剔的、难伺候的	细节数据有	缺	词/c/choosy.json
+20	77	choice	n. 选择	细节数据有	缺	词/c/choice.json
+20	78	smile	v. 微笑	细节数据有	缺	词/s/smile.json
+20	79	smiling	adj. 面带微笑的 v. 动名词	细节数据有	缺	词/s/smiling.json
 20	80	never-smiling	adj. 从不笑的、总板着脸的	缺	缺	
 20	81	soundly	adv. 彻底地、狠狠地；稳妥地、合理地	缺	缺	
 21	1	project	n. 工程；作业	缺	缺	
