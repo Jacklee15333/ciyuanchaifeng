@@ -139,6 +139,12 @@
 - farther：【变形】编造了 fartherer、fartherest；farther 本身就是 far 的比较级，最高级是 farthest
 - premier：【变形】编造了 premierer、premierest，premier 没有比较级
 - principal：初中含义漏了最常用的“n. 校长”
+- strength：【变形】写“不可数，没有复数”不全面，作“长处、优点”讲可数（strengths and weaknesses）
+- shoestring：初中含义写 adj.，【变形】却按名词写“不可数”；shoestring 作“鞋带”讲是可数的
+- swore：【变形】编造了 swores、swored、sworing；swore 本身是 swear 的过去式（过去分词 sworn）
+- consumption：【变形】写“复数 consumptions”，“消费、消耗”一般不可数
+- impromptu：初中含义是 adj.，【变形】却按名词写“一般不可数”，词性对不上
+- noticed：【变形】编造了 noticeds、noticeded、noticeding；noticed 本身是 notice 的过去式、过去分词
 
 ## 总表里出现两次的词（细节数据按单词存一份，两行共用；出题时两个意思都要考到）
 

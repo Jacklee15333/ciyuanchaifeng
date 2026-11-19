@@ -1235,57 +1235,57 @@
 16	32	prioritise	v. 优先处理	细节数据有	缺	词/p/prioritise.json
 16	33	strong	adj. 强的；坚固的	细节数据有	缺	词/s/strong.json
 16	34	strongly	adv. 强烈地、坚决地	细节数据有	缺	词/s/strongly.json
-16	35	strength	n. 力量、体力；强度、坚固度	缺	缺	
-16	36	strengthen	v. 加强、增强	缺	缺	
-16	37	strong-minded	adj. 意志坚强的、有主见的	缺	缺	
-16	38	string	n. 细绳、线；一串、一系列	缺	缺	
-16	39	shoestring	adj. 低预算的	缺	缺	
-16	40	answer	n. 回答	缺	缺	
-16	41	swear	v. 发誓、宣誓；保证	缺	缺	
-16	42	swore	v. 发了誓；咒骂过	缺	缺	
-16	43	bring	v. 拿来	缺	缺	
-16	44	brought	v. 带来了；导致了	缺	缺	
-16	45	remember	v. 记得；想起	缺	缺	
-16	46	remembrance	n. 纪念、缅怀；回忆	缺	缺	
-16	47	memory	n. 回忆	缺	缺	
-16	48	memorize	v. 记住、背熟	缺	缺	
-16	49	memorial	n. 纪念碑、纪念馆	缺	缺	
-16	50	memorise	v. 记住、背熟	缺	缺	
-16	51	memorable	adj. 难忘的、值得纪念的	缺	缺	
-16	52	memoir	n. 回忆录、自传	缺	缺	
-16	53	commemorate	v. 纪念	缺	缺	
-16	54	commemorative	adj. 纪念性的	缺	缺	
-16	55	mourn	v. 哀悼；痛惜	缺	缺	
-16	56	mourning	n. 哀悼、悲痛；服丧	缺	缺	
-16	57	example	n. 例子；榜样	缺	缺	
-16	58	exemplary	adj. 模范的、堪称楷模的	缺	缺	
-16	59	sample	n. 样品、样本	缺	缺	
-16	60	premium	n. 保险费 adj. 高档的、优质的	缺	缺	
-16	61	consume	v. 消耗、耗费；吃、喝	缺	缺	
-16	62	consumer	n. 消费者、用户	缺	缺	
-16	63	consumption	n. 消费	缺	缺	
-16	64	time-consuming	adj. 费时间的、耗时的	缺	缺	
-16	65	assume	v. 假定、以为；承担、就任	缺	缺	
-16	66	resume	v. 重新开始、继续 n. 摘要	缺	缺	
-16	67	prompt	adj. 迅速的、及时的 v. 促使；提示、提词	缺	缺	
-16	68	promptly	adv. 迅速地、立即；准时地	缺	缺	
-16	69	impromptu	adj. 即兴的、临时的	缺	缺	
-16	70	also	adv. 也	缺	缺	
-16	71	as	conj. 当…时；因为 prep. 作为	缺	缺	
-16	72	although	conj. 虽然	缺	缺	
-16	73	almost	adv. 几乎	缺	缺	
+16	35	strength	n. 力量、体力；强度、坚固度	细节数据有	缺	词/s/strength.json
+16	36	strengthen	v. 加强、增强	细节数据有	缺	词/s/strengthen.json
+16	37	strong-minded	adj. 意志坚强的、有主见的	细节数据有	缺	词/s/strong-minded.json
+16	38	string	n. 细绳、线；一串、一系列	细节数据有	缺	词/s/string.json
+16	39	shoestring	adj. 低预算的	细节数据有	缺	词/s/shoestring.json
+16	40	answer	n. 回答	细节数据有	缺	词/a/answer.json
+16	41	swear	v. 发誓、宣誓；保证	细节数据有	缺	词/s/swear.json
+16	42	swore	v. 发了誓；咒骂过	细节数据有	缺	词/s/swore.json
+16	43	bring	v. 拿来	细节数据有	缺	词/b/bring.json
+16	44	brought	v. 带来了；导致了	细节数据有	缺	词/b/brought.json
+16	45	remember	v. 记得；想起	细节数据有	缺	词/r/remember.json
+16	46	remembrance	n. 纪念、缅怀；回忆	细节数据有	缺	词/r/remembrance.json
+16	47	memory	n. 回忆	细节数据有	缺	词/m/memory.json
+16	48	memorize	v. 记住、背熟	细节数据有	缺	词/m/memorize.json
+16	49	memorial	n. 纪念碑、纪念馆	细节数据有	缺	词/m/memorial.json
+16	50	memorise	v. 记住、背熟	细节数据有	缺	词/m/memorise.json
+16	51	memorable	adj. 难忘的、值得纪念的	细节数据有	缺	词/m/memorable.json
+16	52	memoir	n. 回忆录、自传	细节数据有	缺	词/m/memoir.json
+16	53	commemorate	v. 纪念	细节数据有	缺	词/c/commemorate.json
+16	54	commemorative	adj. 纪念性的	细节数据有	缺	词/c/commemorative.json
+16	55	mourn	v. 哀悼；痛惜	细节数据有	缺	词/m/mourn.json
+16	56	mourning	n. 哀悼、悲痛；服丧	细节数据有	缺	词/m/mourning.json
+16	57	example	n. 例子；榜样	细节数据有	缺	词/e/example.json
+16	58	exemplary	adj. 模范的、堪称楷模的	细节数据有	缺	词/e/exemplary.json
+16	59	sample	n. 样品、样本	细节数据有	缺	词/s/sample.json
+16	60	premium	n. 保险费 adj. 高档的、优质的	细节数据有	缺	词/p/premium.json
+16	61	consume	v. 消耗、耗费；吃、喝	细节数据有	缺	词/c/consume.json
+16	62	consumer	n. 消费者、用户	细节数据有	缺	词/c/consumer.json
+16	63	consumption	n. 消费	细节数据有	缺	词/c/consumption.json
+16	64	time-consuming	adj. 费时间的、耗时的	细节数据有	缺	词/t/time-consuming.json
+16	65	assume	v. 假定、以为；承担、就任	细节数据有	缺	词/a/assume.json
+16	66	resume	v. 重新开始、继续 n. 摘要	细节数据有	缺	词/r/resume.json
+16	67	prompt	adj. 迅速的、及时的 v. 促使；提示、提词	细节数据有	缺	词/p/prompt.json
+16	68	promptly	adv. 迅速地、立即；准时地	细节数据有	缺	词/p/promptly.json
+16	69	impromptu	adj. 即兴的、临时的	细节数据有	缺	词/i/impromptu.json
+16	70	also	adv. 也	细节数据有	缺	词/a/also.json
+16	71	as	conj. 当…时；因为 prep. 作为	细节数据有	缺	词/a/as.json
+16	72	although	conj. 虽然	细节数据有	缺	词/a/although.json
+16	73	almost	adv. 几乎	细节数据有	缺	词/a/almost.json
 16	74	already	adv. 已经	总表有	缺	
-16	75	alright	int. 好的、行 adj. 没事的、安然无恙的；还不错的	缺	缺	
-16	76	put	v. 放；摆	缺	缺	
-16	77	input	n. 输入；意见、建议	缺	缺	
-16	78	output	n. 产量、产出	缺	缺	
-16	79	bag	n. 书包；袋子	缺	缺	
-16	80	baggy	adj. 宽松的、松垮的	缺	缺	
-17	1	note	n. 便条；钞票	缺	缺	
-17	2	notice	n. 布告；通知 v. 注意	缺	缺	
-17	3	noticeable	adj. 明显的、看得出的	缺	缺	
-17	4	noticed	adj. 被注意到的 v. 过去分词	缺	缺	
-17	5	unnoticed	adj. 未被注意的、不被察觉的	缺	缺	
+16	75	alright	int. 好的、行 adj. 没事的、安然无恙的；还不错的	细节数据有	缺	词/a/alright.json
+16	76	put	v. 放；摆	细节数据有	缺	词/p/put.json
+16	77	input	n. 输入；意见、建议	细节数据有	缺	词/i/input.json
+16	78	output	n. 产量、产出	细节数据有	缺	词/o/output.json
+16	79	bag	n. 书包；袋子	细节数据有	缺	词/b/bag.json
+16	80	baggy	adj. 宽松的、松垮的	细节数据有	缺	词/b/baggy.json
+17	1	note	n. 便条；钞票	细节数据有	缺	词/n/note.json
+17	2	notice	n. 布告；通知 v. 注意	细节数据有	缺	词/n/notice.json
+17	3	noticeable	adj. 明显的、看得出的	细节数据有	缺	词/n/noticeable.json
+17	4	noticed	adj. 被注意到的 v. 过去分词	细节数据有	缺	词/n/noticed.json
+17	5	unnoticed	adj. 未被注意的、不被察觉的	细节数据有	缺	词/u/unnoticed.json
 17	6	notification	n. 通知、通告	缺	缺	
 17	7	notify	v. 通知、告知	缺	缺	
 17	8	annotate	v. 批注	缺	缺	
