@@ -43,4 +43,5 @@
 | 2026-11-19 | 题目第 1 批 | 8 | 按总表顺序：make、made、maker、make-up、makeover、made-up、match、matching（7 道题和答案，体检 0 个问题） |
 | 2026-11-19 | 题目第 2 批 | 8 | rematch、mismatch、matcher、makeup、shoemaker、mason、shoe、people（体检 0 个问题）。注意：总表 makeup 的考点写“复数 makeups”，化妆品的意思一般不可数，题目里没考这一条，以后可以用维护技能核对 |
 | 2026-11-19 | 题目第 3 批 | 8 | popular、popularity、popularise、popularize、popularly、unpopular、population、populate（体检 0 个问题） |
+| 2026-11-19 | 题目第 4 批 | 8 | populated、populous、public、publicly、publicize、publish、publishing、publisher（体检 0 个问题；前 4 个总表没写考点，照规矩考意思、搭配和形近词） |
 | 2026-11-19 | 试做 truly | 0 | 只用自带素材加表情图拼画面：起草检查不通过（表情图要换成写实插图、每幅画都要动、小图标要自己画）。结论：多数词要专门画插图，每个词的工作量和 7A-U4 一样；全表 9299 个词做不完，要先定先做哪些（等用户定） |
