@@ -1731,31 +1731,31 @@
 22	50	headlight	n. 前灯、大灯	细节数据有	缺	词/h/headlight.json
 22	51	lightly	adv. 轻轻地；少量地	细节数据有	缺	词/l/lightly.json
 22	52	lunar	adj. 月亮的；阴历的	细节数据有	缺	词/l/lunar.json
-22	53	translucent	adj. 半透明的	缺	缺	
-22	54	illuminate	v. 照亮、照明	缺	缺	
-22	55	luminous	adj. 发光的、夜光的；明亮的、鲜艳的	缺	缺	
-22	56	illustrate	v. 给配插图；是…的例证	缺	缺	
-22	57	illustration	n. 插图；实例、例证	缺	缺	
-22	58	relief	n. 宽慰、松了口气；缓解	缺	缺	
-22	59	relieve	v. 缓解、减轻；使宽心	缺	缺	
-22	60	relieved	adj. 松了一口气的、宽慰的	缺	缺	
-22	61	elevate	v. 抬高、举起；提升	缺	缺	
-22	62	elevated	adj. 高出的、架高的	缺	缺	
-22	63	elevator	n. 升降机；谷仓	缺	缺	
-22	64	elevatory	adj. 抬升的、起提升作用的	缺	缺	
-22	65	carnival	n. 狂欢节；嘉年华、游乐会	缺	缺	
-22	66	relevant	adj. 相关的、切题的；有现实意义的	缺	缺	
-22	67	irrelevant	adj. 不相关的、离题的	缺	缺	
-22	68	lever	n. 杠杆	缺	缺	
-22	69	leukemia	n. 白血病	缺	缺	
-22	70	step	n. 脚步 v. 走	缺	缺	
-22	71	overstep	v. 超越	缺	缺	
-22	72	one-step	adj. 一步完成的	缺	缺	
-22	73	step-by-step	adj. 循序渐进的、分步骤的	缺	缺	
-22	74	eye	n. 眼睛	缺	缺	
-22	75	optic	adj. 眼的、视觉的；光学的	缺	缺	
-22	76	optics	n. 光学	缺	缺	
-22	77	little	adj. 小的 adv. 很少地	缺	缺	
+22	53	translucent	adj. 半透明的	细节数据有	缺	词/t/translucent.json
+22	54	illuminate	v. 照亮、照明	细节数据有	缺	词/i/illuminate.json
+22	55	luminous	adj. 发光的、夜光的；明亮的、鲜艳的	细节数据有	缺	词/l/luminous.json
+22	56	illustrate	v. 给配插图；是…的例证	细节数据有	缺	词/i/illustrate.json
+22	57	illustration	n. 插图；实例、例证	细节数据有	缺	词/i/illustration.json
+22	58	relief	n. 宽慰、松了口气；缓解	细节数据有	缺	词/r/relief.json
+22	59	relieve	v. 缓解、减轻；使宽心	细节数据有	缺	词/r/relieve.json
+22	60	relieved	adj. 松了一口气的、宽慰的	细节数据有	缺	词/r/relieved.json
+22	61	elevate	v. 抬高、举起；提升	细节数据有	缺	词/e/elevate.json
+22	62	elevated	adj. 高出的、架高的	细节数据有	缺	词/e/elevated.json
+22	63	elevator	n. 升降机；谷仓	细节数据有	缺	词/e/elevator.json
+22	64	elevatory	adj. 抬升的、起提升作用的	细节数据有	缺	词/e/elevatory.json
+22	65	carnival	n. 狂欢节；嘉年华、游乐会	细节数据有	缺	词/c/carnival.json
+22	66	relevant	adj. 相关的、切题的；有现实意义的	细节数据有	缺	词/r/relevant.json
+22	67	irrelevant	adj. 不相关的、离题的	细节数据有	缺	词/i/irrelevant.json
+22	68	lever	n. 杠杆	细节数据有	缺	词/l/lever.json
+22	69	leukemia	n. 白血病	细节数据有	缺	词/l/leukemia.json
+22	70	step	n. 脚步 v. 走	细节数据有	缺	词/s/step.json
+22	71	overstep	v. 超越	细节数据有	缺	词/o/overstep.json
+22	72	one-step	adj. 一步完成的	细节数据有	缺	词/o/one-step.json
+22	73	step-by-step	adj. 循序渐进的、分步骤的	细节数据有	缺	词/s/step-by-step.json
+22	74	eye	n. 眼睛	细节数据有	缺	词/e/eye.json
+22	75	optic	adj. 眼的、视觉的；光学的	细节数据有	缺	词/o/optic.json
+22	76	optics	n. 光学	细节数据有	缺	词/o/optics.json
+22	77	little	adj. 小的 adv. 很少地	细节数据有	缺	词/l/little.json
 22	78	less	adj. 较少的 prep. 减去	缺	缺	
 22	79	least	adj. 最少的、最小的	缺	缺	
 22	80	unless	conj. 如果不	缺	缺	
