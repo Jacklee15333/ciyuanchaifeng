@@ -1473,31 +1473,31 @@
 19	35	safely	adv. 安全地	细节数据有	缺	词/s/safely.json
 19	36	unsafe	adj. 不安全的、危险的	细节数据有	缺	词/u/unsafe.json
 19	37	safe-keep	v. 妥善保管	细节数据有	缺	词/s/safe-keep.json
-19	38	salvage	n. 抢救出的财物	缺	缺	
-19	39	salvation	n. 救赎、得救	缺	缺	
-19	40	salute	v. 敬礼、行礼	缺	缺	
-19	41	skill	n. 技能	缺	缺	
-19	42	skilled	adj. 熟练的、有技能的	缺	缺	
-19	43	skillful	adj. 熟练的、灵巧的	缺	缺	
-19	44	skillfully	adv. 熟练地、巧妙地	缺	缺	
-19	45	skilful	adj. 熟练的、灵巧的	缺	缺	
-19	46	skilfully	adv. 熟练地、巧妙地	缺	缺	
-19	47	highly-skilled	adj. 技术高超的、高度熟练的	缺	缺	
-19	48	real	adj. 真实的	缺	缺	
-19	49	reality	n. 现实；成真的事	缺	缺	
-19	50	realistic	adj. 现实的、切合实际的	缺	缺	
-19	51	realism	n. 现实主义	缺	缺	
-19	52	realistically	adv. 现实地说、实事求是地；逼真地	缺	缺	
-19	53	realize	v. 认识到；实现	缺	缺	
-19	54	realise	v. 意识到；实现	缺	缺	
-19	55	realization	n. 认识、领悟；实现	缺	缺	
-19	56	realisation	n. 认识、领悟；实现	缺	缺	
-19	57	really	adv. 真正地；确实	缺	缺	
-19	58	real-time	adj. 实时的	缺	缺	
-19	59	real-world	adj. 现实世界中的、实际的	缺	缺	
-19	60	real-life	adj. 现实生活中的、真人真事的	缺	缺	
-19	61	real-life-like	adj. 逼真的、像真的一样的	缺	缺	
-19	62	check	n. 检查；批改 v. 核对	缺	缺	
+19	38	salvage	n. 抢救出的财物	细节数据有	缺	词/s/salvage.json
+19	39	salvation	n. 救赎、得救	细节数据有	缺	词/s/salvation.json
+19	40	salute	v. 敬礼、行礼	细节数据有	缺	词/s/salute.json
+19	41	skill	n. 技能	细节数据有	缺	词/s/skill.json
+19	42	skilled	adj. 熟练的、有技能的	细节数据有	缺	词/s/skilled.json
+19	43	skillful	adj. 熟练的、灵巧的	细节数据有	缺	词/s/skillful.json
+19	44	skillfully	adv. 熟练地、巧妙地	细节数据有	缺	词/s/skillfully.json
+19	45	skilful	adj. 熟练的、灵巧的	细节数据有	缺	词/s/skilful.json
+19	46	skilfully	adv. 熟练地、巧妙地	细节数据有	缺	词/s/skilfully.json
+19	47	highly-skilled	adj. 技术高超的、高度熟练的	细节数据有	缺	词/h/highly-skilled.json
+19	48	real	adj. 真实的	细节数据有	缺	词/r/real.json
+19	49	reality	n. 现实；成真的事	细节数据有	缺	词/r/reality.json
+19	50	realistic	adj. 现实的、切合实际的	细节数据有	缺	词/r/realistic.json
+19	51	realism	n. 现实主义	细节数据有	缺	词/r/realism.json
+19	52	realistically	adv. 现实地说、实事求是地；逼真地	细节数据有	缺	词/r/realistically.json
+19	53	realize	v. 认识到；实现	细节数据有	缺	词/r/realize.json
+19	54	realise	v. 意识到；实现	细节数据有	缺	词/r/realise.json
+19	55	realization	n. 认识、领悟；实现	细节数据有	缺	词/r/realization.json
+19	56	realisation	n. 认识、领悟；实现	细节数据有	缺	词/r/realisation.json
+19	57	really	adv. 真正地；确实	细节数据有	缺	词/r/really.json
+19	58	real-time	adj. 实时的	细节数据有	缺	词/r/real-time.json
+19	59	real-world	adj. 现实世界中的、实际的	细节数据有	缺	词/r/real-world.json
+19	60	real-life	adj. 现实生活中的、真人真事的	细节数据有	缺	词/r/real-life.json
+19	61	real-life-like	adj. 逼真的、像真的一样的	细节数据有	缺	词/r/real-life-like.json
+19	62	check	n. 检查；批改 v. 核对	细节数据有	缺	词/c/check.json
 19	63	checked	adj. 方格图案的	缺	缺	
 19	64	cross-check	n. 交叉核对	缺	缺	
 19	65	checklist	n. 核对清单、检查表	缺	缺	

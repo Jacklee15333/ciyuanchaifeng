@@ -159,6 +159,7 @@
 - savings：【变形】写“不可数，没有复数”不准确，savings 本身是复数形式（My savings are…）
 - unsafe：【词性转换】写成 safe n.保险柜，应是 safe adj.安全的
 - safe-keep：英语一般不说 safe-keep，常用名词 safekeeping（for safekeeping）或 keep sth safe；【变形】还编造了 safe-keeped
+- real-life-like：不是常用词，“逼真的”一般说 lifelike 或 realistic
 
 ## 总表里出现两次的词（细节数据按单词存一份，两行共用；出题时两个意思都要考到）
 
