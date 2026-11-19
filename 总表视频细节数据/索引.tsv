@@ -15,14 +15,14 @@
 1	14	mason	n. 石匠、砖石工；共济会会员	细节数据有	缺	词/m/mason.json
 1	15	shoe	n. 鞋	细节数据有	缺	词/s/shoe.json
 1	16	people	n. 人；人们	细节数据有	缺	词/p/people.json
-1	17	popular	adj. 流行的；大众的	缺	缺	
-1	18	popularity	n. 受欢迎、名气；普及、流行	缺	缺	
-1	19	popularise	v. 普及、推广；使通俗化	缺	缺	
-1	20	popularize	v. 使普及、推广；使通俗化	缺	缺	
-1	21	popularly	adv. 普遍地；俗称	缺	缺	
-1	22	unpopular	adj. 不受欢迎的；不得人心的	缺	缺	
-1	23	population	n. 人口	缺	缺	
-1	24	populate	v. 居住于	缺	缺	
+1	17	popular	adj. 流行的；大众的	细节数据有	缺	词/p/popular.json
+1	18	popularity	n. 受欢迎、名气；普及、流行	细节数据有	缺	词/p/popularity.json
+1	19	popularise	v. 普及、推广；使通俗化	细节数据有	缺	词/p/popularise.json
+1	20	popularize	v. 使普及、推广；使通俗化	细节数据有	缺	词/p/popularize.json
+1	21	popularly	adv. 普遍地；俗称	细节数据有	缺	词/p/popularly.json
+1	22	unpopular	adj. 不受欢迎的；不得人心的	细节数据有	缺	词/u/unpopular.json
+1	23	population	n. 人口	细节数据有	缺	词/p/population.json
+1	24	populate	v. 居住于	细节数据有	缺	词/p/populate.json
 1	25	populated	adj. 有人居住的；人口…的	缺	缺	
 1	26	populous	adj. 人口众多的、人口稠密的	缺	缺	
 1	27	public	adj. 公共的	缺	缺	
