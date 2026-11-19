@@ -1422,32 +1422,32 @@
 18	64	bookshop	n. 书店	细节数据有	缺	词/b/bookshop.json
 18	65	bookstore	n. 书店	细节数据有	缺	词/b/bookstore.json
 18	66	lapbook	n. 主题翻翻书	细节数据有	缺	词/l/lapbook.json
-18	67	bookmark	n. 书签	缺	缺	
-18	68	cookbook	n. 烹饪书、菜谱集	缺	缺	
-18	69	scrapbook	n. 剪贴簿、剪贴册	缺	缺	
-18	70	songbook	n. 歌本、歌曲集	缺	缺	
-18	71	booker	n. 预订人	缺	缺	
+18	67	bookmark	n. 书签	细节数据有	缺	词/b/bookmark.json
+18	68	cookbook	n. 烹饪书、菜谱集	细节数据有	缺	词/c/cookbook.json
+18	69	scrapbook	n. 剪贴簿、剪贴册	细节数据有	缺	词/s/scrapbook.json
+18	70	songbook	n. 歌本、歌曲集	细节数据有	缺	词/s/songbook.json
+18	71	booker	n. 预订人	细节数据有	缺	词/b/booker.json
 18	72	protect	v. 保护	总表有	kit有（7A-U4）	
-18	73	protection	n. 保护	缺	缺	
-18	74	protective	adj. 防护的	缺	缺	
-18	75	protector	n. 保护者、保护人	缺	缺	
-18	76	detect	v. 发现、察觉；检测出、探测到	缺	缺	
-18	77	detective	adj. 侦探的	缺	缺	
-18	78	detection	n. 发现、察觉；侦查、破案	缺	缺	
-18	79	detector	n. 探测器、检测器	缺	缺	
-18	80	tile	n. 瓦；瓷砖	缺	缺	
-19	1	simple	adj. 简单的	缺	缺	
-19	2	simply	adv. 简单地；仅仅、只是	缺	缺	
-19	3	simplify	v. 简化	缺	缺	
-19	4	simplicity	n. 简单、简易	缺	缺	
-19	5	display	v. 陈列、展示；表现、流露	缺	缺	
-19	6	employ	v. 雇用	缺	缺	
-19	7	employee	n. 雇员、员工	缺	缺	
-19	8	employment	n. 就业、工作；雇用	缺	缺	
-19	9	unemployment	n. 失业	缺	缺	
-19	10	exploit	v. 开发、充分利用	缺	缺	
-19	11	reply	v. 回答	缺	缺	
-19	12	apply	v. 申请；应用	缺	缺	
+18	73	protection	n. 保护	细节数据有	缺	词/p/protection.json
+18	74	protective	adj. 防护的	细节数据有	缺	词/p/protective.json
+18	75	protector	n. 保护者、保护人	细节数据有	缺	词/p/protector.json
+18	76	detect	v. 发现、察觉；检测出、探测到	细节数据有	缺	词/d/detect.json
+18	77	detective	adj. 侦探的	细节数据有	缺	词/d/detective.json
+18	78	detection	n. 发现、察觉；侦查、破案	细节数据有	缺	词/d/detection.json
+18	79	detector	n. 探测器、检测器	细节数据有	缺	词/d/detector.json
+18	80	tile	n. 瓦；瓷砖	细节数据有	缺	词/t/tile.json
+19	1	simple	adj. 简单的	细节数据有	缺	词/s/simple.json
+19	2	simply	adv. 简单地；仅仅、只是	细节数据有	缺	词/s/simply.json
+19	3	simplify	v. 简化	细节数据有	缺	词/s/simplify.json
+19	4	simplicity	n. 简单、简易	细节数据有	缺	词/s/simplicity.json
+19	5	display	v. 陈列、展示；表现、流露	细节数据有	缺	词/d/display.json
+19	6	employ	v. 雇用	细节数据有	缺	词/e/employ.json
+19	7	employee	n. 雇员、员工	细节数据有	缺	词/e/employee.json
+19	8	employment	n. 就业、工作；雇用	细节数据有	缺	词/e/employment.json
+19	9	unemployment	n. 失业	细节数据有	缺	词/u/unemployment.json
+19	10	exploit	v. 开发、充分利用	细节数据有	缺	词/e/exploit.json
+19	11	reply	v. 回答	细节数据有	缺	词/r/reply.json
+19	12	apply	v. 申请；应用	细节数据有	缺	词/a/apply.json
 19	13	application	n. 申请；应用、运用	缺	缺	
 19	14	applicable	adj. 适用的、可应用的	缺	缺	
 19	15	applicant	n. 申请人、求职者	缺	缺	
