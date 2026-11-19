@@ -1286,56 +1286,56 @@
 17	3	noticeable	adj. 明显的、看得出的	细节数据有	缺	词/n/noticeable.json
 17	4	noticed	adj. 被注意到的 v. 过去分词	细节数据有	缺	词/n/noticed.json
 17	5	unnoticed	adj. 未被注意的、不被察觉的	细节数据有	缺	词/u/unnoticed.json
-17	6	notification	n. 通知、通告	缺	缺	
-17	7	notify	v. 通知、告知	缺	缺	
-17	8	annotate	v. 批注	缺	缺	
-17	9	notorious	adj. 臭名昭著的、声名狼藉的	缺	缺	
-17	10	notoriously	adv. 出了名地	缺	缺	
-17	11	ignore	v. 忽视；不理睬	缺	缺	
-17	12	recognize	v. 辨认出	缺	缺	
-17	13	recognisable	adj. 认得出的、可辨认的（英式拼写	缺	缺	
-17	14	recognise	v. 认出	缺	缺	
-17	15	recognizable	adj. 认得出的、可辨认的（美式拼写	缺	缺	
-17	16	unrecognizable	adj. 认不出来的、面目全非的	缺	缺	
-17	17	recognition	n. 认出、识别	缺	缺	
-17	18	cognition	n. 认识	缺	缺	
-17	19	cognitive	adj. 认知的	缺	缺	
-17	20	noble	adj. 高尚的；贵族的	缺	缺	
-17	21	nobility	n. 贵族	缺	缺	
-17	22	nobleman	n. 贵族	缺	缺	
-17	23	narrate	v. 叙述、讲述；给配解说、旁白	缺	缺	
-17	24	narrator	n. 叙述者；旁白、解说员	缺	缺	
-17	25	narrative	n. 叙述、记叙	缺	缺	
-17	26	acquaint	v. 使熟悉、使了解	缺	缺	
-17	27	acquaintance	n. 相识的人、熟人	缺	缺	
-17	28	diagnose	v. 诊断；查明	缺	缺	
-17	29	diagnosis	n. 诊断	缺	缺	
-17	30	could	modal v. 可能	缺	缺	
-17	31	cunning	adj. 狡猾的、诡计多端的	缺	缺	
-17	32	know	v. 知道；了解	缺	缺	
-17	33	knew	v. 认识	缺	缺	
-17	34	known	adj. 知名的	缺	缺	
-17	35	unknown	adj. 未知的、不为人知的；无名的	缺	缺	
-17	36	unknowing	adj. 不知情的、没意识到的	缺	缺	
-17	37	unknowingly	adv. 不知情地、无意中	缺	缺	
-17	38	knowledge	n. 知识	缺	缺	
-17	39	knowledgeable	adj. 博学的、有见识的；懂行的	缺	缺	
-17	40	well-known	adj. 著名的、众所周知的	缺	缺	
-17	41	best-known	adj. 最著名的、最为人熟知的	缺	缺	
-17	42	joy	n. 欢乐；高兴	缺	缺	
-17	43	joyfully	adv. 高兴地、欢欣地	缺	缺	
-17	44	joyful	adj. 充满喜悦的、欢乐的；令人高兴的	缺	缺	
-17	45	joyous	adj. 欢乐的、喜气洋洋的	缺	缺	
-17	46	enjoy	v. 欣赏；享受	缺	缺	
-17	47	enjoyable	adj. 使人愉快的；使人欢乐的	缺	缺	
-17	48	enjoyment	n. 乐趣、享受	缺	缺	
-17	49	enjoyably	adv. 愉快地、有乐趣地	缺	缺	
-17	50	joyless	adj. 没有欢乐的、沉闷的	缺	缺	
-17	51	overjoyed	adj. 狂喜的、极其高兴的	缺	缺	
-17	52	face	n. 脸 v. 面对	缺	缺	
-17	53	surface	n. 表面	缺	缺	
-17	54	facial	adj. 面部的	缺	缺	
-17	55	interface	n. 界面 v. 交流	缺	缺	
+17	6	notification	n. 通知、通告	细节数据有	缺	词/n/notification.json
+17	7	notify	v. 通知、告知	细节数据有	缺	词/n/notify.json
+17	8	annotate	v. 批注	细节数据有	缺	词/a/annotate.json
+17	9	notorious	adj. 臭名昭著的、声名狼藉的	细节数据有	缺	词/n/notorious.json
+17	10	notoriously	adv. 出了名地	细节数据有	缺	词/n/notoriously.json
+17	11	ignore	v. 忽视；不理睬	细节数据有	缺	词/i/ignore.json
+17	12	recognize	v. 辨认出	细节数据有	缺	词/r/recognize.json
+17	13	recognisable	adj. 认得出的、可辨认的（英式拼写	细节数据有	缺	词/r/recognisable.json
+17	14	recognise	v. 认出	细节数据有	缺	词/r/recognise.json
+17	15	recognizable	adj. 认得出的、可辨认的（美式拼写	细节数据有	缺	词/r/recognizable.json
+17	16	unrecognizable	adj. 认不出来的、面目全非的	细节数据有	缺	词/u/unrecognizable.json
+17	17	recognition	n. 认出、识别	细节数据有	缺	词/r/recognition.json
+17	18	cognition	n. 认识	细节数据有	缺	词/c/cognition.json
+17	19	cognitive	adj. 认知的	细节数据有	缺	词/c/cognitive.json
+17	20	noble	adj. 高尚的；贵族的	细节数据有	缺	词/n/noble.json
+17	21	nobility	n. 贵族	细节数据有	缺	词/n/nobility.json
+17	22	nobleman	n. 贵族	细节数据有	缺	词/n/nobleman.json
+17	23	narrate	v. 叙述、讲述；给配解说、旁白	细节数据有	缺	词/n/narrate.json
+17	24	narrator	n. 叙述者；旁白、解说员	细节数据有	缺	词/n/narrator.json
+17	25	narrative	n. 叙述、记叙	细节数据有	缺	词/n/narrative.json
+17	26	acquaint	v. 使熟悉、使了解	细节数据有	缺	词/a/acquaint.json
+17	27	acquaintance	n. 相识的人、熟人	细节数据有	缺	词/a/acquaintance.json
+17	28	diagnose	v. 诊断；查明	细节数据有	缺	词/d/diagnose.json
+17	29	diagnosis	n. 诊断	细节数据有	缺	词/d/diagnosis.json
+17	30	could	modal v. 可能	细节数据有	缺	词/c/could.json
+17	31	cunning	adj. 狡猾的、诡计多端的	细节数据有	缺	词/c/cunning.json
+17	32	know	v. 知道；了解	细节数据有	缺	词/k/know.json
+17	33	knew	v. 认识	细节数据有	缺	词/k/knew.json
+17	34	known	adj. 知名的	细节数据有	缺	词/k/known.json
+17	35	unknown	adj. 未知的、不为人知的；无名的	细节数据有	缺	词/u/unknown.json
+17	36	unknowing	adj. 不知情的、没意识到的	细节数据有	缺	词/u/unknowing.json
+17	37	unknowingly	adv. 不知情地、无意中	细节数据有	缺	词/u/unknowingly.json
+17	38	knowledge	n. 知识	细节数据有	缺	词/k/knowledge.json
+17	39	knowledgeable	adj. 博学的、有见识的；懂行的	细节数据有	缺	词/k/knowledgeable.json
+17	40	well-known	adj. 著名的、众所周知的	细节数据有	缺	词/w/well-known.json
+17	41	best-known	adj. 最著名的、最为人熟知的	细节数据有	缺	词/b/best-known.json
+17	42	joy	n. 欢乐；高兴	细节数据有	缺	词/j/joy.json
+17	43	joyfully	adv. 高兴地、欢欣地	细节数据有	缺	词/j/joyfully.json
+17	44	joyful	adj. 充满喜悦的、欢乐的；令人高兴的	细节数据有	缺	词/j/joyful.json
+17	45	joyous	adj. 欢乐的、喜气洋洋的	细节数据有	缺	词/j/joyous.json
+17	46	enjoy	v. 欣赏；享受	细节数据有	缺	词/e/enjoy.json
+17	47	enjoyable	adj. 使人愉快的；使人欢乐的	细节数据有	缺	词/e/enjoyable.json
+17	48	enjoyment	n. 乐趣、享受	细节数据有	缺	词/e/enjoyment.json
+17	49	enjoyably	adv. 愉快地、有乐趣地	细节数据有	缺	词/e/enjoyably.json
+17	50	joyless	adj. 没有欢乐的、沉闷的	细节数据有	缺	词/j/joyless.json
+17	51	overjoyed	adj. 狂喜的、极其高兴的	细节数据有	缺	词/o/overjoyed.json
+17	52	face	n. 脸 v. 面对	细节数据有	缺	词/f/face.json
+17	53	surface	n. 表面	细节数据有	缺	词/s/surface.json
+17	54	facial	adj. 面部的	细节数据有	缺	词/f/facial.json
+17	55	interface	n. 界面 v. 交流	细节数据有	缺	词/i/interface.json
 17	56	face-to-face	adj. 面对面的、当面的	缺	缺	
 17	57	backwards-facing	adj. 朝后的、背朝前进方向的	缺	缺	
 17	58	superficial	adj. 表皮的；肤浅的、浅薄的	缺	缺	
