@@ -1387,7 +1387,7 @@
 18	29	directive	n. 指示、指令	细节数据有	缺	词/d/directive.json
 18	30	redirect	v. 改寄、转寄	细节数据有	缺	词/r/redirect.json
 18	31	indirect	adj. 间接的；迂回的	细节数据有	缺	词/i/indirect.json
-18	32	indirectly	adv. 间接地；拐弯抹角地、不明说地	缺	缺	
+18	32	indirectly	adv. 间接地；拐弯抹角地、不明说地	细节数据有	缺	词/i/indirectly.json
 18	33	teacher-director	n. 幼儿园里一边上课、一边主持日常管理的人	细节数据有	缺	词/t/teacher-director.json
 18	34	address	n. 地址	细节数据有	缺	词/a/address.json
 18	35	addressable	adj. 可寻址的；可触达的	细节数据有	缺	词/a/addressable.json
@@ -1398,30 +1398,30 @@
 18	40	open-source	adj. 开源的	细节数据有	缺	词/o/open-source.json
 18	41	surge	v. 涌动、蜂拥；激增	细节数据有	缺	词/s/surge.json
 18	42	region	n. 地区、区域	细节数据有	缺	词/r/region.json
-18	43	regional	adj. 地区的、区域性的；地方的	缺	缺	
-18	44	royal	adj. 王室的、皇家的；盛大的、高贵的	缺	缺	
-18	45	reign	n. 统治时期、在位期 v. 占主导、盛行	缺	缺	
-18	46	regent	n. 摄政者、摄政王	缺	缺	
-18	47	rich	adj. 富裕的；味道浓的	缺	缺	
-18	48	riches	n. 财富、财宝	缺	缺	
-18	49	richly	adv. 华丽地、丰盛地；浓郁地	缺	缺	
-18	50	richness	n. 丰富	缺	缺	
-18	51	enrich	v. 使丰富、充实	缺	缺	
-18	52	enrichment	n. 充实、丰富	缺	缺	
-18	53	book	n. 书；本子 v. 预订	缺	缺	
-18	54	booking	n. 预订	缺	缺	
-18	55	booklet	n. 小册子	缺	缺	
-18	56	e-book	n. 电子书	缺	缺	
-18	57	notebook	n. 笔记本	缺	缺	
-18	58	textbook	n. 教科书、课本	缺	缺	
-18	59	storybook	n. 故事书	缺	缺	
-18	60	guidebook	n. 旅行指南、导游手册	缺	缺	
-18	61	bookshelf	n. 书架	缺	缺	
-18	62	audiobook	n. 有声书、有声读物	缺	缺	
-18	63	sketchbook	n. 速写本、素描本	缺	缺	
-18	64	bookshop	n. 书店	缺	缺	
-18	65	bookstore	n. 书店	缺	缺	
-18	66	lapbook	n. 主题翻翻书	缺	缺	
+18	43	regional	adj. 地区的、区域性的；地方的	细节数据有	缺	词/r/regional.json
+18	44	royal	adj. 王室的、皇家的；盛大的、高贵的	细节数据有	缺	词/r/royal.json
+18	45	reign	n. 统治时期、在位期 v. 占主导、盛行	细节数据有	缺	词/r/reign.json
+18	46	regent	n. 摄政者、摄政王	细节数据有	缺	词/r/regent.json
+18	47	rich	adj. 富裕的；味道浓的	细节数据有	缺	词/r/rich.json
+18	48	riches	n. 财富、财宝	细节数据有	缺	词/r/riches.json
+18	49	richly	adv. 华丽地、丰盛地；浓郁地	细节数据有	缺	词/r/richly.json
+18	50	richness	n. 丰富	细节数据有	缺	词/r/richness.json
+18	51	enrich	v. 使丰富、充实	细节数据有	缺	词/e/enrich.json
+18	52	enrichment	n. 充实、丰富	细节数据有	缺	词/e/enrichment.json
+18	53	book	n. 书；本子 v. 预订	细节数据有	缺	词/b/book.json
+18	54	booking	n. 预订	细节数据有	缺	词/b/booking.json
+18	55	booklet	n. 小册子	细节数据有	缺	词/b/booklet.json
+18	56	e-book	n. 电子书	细节数据有	缺	词/e/e-book.json
+18	57	notebook	n. 笔记本	细节数据有	缺	词/n/notebook.json
+18	58	textbook	n. 教科书、课本	细节数据有	缺	词/t/textbook.json
+18	59	storybook	n. 故事书	细节数据有	缺	词/s/storybook.json
+18	60	guidebook	n. 旅行指南、导游手册	细节数据有	缺	词/g/guidebook.json
+18	61	bookshelf	n. 书架	细节数据有	缺	词/b/bookshelf.json
+18	62	audiobook	n. 有声书、有声读物	细节数据有	缺	词/a/audiobook.json
+18	63	sketchbook	n. 速写本、素描本	细节数据有	缺	词/s/sketchbook.json
+18	64	bookshop	n. 书店	细节数据有	缺	词/b/bookshop.json
+18	65	bookstore	n. 书店	细节数据有	缺	词/b/bookstore.json
+18	66	lapbook	n. 主题翻翻书	细节数据有	缺	词/l/lapbook.json
 18	67	bookmark	n. 书签	缺	缺	
 18	68	cookbook	n. 烹饪书、菜谱集	缺	缺	
 18	69	scrapbook	n. 剪贴簿、剪贴册	缺	缺	

@@ -151,6 +151,8 @@
 - cunning：初中含义是 adj.，【变形】却按名词写“不可数，没有复数”，词性对不上
 - handsome：初中含义只写“adj. 慷慨的”，漏了最常用的“英俊的”
 - railing：【变形】写“不可数，没有复数”不对，railing 可数，常用复数 railings
+- riches：【变形】写“不可数，没有复数”不对，riches 本身是复数形式，谓语用复数（His riches were…）
+- e-book：【变形】编造了动词形式 e-books（三单）、e-booked、e-booking，e-book 只作名词
 
 ## 总表里出现两次的词（细节数据按单词存一份，两行共用；出题时两个意思都要考到）
 
