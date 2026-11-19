@@ -1086,56 +1086,56 @@
 14	46	happy	adj. 幸福的；快乐的	细节数据有	缺	词/h/happy.json
 14	47	happily	adv. 幸福地；快乐地	细节数据有	缺	词/h/happily.json
 14	48	happiness	n. 幸福	细节数据有	缺	词/h/happiness.json
-14	49	unhappy	adj. 不开心的	缺	缺	
-14	50	unhappiness	n. 不快乐、不幸福；不满	缺	缺	
-14	51	unhappily	adv. 不快乐地；不幸地、遗憾地	缺	缺	
-14	52	perhaps	adv. 可能	缺	缺	
-14	53	mishap	n. 小意外、小倒霉事 phr. 没出岔子	缺	缺	
-14	54	list	n. 目录	缺	缺	
-14	55	listed	adj. 列出的	缺	缺	
-14	56	setlist	n. 曲目单	缺	缺	
-14	57	blacklist	n. 黑名单	缺	缺	
-14	58	create	v. 创造	缺	缺	
-14	59	creativity	n. 创造力、创造性	缺	缺	
-14	60	creative	adj. 创造性的	缺	缺	
-14	61	creation	n. 创造、创建	缺	缺	
-14	62	creatively	adv. 创造性地、有创意地	缺	缺	
-14	63	creator	n. 创造者、创作者	缺	缺	
-14	64	recreate	v. 再现、重现	缺	缺	
-14	65	creature	n. 生物、动物；人	缺	缺	
-14	66	increase	n. 增加	缺	缺	
-14	67	increasing	adj. 越来越多的、不断增加的	缺	缺	
-14	68	increasingly	adv. 越来越、日益	缺	缺	
-14	69	concrete	adj. 具体的、实在的；混凝土的	缺	缺	
-14	70	decrease	v. 减少、降低	缺	缺	
-14	71	crew	n. 一组工作人员	缺	缺	
-14	72	crescent	n. 新月、月牙	缺	缺	
-14	73	cereal	n. 谷物、谷类作物	缺	缺	
+14	49	unhappy	adj. 不开心的	细节数据有	缺	词/u/unhappy.json
+14	50	unhappiness	n. 不快乐、不幸福；不满	细节数据有	缺	词/u/unhappiness.json
+14	51	unhappily	adv. 不快乐地；不幸地、遗憾地	细节数据有	缺	词/u/unhappily.json
+14	52	perhaps	adv. 可能	细节数据有	缺	词/p/perhaps.json
+14	53	mishap	n. 小意外、小倒霉事 phr. 没出岔子	细节数据有	缺	词/m/mishap.json
+14	54	list	n. 目录	细节数据有	缺	词/l/list.json
+14	55	listed	adj. 列出的	细节数据有	缺	词/l/listed.json
+14	56	setlist	n. 曲目单	细节数据有	缺	词/s/setlist.json
+14	57	blacklist	n. 黑名单	细节数据有	缺	词/b/blacklist.json
+14	58	create	v. 创造	细节数据有	缺	词/c/create.json
+14	59	creativity	n. 创造力、创造性	细节数据有	缺	词/c/creativity.json
+14	60	creative	adj. 创造性的	细节数据有	缺	词/c/creative.json
+14	61	creation	n. 创造、创建	细节数据有	缺	词/c/creation.json
+14	62	creatively	adv. 创造性地、有创意地	细节数据有	缺	词/c/creatively.json
+14	63	creator	n. 创造者、创作者	细节数据有	缺	词/c/creator.json
+14	64	recreate	v. 再现、重现	细节数据有	缺	词/r/recreate.json
+14	65	creature	n. 生物、动物；人	细节数据有	缺	词/c/creature.json
+14	66	increase	n. 增加	细节数据有	缺	词/i/increase.json
+14	67	increasing	adj. 越来越多的、不断增加的	细节数据有	缺	词/i/increasing.json
+14	68	increasingly	adv. 越来越、日益	细节数据有	缺	词/i/increasingly.json
+14	69	concrete	adj. 具体的、实在的；混凝土的	细节数据有	缺	词/c/concrete.json
+14	70	decrease	v. 减少、降低	细节数据有	缺	词/d/decrease.json
+14	71	crew	n. 一组工作人员	细节数据有	缺	词/c/crew.json
+14	72	crescent	n. 新月、月牙	细节数据有	缺	词/c/crescent.json
+14	73	cereal	n. 谷物、谷类作物	细节数据有	缺	词/c/cereal.json
 14	74	city	n. 城市	缺	缺	
-14	75	city-driving	n. 市区行车	缺	缺	
-14	76	civil	adj. 公民的；国内的	缺	缺	
-14	77	civilize	v. 使开化、使文明	缺	缺	
-14	78	civilization	n. 文明	缺	缺	
-14	79	civilise	v. 使开化、使文明；使有教养	缺	缺	
-14	80	civilisation	n. 文明	缺	缺	
-14	81	citizen	n. 公民	缺	缺	
-14	82	if	conj. 如果；是否	缺	缺	
-15	1	experience	n. 经验	缺	缺	
-15	2	experienced	adj. 有经验的、熟练的	缺	缺	
-15	3	inexperienced	adj. 缺乏经验的、不熟练的	缺	缺	
-15	4	expert	n. 专家、能手 adj. 熟练的、内行的	缺	缺	
-15	5	expertise	n. 专门知识、专长	缺	缺	
-15	6	experiment	n. 实验	缺	缺	
-15	7	experimental	adj. 实验的	缺	缺	
-15	8	experimentation	n. 实验、试验过程	缺	缺	
-15	9	study	v. 学习；研究 n. 书房	缺	缺	
-15	10	studio	n. 工作室；电影制片厂	缺	缺	
-15	11	student	n. 学生	缺	缺	
-15	12	student-teacher	n. 实习教师	缺	缺	
-15	13	special	adj. 特别的	缺	缺	
-15	14	specialize	v. 专门从事、专攻	缺	缺	
-15	15	specially	adv. 专门地、特意；格外	缺	缺	
-15	16	specialty	n. 专业、专长；特产、招牌菜	缺	缺	
+14	75	city-driving	n. 市区行车	细节数据有	缺	词/c/city-driving.json
+14	76	civil	adj. 公民的；国内的	细节数据有	缺	词/c/civil.json
+14	77	civilize	v. 使开化、使文明	细节数据有	缺	词/c/civilize.json
+14	78	civilization	n. 文明	细节数据有	缺	词/c/civilization.json
+14	79	civilise	v. 使开化、使文明；使有教养	细节数据有	缺	词/c/civilise.json
+14	80	civilisation	n. 文明	细节数据有	缺	词/c/civilisation.json
+14	81	citizen	n. 公民	细节数据有	缺	词/c/citizen.json
+14	82	if	conj. 如果；是否	细节数据有	缺	词/i/if.json
+15	1	experience	n. 经验	细节数据有	缺	词/e/experience.json
+15	2	experienced	adj. 有经验的、熟练的	细节数据有	缺	词/e/experienced.json
+15	3	inexperienced	adj. 缺乏经验的、不熟练的	细节数据有	缺	词/i/inexperienced.json
+15	4	expert	n. 专家、能手 adj. 熟练的、内行的	细节数据有	缺	词/e/expert.json
+15	5	expertise	n. 专门知识、专长	细节数据有	缺	词/e/expertise.json
+15	6	experiment	n. 实验	细节数据有	缺	词/e/experiment.json
+15	7	experimental	adj. 实验的	细节数据有	缺	词/e/experimental.json
+15	8	experimentation	n. 实验、试验过程	细节数据有	缺	词/e/experimentation.json
+15	9	study	v. 学习；研究 n. 书房	细节数据有	缺	词/s/study.json
+15	10	studio	n. 工作室；电影制片厂	细节数据有	缺	词/s/studio.json
+15	11	student	n. 学生	细节数据有	缺	词/s/student.json
+15	12	student-teacher	n. 实习教师	细节数据有	缺	词/s/student-teacher.json
+15	13	special	adj. 特别的	细节数据有	缺	词/s/special.json
+15	14	specialize	v. 专门从事、专攻	细节数据有	缺	词/s/specialize.json
+15	15	specially	adv. 专门地、特意；格外	细节数据有	缺	词/s/specially.json
+15	16	specialty	n. 专业、专长；特产、招牌菜	细节数据有	缺	词/s/specialty.json
 15	17	specialist	n. 专家	缺	缺	
 15	18	especially	adv. 特别地	缺	缺	
 15	19	species	n. 种类	缺	缺	
