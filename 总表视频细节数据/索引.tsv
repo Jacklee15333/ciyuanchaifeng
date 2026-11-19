@@ -1756,32 +1756,32 @@
 22	75	optic	adj. 眼的、视觉的；光学的	细节数据有	缺	词/o/optic.json
 22	76	optics	n. 光学	细节数据有	缺	词/o/optics.json
 22	77	little	adj. 小的 adv. 很少地	细节数据有	缺	词/l/little.json
-22	78	less	adj. 较少的 prep. 减去	缺	缺	
-22	79	least	adj. 最少的、最小的	缺	缺	
-22	80	unless	conj. 如果不	缺	缺	
-23	1	design	v. 设计	缺	缺	
-23	2	designer	n. 设计师	缺	缺	
-23	3	redesign	v. 重新设计 n. 改版	缺	缺	
-23	4	sign	n. 符号 v. 签名	缺	缺	
+22	78	less	adj. 较少的 prep. 减去	细节数据有	缺	词/l/less.json
+22	79	least	adj. 最少的、最小的	细节数据有	缺	词/l/least.json
+22	80	unless	conj. 如果不	细节数据有	缺	词/u/unless.json
+23	1	design	v. 设计	细节数据有	缺	词/d/design.json
+23	2	designer	n. 设计师	细节数据有	缺	词/d/designer.json
+23	3	redesign	v. 重新设计 n. 改版	细节数据有	缺	词/r/redesign.json
+23	4	sign	n. 符号 v. 签名	细节数据有	缺	词/s/sign.json
 23	5	signal	n. 信号 v. 发信号、示意	总表有	kit有（7A-U4）	
-23	6	signature	n. 签名；特征、标志性的东西	缺	缺	
-23	7	significant	adj. 重要的、意义重大的；显著的、相当大的	缺	缺	
-23	8	significantly	adv. 显著地、大大地；意味深长地	缺	缺	
-23	9	significance	n. 重要性、意义	缺	缺	
-23	10	assign	v. 分配、分派；指定	缺	缺	
-23	11	assignment	n. 任务、作业；分配	缺	缺	
-23	12	seal	n. 印章、图章；密封件 v. 确定、敲定	缺	缺	
-23	13	date	n. 日期；约会	缺	缺	
-23	14	dated	adj. 注明日期的；过时的、老派的	缺	缺	
-23	15	update	v. 更新	缺	缺	
-23	16	updated	adj. 更新过的、最新的	缺	缺	
-23	17	outdated	adj. 过时的、陈旧的	缺	缺	
-23	18	up-to-date	adj. 最新的、包含最新信息的	缺	缺	
-23	19	data	n. 数据、资料	缺	缺	
-23	20	dataset	n. 数据集	缺	缺	
-23	21	database	n. 数据库	缺	缺	
-23	22	add	v. 添加	缺	缺	
-23	23	addition	n. 增加	缺	缺	
+23	6	signature	n. 签名；特征、标志性的东西	细节数据有	缺	词/s/signature.json
+23	7	significant	adj. 重要的、意义重大的；显著的、相当大的	细节数据有	缺	词/s/significant.json
+23	8	significantly	adv. 显著地、大大地；意味深长地	细节数据有	缺	词/s/significantly.json
+23	9	significance	n. 重要性、意义	细节数据有	缺	词/s/significance.json
+23	10	assign	v. 分配、分派；指定	细节数据有	缺	词/a/assign.json
+23	11	assignment	n. 任务、作业；分配	细节数据有	缺	词/a/assignment.json
+23	12	seal	n. 印章、图章；密封件 v. 确定、敲定	细节数据有	缺	词/s/seal.json
+23	13	date	n. 日期；约会	细节数据有	缺	词/d/date.json
+23	14	dated	adj. 注明日期的；过时的、老派的	细节数据有	缺	词/d/dated.json
+23	15	update	v. 更新	细节数据有	缺	词/u/update.json
+23	16	updated	adj. 更新过的、最新的	细节数据有	缺	词/u/updated.json
+23	17	outdated	adj. 过时的、陈旧的	细节数据有	缺	词/o/outdated.json
+23	18	up-to-date	adj. 最新的、包含最新信息的	细节数据有	缺	词/u/up-to-date.json
+23	19	data	n. 数据、资料	细节数据有	缺	词/d/data.json
+23	20	dataset	n. 数据集	细节数据有	缺	词/d/dataset.json
+23	21	database	n. 数据库	细节数据有	缺	词/d/database.json
+23	22	add	v. 添加	细节数据有	缺	词/a/add.json
+23	23	addition	n. 增加	细节数据有	缺	词/a/addition.json
 23	24	additionally	adv. 此外、另外	缺	缺	
 23	25	additional	adj. 额外的、附加的	缺	缺	
 23	26	tradition	n. 传统	缺	缺	

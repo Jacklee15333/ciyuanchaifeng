@@ -180,6 +180,8 @@
 - lit：【变形】编造了 lits、litted、litting 和比较级 litter、littest；lit 本身是 light 的过去式、过去分词
 - flashlight：初中含义写“闪光灯”，美式 flashlight 主要指“手电筒”（英式叫 torch）
 - irrelevant：【词性转换】写成“in adv.在家”，和本词无关，应是 relevant adj.相关的
+- less：【变形】编造了最高级 lessest，little 的最高级是 least
+- least：【变形】编造了 leaster、leastest；least 本身就是 little 的最高级
 
 ## 总表里出现两次的词（细节数据按单词存一份，两行共用；出题时两个意思都要考到）
 
