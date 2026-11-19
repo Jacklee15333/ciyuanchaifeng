@@ -1656,31 +1656,31 @@
 21	54	famously	adv. 众所周知地	细节数据有	缺	词/f/famously.json
 21	55	fame	n. 名声、名望	细节数据有	缺	词/f/fame.json
 21	56	world-famous	adj. 世界闻名的	细节数据有	缺	词/w/world-famous.json
-21	57	profess	v. 声称、自称；公开表示	缺	缺	
-21	58	profession	n. 职业	缺	缺	
-21	59	professional	adj. 职业的	缺	缺	
-21	60	professionalism	n. 专业精神、职业素养	缺	缺	
-21	61	professional-looking	adj. 看上去很专业、很正规的	缺	缺	
-21	62	professor	n. 教授	缺	缺	
-21	63	confess	v. 承认、坦白	缺	缺	
-21	64	fairy	n. 仙女、小精灵	缺	缺	
-21	65	fate	n. 命运	缺	缺	
-21	66	fable	n. 寓言	缺	缺	
-21	67	fabulous	adj. 极好的、绝妙的	缺	缺	
-21	68	phone	n. 电话	缺	缺	
-21	69	smartphone	n. 智能手机	缺	缺	
-21	70	earphone	n. 耳机（多为入耳式	缺	缺	
-21	71	headphone	n. 头戴式耳机	缺	缺	
-21	72	no-phone	adj. 禁用手机的、不带手机的	缺	缺	
-21	73	symphony	n. 交响曲	缺	缺	
-21	74	symphonic	adj. 交响乐的、交响曲式的	缺	缺	
-21	75	symphonist	n. 交响曲作曲家	缺	缺	
-21	76	microphone	n. 麦克风、话筒	缺	缺	
-21	77	mic	n. 麦克风、话筒	缺	缺	
-21	78	homophone	n. 同音词	缺	缺	
-21	79	megaphone	n. 扩音器、喇叭筒	缺	缺	
-22	1	clean	v. 弄干净；打扫 adj. 清洁的	缺	缺	
-22	2	cleaner	n. 清洁工；吸尘器	缺	缺	
+21	57	profess	v. 声称、自称；公开表示	细节数据有	缺	词/p/profess.json
+21	58	profession	n. 职业	细节数据有	缺	词/p/profession.json
+21	59	professional	adj. 职业的	细节数据有	缺	词/p/professional.json
+21	60	professionalism	n. 专业精神、职业素养	细节数据有	缺	词/p/professionalism.json
+21	61	professional-looking	adj. 看上去很专业、很正规的	细节数据有	缺	词/p/professional-looking.json
+21	62	professor	n. 教授	细节数据有	缺	词/p/professor.json
+21	63	confess	v. 承认、坦白	细节数据有	缺	词/c/confess.json
+21	64	fairy	n. 仙女、小精灵	细节数据有	缺	词/f/fairy.json
+21	65	fate	n. 命运	细节数据有	缺	词/f/fate.json
+21	66	fable	n. 寓言	细节数据有	缺	词/f/fable.json
+21	67	fabulous	adj. 极好的、绝妙的	细节数据有	缺	词/f/fabulous.json
+21	68	phone	n. 电话	细节数据有	缺	词/p/phone.json
+21	69	smartphone	n. 智能手机	细节数据有	缺	词/s/smartphone.json
+21	70	earphone	n. 耳机（多为入耳式	细节数据有	缺	词/e/earphone.json
+21	71	headphone	n. 头戴式耳机	细节数据有	缺	词/h/headphone.json
+21	72	no-phone	adj. 禁用手机的、不带手机的	细节数据有	缺	词/n/no-phone.json
+21	73	symphony	n. 交响曲	细节数据有	缺	词/s/symphony.json
+21	74	symphonic	adj. 交响乐的、交响曲式的	细节数据有	缺	词/s/symphonic.json
+21	75	symphonist	n. 交响曲作曲家	细节数据有	缺	词/s/symphonist.json
+21	76	microphone	n. 麦克风、话筒	细节数据有	缺	词/m/microphone.json
+21	77	mic	n. 麦克风、话筒	细节数据有	缺	词/m/mic.json
+21	78	homophone	n. 同音词	细节数据有	缺	词/h/homophone.json
+21	79	megaphone	n. 扩音器、喇叭筒	细节数据有	缺	词/m/megaphone.json
+22	1	clean	v. 弄干净；打扫 adj. 清洁的	细节数据有	缺	词/c/clean.json
+22	2	cleaner	n. 清洁工；吸尘器	细节数据有	缺	词/c/cleaner.json
 22	3	cleaners	n. 清洁工们；干洗店	缺	缺	
 22	4	clean-up	n. 大扫除；清理	缺	缺	
 22	5	cleanup	n. 清理；大扫除	缺	缺	
