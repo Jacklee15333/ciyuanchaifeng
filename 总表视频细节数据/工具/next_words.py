@@ -11,16 +11,20 @@ for l in open(os.path.join(D, '索引.tsv'), encoding='utf-8').read().splitlines
         if len(need) >= n: break
 wb = openpyxl.load_workbook(sys.argv[1], read_only=True); ws = wb['拆分结果']
 rows = ws.iter_rows(values_only=True); hdr = [str(h) if h else '' for h in next(rows)]; ix = {h: i for i, h in enumerate(hdr)}
-want = set(need); got = {}
+want = set(need); got = {}; more = {}
 for r in rows:
     w = str(r[ix['单词']] or '').strip()
-    if w in want and w not in got: got[w] = r
+    if w in want:
+        if w not in got: got[w] = r
+        else: more.setdefault(w, []).append(r)   # 同一个词在总表里出现两次：两行的意思都要考到
 BRIEF = '--brief' in sys.argv
 def cell(r, c, k=600): v = r[ix[c]]; return (str(v).strip() if v else '')[:k]
 for w in need:
     r = got[w]
     if BRIEF:   # 一个词两行：初中含义｜考点 / 辨析（大批出题时用）
         print('@%s｜%s｜%s' % (w, cell(r, '初中含义', 60).replace('\n', ' '), cell(r, '考点', 320).replace('\n', ' ')))
+        for r2 in more.get(w, []):
+            print('   【总表里还有一行，两个意思都要考】%s｜%s' % (cell(r2, '初中含义', 60).replace('\n', ' '), cell(r2, '考点', 200).replace('\n', ' ')))
         if cell(r, '辨析'): print('   辨析：' + cell(r, '辨析', 140).replace('\n', ' '))
         continue
     print('=== %s（批次 %s 序号 %s）' % (w, r[ix['批次']], r[ix['序号']]))
