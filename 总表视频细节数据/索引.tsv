@@ -1523,31 +1523,31 @@
 20	2	legend	n. 传说	细节数据有	缺	词/l/legend.json
 20	3	legendary	adj. 传说中的	细节数据有	缺	词/l/legendary.json
 20	4	collect	v. 收集	细节数据有	缺	词/c/collect.json
-20	5	collection	n. 收集	缺	缺	
-20	6	collector	n. 收藏家；集电器	缺	缺	
-20	7	collective	adj. 集体的、共同的	缺	缺	
-20	8	lecture	n. 讲座	缺	缺	
-20	9	lecturer	n. 讲师	缺	缺	
-20	10	select	v. 选择	缺	缺	
-20	11	selection	n. 挑选、选择	缺	缺	
-20	12	selective	adj. 有选择的	缺	缺	
-20	13	intellect	n. 智力、理解力	缺	缺	
-20	14	intellectual	adj. 智力的、理智的；需要动脑的 n. 知识分子	缺	缺	
-20	15	intellectually	adv. 在智力上	缺	缺	
-20	16	neglect	v. 忽视、忽略；疏于照顾	缺	缺	
-20	17	elect	v. 选举	缺	缺	
-20	18	election	n. 选举	缺	缺	
-20	19	intelligence	n. 智力、智能；情报、情报机构	缺	缺	
-20	20	intelligent	adj. 聪明的、有才智的	缺	缺	
-20	21	elegant	adj. 优雅的、雅致的	缺	缺	
-20	22	elegance	n. 优雅、雅致	缺	缺	
-20	23	diligent	adj. 勤奋的、勤勉的；认真细致的	缺	缺	
-20	24	diligently	adv. 勤勉地；认真细致地	缺	缺	
-20	25	diligence	n. 勤奋、勤勉；认真细致	缺	缺	
-20	26	apology	n. 道歉	缺	缺	
-20	27	apologize	vi. 道歉	缺	缺	
-20	28	apologise	v. 道歉	缺	缺	
-20	29	apologetic	adj. 道歉的、歉疚的	缺	缺	
+20	5	collection	n. 收集	细节数据有	缺	词/c/collection.json
+20	6	collector	n. 收藏家；集电器	细节数据有	缺	词/c/collector.json
+20	7	collective	adj. 集体的、共同的	细节数据有	缺	词/c/collective.json
+20	8	lecture	n. 讲座	细节数据有	缺	词/l/lecture.json
+20	9	lecturer	n. 讲师	细节数据有	缺	词/l/lecturer.json
+20	10	select	v. 选择	细节数据有	缺	词/s/select.json
+20	11	selection	n. 挑选、选择	细节数据有	缺	词/s/selection.json
+20	12	selective	adj. 有选择的	细节数据有	缺	词/s/selective.json
+20	13	intellect	n. 智力、理解力	细节数据有	缺	词/i/intellect.json
+20	14	intellectual	adj. 智力的、理智的；需要动脑的 n. 知识分子	细节数据有	缺	词/i/intellectual.json
+20	15	intellectually	adv. 在智力上	细节数据有	缺	词/i/intellectually.json
+20	16	neglect	v. 忽视、忽略；疏于照顾	细节数据有	缺	词/n/neglect.json
+20	17	elect	v. 选举	细节数据有	缺	词/e/elect.json
+20	18	election	n. 选举	细节数据有	缺	词/e/election.json
+20	19	intelligence	n. 智力、智能；情报、情报机构	细节数据有	缺	词/i/intelligence.json
+20	20	intelligent	adj. 聪明的、有才智的	细节数据有	缺	词/i/intelligent.json
+20	21	elegant	adj. 优雅的、雅致的	细节数据有	缺	词/e/elegant.json
+20	22	elegance	n. 优雅、雅致	细节数据有	缺	词/e/elegance.json
+20	23	diligent	adj. 勤奋的、勤勉的；认真细致的	细节数据有	缺	词/d/diligent.json
+20	24	diligently	adv. 勤勉地；认真细致地	细节数据有	缺	词/d/diligently.json
+20	25	diligence	n. 勤奋、勤勉；认真细致	细节数据有	缺	词/d/diligence.json
+20	26	apology	n. 道歉	细节数据有	缺	词/a/apology.json
+20	27	apologize	vi. 道歉	细节数据有	缺	词/a/apologize.json
+20	28	apologise	v. 道歉	细节数据有	缺	词/a/apologise.json
+20	29	apologetic	adj. 道歉的、歉疚的	细节数据有	缺	词/a/apologetic.json
 20	30	apologetically	adv. 歉意地、带着歉意	缺	缺	
 20	31	dialogue	n. 对话	缺	缺	
 20	32	dialog	n. 对话	缺	缺	
