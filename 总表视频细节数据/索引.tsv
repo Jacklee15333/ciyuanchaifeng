@@ -1386,18 +1386,18 @@
 18	28	director	n. 导演	细节数据有	缺	词/d/director.json
 18	29	directive	n. 指示、指令	细节数据有	缺	词/d/directive.json
 18	30	redirect	v. 改寄、转寄	细节数据有	缺	词/r/redirect.json
-18	31	indirect	adj. 间接的；迂回的	缺	缺	
+18	31	indirect	adj. 间接的；迂回的	细节数据有	缺	词/i/indirect.json
 18	32	indirectly	adv. 间接地；拐弯抹角地、不明说地	缺	缺	
-18	33	teacher-director	n. 幼儿园里一边上课、一边主持日常管理的人	缺	缺	
-18	34	address	n. 地址	缺	缺	
-18	35	addressable	adj. 可寻址的；可触达的	缺	缺	
-18	36	addressee	n. 收信人、收件人	缺	缺	
-18	37	alert	adj. 警觉的、机敏的 n. 提醒、通知	缺	缺	
-18	38	source	n. 来源、出处	缺	缺	
-18	39	resource	n. 资源	缺	缺	
-18	40	open-source	adj. 开源的	缺	缺	
-18	41	surge	v. 涌动、蜂拥；激增	缺	缺	
-18	42	region	n. 地区、区域	缺	缺	
+18	33	teacher-director	n. 幼儿园里一边上课、一边主持日常管理的人	细节数据有	缺	词/t/teacher-director.json
+18	34	address	n. 地址	细节数据有	缺	词/a/address.json
+18	35	addressable	adj. 可寻址的；可触达的	细节数据有	缺	词/a/addressable.json
+18	36	addressee	n. 收信人、收件人	细节数据有	缺	词/a/addressee.json
+18	37	alert	adj. 警觉的、机敏的 n. 提醒、通知	细节数据有	缺	词/a/alert.json
+18	38	source	n. 来源、出处	细节数据有	缺	词/s/source.json
+18	39	resource	n. 资源	细节数据有	缺	词/r/resource.json
+18	40	open-source	adj. 开源的	细节数据有	缺	词/o/open-source.json
+18	41	surge	v. 涌动、蜂拥；激增	细节数据有	缺	词/s/surge.json
+18	42	region	n. 地区、区域	细节数据有	缺	词/r/region.json
 18	43	regional	adj. 地区的、区域性的；地方的	缺	缺	
 18	44	royal	adj. 王室的、皇家的；盛大的、高贵的	缺	缺	
 18	45	reign	n. 统治时期、在位期 v. 占主导、盛行	缺	缺	
