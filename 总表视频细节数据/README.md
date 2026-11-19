@@ -163,6 +163,8 @@
 - real-life-like：不是常用词，“逼真的”一般说 lifelike 或 realistic
 - checked：【变形】编造了 checkeds、checkeded、checkeding；checked 作形容词“方格的”没有这些变形
 - check-ups：【变形】写“一般不可数，不加 s”不对，check-ups 本身就是 check-up 的复数
+- catalogue：初中含义写成“n. 一连串”，最常用的是“目录”
+- meaning：【变形】写“不可数，没有复数”不对，一个词可以有几个 meanings，可数
 
 ## 总表里出现两次的词（细节数据按单词存一份，两行共用；出题时两个意思都要考到）
 

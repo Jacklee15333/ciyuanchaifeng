@@ -1548,31 +1548,31 @@
 20	27	apologize	vi. 道歉	细节数据有	缺	词/a/apologize.json
 20	28	apologise	v. 道歉	细节数据有	缺	词/a/apologise.json
 20	29	apologetic	adj. 道歉的、歉疚的	细节数据有	缺	词/a/apologetic.json
-20	30	apologetically	adv. 歉意地、带着歉意	缺	缺	
-20	31	dialogue	n. 对话	缺	缺	
-20	32	dialog	n. 对话	缺	缺	
-20	33	logo	n. 标志、徽标	缺	缺	
-20	34	no-logo	adj. 无品牌标志的、不打牌子的	缺	缺	
-20	35	catalogue	n. 一连串 v. 编目	缺	缺	
-20	36	catalog	n. 目录	缺	缺	
-20	37	monologue	n. 独白	缺	缺	
-20	38	prologue	n. 序幕、开场白	缺	缺	
-20	39	psychology	n. 心理学	缺	缺	
-20	40	psychologist	n. 心理学家	缺	缺	
-20	41	psychological	adj. 心理的、精神上的	缺	缺	
-20	42	logic	n. 逻辑；道理、思路	缺	缺	
-20	43	logical	adj. 合乎逻辑的	缺	缺	
-20	44	analog	n. 类似物、对应物	缺	缺	
-20	45	analogy	n. 类比；相似之处	缺	缺	
-20	46	dialect	n. 方言	缺	缺	
-20	47	mean	v. 意思是 adj. 刻薄的	缺	缺	
-20	48	meaning	n. 意思；含义	缺	缺	
-20	49	meant	v. 过去分词	缺	缺	
-20	50	meaningful	adj. 有意义的	缺	缺	
-20	51	meaningless	adj. 无意义的、毫无价值的	缺	缺	
-20	52	meaningfully	adv. 有意义地	缺	缺	
-20	53	immediate	adj. 立即的；直接的	缺	缺	
-20	54	immediately	adv. 立即	缺	缺	
+20	30	apologetically	adv. 歉意地、带着歉意	细节数据有	缺	词/a/apologetically.json
+20	31	dialogue	n. 对话	细节数据有	缺	词/d/dialogue.json
+20	32	dialog	n. 对话	细节数据有	缺	词/d/dialog.json
+20	33	logo	n. 标志、徽标	细节数据有	缺	词/l/logo.json
+20	34	no-logo	adj. 无品牌标志的、不打牌子的	细节数据有	缺	词/n/no-logo.json
+20	35	catalogue	n. 一连串 v. 编目	细节数据有	缺	词/c/catalogue.json
+20	36	catalog	n. 目录	细节数据有	缺	词/c/catalog.json
+20	37	monologue	n. 独白	细节数据有	缺	词/m/monologue.json
+20	38	prologue	n. 序幕、开场白	细节数据有	缺	词/p/prologue.json
+20	39	psychology	n. 心理学	细节数据有	缺	词/p/psychology.json
+20	40	psychologist	n. 心理学家	细节数据有	缺	词/p/psychologist.json
+20	41	psychological	adj. 心理的、精神上的	细节数据有	缺	词/p/psychological.json
+20	42	logic	n. 逻辑；道理、思路	细节数据有	缺	词/l/logic.json
+20	43	logical	adj. 合乎逻辑的	细节数据有	缺	词/l/logical.json
+20	44	analog	n. 类似物、对应物	细节数据有	缺	词/a/analog.json
+20	45	analogy	n. 类比；相似之处	细节数据有	缺	词/a/analogy.json
+20	46	dialect	n. 方言	细节数据有	缺	词/d/dialect.json
+20	47	mean	v. 意思是 adj. 刻薄的	细节数据有	缺	词/m/mean.json
+20	48	meaning	n. 意思；含义	细节数据有	缺	词/m/meaning.json
+20	49	meant	v. 过去分词	细节数据有	缺	词/m/meant.json
+20	50	meaningful	adj. 有意义的	细节数据有	缺	词/m/meaningful.json
+20	51	meaningless	adj. 无意义的、毫无价值的	细节数据有	缺	词/m/meaningless.json
+20	52	meaningfully	adv. 有意义地	细节数据有	缺	词/m/meaningfully.json
+20	53	immediate	adj. 立即的；直接的	细节数据有	缺	词/i/immediate.json
+20	54	immediately	adv. 立即	细节数据有	缺	词/i/immediately.json
 20	55	media	n. 媒体、传媒	缺	缺	
 20	56	medium	adj. 中间的	缺	缺	
 20	57	mediate	v. 调解、斡旋	缺	缺	
