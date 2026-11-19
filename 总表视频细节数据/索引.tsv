@@ -1681,31 +1681,31 @@
 21	79	megaphone	n. 扩音器、喇叭筒	细节数据有	缺	词/m/megaphone.json
 22	1	clean	v. 弄干净；打扫 adj. 清洁的	细节数据有	缺	词/c/clean.json
 22	2	cleaner	n. 清洁工；吸尘器	细节数据有	缺	词/c/cleaner.json
-22	3	cleaners	n. 清洁工们；干洗店	缺	缺	
-22	4	clean-up	n. 大扫除；清理	缺	缺	
-22	5	cleanup	n. 清理；大扫除	缺	缺	
-22	6	cleanse	v. 清洗；净化	缺	缺	
-22	7	sound	n. 声音 v. 听起来	缺	缺	
-22	8	soundtrack	n. 声轨	缺	缺	
-22	9	resonate	v. 回响、共鸣	缺	缺	
-22	10	sonic	adj. 声音的	缺	缺	
-22	11	supersonic	adj. 超音速的	缺	缺	
-22	12	consonant	n. 辅音	缺	缺	
-22	13	than	conj. 比	缺	缺	
-22	14	there	adv. 在那里；表“存在”	缺	缺	
-22	15	though	conj. 虽然	缺	缺	
-22	16	then	adv. 当时；然后	缺	缺	
-22	17	they	pron. 他们	缺	缺	
-22	18	themselves	pron. 他们自己	缺	缺	
-22	19	theirs	pron. 他们的	缺	缺	
-22	20	therefore	adv. 因此、所以	缺	缺	
-22	21	that	adj. 那 conj. 引导宾语从句	缺	缺	
-22	22	those	adj. 那些	缺	缺	
-22	23	this	adj. 这	缺	缺	
-22	24	these	adj. 这些	缺	缺	
-22	25	thus	adv. 因此	缺	缺	
-22	26	believe	v. 相信	缺	缺	
-22	27	believable	adj. 可信的、令人信服的	缺	缺	
+22	3	cleaners	n. 清洁工们；干洗店	细节数据有	缺	词/c/cleaners.json
+22	4	clean-up	n. 大扫除；清理	细节数据有	缺	词/c/clean-up.json
+22	5	cleanup	n. 清理；大扫除	细节数据有	缺	词/c/cleanup.json
+22	6	cleanse	v. 清洗；净化	细节数据有	缺	词/c/cleanse.json
+22	7	sound	n. 声音 v. 听起来	细节数据有	缺	词/s/sound.json
+22	8	soundtrack	n. 声轨	细节数据有	缺	词/s/soundtrack.json
+22	9	resonate	v. 回响、共鸣	细节数据有	缺	词/r/resonate.json
+22	10	sonic	adj. 声音的	细节数据有	缺	词/s/sonic.json
+22	11	supersonic	adj. 超音速的	细节数据有	缺	词/s/supersonic.json
+22	12	consonant	n. 辅音	细节数据有	缺	词/c/consonant.json
+22	13	than	conj. 比	细节数据有	缺	词/t/than.json
+22	14	there	adv. 在那里；表“存在”	细节数据有	缺	词/t/there.json
+22	15	though	conj. 虽然	细节数据有	缺	词/t/though.json
+22	16	then	adv. 当时；然后	细节数据有	缺	词/t/then.json
+22	17	they	pron. 他们	细节数据有	缺	词/t/they.json
+22	18	themselves	pron. 他们自己	细节数据有	缺	词/t/themselves.json
+22	19	theirs	pron. 他们的	细节数据有	缺	词/t/theirs.json
+22	20	therefore	adv. 因此、所以	细节数据有	缺	词/t/therefore.json
+22	21	that	adj. 那 conj. 引导宾语从句	细节数据有	缺	词/t/that.json
+22	22	those	adj. 那些	细节数据有	缺	词/t/those.json
+22	23	this	adj. 这	细节数据有	缺	词/t/this.json
+22	24	these	adj. 这些	细节数据有	缺	词/t/these.json
+22	25	thus	adv. 因此	细节数据有	缺	词/t/thus.json
+22	26	believe	v. 相信	细节数据有	缺	词/b/believe.json
+22	27	believable	adj. 可信的、令人信服的	细节数据有	缺	词/b/believable.json
 22	28	unbelievable	adj. 难以置信的	缺	缺	
 22	29	unbelievably	adv. 难以置信地	缺	缺	
 22	30	believer	n. 信徒	缺	缺	

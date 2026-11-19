@@ -174,6 +174,8 @@
 - examinee：初中含义的括号没写完（“（正式用语”）
 - proactive：【易混】proactive / reactive 的说明话不通（“reactive 是一对：一个‘事前主动’”），应写 reactive 是“事后才反应的”
 - earphone：初中含义的括号没写完（“（多为入耳式”）
+- cleaners：【变形】写“一般不可数，不加 s”不对，cleaners 本身是 cleaner 的复数（也指干洗店）
+- that、those、this、these：【变形】都编造了比较级、最高级（thatter、thoser、thisser、theser 等），指示代词没有比较级
 
 ## 总表里出现两次的词（细节数据按单词存一份，两行共用；出题时两个意思都要考到）
 
