@@ -1111,7 +1111,7 @@
 14	71	crew	n. 一组工作人员	细节数据有	缺	词/c/crew.json
 14	72	crescent	n. 新月、月牙	细节数据有	缺	词/c/crescent.json
 14	73	cereal	n. 谷物、谷类作物	细节数据有	缺	词/c/cereal.json
-14	74	city	n. 城市	缺	缺	
+14	74	city	n. 城市	细节数据有	缺	词/c/city.json
 14	75	city-driving	n. 市区行车	细节数据有	缺	词/c/city-driving.json
 14	76	civil	adj. 公民的；国内的	细节数据有	缺	词/c/civil.json
 14	77	civilize	v. 使开化、使文明	细节数据有	缺	词/c/civilize.json
@@ -1136,55 +1136,55 @@
 15	14	specialize	v. 专门从事、专攻	细节数据有	缺	词/s/specialize.json
 15	15	specially	adv. 专门地、特意；格外	细节数据有	缺	词/s/specially.json
 15	16	specialty	n. 专业、专长；特产、招牌菜	细节数据有	缺	词/s/specialty.json
-15	17	specialist	n. 专家	缺	缺	
-15	18	especially	adv. 特别地	缺	缺	
-15	19	species	n. 种类	缺	缺	
-15	20	specific	adj. 具体的、明确的；特定的	缺	缺	
-15	21	specifically	adv. 特意、专门；具体地说、明确地	缺	缺	
-15	22	specify	v. 具体说明、明确规定	缺	缺	
-15	23	spice	n. 香料、调味品	缺	缺	
+15	17	specialist	n. 专家	细节数据有	缺	词/s/specialist.json
+15	18	especially	adv. 特别地	细节数据有	缺	词/e/especially.json
+15	19	species	n. 种类	细节数据有	缺	词/s/species.json
+15	20	specific	adj. 具体的、明确的；特定的	细节数据有	缺	词/s/specific.json
+15	21	specifically	adv. 特意、专门；具体地说、明确地	细节数据有	缺	词/s/specifically.json
+15	22	specify	v. 具体说明、明确规定	细节数据有	缺	词/s/specify.json
+15	23	spice	n. 香料、调味品	细节数据有	缺	词/s/spice.json
 15	24	spicy	adj. 辣的、香料味重的	缺	缺	
-15	25	specimen	n. 标本、样本	缺	缺	
-15	26	respect	v. 尊敬	缺	缺	
-15	27	respectful	adj. 恭敬的、有礼貌的	缺	缺	
-15	28	respectfully	adv. 恭敬地、尊敬地	缺	缺	
-15	29	expect	v. 预料；期待	缺	缺	
-15	30	expected	adj. 预期的、预料中的；应有的	缺	缺	
-15	31	unexpected	adj. 意外的、出乎意料的	缺	缺	
-15	32	expectation	n. 预期、期望	缺	缺	
-15	33	unexpectedly	adv. 意外地、出乎意料地	缺	缺	
-15	34	expectant	adj. 期待的、期盼的；怀孕的、即将为人父母的	缺	缺	
-15	35	aspect	n. 方面；外观、神态	缺	缺	
-15	36	perspective	n. 观点、视角	缺	缺	
-15	37	inspect	v. 检查、查看	缺	缺	
-15	38	inspection	n. 检查、视察	缺	缺	
-15	39	inspector	n. 检查员、视察员	缺	缺	
-15	40	suspect	v. 怀疑、猜想	缺	缺	
-15	41	suspicion	n. 怀疑、猜疑；一点点	缺	缺	
-15	42	suspicious	adj. 可疑的	缺	缺	
-15	43	respective	adj. 各自的、分别的	缺	缺	
-15	44	respectively	adv. 分别地	缺	缺	
-15	45	spectacular	adj. 壮观的、惊人的	缺	缺	
-15	46	spectacle	n. 壮观的景象、场面	缺	缺	
-15	47	despite	prep. 尽管、不管	缺	缺	
-15	48	spite	n. 恶意、怨恨	缺	缺	
-15	49	telescope	n. 望远镜 v. 像套筒一样压缩、缩短	缺	缺	
-15	50	microscope	n. 显微镜	缺	缺	
-15	51	microscopic	adj. 极小的、微小的	缺	缺	
-15	52	microscopy	n. 显微镜检查、显微术	缺	缺	
-15	53	skeptic	n. 怀疑论者；不轻信的人	缺	缺	
-15	54	skeptical	adj. 怀疑的、不轻信的	缺	缺	
-15	55	skepticism	n. 怀疑态度	缺	缺	
-15	56	spy	n. 间谍、密探 v. 暗中监视	缺	缺	
-15	57	future	n. 将来	缺	缺	
-15	58	futuristic	adj. 有未来感的、超现代的	缺	缺	
-15	59	futurist	n. 未来主义者	缺	缺	
-15	60	futurity	n. 未来的事物	缺	缺	
-15	61	build	v. 建筑	缺	缺	
-15	62	building	n. 建筑物	缺	缺	
-15	63	built	adj. 建成的	缺	缺	
-15	64	rebuild	v. 重建	缺	缺	
-15	65	rebuilt	v. 过去分词：重建了的 adj. 翻新的	缺	缺	
+15	25	specimen	n. 标本、样本	细节数据有	缺	词/s/specimen.json
+15	26	respect	v. 尊敬	细节数据有	缺	词/r/respect.json
+15	27	respectful	adj. 恭敬的、有礼貌的	细节数据有	缺	词/r/respectful.json
+15	28	respectfully	adv. 恭敬地、尊敬地	细节数据有	缺	词/r/respectfully.json
+15	29	expect	v. 预料；期待	细节数据有	缺	词/e/expect.json
+15	30	expected	adj. 预期的、预料中的；应有的	细节数据有	缺	词/e/expected.json
+15	31	unexpected	adj. 意外的、出乎意料的	细节数据有	缺	词/u/unexpected.json
+15	32	expectation	n. 预期、期望	细节数据有	缺	词/e/expectation.json
+15	33	unexpectedly	adv. 意外地、出乎意料地	细节数据有	缺	词/u/unexpectedly.json
+15	34	expectant	adj. 期待的、期盼的；怀孕的、即将为人父母的	细节数据有	缺	词/e/expectant.json
+15	35	aspect	n. 方面；外观、神态	细节数据有	缺	词/a/aspect.json
+15	36	perspective	n. 观点、视角	细节数据有	缺	词/p/perspective.json
+15	37	inspect	v. 检查、查看	细节数据有	缺	词/i/inspect.json
+15	38	inspection	n. 检查、视察	细节数据有	缺	词/i/inspection.json
+15	39	inspector	n. 检查员、视察员	细节数据有	缺	词/i/inspector.json
+15	40	suspect	v. 怀疑、猜想	细节数据有	缺	词/s/suspect.json
+15	41	suspicion	n. 怀疑、猜疑；一点点	细节数据有	缺	词/s/suspicion.json
+15	42	suspicious	adj. 可疑的	细节数据有	缺	词/s/suspicious.json
+15	43	respective	adj. 各自的、分别的	细节数据有	缺	词/r/respective.json
+15	44	respectively	adv. 分别地	细节数据有	缺	词/r/respectively.json
+15	45	spectacular	adj. 壮观的、惊人的	细节数据有	缺	词/s/spectacular.json
+15	46	spectacle	n. 壮观的景象、场面	细节数据有	缺	词/s/spectacle.json
+15	47	despite	prep. 尽管、不管	细节数据有	缺	词/d/despite.json
+15	48	spite	n. 恶意、怨恨	细节数据有	缺	词/s/spite.json
+15	49	telescope	n. 望远镜 v. 像套筒一样压缩、缩短	细节数据有	缺	词/t/telescope.json
+15	50	microscope	n. 显微镜	细节数据有	缺	词/m/microscope.json
+15	51	microscopic	adj. 极小的、微小的	细节数据有	缺	词/m/microscopic.json
+15	52	microscopy	n. 显微镜检查、显微术	细节数据有	缺	词/m/microscopy.json
+15	53	skeptic	n. 怀疑论者；不轻信的人	细节数据有	缺	词/s/skeptic.json
+15	54	skeptical	adj. 怀疑的、不轻信的	细节数据有	缺	词/s/skeptical.json
+15	55	skepticism	n. 怀疑态度	细节数据有	缺	词/s/skepticism.json
+15	56	spy	n. 间谍、密探 v. 暗中监视	细节数据有	缺	词/s/spy.json
+15	57	future	n. 将来	细节数据有	缺	词/f/future.json
+15	58	futuristic	adj. 有未来感的、超现代的	细节数据有	缺	词/f/futuristic.json
+15	59	futurist	n. 未来主义者	细节数据有	缺	词/f/futurist.json
+15	60	futurity	n. 未来的事物	细节数据有	缺	词/f/futurity.json
+15	61	build	v. 建筑	细节数据有	缺	词/b/build.json
+15	62	building	n. 建筑物	细节数据有	缺	词/b/building.json
+15	63	built	adj. 建成的	细节数据有	缺	词/b/built.json
+15	64	rebuild	v. 重建	细节数据有	缺	词/r/rebuild.json
+15	65	rebuilt	v. 过去分词：重建了的 adj. 翻新的	细节数据有	缺	词/r/rebuilt.json
 15	66	builder	n. 建筑工人、营造商	缺	缺	
 15	67	built-in	adj. 内置的、嵌入式的；固有的、与生俱来的	缺	缺	
 15	68	booth	n. 货摊、展位；小亭、小隔间	缺	缺	
