@@ -7,14 +7,14 @@
 1	6	made-up	adj. 编造的、虚构的；化了妆的	细节数据有	缺	词/m/made-up.json
 1	7	match	n. 比赛；对手 v. 相配、匹配	细节数据有	缺	词/m/match.json
 1	8	matching	adj. 相配的、配套的	细节数据有	缺	词/m/matching.json
-1	9	rematch	n. 再赛、复赛	缺	缺	
-1	10	mismatch	n. 不匹配、不对口；实力悬殊的比赛	缺	缺	
-1	11	matcher	n. 匹配者	缺	缺	
-1	12	makeup	n. 化妆品、妆容；构成	缺	缺	
-1	13	shoemaker	n. 鞋匠、制鞋人	缺	缺	
-1	14	mason	n. 石匠、砖石工；共济会会员	缺	缺	
-1	15	shoe	n. 鞋	缺	缺	
-1	16	people	n. 人；人们	缺	缺	
+1	9	rematch	n. 再赛、复赛	细节数据有	缺	词/r/rematch.json
+1	10	mismatch	n. 不匹配、不对口；实力悬殊的比赛	细节数据有	缺	词/m/mismatch.json
+1	11	matcher	n. 匹配者	细节数据有	缺	词/m/matcher.json
+1	12	makeup	n. 化妆品、妆容；构成	细节数据有	缺	词/m/makeup.json
+1	13	shoemaker	n. 鞋匠、制鞋人	细节数据有	缺	词/s/shoemaker.json
+1	14	mason	n. 石匠、砖石工；共济会会员	细节数据有	缺	词/m/mason.json
+1	15	shoe	n. 鞋	细节数据有	缺	词/s/shoe.json
+1	16	people	n. 人；人们	细节数据有	缺	词/p/people.json
 1	17	popular	adj. 流行的；大众的	缺	缺	
 1	18	popularity	n. 受欢迎、名气；普及、流行	缺	缺	
 1	19	popularise	v. 普及、推广；使通俗化	缺	缺	
