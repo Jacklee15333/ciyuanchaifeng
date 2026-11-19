@@ -1782,31 +1782,31 @@
 23	21	database	n. 数据库	细节数据有	缺	词/d/database.json
 23	22	add	v. 添加	细节数据有	缺	词/a/add.json
 23	23	addition	n. 增加	细节数据有	缺	词/a/addition.json
-23	24	additionally	adv. 此外、另外	缺	缺	
-23	25	additional	adj. 额外的、附加的	缺	缺	
-23	26	tradition	n. 传统	缺	缺	
-23	27	traditional	adj. 传统的	缺	缺	
-23	28	traditionally	adv. 传统上、按照惯例	缺	缺	
-23	29	edit	v. 编辑、校订；修改	缺	缺	
-23	30	editor	n. 编辑	缺	缺	
-23	31	editorial	adj. 编辑的 n. 社论	缺	缺	
-23	32	edition	n. 版本、版次	缺	缺	
-23	33	limited-edition	adj. 限量版的	缺	缺	
-23	34	rent	n. 租金	缺	缺	
-23	35	rental	n. 租金、租赁费	缺	缺	
-23	36	betray	v. 背叛、出卖；泄露	缺	缺	
-23	37	betrayal	n. 背叛、出卖	缺	缺	
-23	38	treason	n. 叛国罪	缺	缺	
-23	39	donate	v. 捐赠、捐献	缺	缺	
-23	40	donation	n. 捐赠	缺	缺	
-23	41	pardon	v. 原谅 n. 赦免、特赦	缺	缺	
-23	42	donor	n. 捐赠者、捐款人；献血者	缺	缺	
-23	43	dowry	n. 嫁妆	缺	缺	
-23	44	vendor	n. 小贩、摊贩	缺	缺	
-23	45	antidote	n. 解毒药、解药	缺	缺	
-23	46	dose	n. 剂量、一剂 v. 给…服药	缺	缺	
-23	47	care	n. 照料；小心 v. 介意	缺	缺	
-23	48	caring	adj. 有爱心的、体贴的 n. 照护	缺	缺	
+23	24	additionally	adv. 此外、另外	细节数据有	缺	词/a/additionally.json
+23	25	additional	adj. 额外的、附加的	细节数据有	缺	词/a/additional.json
+23	26	tradition	n. 传统	细节数据有	缺	词/t/tradition.json
+23	27	traditional	adj. 传统的	细节数据有	缺	词/t/traditional.json
+23	28	traditionally	adv. 传统上、按照惯例	细节数据有	缺	词/t/traditionally.json
+23	29	edit	v. 编辑、校订；修改	细节数据有	缺	词/e/edit.json
+23	30	editor	n. 编辑	细节数据有	缺	词/e/editor.json
+23	31	editorial	adj. 编辑的 n. 社论	细节数据有	缺	词/e/editorial.json
+23	32	edition	n. 版本、版次	细节数据有	缺	词/e/edition.json
+23	33	limited-edition	adj. 限量版的	细节数据有	缺	词/l/limited-edition.json
+23	34	rent	n. 租金	细节数据有	缺	词/r/rent.json
+23	35	rental	n. 租金、租赁费	细节数据有	缺	词/r/rental.json
+23	36	betray	v. 背叛、出卖；泄露	细节数据有	缺	词/b/betray.json
+23	37	betrayal	n. 背叛、出卖	细节数据有	缺	词/b/betrayal.json
+23	38	treason	n. 叛国罪	细节数据有	缺	词/t/treason.json
+23	39	donate	v. 捐赠、捐献	细节数据有	缺	词/d/donate.json
+23	40	donation	n. 捐赠	细节数据有	缺	词/d/donation.json
+23	41	pardon	v. 原谅 n. 赦免、特赦	细节数据有	缺	词/p/pardon.json
+23	42	donor	n. 捐赠者、捐款人；献血者	细节数据有	缺	词/d/donor.json
+23	43	dowry	n. 嫁妆	细节数据有	缺	词/d/dowry.json
+23	44	vendor	n. 小贩、摊贩	细节数据有	缺	词/v/vendor.json
+23	45	antidote	n. 解毒药、解药	细节数据有	缺	词/a/antidote.json
+23	46	dose	n. 剂量、一剂 v. 给…服药	细节数据有	缺	词/d/dose.json
+23	47	care	n. 照料；小心 v. 介意	细节数据有	缺	词/c/care.json
+23	48	caring	adj. 有爱心的、体贴的 n. 照护	细节数据有	缺	词/c/caring.json
 23	49	carefully	adv. 小心地；仔细地	缺	缺	
 23	50	careful	adj. 小心的；仔细的	缺	缺	
 23	51	careless	adj. 粗心的	缺	缺	
