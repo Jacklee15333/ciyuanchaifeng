@@ -5904,31 +5904,31 @@
 78	37	scan	v. 细看、审视；浏览	细节数据有	缺	词/s/scan.json
 78	38	scanner	n. 扫描仪	细节数据有	缺	词/s/scanner.json
 78	39	descend	v. 下来、下降	细节数据有	缺	词/d/descend.json
-78	40	descendant	n. 后代、后裔	缺	缺	
-78	41	transcend	v. 超越	缺	缺	
-78	42	escalate	v. 升级、恶化；上涨	缺	缺	
-78	43	escalator	n. 自动扶梯	缺	缺	
-78	44	scale	n. 规模；等级、级别 v. 攀登	缺	缺	
-78	45	scalable	adj. 可扩展的、能按需扩容的；可攀登的	缺	缺	
-78	46	large-scale	adj. 大规模的	缺	缺	
-78	47	small-scale	adj. 小规模的	缺	缺	
-78	48	email	n. 电子邮件	缺	缺	
-78	49	e-mail	n. 电子邮件	缺	缺	
-78	50	mail	n. 邮件	缺	缺	
-78	51	mailbox	n. 邮筒	缺	缺	
-78	52	mailman	n. 邮递员	缺	缺	
-78	53	immaculate	adj. 一尘不染的、极整洁的；完美无瑕的	缺	缺	
-78	54	rhythm	n. 节奏、节律	缺	缺	
-78	55	rhythmic	adj. 有节奏的、有规律的	缺	缺	
-78	56	rhyme	n. 韵、押韵	缺	缺	
-78	57	straight	adj. 一直的	缺	缺	
-78	58	straighten	v. 弄直、伸直；整理	缺	缺	
-78	59	stretch	v. 伸展、拉伸 n. 一段	缺	缺	
-78	60	outstretched	adj. 伸开的、张开的	缺	缺	
-78	61	bowl	n. 碗	缺	缺	
-78	62	bowl-like	adj. 碗状的	缺	缺	
-78	63	bowl-washing	n. 洗碗	缺	缺	
-78	64	bill	n. 账单；钞票	缺	缺	
+78	40	descendant	n. 后代、后裔	细节数据有	缺	词/d/descendant.json
+78	41	transcend	v. 超越	细节数据有	缺	词/t/transcend.json
+78	42	escalate	v. 升级、恶化；上涨	细节数据有	缺	词/e/escalate.json
+78	43	escalator	n. 自动扶梯	细节数据有	缺	词/e/escalator.json
+78	44	scale	n. 规模；等级、级别 v. 攀登	细节数据有	缺	词/s/scale.json
+78	45	scalable	adj. 可扩展的、能按需扩容的；可攀登的	细节数据有	缺	词/s/scalable.json
+78	46	large-scale	adj. 大规模的	细节数据有	缺	词/l/large-scale.json
+78	47	small-scale	adj. 小规模的	细节数据有	缺	词/s/small-scale.json
+78	48	email	n. 电子邮件	细节数据有	缺	词/e/email.json
+78	49	e-mail	n. 电子邮件	细节数据有	缺	词/e/e-mail.json
+78	50	mail	n. 邮件	细节数据有	缺	词/m/mail.json
+78	51	mailbox	n. 邮筒	细节数据有	缺	词/m/mailbox.json
+78	52	mailman	n. 邮递员	细节数据有	缺	词/m/mailman.json
+78	53	immaculate	adj. 一尘不染的、极整洁的；完美无瑕的	细节数据有	缺	词/i/immaculate.json
+78	54	rhythm	n. 节奏、节律	细节数据有	缺	词/r/rhythm.json
+78	55	rhythmic	adj. 有节奏的、有规律的	细节数据有	缺	词/r/rhythmic.json
+78	56	rhyme	n. 韵、押韵	细节数据有	缺	词/r/rhyme.json
+78	57	straight	adj. 一直的	细节数据有	缺	词/s/straight.json
+78	58	straighten	v. 弄直、伸直；整理	细节数据有	缺	词/s/straighten.json
+78	59	stretch	v. 伸展、拉伸 n. 一段	细节数据有	缺	词/s/stretch.json
+78	60	outstretched	adj. 伸开的、张开的	细节数据有	缺	词/o/outstretched.json
+78	61	bowl	n. 碗	细节数据有	缺	词/b/bowl.json
+78	62	bowl-like	adj. 碗状的	细节数据有	缺	词/b/bowl-like.json
+78	63	bowl-washing	n. 洗碗	细节数据有	缺	词/b/bowl-washing.json
+78	64	bill	n. 账单；钞票	细节数据有	缺	词/b/bill.json
 78	65	boil	v. 沸腾；煮	缺	缺	
 78	66	boiled	adj. 煮过的、煮熟的	缺	缺	
 78	67	boiler	n. 锅炉	缺	缺	
@@ -7329,7 +7329,7 @@
 110	7	rub	v. 擦、揉；抹、涂	缺	缺	
 110	8	rubbing	n. 摩擦、擦；拓印、拓片	缺	缺	
 110	9	rubber	n. 橡胶	缺	缺	
-110	10	scale	n. 鳞、鳞片；水垢	缺	缺	
+110	10	scale	n. 鳞、鳞片；水垢	细节数据有	缺	词/s/scale.json
 110	11	scaly	adj. 有鳞的	缺	缺	
 110	12	mass	n. 一团、一堆；大量 adj. 大规模的、大众的	缺	缺	
 110	13	massive	adj. 巨大的、厚重的	缺	缺	

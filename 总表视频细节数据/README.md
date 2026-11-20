@@ -167,6 +167,7 @@
 | 2026-11-20 | 题目第 62 批第 2 组 | 25 | archivist … brainwave（体检全部 0 个问题；night、nightly、overnight、midnight、goodnight、nightlife、nighttime、tonight、nightingale、nightmare、brainwave 出题时自查到答案是原形超过 1 道，改过再存）。累计 5824 个词有题目 |
 | 2026-11-20 | 题目第 62 批第 3 组 | 25 | budget … polish（体检全部 0 个问题；budget、charity、attack、trap、limited、unlimited、elimination、politeness、impoliteness 出题时自查到答案是原形超过 1 道，改过再存）。累计 5849 个词有题目 |
 | 2026-11-20 | 题目第 62 批第 4 组 | 25 | polished … descend（体检全部 0 个问题；painless、pine、recommended、command、element 出题时自查到答案是原形超过 1 道，demand、descend 第 6、7 题漏写考点，改过再存）。累计 5874 个词有题目 |
+| 2026-11-20 | 题目第 63 批第 1 组 | 25 | descendant … bill（体检全部 0 个问题；scale、scalable、large-scale、small-scale、rhythmic、rhyme、straight、straighten、stretch、outstretched、bowl、bowl-like、bowl-washing、bill 出题时自查到答案是原形超过 1 道，bowl 第 6 题漏写考点，改过再存）。累计 5899 个词有题目 |
 | 2026-11-19 | 试做 truly | 0 | 只用自带素材加表情图拼画面：起草检查不通过（表情图要换成写实插图、每幅画都要动、小图标要自己画）。结论：多数词要专门画插图，每个词的工作量和 7A-U4 一样；全表 9299 个词做不完，要先定先做哪些（等用户定） |
 
 ## 总表里看着不对的地方（出题时绕开了，以后用维护技能核对）
@@ -571,6 +572,8 @@
 - brainchild：复数写成 brainchilds，应为 brainchildren
 - pool：初中含义只写“n. 水塘”，初中最常用的是“游泳池”（swimming pool）
 - demand：易混写成“demand / require（demand 是“强硬地要求”，require 是“”）”，require 的解释是空的，应补“按规定需要、要求”
+- e-mail：变形写成“n. 不可数，没有复数”，和同一个词 email 的“复数 emails”对不上；一封封邮件可数，复数 e-mails
+- straight：初中含义只写“adj. 一直的”，straight 作形容词是“直的”，“一直”是副词用法（go straight）
 
 ## 总表里出现两次的词（细节数据按单词存一份，两行共用；出题时两个意思都要考到）
 
