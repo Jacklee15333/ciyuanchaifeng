@@ -2864,31 +2864,31 @@
 36	66	synthesizer	n. 合成器、电子合成乐器	细节数据有	缺	词/s/synthesizer.json
 36	67	synthetic	adj. 合成的、人造的	细节数据有	缺	词/s/synthetic.json
 36	68	hypothesis	n. 假说、假设；前提	细节数据有	缺	词/h/hypothesis.json
-36	69	indeed	adv. 确实、的确	缺	缺	
-36	70	do	aux. 做	缺	缺	
-36	71	done	adj. 完成的	缺	缺	
-36	72	redid	v. 改做；重新装修）的过去式	缺	缺	
-36	73	undo	v. 解开、打开；撤销、消除	缺	缺	
-36	74	deed	n. 行为、行动；功绩	缺	缺	
-36	75	some	adj. 一些；几个 pron. 若干	缺	缺	
-36	76	someone	pron. 某人；有人	缺	缺	
-36	77	somebody	pron. 某人；有人	缺	缺	
-36	78	somewhere	adv. 在某处	缺	缺	
-36	79	sometime	adv. 某个时候 adj. 以前的、曾任的	缺	缺	
-36	80	somewhat	adv. 有点儿、稍微	缺	缺	
-37	1	waste	v. 浪费 n. 废物；垃圾	缺	缺	
-37	2	wasteful	adj. 浪费的、挥霍的	缺	缺	
-37	3	wastewater	n. 废水、污水	缺	缺	
-37	4	no-waste	adj. 零浪费的、不产生废物的	缺	缺	
-37	5	wasteland	n. 荒地、荒原	缺	缺	
-37	6	vast	adj. 巨大的、广阔的；大量的	缺	缺	
-37	7	devastate	v. 摧毁、毁坏	缺	缺	
-37	8	devastation	n. 极度的悲痛	缺	缺	
-37	9	mountain	n. 山	缺	缺	
-37	10	mountaineer	n. 登山者、登山家	缺	缺	
-37	11	mountaineering	n. 登山运动	缺	缺	
-37	12	mountainous	adj. 多山的	缺	缺	
-37	13	mountaintop	n. 山顶	缺	缺	
+36	69	indeed	adv. 确实、的确	细节数据有	缺	词/i/indeed.json
+36	70	do	aux. 做	细节数据有	缺	词/d/do.json
+36	71	done	adj. 完成的	细节数据有	缺	词/d/done.json
+36	72	redid	v. 改做；重新装修）的过去式	细节数据有	缺	词/r/redid.json
+36	73	undo	v. 解开、打开；撤销、消除	细节数据有	缺	词/u/undo.json
+36	74	deed	n. 行为、行动；功绩	细节数据有	缺	词/d/deed.json
+36	75	some	adj. 一些；几个 pron. 若干	细节数据有	缺	词/s/some.json
+36	76	someone	pron. 某人；有人	细节数据有	缺	词/s/someone.json
+36	77	somebody	pron. 某人；有人	细节数据有	缺	词/s/somebody.json
+36	78	somewhere	adv. 在某处	细节数据有	缺	词/s/somewhere.json
+36	79	sometime	adv. 某个时候 adj. 以前的、曾任的	细节数据有	缺	词/s/sometime.json
+36	80	somewhat	adv. 有点儿、稍微	细节数据有	缺	词/s/somewhat.json
+37	1	waste	v. 浪费 n. 废物；垃圾	细节数据有	缺	词/w/waste.json
+37	2	wasteful	adj. 浪费的、挥霍的	细节数据有	缺	词/w/wasteful.json
+37	3	wastewater	n. 废水、污水	细节数据有	缺	词/w/wastewater.json
+37	4	no-waste	adj. 零浪费的、不产生废物的	细节数据有	缺	词/n/no-waste.json
+37	5	wasteland	n. 荒地、荒原	细节数据有	缺	词/w/wasteland.json
+37	6	vast	adj. 巨大的、广阔的；大量的	细节数据有	缺	词/v/vast.json
+37	7	devastate	v. 摧毁、毁坏	细节数据有	缺	词/d/devastate.json
+37	8	devastation	n. 极度的悲痛	细节数据有	缺	词/d/devastation.json
+37	9	mountain	n. 山	细节数据有	缺	词/m/mountain.json
+37	10	mountaineer	n. 登山者、登山家	细节数据有	缺	词/m/mountaineer.json
+37	11	mountaineering	n. 登山运动	细节数据有	缺	词/m/mountaineering.json
+37	12	mountainous	adj. 多山的	细节数据有	缺	词/m/mountainous.json
+37	13	mountaintop	n. 山顶	细节数据有	缺	词/m/mountaintop.json
 37	14	amount	n. 数量	缺	缺	
 37	15	mount	v. 登上；骑上 n. 底座	缺	缺	
 37	16	mounting	adj. 不断增加的、越来越大的 n. 底座、支架	缺	缺	
