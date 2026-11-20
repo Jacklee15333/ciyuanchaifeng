@@ -3367,31 +3367,31 @@
 43	7	windswept	adj. 受强风吹袭的	细节数据有	缺	词/w/windswept.json
 43	8	windbreak	n. 防风林	细节数据有	缺	词/w/windbreak.json
 43	9	conversation	n. 会话	细节数据有	缺	词/c/conversation.json
-43	10	converse	v. 交谈	缺	缺	
-43	11	conversational	adj. 会话的、谈话的；聊天式的、口语化的	缺	缺	
-43	12	version	n. 版本	缺	缺	
-43	13	diverse	adj. 各式各样的、差别很大的；多元的	缺	缺	
-43	14	diversity	n. 多样性	缺	缺	
-43	15	versus	prep. 诉、对；与…相比	缺	缺	
-43	16	vs	prep. 对；与…相比	缺	缺	
-43	17	reverse	adj. 相反的、背面的 n. 倒挡	缺	缺	
-43	18	verse	n. 韵文、诗	缺	缺	
-43	19	convert	v. 转变、转换 n. 皈依者	缺	缺	
-43	20	conversion	n. 转变、转换；改建	缺	缺	
-43	21	adverse	adj. 不利的、有害的；相反的	缺	缺	
-43	22	adversity	n. 逆境、困境；不幸的事	缺	缺	
-43	23	advertise	v. 做广告、宣传	缺	缺	
-43	24	advertising	n. 广告业	缺	缺	
-43	25	advertisement	n. 广告	缺	缺	
-43	26	ad	n. 广告	缺	缺	
-43	27	ads	n. 广告	缺	缺	
-43	28	advertiser	n. 广告客户、登广告者	缺	缺	
-43	29	vertical	adj. 垂直的、竖的	缺	缺	
-43	30	controversy	n. 争议、争论	缺	缺	
-43	31	controversial	adj. 有争议的、引起争论的	缺	缺	
-43	32	divorce	n. 离婚	缺	缺	
-43	33	wrong	adj. 错误的；不正常的	缺	缺	
-43	34	wrongly	adv. 错误地；冤枉地	缺	缺	
+43	10	converse	v. 交谈	细节数据有	缺	词/c/converse.json
+43	11	conversational	adj. 会话的、谈话的；聊天式的、口语化的	细节数据有	缺	词/c/conversational.json
+43	12	version	n. 版本	细节数据有	缺	词/v/version.json
+43	13	diverse	adj. 各式各样的、差别很大的；多元的	细节数据有	缺	词/d/diverse.json
+43	14	diversity	n. 多样性	细节数据有	缺	词/d/diversity.json
+43	15	versus	prep. 诉、对；与…相比	细节数据有	缺	词/v/versus.json
+43	16	vs	prep. 对；与…相比	细节数据有	缺	词/v/vs.json
+43	17	reverse	adj. 相反的、背面的 n. 倒挡	细节数据有	缺	词/r/reverse.json
+43	18	verse	n. 韵文、诗	细节数据有	缺	词/v/verse.json
+43	19	convert	v. 转变、转换 n. 皈依者	细节数据有	缺	词/c/convert.json
+43	20	conversion	n. 转变、转换；改建	细节数据有	缺	词/c/conversion.json
+43	21	adverse	adj. 不利的、有害的；相反的	细节数据有	缺	词/a/adverse.json
+43	22	adversity	n. 逆境、困境；不幸的事	细节数据有	缺	词/a/adversity.json
+43	23	advertise	v. 做广告、宣传	细节数据有	缺	词/a/advertise.json
+43	24	advertising	n. 广告业	细节数据有	缺	词/a/advertising.json
+43	25	advertisement	n. 广告	细节数据有	缺	词/a/advertisement.json
+43	26	ad	n. 广告	细节数据有	缺	词/a/ad.json
+43	27	ads	n. 广告	细节数据有	缺	词/a/ads.json
+43	28	advertiser	n. 广告客户、登广告者	细节数据有	缺	词/a/advertiser.json
+43	29	vertical	adj. 垂直的、竖的	细节数据有	缺	词/v/vertical.json
+43	30	controversy	n. 争议、争论	细节数据有	缺	词/c/controversy.json
+43	31	controversial	adj. 有争议的、引起争论的	细节数据有	缺	词/c/controversial.json
+43	32	divorce	n. 离婚	细节数据有	缺	词/d/divorce.json
+43	33	wrong	adj. 错误的；不正常的	细节数据有	缺	词/w/wrong.json
+43	34	wrongly	adv. 错误地；冤枉地	细节数据有	缺	词/w/wrongly.json
 43	35	right-and-wrong	n. 是非	缺	缺	
 43	36	wrench	v. 猛扭、猛拉 n. 扳手	缺	缺	
 43	37	wrinkle	n. 皱纹；褶子	缺	缺	

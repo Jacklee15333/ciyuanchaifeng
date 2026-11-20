@@ -78,6 +78,7 @@
 | 2026-11-20 | 题目第 34 批 | 100 | socialism … occasion（体检全部 0 个问题；acceptable、captivated 改过再存）。累计 3075 个词有题目 |
 | 2026-11-20 | 题目第 35 批 | 100 | occasionally … shape（体检全部 0 个问题；musical、landing、inland、worry、worried、worriedly、behind、unsure、inaccurate 改过再存）。累计 3175 个词有题目 |
 | 2026-11-20 | 题目第 36 批 | 100 | shaped … absence（体检全部 0 个问题；continuously、continuity、continent、tennis 改过再存）。累计 3275 个词有题目 |
+| 2026-11-20 | 题目第 37 批 | 100 | absent … wrongly（体检全部 0 个问题；holy 改过再存）。累计 3375 个词有题目 |
 | 2026-11-19 | 试做 truly | 0 | 只用自带素材加表情图拼画面：起草检查不通过（表情图要换成写实插图、每幅画都要动、小图标要自己画）。结论：多数词要专门画插图，每个词的工作量和 7A-U4 一样；全表 9299 个词做不完，要先定先做哪些（等用户定） |
 
 ## 总表里看着不对的地方（出题时绕开了，以后用维护技能核对）
@@ -286,6 +287,8 @@
 - healthcare：初中含义“医疗保健、卫生保健（英式多连写”少了右括号
 - spacecraft：变形写“复数 spacecrafts”不对；craft 作“飞行器”讲复数不加 s（辨析里自己也这样说），复数仍是 spacecraft
 - dollar：初中含义“元(美国”少了右括号
+- ads：标成“一般不可数，不加 s”不对；ads 本身就是 ad 的复数
+- controversial：易混一栏写“disputed 侧重“””，后半句是空的，应补“（事实、归属）有争执的”
 
 ## 总表里出现两次的词（细节数据按单词存一份，两行共用；出题时两个意思都要考到）
 
