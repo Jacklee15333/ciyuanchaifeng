@@ -2814,31 +2814,31 @@
 36	16	profit	n. 利润、盈利；益处	细节数据有	缺	词/p/profit.json
 36	17	nonprofit	adj. 非营利的	细节数据有	缺	词/n/nonprofit.json
 36	18	profitable	adj. 有利可图的、赚钱的；有益的	细节数据有	缺	词/p/profitable.json
-36	19	non-profit	adj. 非营利的	缺	缺	
-36	20	not-for-profit	adj. 非营利的	缺	缺	
-36	21	facility	n. 熟练、天赋	缺	缺	
-36	22	beneficial	adj. 有益的、有利的	缺	缺	
-36	23	sufficient	adj. 足够的、充分的	缺	缺	
-36	24	insufficient	adj. 不足的、不够的	缺	缺	
-36	25	facilitate	v. 促进、使便利；主持、引导	缺	缺	
-36	26	beneficiary	n. 受益人、受惠者	缺	缺	
-36	27	perfect	adj. 完美的；极好的	缺	缺	
-36	28	perfectly	adv. 完美地	缺	缺	
-36	29	perfection	n. 完美、尽善尽美	缺	缺	
-36	30	imperfection	n. 缺点、瑕疵；不完美	缺	缺	
-36	31	imperfect	adj. 不完美的、有缺陷的	缺	缺	
-36	32	perfectionism	n. 完美主义	缺	缺	
-36	33	effect	n. 效果	缺	缺	
-36	34	effective	adj. 有效的、管用的；实际的、事实上的	缺	缺	
-36	35	effectively	adv. 有效地；实际上、事实上	缺	缺	
-36	36	effectiveness	n. 有效性、效果	缺	缺	
-36	37	cause-and-effect	adj. 因果的	缺	缺	
-36	38	cost-effective	adj. 划算的、性价比高的	缺	缺	
-36	39	affect	v. 影响；感动	缺	缺	
-36	40	infect	v. 感染、传染	缺	缺	
-36	41	infection	n. 感染、传染	缺	缺	
-36	42	infectious	adj. 传染性的	缺	缺	
-36	43	affection	n. 喜爱、关爱	缺	缺	
+36	19	non-profit	adj. 非营利的	细节数据有	缺	词/n/non-profit.json
+36	20	not-for-profit	adj. 非营利的	细节数据有	缺	词/n/not-for-profit.json
+36	21	facility	n. 熟练、天赋	细节数据有	缺	词/f/facility.json
+36	22	beneficial	adj. 有益的、有利的	细节数据有	缺	词/b/beneficial.json
+36	23	sufficient	adj. 足够的、充分的	细节数据有	缺	词/s/sufficient.json
+36	24	insufficient	adj. 不足的、不够的	细节数据有	缺	词/i/insufficient.json
+36	25	facilitate	v. 促进、使便利；主持、引导	细节数据有	缺	词/f/facilitate.json
+36	26	beneficiary	n. 受益人、受惠者	细节数据有	缺	词/b/beneficiary.json
+36	27	perfect	adj. 完美的；极好的	细节数据有	缺	词/p/perfect.json
+36	28	perfectly	adv. 完美地	细节数据有	缺	词/p/perfectly.json
+36	29	perfection	n. 完美、尽善尽美	细节数据有	缺	词/p/perfection.json
+36	30	imperfection	n. 缺点、瑕疵；不完美	细节数据有	缺	词/i/imperfection.json
+36	31	imperfect	adj. 不完美的、有缺陷的	细节数据有	缺	词/i/imperfect.json
+36	32	perfectionism	n. 完美主义	细节数据有	缺	词/p/perfectionism.json
+36	33	effect	n. 效果	细节数据有	缺	词/e/effect.json
+36	34	effective	adj. 有效的、管用的；实际的、事实上的	细节数据有	缺	词/e/effective.json
+36	35	effectively	adv. 有效地；实际上、事实上	细节数据有	缺	词/e/effectively.json
+36	36	effectiveness	n. 有效性、效果	细节数据有	缺	词/e/effectiveness.json
+36	37	cause-and-effect	adj. 因果的	细节数据有	缺	词/c/cause-and-effect.json
+36	38	cost-effective	adj. 划算的、性价比高的	细节数据有	缺	词/c/cost-effective.json
+36	39	affect	v. 影响；感动	细节数据有	缺	词/a/affect.json
+36	40	infect	v. 感染、传染	细节数据有	缺	词/i/infect.json
+36	41	infection	n. 感染、传染	细节数据有	缺	词/i/infection.json
+36	42	infectious	adj. 传染性的	细节数据有	缺	词/i/infectious.json
+36	43	affection	n. 喜爱、关爱	细节数据有	缺	词/a/affection.json
 36	44	defect	n. 缺陷、毛病 v. 叛逃、投奔	缺	缺	
 36	45	prefect	n. 长官	缺	缺	
 36	46	vice-prefect	n. 副长官	缺	缺	
