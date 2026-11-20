@@ -3142,31 +3142,31 @@
 40	22	landscape	n. 风景、景观	细节数据有	缺	词/l/landscape.json
 40	23	highland	n. 高地、高原地区	细节数据有	缺	词/h/highland.json
 40	24	landfall	n. 抵达陆地	细节数据有	缺	词/l/landfall.json
-40	25	aquatic	adj. 水生的、水栖的	缺	缺	
-40	26	cut	v. 切；剪	缺	缺	
-40	27	cutter	n. 刀具、切割器	缺	缺	
-40	28	cut-up	n. 剪贴拼贴 adj. 切碎的	缺	缺	
-40	29	key	n. 钥匙；答案	缺	缺	
-40	30	keychain	n. 钥匙链、钥匙扣	缺	缺	
-40	31	off-key	adj. 走调；不合时宜的、不得体的	缺	缺	
-40	32	worry	v. 担心；烦恼	缺	缺	
-40	33	worried	adj. 担心的、发愁的	缺	缺	
-40	34	worriedly	adv. 担心地、忧虑地	缺	缺	
-40	35	behind	prep. 在…后面；支持	缺	缺	
-40	36	hind	adj. 后面的、后部的	缺	缺	
-40	37	excite	v. 使兴奋、使激动	缺	缺	
-40	38	exciting	adj. 使人兴奋的	缺	缺	
-40	39	excited	adj. 兴奋的	缺	缺	
-40	40	excitement	n. 兴奋、激动	缺	缺	
-40	41	excitedly	adv. 兴奋地、激动地	缺	缺	
-40	42	super-excited	adj. 超级兴奋的、激动坏了	缺	缺	
-40	43	recite	v. 背诵、朗诵；列举、一一道来	缺	缺	
-40	44	recitation	n. 背诵、朗诵	缺	缺	
-40	45	sure	adj. 确信的	缺	缺	
-40	46	unsure	adj. 不确定的、拿不准的；缺乏自信的	缺	缺	
-40	47	surely	adv. 无疑、肯定	缺	缺	
-40	48	ensure	v. 确保、保证	缺	缺	
-40	49	secure	adj. 安全的、有保障的；牢固的 v. 获得、争取到	缺	缺	
+40	25	aquatic	adj. 水生的、水栖的	细节数据有	缺	词/a/aquatic.json
+40	26	cut	v. 切；剪	细节数据有	缺	词/c/cut.json
+40	27	cutter	n. 刀具、切割器	细节数据有	缺	词/c/cutter.json
+40	28	cut-up	n. 剪贴拼贴 adj. 切碎的	细节数据有	缺	词/c/cut-up.json
+40	29	key	n. 钥匙；答案	细节数据有	缺	词/k/key.json
+40	30	keychain	n. 钥匙链、钥匙扣	细节数据有	缺	词/k/keychain.json
+40	31	off-key	adj. 走调；不合时宜的、不得体的	细节数据有	缺	词/o/off-key.json
+40	32	worry	v. 担心；烦恼	细节数据有	缺	词/w/worry.json
+40	33	worried	adj. 担心的、发愁的	细节数据有	缺	词/w/worried.json
+40	34	worriedly	adv. 担心地、忧虑地	细节数据有	缺	词/w/worriedly.json
+40	35	behind	prep. 在…后面；支持	细节数据有	缺	词/b/behind.json
+40	36	hind	adj. 后面的、后部的	细节数据有	缺	词/h/hind.json
+40	37	excite	v. 使兴奋、使激动	细节数据有	缺	词/e/excite.json
+40	38	exciting	adj. 使人兴奋的	细节数据有	缺	词/e/exciting.json
+40	39	excited	adj. 兴奋的	细节数据有	缺	词/e/excited.json
+40	40	excitement	n. 兴奋、激动	细节数据有	缺	词/e/excitement.json
+40	41	excitedly	adv. 兴奋地、激动地	细节数据有	缺	词/e/excitedly.json
+40	42	super-excited	adj. 超级兴奋的、激动坏了	细节数据有	缺	词/s/super-excited.json
+40	43	recite	v. 背诵、朗诵；列举、一一道来	细节数据有	缺	词/r/recite.json
+40	44	recitation	n. 背诵、朗诵	细节数据有	缺	词/r/recitation.json
+40	45	sure	adj. 确信的	细节数据有	缺	词/s/sure.json
+40	46	unsure	adj. 不确定的、拿不准的；缺乏自信的	细节数据有	缺	词/u/unsure.json
+40	47	surely	adv. 无疑、肯定	细节数据有	缺	词/s/surely.json
+40	48	ensure	v. 确保、保证	细节数据有	缺	词/e/ensure.json
+40	49	secure	adj. 安全的、有保障的；牢固的 v. 获得、争取到	细节数据有	缺	词/s/secure.json
 40	50	security	n. 安全；保障	缺	缺	
 40	51	insecurity	n. 不安全感、缺乏自信；不稳定、无保障	缺	缺	
 40	52	insecure	adj. 缺乏自信的、没有安全感的；不稳定的	缺	缺	
