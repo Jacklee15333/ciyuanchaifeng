@@ -5779,31 +5779,31 @@
 76	26	radioactivity	n. 放射性	细节数据有	缺	词/r/radioactivity.json
 76	27	radiocarbon	n. 放射性碳	细节数据有	缺	词/r/radiocarbon.json
 76	28	radium	n. 镭	细节数据有	缺	词/r/radium.json
-76	29	shelter	n. 遮蔽处、避难所；收容所	缺	缺	
-76	30	soldier	n. 士兵	缺	缺	
-76	31	solid	adj. 固体的；实心的	缺	缺	
-76	32	solder	n. 焊锡、焊料	缺	缺	
-76	33	solidarity	n. 团结；齐心协力	缺	缺	
-76	34	march	n. 月份	缺	缺	
-76	35	scare	v. 惊吓、吓唬 n. 恐慌	缺	缺	
-76	36	scared	adj. 害怕的	缺	缺	
-76	37	scary	adj. 吓人的、恐怖的	缺	缺	
-76	38	scarecrow	n. 稻草人；衣衫褴褛、瘦得皮包骨的人	缺	缺	
-76	39	vary	v. 各不相同、有差异；改变、变换	缺	缺	
-76	40	varied	v. 过去分词 adj. 各种各样的、丰富多彩的	缺	缺	
-76	41	variation	n. 变化、变动	缺	缺	
-76	42	various	adj. 各种各样的	缺	缺	
-76	43	variously	adv. 不同地、各种各样地	缺	缺	
-76	44	variety	n. 种种	缺	缺	
-76	45	excel	v. 擅长、突出；胜过	缺	缺	
-76	46	excellent	adj. 极好的	缺	缺	
-76	47	excellence	n. 卓越、优秀	缺	缺	
-76	48	melody	n. 旋律、曲调	缺	缺	
-76	49	melodic	adj. 旋律的	缺	缺	
-76	50	ode	n. 颂歌、颂诗	缺	缺	
-76	51	tragedy	n. 悲剧；惨事、不幸	缺	缺	
-76	52	tragic	adj. 悲惨的、不幸的	缺	缺	
-76	53	comedy	n. 喜剧；滑稽、幽默	缺	缺	
+76	29	shelter	n. 遮蔽处、避难所；收容所	细节数据有	缺	词/s/shelter.json
+76	30	soldier	n. 士兵	细节数据有	缺	词/s/soldier.json
+76	31	solid	adj. 固体的；实心的	细节数据有	缺	词/s/solid.json
+76	32	solder	n. 焊锡、焊料	细节数据有	缺	词/s/solder.json
+76	33	solidarity	n. 团结；齐心协力	细节数据有	缺	词/s/solidarity.json
+76	34	march	n. 月份	细节数据有	缺	词/m/march.json
+76	35	scare	v. 惊吓、吓唬 n. 恐慌	细节数据有	缺	词/s/scare.json
+76	36	scared	adj. 害怕的	细节数据有	缺	词/s/scared.json
+76	37	scary	adj. 吓人的、恐怖的	细节数据有	缺	词/s/scary.json
+76	38	scarecrow	n. 稻草人；衣衫褴褛、瘦得皮包骨的人	细节数据有	缺	词/s/scarecrow.json
+76	39	vary	v. 各不相同、有差异；改变、变换	细节数据有	缺	词/v/vary.json
+76	40	varied	v. 过去分词 adj. 各种各样的、丰富多彩的	细节数据有	缺	词/v/varied.json
+76	41	variation	n. 变化、变动	细节数据有	缺	词/v/variation.json
+76	42	various	adj. 各种各样的	细节数据有	缺	词/v/various.json
+76	43	variously	adv. 不同地、各种各样地	细节数据有	缺	词/v/variously.json
+76	44	variety	n. 种种	细节数据有	缺	词/v/variety.json
+76	45	excel	v. 擅长、突出；胜过	细节数据有	缺	词/e/excel.json
+76	46	excellent	adj. 极好的	细节数据有	缺	词/e/excellent.json
+76	47	excellence	n. 卓越、优秀	细节数据有	缺	词/e/excellence.json
+76	48	melody	n. 旋律、曲调	细节数据有	缺	词/m/melody.json
+76	49	melodic	adj. 旋律的	细节数据有	缺	词/m/melodic.json
+76	50	ode	n. 颂歌、颂诗	细节数据有	缺	词/o/ode.json
+76	51	tragedy	n. 悲剧；惨事、不幸	细节数据有	缺	词/t/tragedy.json
+76	52	tragic	adj. 悲惨的、不幸的	细节数据有	缺	词/t/tragic.json
+76	53	comedy	n. 喜剧；滑稽、幽默	细节数据有	缺	词/c/comedy.json
 76	54	comic	adj. 喜剧的；滑稽的、搞笑的	缺	缺	
 77	1	nurse	n. 护士；保育员	缺	缺	
 77	2	nursing	n. 护理 adj. 哺乳期的	缺	缺	
