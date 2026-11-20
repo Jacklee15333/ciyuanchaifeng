@@ -5603,32 +5603,32 @@
 72	46	admiration	n. 钦佩、赞赏	细节数据有	缺	词/a/admiration.json
 72	47	miracle	n. 奇迹、神迹	细节数据有	缺	词/m/miracle.json
 72	48	marvel	n. 奇迹、奇妙的人或事 v. 惊叹	细节数据有	缺	词/m/marvel.json
-72	49	palace	n. 宫	缺	缺	
-72	50	palatial	adj. 宫殿般的、富丽堂皇的	缺	缺	
-72	51	rare	adj. 稀有的、罕见的；难得的、极好的	缺	缺	
-72	52	rarely	adv. 罕有；很少	缺	缺	
+72	49	palace	n. 宫	细节数据有	缺	词/p/palace.json
+72	50	palatial	adj. 宫殿般的、富丽堂皇的	细节数据有	缺	词/p/palatial.json
+72	51	rare	adj. 稀有的、罕见的；难得的、极好的	细节数据有	缺	词/r/rare.json
+72	52	rarely	adv. 罕有；很少	细节数据有	缺	词/r/rarely.json
 72	53	lock	n. 锁 v. 锁上	总表有	kit有（7A-U4）	
-72	54	locked	adj. 锁着的；卡住的、固定住的	缺	缺	
-72	55	unlock	v. 开锁、打开	缺	缺	
-72	56	lockable	adj. 可上锁的	缺	缺	
-72	57	locker	n. 储物柜、寄存柜	缺	缺	
-72	58	earn	v. 挣；赢得、博得	缺	缺	
-72	59	earning	n. 收入、工资	缺	缺	
-72	60	earnings	n. 收入、工资	缺	缺	
-72	61	hard-earned	adj. 来之不易的	缺	缺	
-72	62	dynasty	n. 王朝、朝代	缺	缺	
-72	63	dynastic	adj. 王朝的、朝代的	缺	缺	
-72	64	dynamic	adj. 有活力的、充满干劲的；动态的、不断变化的 n. 相互作用的方式	缺	缺	
-72	65	dynamics	n. 动力学	缺	缺	
-73	1	square	n. 广场 adj. 平方的	缺	缺	
-73	2	squarely	adv. 正对着、直接地；完全地、明确地	缺	缺	
-73	3	quarter	n. 四分之一；一刻钟	缺	缺	
-73	4	quarter-hour	n. 一刻钟、15分钟	缺	缺	
-73	5	quarterfinal	n. 四分之一决赛	缺	缺	
-73	6	four	num. 基数词	缺	缺	
-73	7	fourteen	num. 基数词	缺	缺	
-73	8	four-day	adj. 为期四天的	缺	缺	
-73	9	toy	n. 玩具	缺	缺	
+72	54	locked	adj. 锁着的；卡住的、固定住的	细节数据有	缺	词/l/locked.json
+72	55	unlock	v. 开锁、打开	细节数据有	缺	词/u/unlock.json
+72	56	lockable	adj. 可上锁的	细节数据有	缺	词/l/lockable.json
+72	57	locker	n. 储物柜、寄存柜	细节数据有	缺	词/l/locker.json
+72	58	earn	v. 挣；赢得、博得	细节数据有	缺	词/e/earn.json
+72	59	earning	n. 收入、工资	细节数据有	缺	词/e/earning.json
+72	60	earnings	n. 收入、工资	细节数据有	缺	词/e/earnings.json
+72	61	hard-earned	adj. 来之不易的	细节数据有	缺	词/h/hard-earned.json
+72	62	dynasty	n. 王朝、朝代	细节数据有	缺	词/d/dynasty.json
+72	63	dynastic	adj. 王朝的、朝代的	细节数据有	缺	词/d/dynastic.json
+72	64	dynamic	adj. 有活力的、充满干劲的；动态的、不断变化的 n. 相互作用的方式	细节数据有	缺	词/d/dynamic.json
+72	65	dynamics	n. 动力学	细节数据有	缺	词/d/dynamics.json
+73	1	square	n. 广场 adj. 平方的	细节数据有	缺	词/s/square.json
+73	2	squarely	adv. 正对着、直接地；完全地、明确地	细节数据有	缺	词/s/squarely.json
+73	3	quarter	n. 四分之一；一刻钟	细节数据有	缺	词/q/quarter.json
+73	4	quarter-hour	n. 一刻钟、15分钟	细节数据有	缺	词/q/quarter-hour.json
+73	5	quarterfinal	n. 四分之一决赛	细节数据有	缺	词/q/quarterfinal.json
+73	6	four	num. 基数词	细节数据有	缺	词/f/four.json
+73	7	fourteen	num. 基数词	细节数据有	缺	词/f/fourteen.json
+73	8	four-day	adj. 为期四天的	细节数据有	缺	词/f/four-day.json
+73	9	toy	n. 玩具	细节数据有	缺	词/t/toy.json
 73	10	grab	v. 抓住、夺取；吸引	缺	缺	
 73	11	hesitate	v. 犹豫	缺	缺	
 73	12	hesitation	n. 犹豫、迟疑	缺	缺	
