@@ -6030,31 +6030,31 @@
 80	50	trade-off	n. 权衡、取舍	细节数据有	缺	词/t/trade-off.json
 80	51	trade-offs	n. 权衡、取舍	细节数据有	缺	词/t/trade-offs.json
 80	52	clock	n. 钟	细节数据有	缺	词/c/clock.json
-80	53	o'clock	n. …点钟	缺	缺	
-80	54	cloak	n. 斗篷、披风 v. 掩盖	缺	缺	
-80	55	clockwork	n. 钟表机构、发条装置	缺	缺	
-80	56	lack	n. 缺乏、不足	缺	缺	
-80	57	jacket	n. 短上衣	缺	缺	
-80	58	pot	n. 锅；壶	缺	缺	
-80	59	pottery	n. 陶器	缺	缺	
-80	60	potter	n. 陶工、陶艺家	缺	缺	
-80	61	jackpot	n. 头奖、累积奖金	缺	缺	
-80	62	greet	v. 问候、打招呼；迎接	缺	缺	
-80	63	greeting	n. 问候、招呼	缺	缺	
-81	1	stream	n. 小河、溪流	缺	缺	
-81	2	streaming	adj. 流个不停的	缺	缺	
-81	3	upstream	adv. 向上游、逆流	缺	缺	
-81	4	downstream	adv. 顺流、在下游	缺	缺	
-81	5	mainstream	n. 主流	缺	缺	
-81	6	livestream	n. 网络直播	缺	缺	
-81	7	livestreamed	adj. 被直播的	缺	缺	
-81	8	streamline	n. 流线 v. 精简、提高效率	缺	缺	
-81	9	east	adj. 东方的；东部的 n. 东	缺	缺	
-81	10	eastern	adj. 东方的、东部的；东正教的	缺	缺	
-81	11	Easter	n. 复活节	缺	缺	
-81	12	Austria	n. 奥地利	缺	缺	
-81	13	aurora	n. 极光	缺	缺	
-81	14	blind	adj. 瞎的 n. 盲人	缺	缺	
+80	53	o'clock	n. …点钟	细节数据有	缺	词/o/o'clock.json
+80	54	cloak	n. 斗篷、披风 v. 掩盖	细节数据有	缺	词/c/cloak.json
+80	55	clockwork	n. 钟表机构、发条装置	细节数据有	缺	词/c/clockwork.json
+80	56	lack	n. 缺乏、不足	细节数据有	缺	词/l/lack.json
+80	57	jacket	n. 短上衣	细节数据有	缺	词/j/jacket.json
+80	58	pot	n. 锅；壶	细节数据有	缺	词/p/pot.json
+80	59	pottery	n. 陶器	细节数据有	缺	词/p/pottery.json
+80	60	potter	n. 陶工、陶艺家	细节数据有	缺	词/p/potter.json
+80	61	jackpot	n. 头奖、累积奖金	细节数据有	缺	词/j/jackpot.json
+80	62	greet	v. 问候、打招呼；迎接	细节数据有	缺	词/g/greet.json
+80	63	greeting	n. 问候、招呼	细节数据有	缺	词/g/greeting.json
+81	1	stream	n. 小河、溪流	细节数据有	缺	词/s/stream.json
+81	2	streaming	adj. 流个不停的	细节数据有	缺	词/s/streaming.json
+81	3	upstream	adv. 向上游、逆流	细节数据有	缺	词/u/upstream.json
+81	4	downstream	adv. 顺流、在下游	细节数据有	缺	词/d/downstream.json
+81	5	mainstream	n. 主流	细节数据有	缺	词/m/mainstream.json
+81	6	livestream	n. 网络直播	细节数据有	缺	词/l/livestream.json
+81	7	livestreamed	adj. 被直播的	细节数据有	缺	词/l/livestreamed.json
+81	8	streamline	n. 流线 v. 精简、提高效率	细节数据有	缺	词/s/streamline.json
+81	9	east	adj. 东方的；东部的 n. 东	细节数据有	缺	词/e/east.json
+81	10	eastern	adj. 东方的、东部的；东正教的	细节数据有	缺	词/e/eastern.json
+81	11	Easter	n. 复活节	细节数据有	缺	词/e/Easter.json
+81	12	Austria	n. 奥地利	细节数据有	缺	词/a/Austria.json
+81	13	aurora	n. 极光	细节数据有	缺	词/a/aurora.json
+81	14	blind	adj. 瞎的 n. 盲人	细节数据有	缺	词/b/blind.json
 81	15	blindly	adv. 盲目地、不加思考地；摸索着、看不见地	缺	缺	
 81	16	blindness	n. 失明、瞎	缺	缺	
 81	17	blend	v. 混合、调和	缺	缺	
