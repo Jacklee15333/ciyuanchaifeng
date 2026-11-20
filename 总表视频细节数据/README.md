@@ -100,6 +100,7 @@
 | 2026-11-20 | 题目第 45 批第 3 组 | 25 | drag … compost（体检全部 0 个问题）。累计 4150 个词有题目 |
 | 2026-11-20 | 题目第 45 批第 4 组 | 25 | posture … opponent（体检全部 0 个问题）。累计 4175 个词有题目 |
 | 2026-11-20 | 题目第 46 批第 1 组 | 25 | component … groundwater（体检全部 0 个问题）。累计 4200 个词有题目 |
+| 2026-11-20 | 题目第 46 批第 2 组 | 25 | ground-covering … wildfire（体检全部 0 个问题）。累计 4225 个词有题目 |
 | 2026-11-19 | 试做 truly | 0 | 只用自带素材加表情图拼画面：起草检查不通过（表情图要换成写实插图、每幅画都要动、小图标要自己画）。结论：多数词要专门画插图，每个词的工作量和 7A-U4 一样；全表 9299 个词做不完，要先定先做哪些（等用户定） |
 
 ## 总表里看着不对的地方（出题时绕开了，以后用维护技能核对）
@@ -358,6 +359,9 @@
 - compound-complex：标成名词并写了复数 compound-complexes，它其实是形容词（compound-complex sentence 并列复合句），没有复数
 - grounds：写成“n. 不可数，没有复数”不对；grounds（理由）本身是复数形式，谓语用复数（There are good grounds …）
 - underground：短语写 take an underground，应为 take the underground；另写了比较级 more underground，“地下的”一般不分等级
+- groundbreaking：是形容词，【变形】却写“n. 不可数，没有复数”
+- wheat：写“复数 wheats”，wheat 一般不可数，日常不用 wheats
+- springboard：写“一般不可数，不加 s”不对；跳板可数（two springboards）
 
 ## 总表里出现两次的词（细节数据按单词存一份，两行共用；出题时两个意思都要考到）
 

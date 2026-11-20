@@ -4219,31 +4219,31 @@
 53	60	foreground	n. 前景；最显著的位置	细节数据有	缺	词/f/foreground.json
 53	61	underground	adj. 地下的 n. 地铁	细节数据有	缺	词/u/underground.json
 53	62	groundwater	n. 地下水	细节数据有	缺	词/g/groundwater.json
-53	63	ground-covering	adj. 贴地生长、能铺满地面的	缺	缺	
-53	64	groundwork	n. 基础工作、准备工作	缺	缺	
-53	65	background	n. 背景	缺	缺	
-53	66	groundbreaking	adj. 开创性的、突破性的	缺	缺	
-53	67	tire	v. 疲劳；厌倦	缺	缺	
-53	68	tired	adj. 疲劳的	缺	缺	
-53	69	tiring	adj. 累人的、令人疲倦的	缺	缺	
-53	70	tireless	adj. 不知疲倦的	缺	缺	
-53	71	tirelessly	adv. 不知疲倦地、孜孜不倦地	缺	缺	
-53	72	tired-looking	adj. 面带倦容的、显得疲惫的	缺	缺	
-53	73	white	adj. 白色的	缺	缺	
-53	74	black-and-white	adj. 黑白的	缺	缺	
-53	75	wheat	n. 小麦	缺	缺	
-53	76	whitewash	v. 粉饰、掩盖 n. 石灰水、白涂料	缺	缺	
-53	77	white-yellow	adj. 黄白色的、白中带黄的	缺	缺	
-53	78	spring	n. 春天	缺	缺	
-53	79	springboard	n. 跳板	缺	缺	
-53	80	afraid	adj. 害怕的；担心的	缺	缺	
-53	81	unafraid	adj. 不害怕的、无畏的	缺	缺	
-54	1	wild	adj. 野生的；荒凉的	缺	缺	
-54	2	wildly	adv. 狂乱地、疯狂地	缺	缺	
-54	3	wilderness	n. 荒野、荒原	缺	缺	
-54	4	rewild	v. 使恢复自然状态	缺	缺	
-54	5	wildlife	n. 野生动物	缺	缺	
-54	6	wildfire	n. 野火、山火	缺	缺	
+53	63	ground-covering	adj. 贴地生长、能铺满地面的	细节数据有	缺	词/g/ground-covering.json
+53	64	groundwork	n. 基础工作、准备工作	细节数据有	缺	词/g/groundwork.json
+53	65	background	n. 背景	细节数据有	缺	词/b/background.json
+53	66	groundbreaking	adj. 开创性的、突破性的	细节数据有	缺	词/g/groundbreaking.json
+53	67	tire	v. 疲劳；厌倦	细节数据有	缺	词/t/tire.json
+53	68	tired	adj. 疲劳的	细节数据有	缺	词/t/tired.json
+53	69	tiring	adj. 累人的、令人疲倦的	细节数据有	缺	词/t/tiring.json
+53	70	tireless	adj. 不知疲倦的	细节数据有	缺	词/t/tireless.json
+53	71	tirelessly	adv. 不知疲倦地、孜孜不倦地	细节数据有	缺	词/t/tirelessly.json
+53	72	tired-looking	adj. 面带倦容的、显得疲惫的	细节数据有	缺	词/t/tired-looking.json
+53	73	white	adj. 白色的	细节数据有	缺	词/w/white.json
+53	74	black-and-white	adj. 黑白的	细节数据有	缺	词/b/black-and-white.json
+53	75	wheat	n. 小麦	细节数据有	缺	词/w/wheat.json
+53	76	whitewash	v. 粉饰、掩盖 n. 石灰水、白涂料	细节数据有	缺	词/w/whitewash.json
+53	77	white-yellow	adj. 黄白色的、白中带黄的	细节数据有	缺	词/w/white-yellow.json
+53	78	spring	n. 春天	细节数据有	缺	词/s/spring.json
+53	79	springboard	n. 跳板	细节数据有	缺	词/s/springboard.json
+53	80	afraid	adj. 害怕的；担心的	细节数据有	缺	词/a/afraid.json
+53	81	unafraid	adj. 不害怕的、无畏的	细节数据有	缺	词/u/unafraid.json
+54	1	wild	adj. 野生的；荒凉的	细节数据有	缺	词/w/wild.json
+54	2	wildly	adv. 狂乱地、疯狂地	细节数据有	缺	词/w/wildly.json
+54	3	wilderness	n. 荒野、荒原	细节数据有	缺	词/w/wilderness.json
+54	4	rewild	v. 使恢复自然状态	细节数据有	缺	词/r/rewild.json
+54	5	wildlife	n. 野生动物	细节数据有	缺	词/w/wildlife.json
+54	6	wildfire	n. 野火、山火	细节数据有	缺	词/w/wildfire.json
 54	7	wildflower	n. 野花	缺	缺	
 54	8	wildcat	n. 野猫 adj. 未经工会批准的；投机性的	缺	缺	
 54	9	hit	v. 打	缺	缺	
