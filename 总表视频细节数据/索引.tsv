@@ -2285,31 +2285,31 @@
 29	47	until	prep. 直到	细节数据有	缺	词/u/until.json
 29	48	under	prep. 在…下面；少于	细节数据有	缺	词/u/under.json
 29	49	underneath	prep. 在…下面 adv. 在底下	细节数据有	缺	词/u/underneath.json
-29	50	close	v. 关 adj. 亲密的；近	缺	缺	
-29	51	closely	adv. 密切地；仔细地	缺	缺	
-29	52	closeness	n. 亲近、亲密	缺	缺	
-29	53	clause	n. 从句、分句；条款	缺	缺	
-29	54	closet	adj. 暗地里的 v. 关起门来密谈	缺	缺	
-29	55	include	v. 包含	缺	缺	
-29	56	included	v. 过去分词 adj. 包括在内的	缺	缺	
-29	57	including	prep. 包括	缺	缺	
-29	58	inclusive	adj. 包括在内的；不带歧视的	缺	缺	
-29	59	inclusion	n. 包括、纳入	缺	缺	
-29	60	conclude	v. 得出结论、断定	缺	缺	
-29	61	conclusion	n. 结论	缺	缺	
-29	62	conclusive	adj. 决定性的、确凿的	缺	缺	
-29	63	exclude	v. 排除、不包括；把…拒之门外	缺	缺	
-29	64	exclusive	adj. 独家的、专有的；高端、排外的	缺	缺	
-29	65	exclusivity	n. 排他性、独家性	缺	缺	
-29	66	exclusion	n. 排除、排斥	缺	缺	
-29	67	sluice	n. 水闸、泄水道 v. 冲洗	缺	缺	
-29	68	run	v. 跑；经营	缺	缺	
-29	69	ran	v. run 的过去式	缺	缺	
-29	70	runner	n. 跑步者、赛跑选手；长条桌旗	缺	缺	
-29	71	runny	adj. 流鼻涕的	缺	缺	
+29	50	close	v. 关 adj. 亲密的；近	细节数据有	缺	词/c/close.json
+29	51	closely	adv. 密切地；仔细地	细节数据有	缺	词/c/closely.json
+29	52	closeness	n. 亲近、亲密	细节数据有	缺	词/c/closeness.json
+29	53	clause	n. 从句、分句；条款	细节数据有	缺	词/c/clause.json
+29	54	closet	adj. 暗地里的 v. 关起门来密谈	细节数据有	缺	词/c/closet.json
+29	55	include	v. 包含	细节数据有	缺	词/i/include.json
+29	56	included	v. 过去分词 adj. 包括在内的	细节数据有	缺	词/i/included.json
+29	57	including	prep. 包括	细节数据有	缺	词/i/including.json
+29	58	inclusive	adj. 包括在内的；不带歧视的	细节数据有	缺	词/i/inclusive.json
+29	59	inclusion	n. 包括、纳入	细节数据有	缺	词/i/inclusion.json
+29	60	conclude	v. 得出结论、断定	细节数据有	缺	词/c/conclude.json
+29	61	conclusion	n. 结论	细节数据有	缺	词/c/conclusion.json
+29	62	conclusive	adj. 决定性的、确凿的	细节数据有	缺	词/c/conclusive.json
+29	63	exclude	v. 排除、不包括；把…拒之门外	细节数据有	缺	词/e/exclude.json
+29	64	exclusive	adj. 独家的、专有的；高端、排外的	细节数据有	缺	词/e/exclusive.json
+29	65	exclusivity	n. 排他性、独家性	细节数据有	缺	词/e/exclusivity.json
+29	66	exclusion	n. 排除、排斥	细节数据有	缺	词/e/exclusion.json
+29	67	sluice	n. 水闸、泄水道 v. 冲洗	细节数据有	缺	词/s/sluice.json
+29	68	run	v. 跑；经营	细节数据有	缺	词/r/run.json
+29	69	ran	v. run 的过去式	细节数据有	缺	词/r/ran.json
+29	70	runner	n. 跑步者、赛跑选手；长条桌旗	细节数据有	缺	词/r/runner.json
+29	71	runny	adj. 流鼻涕的	细节数据有	缺	词/r/runny.json
 29	72	outrun	v. 甩掉；超出	缺	缺	
-29	73	runoff	n. 决选、加赛	缺	缺	
-29	74	run-down	adj. 疲惫的、身体差的；破败的、失修的	缺	缺	
+29	73	runoff	n. 决选、加赛	细节数据有	缺	词/r/runoff.json
+29	74	run-down	adj. 疲惫的、身体差的；破败的、失修的	细节数据有	缺	词/r/run-down.json
 29	75	read	v. 读	缺	缺	
 29	76	reading	n. 阅读	缺	缺	
 29	77	reader	n. 读者	缺	缺	
