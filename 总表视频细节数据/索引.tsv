@@ -4673,31 +4673,31 @@
 59	48	troubleshooting	n. 故障排除、排错	细节数据有	缺	词/t/troubleshooting.json
 59	49	disturb	v. 扰乱	细节数据有	缺	词/d/disturb.json
 59	50	disturbing	adj. 令人不安的、令人担忧的	细节数据有	缺	词/d/disturbing.json
-59	51	disturbance	n. 打扰、干扰；骚乱	缺	缺	
-59	52	disturber	n. 扰乱者、打扰者	缺	缺	
-59	53	bank	n. 银行	缺	缺	
-59	54	banking	n. 银行业	缺	缺	
-59	55	banker	n. 银行家、银行高管	缺	缺	
-59	56	banknote	n. 纸币、钞票	缺	缺	
-59	57	bench	n. 长凳、长椅；工作台	缺	缺	
-59	58	workbench	n. 工作台	缺	缺	
-59	59	damage	v. 破坏	缺	缺	
-59	60	damaged	adj. 损坏的、受损的	缺	缺	
-59	61	copy	n. 副本、复印件 v. 模仿	缺	缺	
-59	62	copyright	n. 版权、著作权	缺	缺	
-59	63	farm	n. 农场	缺	缺	
-59	64	farming	n. 务农、农业	缺	缺	
-59	65	farmer	n. 农民	缺	缺	
-59	66	farmhouse	n. 农舍	缺	缺	
-59	67	farmland	n. 农田、耕地	缺	缺	
-59	68	farmyard	n. 农家院子、场院	缺	缺	
-59	69	firm	adj. 坚固的、结实的；严格的 n. 公司、事务所	缺	缺	
-59	70	firmly	adv. 坚定地；牢牢地	缺	缺	
-59	71	confirm	v. 证实、确认；正式批准、任命	缺	缺	
-59	72	confirmation	n. 确认、证实	缺	缺	
-59	73	affirm	v. 断言、坚称；肯定、支持	缺	缺	
-60	1	deal	v. 对付；分配 n. 交易	缺	缺	
-60	2	dealt	v. 分发了、发了；处理过	缺	缺	
+59	51	disturbance	n. 打扰、干扰；骚乱	细节数据有	缺	词/d/disturbance.json
+59	52	disturber	n. 扰乱者、打扰者	细节数据有	缺	词/d/disturber.json
+59	53	bank	n. 银行	细节数据有	缺	词/b/bank.json
+59	54	banking	n. 银行业	细节数据有	缺	词/b/banking.json
+59	55	banker	n. 银行家、银行高管	细节数据有	缺	词/b/banker.json
+59	56	banknote	n. 纸币、钞票	细节数据有	缺	词/b/banknote.json
+59	57	bench	n. 长凳、长椅；工作台	细节数据有	缺	词/b/bench.json
+59	58	workbench	n. 工作台	细节数据有	缺	词/w/workbench.json
+59	59	damage	v. 破坏	细节数据有	缺	词/d/damage.json
+59	60	damaged	adj. 损坏的、受损的	细节数据有	缺	词/d/damaged.json
+59	61	copy	n. 副本、复印件 v. 模仿	细节数据有	缺	词/c/copy.json
+59	62	copyright	n. 版权、著作权	细节数据有	缺	词/c/copyright.json
+59	63	farm	n. 农场	细节数据有	缺	词/f/farm.json
+59	64	farming	n. 务农、农业	细节数据有	缺	词/f/farming.json
+59	65	farmer	n. 农民	细节数据有	缺	词/f/farmer.json
+59	66	farmhouse	n. 农舍	细节数据有	缺	词/f/farmhouse.json
+59	67	farmland	n. 农田、耕地	细节数据有	缺	词/f/farmland.json
+59	68	farmyard	n. 农家院子、场院	细节数据有	缺	词/f/farmyard.json
+59	69	firm	adj. 坚固的、结实的；严格的 n. 公司、事务所	细节数据有	缺	词/f/firm.json
+59	70	firmly	adv. 坚定地；牢牢地	细节数据有	缺	词/f/firmly.json
+59	71	confirm	v. 证实、确认；正式批准、任命	细节数据有	缺	词/c/confirm.json
+59	72	confirmation	n. 确认、证实	细节数据有	缺	词/c/confirmation.json
+59	73	affirm	v. 断言、坚称；肯定、支持	细节数据有	缺	词/a/affirm.json
+60	1	deal	v. 对付；分配 n. 交易	细节数据有	缺	词/d/deal.json
+60	2	dealt	v. 分发了、发了；处理过	细节数据有	缺	词/d/dealt.json
 60	3	dealer	n. 经销商、商人；发牌人	缺	缺	
 60	4	rubbish	n. 垃圾；废物	缺	缺	
 60	5	rubbishy	adj. 劣质的、没价值的	缺	缺	
