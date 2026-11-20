@@ -5126,31 +5126,31 @@
 65	60	it	pron. 它	细节数据有	缺	词/i/it.json
 65	61	die	v. 死	细节数据有	缺	词/d/die.json
 65	62	dying	adj. 垂死的；快要消失的	细节数据有	缺	词/d/dying.json
-65	63	dead	adj. 死的；无生命的	缺	缺	
-65	64	deadly	adj. 致命的；极端的、势不两立的	缺	缺	
-65	65	death	n. 死亡	缺	缺	
-65	66	shine	v. 发光；照耀	缺	缺	
-65	67	shone	v. 照耀了；发光了	缺	缺	
-65	68	shiny	adj. 发亮的；有光泽的	缺	缺	
-65	69	outshine	v. 比…更出色	缺	缺	
-65	70	cheap	adj. 便宜的	缺	缺	
-65	71	cheaply	adv. 便宜地；廉价地	缺	缺	
-65	72	cheapness	n. 便宜；廉价	缺	缺	
-65	73	complain	v. 抱怨；投诉	缺	缺	
-65	74	complaint	n. 抱怨；投诉	缺	缺	
-65	75	complainant	n. 控告人	缺	缺	
-65	76	block	n. 一排房屋；街区 v. 阻止	缺	缺	
-65	77	blockchain	n. 区块链	缺	缺	
-65	78	blockbuster	n. 大片；畅销书	缺	缺	
-65	79	exercise	n. 锻炼；练习 v. 运用	缺	缺	
-65	80	soil	n. 土壤	缺	缺	
-66	1	observe	v. 观察	缺	缺	
-66	2	observation	n. 观察、观测	缺	缺	
-66	3	observer	n. 观察者	缺	缺	
-66	4	observant	adj. 观察力强的、留心的；严守规矩的	缺	缺	
-66	5	conserve	v. 节约；保护、保存	缺	缺	
-66	6	conservation	n. 节约	缺	缺	
-66	7	conservationist	n. 自然保护主义者、自然保护工作者	缺	缺	
+65	63	dead	adj. 死的；无生命的	细节数据有	缺	词/d/dead.json
+65	64	deadly	adj. 致命的；极端的、势不两立的	细节数据有	缺	词/d/deadly.json
+65	65	death	n. 死亡	细节数据有	缺	词/d/death.json
+65	66	shine	v. 发光；照耀	细节数据有	缺	词/s/shine.json
+65	67	shone	v. 照耀了；发光了	细节数据有	缺	词/s/shone.json
+65	68	shiny	adj. 发亮的；有光泽的	细节数据有	缺	词/s/shiny.json
+65	69	outshine	v. 比…更出色	细节数据有	缺	词/o/outshine.json
+65	70	cheap	adj. 便宜的	细节数据有	缺	词/c/cheap.json
+65	71	cheaply	adv. 便宜地；廉价地	细节数据有	缺	词/c/cheaply.json
+65	72	cheapness	n. 便宜；廉价	细节数据有	缺	词/c/cheapness.json
+65	73	complain	v. 抱怨；投诉	细节数据有	缺	词/c/complain.json
+65	74	complaint	n. 抱怨；投诉	细节数据有	缺	词/c/complaint.json
+65	75	complainant	n. 控告人	细节数据有	缺	词/c/complainant.json
+65	76	block	n. 一排房屋；街区 v. 阻止	细节数据有	缺	词/b/block.json
+65	77	blockchain	n. 区块链	细节数据有	缺	词/b/blockchain.json
+65	78	blockbuster	n. 大片；畅销书	细节数据有	缺	词/b/blockbuster.json
+65	79	exercise	n. 锻炼；练习 v. 运用	细节数据有	缺	词/e/exercise.json
+65	80	soil	n. 土壤	细节数据有	缺	词/s/soil.json
+66	1	observe	v. 观察	细节数据有	缺	词/o/observe.json
+66	2	observation	n. 观察、观测	细节数据有	缺	词/o/observation.json
+66	3	observer	n. 观察者	细节数据有	缺	词/o/observer.json
+66	4	observant	adj. 观察力强的、留心的；严守规矩的	细节数据有	缺	词/o/observant.json
+66	5	conserve	v. 节约；保护、保存	细节数据有	缺	词/c/conserve.json
+66	6	conservation	n. 节约	细节数据有	缺	词/c/conservation.json
+66	7	conservationist	n. 自然保护主义者、自然保护工作者	细节数据有	缺	词/c/conservationist.json
 66	8	preserve	v. 保护、维护 n. 果酱；专属领域	缺	缺	
 66	9	preservation	n. 保护、保存	缺	缺	
 66	10	best-preserved	adj. 保存最完好的	缺	缺	

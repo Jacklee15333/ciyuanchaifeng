@@ -136,6 +136,7 @@
 | 2026-11-20 | 题目第 54 批第 3 组 | 25 | tie … regarding（体检全部 0 个问题；race 在总表里有两行，存一份，比赛、种族两个意思都考）。累计 5049 个词有题目 |
 | 2026-11-20 | 题目第 54 批第 4 组 | 25 | regardless … self-driving（体检全部 0 个问题；garment 答案就是本词 2 道，改过再存）。累计 5074 个词有题目 |
 | 2026-11-20 | 题目第 55 批第 1 组 | 25 | self-control … dying（体检全部 0 个问题）。累计 5099 个词有题目 |
+| 2026-11-20 | 题目第 55 批第 2 组 | 25 | dead … conservationist（体检全部 0 个问题）。累计 5124 个词有题目 |
 | 2026-11-19 | 试做 truly | 0 | 只用自带素材加表情图拼画面：起草检查不通过（表情图要换成写实插图、每幅画都要动、小图标要自己画）。结论：多数词要专门画插图，每个词的工作量和 7A-U4 一样；全表 9299 个词做不完，要先定先做哪些（等用户定） |
 
 ## 总表里看着不对的地方（出题时绕开了，以后用维护技能核对）
@@ -470,6 +471,7 @@
 - self- 一组抽象名词：self-control、self-belief、self-care、self-confidence、self-defense、self-disclosure、self-doubt、self-encouragement、self-esteem、self-improvement、self-interest、self-respect、self-talk 都写了“复数 …s”，这些词一般不可数
 - die：【变形】只写了现在分词 dying，缺 dies、died
 - dying：是形容词，【变形】却写成“n. 一般不可数，不加 s”
+- observer：【易混】observer / viewer 里 viewer 的解释是空的（“viewer 是“””），应补“viewer 是看电视、视频的观众”
 
 ## 总表里出现两次的词（细节数据按单词存一份，两行共用；出题时两个意思都要考到）
 
