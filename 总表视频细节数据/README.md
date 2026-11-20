@@ -303,6 +303,7 @@
 - belongings：考点写“不可数，没有复数”；belongings 本身是复数名词，谓语用复数（My belongings are …）。
 - length：考点写“不可数，没有复数”；length 是可数名词，常用复数 lengths（different lengths）。
 - conductor：初中含义只写“导体；避雷针”，漏了最常用的“指挥”和“售票员、列车员”（辨析里提到了）；“避雷针”是 lightning conductor。
+- outdoor、indoor：考点写“比较级 more outdoor / more indoor、最高级 most outdoor / most indoor”，这两个词不分等级，没有比较级、最高级。
 
 ## 总表里出现两次的词（细节数据按单词存一份，两行共用；出题时两个意思都要考到）
 

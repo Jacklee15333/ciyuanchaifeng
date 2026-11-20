@@ -3594,31 +3594,31 @@
 45	74	committee	n. 委员会	细节数据有	缺	词/c/committee.json
 45	75	submit	v. 提交、呈递；屈服、服从	细节数据有	缺	词/s/submit.json
 45	76	commit	v. 犯；承诺、使承担义务	细节数据有	缺	词/c/commit.json
-45	77	commitment	n. 承诺；投入、献身	缺	缺	
-45	78	transmit	v. 传送、发射	缺	缺	
-45	79	rush	v. 冲	缺	缺	
-45	80	rushed	adj. 匆忙的、仓促的	缺	缺	
-45	81	rush-hour	n. 交通高峰期	缺	缺	
-46	1	forest	n. 森林	缺	缺	
-46	2	reforestation	n. 重新造林、再造林	缺	缺	
-46	3	foreign	adj. 外国的	缺	缺	
-46	4	foreigner	n. 外国人	缺	缺	
-46	5	deforest	v. 砍伐森林、毁林	缺	缺	
-46	6	deforestation	n. 毁林、森林砍伐	缺	缺	
-46	7	door	n. 门；通道	缺	缺	
-46	8	outdoor	adj. 室外的	缺	缺	
-46	9	indoors	adv. 在室内、在屋里	缺	缺	
-46	10	indoor	adj. 室内的	缺	缺	
-46	11	outdoors	adv. 在户外	缺	缺	
-46	12	door-to-door	adj. 挨家挨户的；门到门的	缺	缺	
-46	13	doorbell	n. 门铃	缺	缺	
-46	14	doorstep	n. 门阶	缺	缺	
-46	15	doorway	n. 门口、门道	缺	缺	
-46	16	forum	n. 论坛、讨论会	缺	缺	
-46	17	bright	adj. 明亮的；灿烂的	缺	缺	
-46	18	brightly	adv. 明亮地；鲜艳地	缺	缺	
-46	19	brighten	v. 使更鲜艳	缺	缺	
-46	20	brightness	n. 亮度；鲜艳	缺	缺	
+45	77	commitment	n. 承诺；投入、献身	细节数据有	缺	词/c/commitment.json
+45	78	transmit	v. 传送、发射	细节数据有	缺	词/t/transmit.json
+45	79	rush	v. 冲	细节数据有	缺	词/r/rush.json
+45	80	rushed	adj. 匆忙的、仓促的	细节数据有	缺	词/r/rushed.json
+45	81	rush-hour	n. 交通高峰期	细节数据有	缺	词/r/rush-hour.json
+46	1	forest	n. 森林	细节数据有	缺	词/f/forest.json
+46	2	reforestation	n. 重新造林、再造林	细节数据有	缺	词/r/reforestation.json
+46	3	foreign	adj. 外国的	细节数据有	缺	词/f/foreign.json
+46	4	foreigner	n. 外国人	细节数据有	缺	词/f/foreigner.json
+46	5	deforest	v. 砍伐森林、毁林	细节数据有	缺	词/d/deforest.json
+46	6	deforestation	n. 毁林、森林砍伐	细节数据有	缺	词/d/deforestation.json
+46	7	door	n. 门；通道	细节数据有	缺	词/d/door.json
+46	8	outdoor	adj. 室外的	细节数据有	缺	词/o/outdoor.json
+46	9	indoors	adv. 在室内、在屋里	细节数据有	缺	词/i/indoors.json
+46	10	indoor	adj. 室内的	细节数据有	缺	词/i/indoor.json
+46	11	outdoors	adv. 在户外	细节数据有	缺	词/o/outdoors.json
+46	12	door-to-door	adj. 挨家挨户的；门到门的	细节数据有	缺	词/d/door-to-door.json
+46	13	doorbell	n. 门铃	细节数据有	缺	词/d/doorbell.json
+46	14	doorstep	n. 门阶	细节数据有	缺	词/d/doorstep.json
+46	15	doorway	n. 门口、门道	细节数据有	缺	词/d/doorway.json
+46	16	forum	n. 论坛、讨论会	细节数据有	缺	词/f/forum.json
+46	17	bright	adj. 明亮的；灿烂的	细节数据有	缺	词/b/bright.json
+46	18	brightly	adv. 明亮地；鲜艳地	细节数据有	缺	词/b/brightly.json
+46	19	brighten	v. 使更鲜艳	细节数据有	缺	词/b/brighten.json
+46	20	brightness	n. 亮度；鲜艳	细节数据有	缺	词/b/brightness.json
 46	21	hear	v. 听见；得知	缺	缺	
 46	22	heard	v. 听见了	缺	缺	
 46	23	hearing	n. 听力	缺	缺	
