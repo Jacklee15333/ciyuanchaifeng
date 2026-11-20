@@ -5879,31 +5879,31 @@
 78	12	politeness	n. 礼貌、客气	细节数据有	缺	词/p/politeness.json
 78	13	impoliteness	n. 无礼、失礼	细节数据有	缺	词/i/impoliteness.json
 78	14	polish	v. 擦亮、磨光；润色、完善 n. 精致、优雅	细节数据有	缺	词/p/polish.json
-78	15	polished	adj. 擦亮的、锃亮的	缺	缺	
-78	16	pain	n. 疼痛	缺	缺	
-78	17	painful	adj. 疼痛的	缺	缺	
-78	18	painfully	adv. 痛苦地	缺	缺	
-78	19	painless	adj. 无痛的；不费力的、轻松的	缺	缺	
-78	20	punish	v. 惩罚、处罚	缺	缺	
-78	21	punishment	n. 惩罚、处罚	缺	缺	
-78	22	painstaking	adj. 一丝不苟的、极其细致的	缺	缺	
-78	23	painstakingly	adv. 煞费苦心地、一丝不苟地	缺	缺	
-78	24	pine	n. 松树	缺	缺	
-78	25	pineapple	n. 菠萝	缺	缺	
-78	26	recommend	v. 推荐；建议	缺	缺	
-78	27	recommended	adj. 推荐的；建议的	缺	缺	
-78	28	recommendation	n. 推荐；建议	缺	缺	
-78	29	command	n. 命令、指令；掌握 v. 博得	缺	缺	
-78	30	demand	v. 要求	缺	缺	
-78	31	demanding	adj. 要求高的、费力的	缺	缺	
-78	32	mandate	n. 授权、委托；命令 v. 强制执行	缺	缺	
-78	33	mandatory	adj. 强制的、法定的	缺	缺	
-78	34	element	n. 元素	缺	缺	
-78	35	elementary	adj. 初级的；基本的	缺	缺	
-78	36	elemental	adj. 自然力的、原始而强大的；根本的	缺	缺	
-78	37	scan	v. 细看、审视；浏览	缺	缺	
-78	38	scanner	n. 扫描仪	缺	缺	
-78	39	descend	v. 下来、下降	缺	缺	
+78	15	polished	adj. 擦亮的、锃亮的	细节数据有	缺	词/p/polished.json
+78	16	pain	n. 疼痛	细节数据有	缺	词/p/pain.json
+78	17	painful	adj. 疼痛的	细节数据有	缺	词/p/painful.json
+78	18	painfully	adv. 痛苦地	细节数据有	缺	词/p/painfully.json
+78	19	painless	adj. 无痛的；不费力的、轻松的	细节数据有	缺	词/p/painless.json
+78	20	punish	v. 惩罚、处罚	细节数据有	缺	词/p/punish.json
+78	21	punishment	n. 惩罚、处罚	细节数据有	缺	词/p/punishment.json
+78	22	painstaking	adj. 一丝不苟的、极其细致的	细节数据有	缺	词/p/painstaking.json
+78	23	painstakingly	adv. 煞费苦心地、一丝不苟地	细节数据有	缺	词/p/painstakingly.json
+78	24	pine	n. 松树	细节数据有	缺	词/p/pine.json
+78	25	pineapple	n. 菠萝	细节数据有	缺	词/p/pineapple.json
+78	26	recommend	v. 推荐；建议	细节数据有	缺	词/r/recommend.json
+78	27	recommended	adj. 推荐的；建议的	细节数据有	缺	词/r/recommended.json
+78	28	recommendation	n. 推荐；建议	细节数据有	缺	词/r/recommendation.json
+78	29	command	n. 命令、指令；掌握 v. 博得	细节数据有	缺	词/c/command.json
+78	30	demand	v. 要求	细节数据有	缺	词/d/demand.json
+78	31	demanding	adj. 要求高的、费力的	细节数据有	缺	词/d/demanding.json
+78	32	mandate	n. 授权、委托；命令 v. 强制执行	细节数据有	缺	词/m/mandate.json
+78	33	mandatory	adj. 强制的、法定的	细节数据有	缺	词/m/mandatory.json
+78	34	element	n. 元素	细节数据有	缺	词/e/element.json
+78	35	elementary	adj. 初级的；基本的	细节数据有	缺	词/e/elementary.json
+78	36	elemental	adj. 自然力的、原始而强大的；根本的	细节数据有	缺	词/e/elemental.json
+78	37	scan	v. 细看、审视；浏览	细节数据有	缺	词/s/scan.json
+78	38	scanner	n. 扫描仪	细节数据有	缺	词/s/scanner.json
+78	39	descend	v. 下来、下降	细节数据有	缺	词/d/descend.json
 78	40	descendant	n. 后代、后裔	缺	缺	
 78	41	transcend	v. 超越	缺	缺	
 78	42	escalate	v. 升级、恶化；上涨	缺	缺	
