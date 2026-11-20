@@ -5955,31 +5955,31 @@
 79	16	flashcard	n. 抽认卡、单词卡	细节数据有	缺	词/f/flashcard.json
 79	17	discard	v. 丢弃、扔掉	细节数据有	缺	词/d/discard.json
 79	18	approach	v. 接近、靠近；着手处理 n. 方法、思路	细节数据有	缺	词/a/approach.json
-79	19	eat	v. 吃	缺	缺	
-79	20	ate	v. eat 的过去式	缺	缺	
-79	21	eaten	adj. 被…吃的	缺	缺	
-79	22	uneaten	adj. 没吃的、剩下的	缺	缺	
-79	23	etch	v. 蚀刻、刻蚀	缺	缺	
-79	24	edible	adj. 可以吃的、可食用的	缺	缺	
-79	25	obese	adj. 肥胖的、过度肥胖的	缺	缺	
-79	26	obesity	n. 肥胖	缺	缺	
-79	27	hunt	v. 寻找；猎取	缺	缺	
-79	28	hunter	n. 猎人；搜寻者	缺	缺	
-79	29	seed	n. 种子	缺	缺	
-79	30	seedling	n. 小树苗	缺	缺	
-79	31	sow	v. 播种；散布、引起	缺	缺	
-79	32	sown	adj. 播了种的	缺	缺	
-79	33	seminar	n. 研讨课、研讨班	缺	缺	
-79	34	silly	adj. 傻的	缺	缺	
-79	35	silliness	n. 愚蠢、傻气；可笑的举动	缺	缺	
-79	36	wife	n. 妻子	缺	缺	
-79	37	housewife	n. 家庭主妇	缺	缺	
-79	38	midwife	n. 助产士、接生员	缺	缺	
-79	39	fade	v. 褪色	缺	缺	
-79	40	bamboo	n. 竹子	缺	缺	
-79	41	off	adv. 离开、脱离；关着	缺	缺	
-80	1	tooth	n. 牙齿	缺	缺	
-80	2	teeth	n. 牙齿	缺	缺	
+79	19	eat	v. 吃	细节数据有	缺	词/e/eat.json
+79	20	ate	v. eat 的过去式	细节数据有	缺	词/a/ate.json
+79	21	eaten	adj. 被…吃的	细节数据有	缺	词/e/eaten.json
+79	22	uneaten	adj. 没吃的、剩下的	细节数据有	缺	词/u/uneaten.json
+79	23	etch	v. 蚀刻、刻蚀	细节数据有	缺	词/e/etch.json
+79	24	edible	adj. 可以吃的、可食用的	细节数据有	缺	词/e/edible.json
+79	25	obese	adj. 肥胖的、过度肥胖的	细节数据有	缺	词/o/obese.json
+79	26	obesity	n. 肥胖	细节数据有	缺	词/o/obesity.json
+79	27	hunt	v. 寻找；猎取	细节数据有	缺	词/h/hunt.json
+79	28	hunter	n. 猎人；搜寻者	细节数据有	缺	词/h/hunter.json
+79	29	seed	n. 种子	细节数据有	缺	词/s/seed.json
+79	30	seedling	n. 小树苗	细节数据有	缺	词/s/seedling.json
+79	31	sow	v. 播种；散布、引起	细节数据有	缺	词/s/sow.json
+79	32	sown	adj. 播了种的	细节数据有	缺	词/s/sown.json
+79	33	seminar	n. 研讨课、研讨班	细节数据有	缺	词/s/seminar.json
+79	34	silly	adj. 傻的	细节数据有	缺	词/s/silly.json
+79	35	silliness	n. 愚蠢、傻气；可笑的举动	细节数据有	缺	词/s/silliness.json
+79	36	wife	n. 妻子	细节数据有	缺	词/w/wife.json
+79	37	housewife	n. 家庭主妇	细节数据有	缺	词/h/housewife.json
+79	38	midwife	n. 助产士、接生员	细节数据有	缺	词/m/midwife.json
+79	39	fade	v. 褪色	细节数据有	缺	词/f/fade.json
+79	40	bamboo	n. 竹子	细节数据有	缺	词/b/bamboo.json
+79	41	off	adv. 离开、脱离；关着	细节数据有	缺	词/o/off.json
+80	1	tooth	n. 牙齿	细节数据有	缺	词/t/tooth.json
+80	2	teeth	n. 牙齿	细节数据有	缺	词/t/teeth.json
 80	3	toothbrush	n. 牙刷	缺	缺	
 80	4	toothpaste	n. 牙膏	缺	缺	
 80	5	toothpick	n. 牙签	缺	缺	

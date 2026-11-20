@@ -169,6 +169,7 @@
 | 2026-11-20 | 题目第 62 批第 4 组 | 25 | polished … descend（体检全部 0 个问题；painless、pine、recommended、command、element 出题时自查到答案是原形超过 1 道，demand、descend 第 6、7 题漏写考点，改过再存）。累计 5874 个词有题目 |
 | 2026-11-20 | 题目第 63 批第 1 组 | 25 | descendant … bill（体检全部 0 个问题；scale、scalable、large-scale、small-scale、rhythmic、rhyme、straight、straighten、stretch、outstretched、bowl、bowl-like、bowl-washing、bill 出题时自查到答案是原形超过 1 道，bowl 第 6 题漏写考点，改过再存）。累计 5899 个词有题目 |
 | 2026-11-20 | 题目第 63 批第 2 组 | 25 | boil … approach（体检全部 0 个问题；boiled、bulletin、bullet、litter、series、cartoonist、card、postcard 出题时自查到答案是原形超过 1 道，改过再存）。累计 5924 个词有题目 |
+| 2026-11-20 | 题目第 63 批第 3 组 | 25 | eat … teeth（体检全部 0 个问题；uneaten、obesity、hunter、sow、silliness、off、teeth 出题时自查到答案是原形超过 1 道，改过再存）。累计 5949 个词有题目 |
 | 2026-11-19 | 试做 truly | 0 | 只用自带素材加表情图拼画面：起草检查不通过（表情图要换成写实插图、每幅画都要动、小图标要自己画）。结论：多数词要专门画插图，每个词的工作量和 7A-U4 一样；全表 9299 个词做不完，要先定先做哪些（等用户定） |
 
 ## 总表里看着不对的地方（出题时绕开了，以后用维护技能核对）
@@ -577,6 +578,9 @@
 - straight：初中含义只写“adj. 一直的”，straight 作形容词是“直的”，“一直”是副词用法（go straight）
 - desert：初中含义只写“adj. 荒无人烟的”，变形却是“n. 复数 deserts”；初中最常用的是名词“沙漠”
 - desertification：变形写成复数 desertifications，“荒漠化”一般不可数
+- sown：变形写成 sowns、sowned、sowning 和比较级 sowner、sownest，都不存在；sown 是 sow 的过去分词
+- seedling：变形写成“不可数，没有复数”，应为可数，复数 seedlings
+- midwife：动词变形写成“过去式 midwifed、过去分词 midwived（不规则）”，不对，应为 midwifed / midwifed，现在分词 midwifing
 
 ## 总表里出现两次的词（细节数据按单词存一份，两行共用；出题时两个意思都要考到）
 
