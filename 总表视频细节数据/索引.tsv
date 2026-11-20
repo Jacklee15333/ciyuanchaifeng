@@ -3192,31 +3192,31 @@
 40	72	dreamer	n. 做梦的人；空想家	细节数据有	缺	词/d/dreamer.json
 40	73	daydream	n. 白日梦、幻想	细节数据有	缺	词/d/daydream.json
 40	74	shape	n. 形状；样子	细节数据有	缺	词/s/shape.json
-40	75	shaped	adj. 有…形状的；被塑造的、受影响的	缺	缺	
-40	76	reshape	v. 重塑、改造	缺	缺	
-40	77	heart-shaped	adj. 心形的	缺	缺	
-40	78	well-shaped	adj. 形状好看的、匀称的	缺	缺	
-41	1	attention	n. 注意	缺	缺	
-41	2	attentive	adj. 专心的、留意的；体贴的、殷勤的	缺	缺	
-41	3	attentively	adv. 专心地、聚精会神地；体贴地	缺	缺	
-41	4	attentiveness	n. 专注；体贴周到	缺	缺	
-41	5	tent	n. 帐篷	缺	缺	
-41	6	intense	adj. 强烈的、剧烈的	缺	缺	
-41	7	intensive	adj. 集中的、密集的；精耕细作的	缺	缺	
-41	8	energy-intensive	adj. 高耗能的、能源密集型的	缺	缺	
-41	9	tense	v. 使绷紧	缺	缺	
-41	10	tension	n. 紧张	缺	缺	
-41	11	intent	n. 意图、目的 adj. 专注的	缺	缺	
-41	12	intention	n. 意图、打算	缺	缺	
-41	13	intentional	adj. 故意的、有意的	缺	缺	
-41	14	intentionally	adv. 故意地、有意地	缺	缺	
-41	15	extent	n. 程度；范围、规模	缺	缺	
-41	16	attend	v. 出席	缺	缺	
-41	17	attendance	n. 出席、到场	缺	缺	
-41	18	attendant	n. 服务员、侍者；随从	缺	缺	
-41	19	attendee	n. 出席者、参会者	缺	缺	
-41	20	attender	n. 出席者	缺	缺	
-41	21	pretend	v. 假装	缺	缺	
+40	75	shaped	adj. 有…形状的；被塑造的、受影响的	细节数据有	缺	词/s/shaped.json
+40	76	reshape	v. 重塑、改造	细节数据有	缺	词/r/reshape.json
+40	77	heart-shaped	adj. 心形的	细节数据有	缺	词/h/heart-shaped.json
+40	78	well-shaped	adj. 形状好看的、匀称的	细节数据有	缺	词/w/well-shaped.json
+41	1	attention	n. 注意	细节数据有	缺	词/a/attention.json
+41	2	attentive	adj. 专心的、留意的；体贴的、殷勤的	细节数据有	缺	词/a/attentive.json
+41	3	attentively	adv. 专心地、聚精会神地；体贴地	细节数据有	缺	词/a/attentively.json
+41	4	attentiveness	n. 专注；体贴周到	细节数据有	缺	词/a/attentiveness.json
+41	5	tent	n. 帐篷	细节数据有	缺	词/t/tent.json
+41	6	intense	adj. 强烈的、剧烈的	细节数据有	缺	词/i/intense.json
+41	7	intensive	adj. 集中的、密集的；精耕细作的	细节数据有	缺	词/i/intensive.json
+41	8	energy-intensive	adj. 高耗能的、能源密集型的	细节数据有	缺	词/e/energy-intensive.json
+41	9	tense	v. 使绷紧	细节数据有	缺	词/t/tense.json
+41	10	tension	n. 紧张	细节数据有	缺	词/t/tension.json
+41	11	intent	n. 意图、目的 adj. 专注的	细节数据有	缺	词/i/intent.json
+41	12	intention	n. 意图、打算	细节数据有	缺	词/i/intention.json
+41	13	intentional	adj. 故意的、有意的	细节数据有	缺	词/i/intentional.json
+41	14	intentionally	adv. 故意地、有意地	细节数据有	缺	词/i/intentionally.json
+41	15	extent	n. 程度；范围、规模	细节数据有	缺	词/e/extent.json
+41	16	attend	v. 出席	细节数据有	缺	词/a/attend.json
+41	17	attendance	n. 出席、到场	细节数据有	缺	词/a/attendance.json
+41	18	attendant	n. 服务员、侍者；随从	细节数据有	缺	词/a/attendant.json
+41	19	attendee	n. 出席者、参会者	细节数据有	缺	词/a/attendee.json
+41	20	attender	n. 出席者	细节数据有	缺	词/a/attender.json
+41	21	pretend	v. 假装	细节数据有	缺	词/p/pretend.json
 41	22	tend	v. 往往会、倾向于	缺	缺	
 41	23	tendency	n. 倾向、趋势	缺	缺	
 41	24	extend	v. 延长；扩大	缺	缺	
