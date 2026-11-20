@@ -3317,31 +3317,31 @@
 42	38	healthy	adj. 健康的	细节数据有	缺	词/h/healthy.json
 42	39	unhealthy	adj. 不健康的	细节数据有	缺	词/u/unhealthy.json
 42	40	healthily	adv. 健康地	细节数据有	缺	词/h/healthily.json
-42	41	heal	v. 治愈、使康复	缺	缺	
-42	42	healthcare	n. 医疗保健、卫生保健（英式多连写	缺	缺	
-42	43	holy	adj. 神圣的	缺	缺	
-42	44	holiness	n. 神圣、圣洁	缺	缺	
-42	45	unholy	adj. 邪恶的、亵渎神明的；不正当的	缺	缺	
-42	46	hallow	v. 使神圣、尊为神圣	缺	缺	
-42	47	Halloween	n. 万圣节前夜	缺	缺	
-42	48	piece	n. 一块、一片；作品	缺	缺	
-42	49	pieced	v. 过去分词 adj. 拼缀而成的	缺	缺	
-42	50	ancient	adj. 古代的	缺	缺	
-42	51	ancient-seeming	adj. 看似古老的	缺	缺	
-42	52	advantage	n. 有利条件；优势	缺	缺	
-42	53	advantageous	adj. 有利的、有好处的	缺	缺	
-42	54	advantageously	adv. 有利地	缺	缺	
-42	55	disadvantage	n. 不利	缺	缺	
-42	56	disadvantaged	adj. 处境不利的、弱势的	缺	缺	
-42	57	disadvantageous	adj. 不利的	缺	缺	
-42	58	ancestor	n. 祖先、祖宗	缺	缺	
-42	59	ancestral	adj. 祖先的、祖传的	缺	缺	
-42	60	advance	v. 前进、推进；预付	缺	缺	
-42	61	advanced	adj. 先进的；高级的、高阶的	缺	缺	
-42	62	advancement	n. 晋升；促进、推动	缺	缺	
-42	63	anticipate	v. 预料、预期；抢先应对	缺	缺	
-42	64	much-anticipated	adj. 备受期待的	缺	缺	
-42	65	antique	n. 古董	缺	缺	
+42	41	heal	v. 治愈、使康复	细节数据有	缺	词/h/heal.json
+42	42	healthcare	n. 医疗保健、卫生保健（英式多连写	细节数据有	缺	词/h/healthcare.json
+42	43	holy	adj. 神圣的	细节数据有	缺	词/h/holy.json
+42	44	holiness	n. 神圣、圣洁	细节数据有	缺	词/h/holiness.json
+42	45	unholy	adj. 邪恶的、亵渎神明的；不正当的	细节数据有	缺	词/u/unholy.json
+42	46	hallow	v. 使神圣、尊为神圣	细节数据有	缺	词/h/hallow.json
+42	47	Halloween	n. 万圣节前夜	细节数据有	缺	词/h/Halloween.json
+42	48	piece	n. 一块、一片；作品	细节数据有	缺	词/p/piece.json
+42	49	pieced	v. 过去分词 adj. 拼缀而成的	细节数据有	缺	词/p/pieced.json
+42	50	ancient	adj. 古代的	细节数据有	缺	词/a/ancient.json
+42	51	ancient-seeming	adj. 看似古老的	细节数据有	缺	词/a/ancient-seeming.json
+42	52	advantage	n. 有利条件；优势	细节数据有	缺	词/a/advantage.json
+42	53	advantageous	adj. 有利的、有好处的	细节数据有	缺	词/a/advantageous.json
+42	54	advantageously	adv. 有利地	细节数据有	缺	词/a/advantageously.json
+42	55	disadvantage	n. 不利	细节数据有	缺	词/d/disadvantage.json
+42	56	disadvantaged	adj. 处境不利的、弱势的	细节数据有	缺	词/d/disadvantaged.json
+42	57	disadvantageous	adj. 不利的	细节数据有	缺	词/d/disadvantageous.json
+42	58	ancestor	n. 祖先、祖宗	细节数据有	缺	词/a/ancestor.json
+42	59	ancestral	adj. 祖先的、祖传的	细节数据有	缺	词/a/ancestral.json
+42	60	advance	v. 前进、推进；预付	细节数据有	缺	词/a/advance.json
+42	61	advanced	adj. 先进的；高级的、高阶的	细节数据有	缺	词/a/advanced.json
+42	62	advancement	n. 晋升；促进、推动	细节数据有	缺	词/a/advancement.json
+42	63	anticipate	v. 预料、预期；抢先应对	细节数据有	缺	词/a/anticipate.json
+42	64	much-anticipated	adj. 备受期待的	细节数据有	缺	词/m/much-anticipated.json
+42	65	antique	n. 古董	细节数据有	缺	词/a/antique.json
 42	66	antiquity	n. 古代	缺	缺	
 42	67	space	n. 空间	缺	缺	
 42	68	spacious	adj. 宽敞的	缺	缺	

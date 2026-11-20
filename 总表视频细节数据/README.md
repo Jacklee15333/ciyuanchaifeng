@@ -280,6 +280,10 @@
 - hind：写了“比较级 hinder、最高级 hindest”，是编造的；hind（后面的）没有这样的比较级（hinder 是动词“阻碍”，只有 hindmost 这类说法），应删掉
 - contents：变形写“不可数，没有复数”不对；contents 本身就是复数形式（the contents of the box are …；table of contents 目录），作主语谓语用复数
 - present：作“出现的、在场的”时一般不用比较级，写“比较级 more present、最高级 most present”不妥
+- pieced：变形写成“三单 pieceds；过去式、过去分词 pieceded；现在分词 pieceding”，是编造的；pieced 本身是 piece 的过去式、过去分词，原形变形应为 pieces / pieced / piecing
+- disadvantage：易混一栏写“drawback 是“””，后半句是空的，应补“drawback 是（某事物的）缺点、弊端”
+- holiness：短语“His Holiness 陛下”不对，“陛下”是 Your/His Majesty；His Holiness 是对教皇等宗教领袖的尊称（圣座、教皇陛下）
+- healthcare：初中含义“医疗保健、卫生保健（英式多连写”少了右括号
 
 ## 总表里出现两次的词（细节数据按单词存一份，两行共用；出题时两个意思都要考到）
 
