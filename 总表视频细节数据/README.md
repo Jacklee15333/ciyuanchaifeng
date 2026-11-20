@@ -311,6 +311,8 @@
 - Rd：考点写“复数 rds”；Rd 只是书写缩写，复数写 Rds 也很少见。ride：初中含义写成“骑(马”，括号没关上。
 - outing：初中含义写成“揭露他人的同性恋身份”，初中应取最常用的“出游、远足”（考点和辨析讲的也是出游）。
 - digitalization：辨析里的【同义词】写成“企业：digitalization、enterprise、business、concern”，和“数字化”无关。
+- training：考点写“复数 trainings”，辨析却写“training 不可数”，前后矛盾；一般不可数。
+- trainers：考点写“一般不可数，不加 s”；trainers（运动鞋）本身是复数名词，说 a pair of trainers。
 
 ## 总表里出现两次的词（细节数据按单词存一份，两行共用；出题时两个意思都要考到）
 
