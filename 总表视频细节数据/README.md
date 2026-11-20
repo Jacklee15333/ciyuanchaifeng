@@ -161,6 +161,7 @@
 | 2026-11-20 | 题目第 60 批第 4 组 | 25 | striking … social-identity（体检全部 0 个问题；striking 等 24 个词第一稿第 6、7 题漏写考点或答案是原形超过 1 道，改过再存）。累计 5674 个词有题目 |
 | 2026-11-20 | 题目第 61 批第 1 组 | 25 | borrow … dirt（体检全部 0 个问题；traffic、monitor、money、panic、pretty、globally、globalization 出题时自查到答案是原形超过 1 道，改过再存）。累计 5699 个词有题目 |
 | 2026-11-20 | 题目第 61 批第 2 组 | 25 | child … hungrily（体检全部 0 个问题；childhood、childish、childcare、horseback、west、western、swimming、swam、swimmer、aid、first-aid、hunger 等出题时自查到答案是原形超过 1 道，改过再存）。累计 5724 个词有题目 |
+| 2026-11-20 | 题目第 61 批第 3 组 | 25 | melt … radium（体检全部 0 个问题；melted、meltdown、pop、leopard、milk、smoke、smog、ray、radiation、radioactivity 等 16 个词出题时自查到答案是原形超过 1 道，改过再存）。累计 5749 个词有题目 |
 | 2026-11-19 | 试做 truly | 0 | 只用自带素材加表情图拼画面：起草检查不通过（表情图要换成写实插图、每幅画都要动、小图标要自己画）。结论：多数词要专门画插图，每个词的工作量和 7A-U4 一样；全表 9299 个词做不完，要先定先做哪些（等用户定） |
 
 ## 总表里看着不对的地方（出题时绕开了，以后用维护技能核对）
@@ -551,6 +552,9 @@
 - money-making：词性写 adj.，变形却写成“n. 不可数”，对不上
 - first-aid：变形写成复数 first-aids；“急救”不可数，没有复数
 - fan：初中含义写成“n. (电影；热心的爱好者”，括号没写完，应为“n. （电影、体育等的）迷；热心的爱好者”
+- melted：变形写成 melteds、melteded、melteding，不存在
+- pop：形容词比较级写成 popper、最高级 poppest，不存在；pop（流行的）没有比较级
+- lioness：变形写成“不可数，没有复数”，应为可数，复数 lionesses
 
 ## 总表里出现两次的词（细节数据按单词存一份，两行共用；出题时两个意思都要考到）
 

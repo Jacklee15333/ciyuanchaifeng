@@ -5754,31 +5754,31 @@
 76	1	hungry	adj. 饥饿的	细节数据有	缺	词/h/hungry.json
 76	2	hunger	n. 饥饿；渴望	细节数据有	缺	词/h/hunger.json
 76	3	hungrily	adv. 饥饿地、狼吞虎咽地	细节数据有	缺	词/h/hungrily.json
-76	4	melt	v. 融化、熔化；渐渐消散	缺	缺	
-76	5	melted	v. 过去分词 adj. 融化了的	缺	缺	
-76	6	meltdown	n. 堆芯熔毁；崩溃	缺	缺	
-76	7	pop	adj. 流行的；大众的	缺	缺	
-76	8	pop-up	n. 弹出式的、弹窗 adj. 立体的；快闪的	缺	缺	
-76	9	lion	n. 狮子	缺	缺	
-76	10	lioness	n. 母狮	缺	缺	
-76	11	lion-mania	n. 狮子热、对狮子的狂热追捧	缺	缺	
-76	12	leopard	n. 豹	缺	缺	
-76	13	milk	n. 牛奶	缺	缺	
-76	14	milky	adj. 乳白色的、像奶一样浑浊的	缺	缺	
-76	15	smoke	n. 烟	缺	缺	
-76	16	smoky	adj. 烟雾弥漫的	缺	缺	
-76	17	smog	n. 烟雾	缺	缺	
-76	18	brick	n. 砖	缺	缺	
-76	19	brick-maker	n. 制砖工人	缺	缺	
-76	20	radio	n. 无线电；收音机	缺	缺	
-76	21	ray	n. 光线	缺	缺	
-76	22	x-ray	n. X 射线、X 光	缺	缺	
-76	23	radiate	v. 辐射、散发	缺	缺	
-76	24	radiation	n. 辐射	缺	缺	
-76	25	radioactive	adj. 放射性的	缺	缺	
-76	26	radioactivity	n. 放射性	缺	缺	
-76	27	radiocarbon	n. 放射性碳	缺	缺	
-76	28	radium	n. 镭	缺	缺	
+76	4	melt	v. 融化、熔化；渐渐消散	细节数据有	缺	词/m/melt.json
+76	5	melted	v. 过去分词 adj. 融化了的	细节数据有	缺	词/m/melted.json
+76	6	meltdown	n. 堆芯熔毁；崩溃	细节数据有	缺	词/m/meltdown.json
+76	7	pop	adj. 流行的；大众的	细节数据有	缺	词/p/pop.json
+76	8	pop-up	n. 弹出式的、弹窗 adj. 立体的；快闪的	细节数据有	缺	词/p/pop-up.json
+76	9	lion	n. 狮子	细节数据有	缺	词/l/lion.json
+76	10	lioness	n. 母狮	细节数据有	缺	词/l/lioness.json
+76	11	lion-mania	n. 狮子热、对狮子的狂热追捧	细节数据有	缺	词/l/lion-mania.json
+76	12	leopard	n. 豹	细节数据有	缺	词/l/leopard.json
+76	13	milk	n. 牛奶	细节数据有	缺	词/m/milk.json
+76	14	milky	adj. 乳白色的、像奶一样浑浊的	细节数据有	缺	词/m/milky.json
+76	15	smoke	n. 烟	细节数据有	缺	词/s/smoke.json
+76	16	smoky	adj. 烟雾弥漫的	细节数据有	缺	词/s/smoky.json
+76	17	smog	n. 烟雾	细节数据有	缺	词/s/smog.json
+76	18	brick	n. 砖	细节数据有	缺	词/b/brick.json
+76	19	brick-maker	n. 制砖工人	细节数据有	缺	词/b/brick-maker.json
+76	20	radio	n. 无线电；收音机	细节数据有	缺	词/r/radio.json
+76	21	ray	n. 光线	细节数据有	缺	词/r/ray.json
+76	22	x-ray	n. X 射线、X 光	细节数据有	缺	词/x/x-ray.json
+76	23	radiate	v. 辐射、散发	细节数据有	缺	词/r/radiate.json
+76	24	radiation	n. 辐射	细节数据有	缺	词/r/radiation.json
+76	25	radioactive	adj. 放射性的	细节数据有	缺	词/r/radioactive.json
+76	26	radioactivity	n. 放射性	细节数据有	缺	词/r/radioactivity.json
+76	27	radiocarbon	n. 放射性碳	细节数据有	缺	词/r/radiocarbon.json
+76	28	radium	n. 镭	细节数据有	缺	词/r/radium.json
 76	29	shelter	n. 遮蔽处、避难所；收容所	缺	缺	
 76	30	soldier	n. 士兵	缺	缺	
 76	31	solid	adj. 固体的；实心的	缺	缺	
