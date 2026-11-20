@@ -5929,32 +5929,32 @@
 78	62	bowl-like	adj. 碗状的	细节数据有	缺	词/b/bowl-like.json
 78	63	bowl-washing	n. 洗碗	细节数据有	缺	词/b/bowl-washing.json
 78	64	bill	n. 账单；钞票	细节数据有	缺	词/b/bill.json
-78	65	boil	v. 沸腾；煮	缺	缺	
-78	66	boiled	adj. 煮过的、煮熟的	缺	缺	
-78	67	boiler	n. 锅炉	缺	缺	
-78	68	bulletin	n. 公告、公报	缺	缺	
-78	69	bullet	n. 子弹	缺	缺	
-78	70	pour	v. 倒、灌；倾诉	缺	缺	
-78	71	pouring	n. 倒、浇注	缺	缺	
-78	72	downpour	n. 倾盆大雨、暴雨	缺	缺	
-79	1	litter	n. 废物 v. 乱丢杂物	缺	缺	
-79	2	littering	n. 乱扔垃圾	缺	缺	
+78	65	boil	v. 沸腾；煮	细节数据有	缺	词/b/boil.json
+78	66	boiled	adj. 煮过的、煮熟的	细节数据有	缺	词/b/boiled.json
+78	67	boiler	n. 锅炉	细节数据有	缺	词/b/boiler.json
+78	68	bulletin	n. 公告、公报	细节数据有	缺	词/b/bulletin.json
+78	69	bullet	n. 子弹	细节数据有	缺	词/b/bullet.json
+78	70	pour	v. 倒、灌；倾诉	细节数据有	缺	词/p/pour.json
+78	71	pouring	n. 倒、浇注	细节数据有	缺	词/p/pouring.json
+78	72	downpour	n. 倾盆大雨、暴雨	细节数据有	缺	词/d/downpour.json
+79	1	litter	n. 废物 v. 乱丢杂物	细节数据有	缺	词/l/litter.json
+79	2	littering	n. 乱扔垃圾	细节数据有	缺	词/l/littering.json
 79	3	schedule	n. 日程表、计划表；时刻表 v. 安排、预定	总表有	kit有（7A-U4）	
-79	4	desert	adj. 荒无人烟的	缺	缺	
-79	5	series	n. 一系列、一连串	缺	缺	
-79	6	desertification	n. 荒漠化、沙漠化	缺	缺	
-79	7	insert	v. 插入、放进 n. 鞋垫	缺	缺	
-79	8	chart	n. 图表 v. 记录、追踪；规划	缺	缺	
-79	9	cartoon	n. 动画片；卡通	缺	缺	
-79	10	cartoonist	n. 漫画家	缺	缺	
-79	11	cartoonish	adj. 漫画式的、卡通风格的	缺	缺	
-79	12	cartoony	adj. 卡通风格的、像动画片的	缺	缺	
-79	13	card	n. 卡片	缺	缺	
-79	14	e-card	n. 电子贺卡	缺	缺	
-79	15	postcard	n. 明信片	缺	缺	
-79	16	flashcard	n. 抽认卡、单词卡	缺	缺	
-79	17	discard	v. 丢弃、扔掉	缺	缺	
-79	18	approach	v. 接近、靠近；着手处理 n. 方法、思路	缺	缺	
+79	4	desert	adj. 荒无人烟的	细节数据有	缺	词/d/desert.json
+79	5	series	n. 一系列、一连串	细节数据有	缺	词/s/series.json
+79	6	desertification	n. 荒漠化、沙漠化	细节数据有	缺	词/d/desertification.json
+79	7	insert	v. 插入、放进 n. 鞋垫	细节数据有	缺	词/i/insert.json
+79	8	chart	n. 图表 v. 记录、追踪；规划	细节数据有	缺	词/c/chart.json
+79	9	cartoon	n. 动画片；卡通	细节数据有	缺	词/c/cartoon.json
+79	10	cartoonist	n. 漫画家	细节数据有	缺	词/c/cartoonist.json
+79	11	cartoonish	adj. 漫画式的、卡通风格的	细节数据有	缺	词/c/cartoonish.json
+79	12	cartoony	adj. 卡通风格的、像动画片的	细节数据有	缺	词/c/cartoony.json
+79	13	card	n. 卡片	细节数据有	缺	词/c/card.json
+79	14	e-card	n. 电子贺卡	细节数据有	缺	词/e/e-card.json
+79	15	postcard	n. 明信片	细节数据有	缺	词/p/postcard.json
+79	16	flashcard	n. 抽认卡、单词卡	细节数据有	缺	词/f/flashcard.json
+79	17	discard	v. 丢弃、扔掉	细节数据有	缺	词/d/discard.json
+79	18	approach	v. 接近、靠近；着手处理 n. 方法、思路	细节数据有	缺	词/a/approach.json
 79	19	eat	v. 吃	缺	缺	
 79	20	ate	v. eat 的过去式	缺	缺	
 79	21	eaten	adj. 被…吃的	缺	缺	
