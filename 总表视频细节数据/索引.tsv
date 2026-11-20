@@ -2412,31 +2412,31 @@
 31	11	modify	v. 修改；调整	细节数据有	缺	词/m/modify.json
 31	12	modifier	n. 修改者	细节数据有	缺	词/m/modifier.json
 31	13	modification	n. 修改	细节数据有	缺	词/m/modification.json
-31	14	modest	adj. 谦虚的	缺	缺	
-31	15	science	n. 科学	缺	缺	
-31	16	scientist	n. 科学家	缺	缺	
-31	17	scientific	adj. 科学的、科学上的	缺	缺	
-31	18	scientifically	adv. 科学地	缺	缺	
-31	19	unscientific	adj. 不符合科学方法的；不严谨的	缺	缺	
-31	20	conscious	adj. 意识到的；清醒的、有知觉的	缺	缺	
-31	21	unconscious	adj. 昏迷的、不省人事的；无意识的、不知不觉的	缺	缺	
-31	22	consciousness	n. 意识；知觉	缺	缺	
-31	23	unconsciously	adv. 不知不觉地；无意中	缺	缺	
-31	24	conscience	n. 良心	缺	缺	
-31	25	nice	adj. 令人愉快的；好的	缺	缺	
-31	26	nicely	adv. 好好地；得体地	缺	缺	
-31	27	past	adj. 过去的	缺	缺	
-31	28	pass	v. 传；经过	缺	缺	
-31	29	passage	n. 一节；通道	缺	缺	
-31	30	passer-by	n. 过路人；行人	缺	缺	
-31	31	passers-by	n. 过路人们	缺	缺	
-31	32	passenger	n. 乘客	缺	缺	
-31	33	compass	n. 指南针、罗盘；圆规	缺	缺	
-31	34	pace	n. 一步	缺	缺	
-31	35	pastime	n. 消遣；娱乐	缺	缺	
-31	36	expand	v. 扩大；膨胀	缺	缺	
-31	37	expansion	n. 扩张；膨胀	缺	缺	
-31	38	expanse	n. 一大片；广阔的区域	缺	缺	
+31	14	modest	adj. 谦虚的	细节数据有	缺	词/m/modest.json
+31	15	science	n. 科学	细节数据有	缺	词/s/science.json
+31	16	scientist	n. 科学家	细节数据有	缺	词/s/scientist.json
+31	17	scientific	adj. 科学的、科学上的	细节数据有	缺	词/s/scientific.json
+31	18	scientifically	adv. 科学地	细节数据有	缺	词/s/scientifically.json
+31	19	unscientific	adj. 不符合科学方法的；不严谨的	细节数据有	缺	词/u/unscientific.json
+31	20	conscious	adj. 意识到的；清醒的、有知觉的	细节数据有	缺	词/c/conscious.json
+31	21	unconscious	adj. 昏迷的、不省人事的；无意识的、不知不觉的	细节数据有	缺	词/u/unconscious.json
+31	22	consciousness	n. 意识；知觉	细节数据有	缺	词/c/consciousness.json
+31	23	unconsciously	adv. 不知不觉地；无意中	细节数据有	缺	词/u/unconsciously.json
+31	24	conscience	n. 良心	细节数据有	缺	词/c/conscience.json
+31	25	nice	adj. 令人愉快的；好的	细节数据有	缺	词/n/nice.json
+31	26	nicely	adv. 好好地；得体地	细节数据有	缺	词/n/nicely.json
+31	27	past	adj. 过去的	细节数据有	缺	词/p/past.json
+31	28	pass	v. 传；经过	细节数据有	缺	词/p/pass.json
+31	29	passage	n. 一节；通道	细节数据有	缺	词/p/passage.json
+31	30	passer-by	n. 过路人；行人	细节数据有	缺	词/p/passer-by.json
+31	31	passers-by	n. 过路人们	细节数据有	缺	词/p/passers-by.json
+31	32	passenger	n. 乘客	细节数据有	缺	词/p/passenger.json
+31	33	compass	n. 指南针、罗盘；圆规	细节数据有	缺	词/c/compass.json
+31	34	pace	n. 一步	细节数据有	缺	词/p/pace.json
+31	35	pastime	n. 消遣；娱乐	细节数据有	缺	词/p/pastime.json
+31	36	expand	v. 扩大；膨胀	细节数据有	缺	词/e/expand.json
+31	37	expansion	n. 扩张；膨胀	细节数据有	缺	词/e/expansion.json
+31	38	expanse	n. 一大片；广阔的区域	细节数据有	缺	词/e/expanse.json
 31	39	trip	n. 旅行	缺	缺	
 31	40	post-trip	adj. 行程结束后的	缺	缺	
 31	41	quiet	adj. 安静的	缺	缺	
