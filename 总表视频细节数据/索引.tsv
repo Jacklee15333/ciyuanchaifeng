@@ -4648,31 +4648,31 @@
 59	23	alien	adj. 外国的；陌生的、格格不入的	细节数据有	缺	词/a/alien.json
 59	24	non-alien	n. 非外国人、本国公民	细节数据有	缺	词/n/non-alien.json
 59	25	alienate	v. 使疏远、使不满；使感到格格不入	细节数据有	缺	词/a/alienate.json
-59	26	alternative	adj. 可供选择的、替代的；另类的、非主流的	缺	缺	
-59	27	alternate	v. 交替、轮流 adj. 隔一个的	缺	缺	
-59	28	alter	v. 改变、修改	缺	缺	
-59	29	leaf	n. 叶子；金属箔	缺	缺	
-59	30	leafy	adj. 叶子多的、枝繁叶茂的；绿树成荫的	缺	缺	
-59	31	leaflet	n. 传单、宣传单	缺	缺	
-59	32	broad-leafed	adj. 阔叶的	缺	缺	
-59	33	broad-leaved	adj. 阔叶的	缺	缺	
-59	34	golden-leafed	adj. 叶子金黄的	缺	缺	
-59	35	three-leafed	adj. 三叶的	缺	缺	
-59	36	spread	v. 延伸；展开	缺	缺	
-59	37	widespread	adj. 广泛的、普遍的	缺	缺	
-59	38	speed	n. 速度	缺	缺	
-59	39	sped	v. 过去分词：疾驰	缺	缺	
-59	40	speedy	adj. 迅速的、快的	缺	缺	
-59	41	super-speed	n. 超高速	缺	缺	
-59	42	high-speed	adj. 高速的	缺	缺	
-59	43	trouble	n. 问题；烦恼	缺	缺	
-59	44	troubled	adj. 忧虑的、不安的；动荡的、多事的	缺	缺	
-59	45	troublesome	adj. 麻烦的、棘手的	缺	缺	
-59	46	troublemaker	n. 惹是生非的人、捣乱分子	缺	缺	
-59	47	troubleshoot	v. 排除故障、检修；解决问题	缺	缺	
-59	48	troubleshooting	n. 故障排除、排错	缺	缺	
-59	49	disturb	v. 扰乱	缺	缺	
-59	50	disturbing	adj. 令人不安的、令人担忧的	缺	缺	
+59	26	alternative	adj. 可供选择的、替代的；另类的、非主流的	细节数据有	缺	词/a/alternative.json
+59	27	alternate	v. 交替、轮流 adj. 隔一个的	细节数据有	缺	词/a/alternate.json
+59	28	alter	v. 改变、修改	细节数据有	缺	词/a/alter.json
+59	29	leaf	n. 叶子；金属箔	细节数据有	缺	词/l/leaf.json
+59	30	leafy	adj. 叶子多的、枝繁叶茂的；绿树成荫的	细节数据有	缺	词/l/leafy.json
+59	31	leaflet	n. 传单、宣传单	细节数据有	缺	词/l/leaflet.json
+59	32	broad-leafed	adj. 阔叶的	细节数据有	缺	词/b/broad-leafed.json
+59	33	broad-leaved	adj. 阔叶的	细节数据有	缺	词/b/broad-leaved.json
+59	34	golden-leafed	adj. 叶子金黄的	细节数据有	缺	词/g/golden-leafed.json
+59	35	three-leafed	adj. 三叶的	细节数据有	缺	词/t/three-leafed.json
+59	36	spread	v. 延伸；展开	细节数据有	缺	词/s/spread.json
+59	37	widespread	adj. 广泛的、普遍的	细节数据有	缺	词/w/widespread.json
+59	38	speed	n. 速度	细节数据有	缺	词/s/speed.json
+59	39	sped	v. 过去分词：疾驰	细节数据有	缺	词/s/sped.json
+59	40	speedy	adj. 迅速的、快的	细节数据有	缺	词/s/speedy.json
+59	41	super-speed	n. 超高速	细节数据有	缺	词/s/super-speed.json
+59	42	high-speed	adj. 高速的	细节数据有	缺	词/h/high-speed.json
+59	43	trouble	n. 问题；烦恼	细节数据有	缺	词/t/trouble.json
+59	44	troubled	adj. 忧虑的、不安的；动荡的、多事的	细节数据有	缺	词/t/troubled.json
+59	45	troublesome	adj. 麻烦的、棘手的	细节数据有	缺	词/t/troublesome.json
+59	46	troublemaker	n. 惹是生非的人、捣乱分子	细节数据有	缺	词/t/troublemaker.json
+59	47	troubleshoot	v. 排除故障、检修；解决问题	细节数据有	缺	词/t/troubleshoot.json
+59	48	troubleshooting	n. 故障排除、排错	细节数据有	缺	词/t/troubleshooting.json
+59	49	disturb	v. 扰乱	细节数据有	缺	词/d/disturb.json
+59	50	disturbing	adj. 令人不安的、令人担忧的	细节数据有	缺	词/d/disturbing.json
 59	51	disturbance	n. 打扰、干扰；骚乱	缺	缺	
 59	52	disturber	n. 扰乱者、打扰者	缺	缺	
 59	53	bank	n. 银行	缺	缺	
