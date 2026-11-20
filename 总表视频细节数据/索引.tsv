@@ -3994,31 +3994,31 @@
 50	70	customary	adj. 惯常的、合乎习俗的	细节数据有	缺	词/c/customary.json
 50	71	custom-made	adj. 定做的、定制的	细节数据有	缺	词/c/custom-made.json
 50	72	accustom	v. 使习惯于	细节数据有	缺	词/a/accustom.json
-50	73	customize	v. 定制、改制	缺	缺	
-50	74	customer	n. 顾客	缺	缺	
-50	75	costume	n. 服装、戏服	缺	缺	
-50	76	style	n. 风格；方式	缺	缺	
-50	77	stylish	adj. 时髦的、有格调的	缺	缺	
-50	78	stylist	n. 发型师、造型师；文体家	缺	缺	
-50	79	stylize	v. 使风格化、使程式化	缺	缺	
-50	80	lifestyle	n. 生活方式	缺	缺	
-50	81	meal	n. 一餐	缺	缺	
-50	82	mealtime	n. 吃饭时间、进餐时间	缺	缺	
-51	1	flower	n. 花	缺	缺	
-51	2	flowery	adj. 多花的、有花卉图案的	缺	缺	
-51	3	floral	adj. 花的	缺	缺	
-51	4	flour	n. 面粉	缺	缺	
-51	5	flourish	v. 繁荣、兴旺；茁壮成长 n. 花体装饰	缺	缺	
-51	6	south	n. 南	缺	缺	
-51	7	southern	adj. 南方的、南部的	缺	缺	
-51	8	southeast	n. 东南	缺	缺	
-51	9	southwest	n. 西南	缺	缺	
-51	10	southward	adv. 向南	缺	缺	
-51	11	sun	n. 太阳	缺	缺	
-51	12	sunny	adj. 阳光充足的	缺	缺	
-51	13	sunlight	n. 阳光、日光	缺	缺	
-51	14	sunshine	n. 阳光；晴天	缺	缺	
-51	15	sunset	n. 日落、黄昏；晚霞	缺	缺	
+50	73	customize	v. 定制、改制	细节数据有	缺	词/c/customize.json
+50	74	customer	n. 顾客	细节数据有	缺	词/c/customer.json
+50	75	costume	n. 服装、戏服	细节数据有	缺	词/c/costume.json
+50	76	style	n. 风格；方式	细节数据有	缺	词/s/style.json
+50	77	stylish	adj. 时髦的、有格调的	细节数据有	缺	词/s/stylish.json
+50	78	stylist	n. 发型师、造型师；文体家	细节数据有	缺	词/s/stylist.json
+50	79	stylize	v. 使风格化、使程式化	细节数据有	缺	词/s/stylize.json
+50	80	lifestyle	n. 生活方式	细节数据有	缺	词/l/lifestyle.json
+50	81	meal	n. 一餐	细节数据有	缺	词/m/meal.json
+50	82	mealtime	n. 吃饭时间、进餐时间	细节数据有	缺	词/m/mealtime.json
+51	1	flower	n. 花	细节数据有	缺	词/f/flower.json
+51	2	flowery	adj. 多花的、有花卉图案的	细节数据有	缺	词/f/flowery.json
+51	3	floral	adj. 花的	细节数据有	缺	词/f/floral.json
+51	4	flour	n. 面粉	细节数据有	缺	词/f/flour.json
+51	5	flourish	v. 繁荣、兴旺；茁壮成长 n. 花体装饰	细节数据有	缺	词/f/flourish.json
+51	6	south	n. 南	细节数据有	缺	词/s/south.json
+51	7	southern	adj. 南方的、南部的	细节数据有	缺	词/s/southern.json
+51	8	southeast	n. 东南	细节数据有	缺	词/s/southeast.json
+51	9	southwest	n. 西南	细节数据有	缺	词/s/southwest.json
+51	10	southward	adv. 向南	细节数据有	缺	词/s/southward.json
+51	11	sun	n. 太阳	细节数据有	缺	词/s/sun.json
+51	12	sunny	adj. 阳光充足的	细节数据有	缺	词/s/sunny.json
+51	13	sunlight	n. 阳光、日光	细节数据有	缺	词/s/sunlight.json
+51	14	sunshine	n. 阳光；晴天	细节数据有	缺	词/s/sunshine.json
+51	15	sunset	n. 日落、黄昏；晚霞	细节数据有	缺	词/s/sunset.json
 51	16	sunrise	n. 日出	缺	缺	
 51	17	sundown	n. 日落	缺	缺	
 51	18	sunlit	adj. 阳光照耀的、洒满阳光的	缺	缺	
