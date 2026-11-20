@@ -2915,32 +2915,32 @@
 37	37	sensitivity	n. 敏感、体察	细节数据有	缺	词/s/sensitivity.json
 37	38	sensory	adj. 感觉的、感官的	细节数据有	缺	词/s/sensory.json
 37	39	sensible	adj. 明智的、合乎情理的	细节数据有	缺	词/s/sensible.json
-37	40	nonsense	n. 胡说、废话；荒唐的行为	缺	缺	
-37	41	sensation	n. 感觉、知觉；轰动、引起轰动的人或事	缺	缺	
-37	42	motion-sensing	adj. 移动感应的、体感的	缺	缺	
-37	43	touch-sensitive	adj. 触控的、对触摸有反应的	缺	缺	
-37	44	scent	v. 嗅出；察觉	缺	缺	
-37	45	sentiment	n. 看法、意见；情绪、情感	缺	缺	
+37	40	nonsense	n. 胡说、废话；荒唐的行为	细节数据有	缺	词/n/nonsense.json
+37	41	sensation	n. 感觉、知觉；轰动、引起轰动的人或事	细节数据有	缺	词/s/sensation.json
+37	42	motion-sensing	adj. 移动感应的、体感的	细节数据有	缺	词/m/motion-sensing.json
+37	43	touch-sensitive	adj. 触控的、对触摸有反应的	细节数据有	缺	词/t/touch-sensitive.json
+37	44	scent	v. 嗅出；察觉	细节数据有	缺	词/s/scent.json
+37	45	sentiment	n. 看法、意见；情绪、情感	细节数据有	缺	词/s/sentiment.json
 37	46	suggest	v. 建议、提议	总表有	kit有（7A-U4）	
-37	47	suggestion	n. 建议	缺	缺	
-37	48	gesture	n. 手势、姿势	缺	缺	
-37	49	digest	v. 消化；慢慢领会、接受 n. 文摘、摘要	缺	缺	
-37	50	digestive	adj. 消化的	缺	缺	
-37	51	congest	v. 使拥挤、使堵塞	缺	缺	
-37	52	congestion	n. 拥堵；充血、鼻塞	缺	缺	
-37	53	register	v. 登记、注册 n. 收银机	缺	缺	
-37	54	registration	n. 登记、注册	缺	缺	
-37	55	amaze	v. 使惊奇、使惊叹	缺	缺	
-37	56	amazing	adj. 令人惊讶的	缺	缺	
-37	57	amazed	adj. 惊奇的、吃惊的	缺	缺	
-37	58	amazement	n. 惊奇、惊愕	缺	缺	
-37	59	amazingly	adv. 惊人地、出奇地	缺	缺	
-37	60	maze	n. 迷宫；错综复杂的一团	缺	缺	
-37	61	describe	v. 描写	缺	缺	
-37	62	description	n. 描述、描写；种类	缺	缺	
-37	63	descriptive	adj. 描写的、描述性的	缺	缺	
-37	64	subscribe	v. 订阅、订购；赞同	缺	缺	
-37	65	subscription	n. 订阅；会费	缺	缺	
+37	47	suggestion	n. 建议	细节数据有	缺	词/s/suggestion.json
+37	48	gesture	n. 手势、姿势	细节数据有	缺	词/g/gesture.json
+37	49	digest	v. 消化；慢慢领会、接受 n. 文摘、摘要	细节数据有	缺	词/d/digest.json
+37	50	digestive	adj. 消化的	细节数据有	缺	词/d/digestive.json
+37	51	congest	v. 使拥挤、使堵塞	细节数据有	缺	词/c/congest.json
+37	52	congestion	n. 拥堵；充血、鼻塞	细节数据有	缺	词/c/congestion.json
+37	53	register	v. 登记、注册 n. 收银机	细节数据有	缺	词/r/register.json
+37	54	registration	n. 登记、注册	细节数据有	缺	词/r/registration.json
+37	55	amaze	v. 使惊奇、使惊叹	细节数据有	缺	词/a/amaze.json
+37	56	amazing	adj. 令人惊讶的	细节数据有	缺	词/a/amazing.json
+37	57	amazed	adj. 惊奇的、吃惊的	细节数据有	缺	词/a/amazed.json
+37	58	amazement	n. 惊奇、惊愕	细节数据有	缺	词/a/amazement.json
+37	59	amazingly	adv. 惊人地、出奇地	细节数据有	缺	词/a/amazingly.json
+37	60	maze	n. 迷宫；错综复杂的一团	细节数据有	缺	词/m/maze.json
+37	61	describe	v. 描写	细节数据有	缺	词/d/describe.json
+37	62	description	n. 描述、描写；种类	细节数据有	缺	词/d/description.json
+37	63	descriptive	adj. 描写的、描述性的	细节数据有	缺	词/d/descriptive.json
+37	64	subscribe	v. 订阅、订购；赞同	细节数据有	缺	词/s/subscribe.json
+37	65	subscription	n. 订阅；会费	细节数据有	缺	词/s/subscription.json
 37	66	scribe	n. 抄写员、书记员	缺	缺	
 37	67	prescribe	v. 开、开处方；规定、指定	缺	缺	
 37	68	script	n. 剧本、脚本；文字、字母体系	缺	缺	
