@@ -4244,31 +4244,31 @@
 54	4	rewild	v. 使恢复自然状态	细节数据有	缺	词/r/rewild.json
 54	5	wildlife	n. 野生动物	细节数据有	缺	词/w/wildlife.json
 54	6	wildfire	n. 野火、山火	细节数据有	缺	词/w/wildfire.json
-54	7	wildflower	n. 野花	缺	缺	
-54	8	wildcat	n. 野猫 adj. 未经工会批准的；投机性的	缺	缺	
-54	9	hit	v. 打	缺	缺	
-54	10	fish	n. 鱼	缺	缺	
-54	11	fishing	n. 捕鱼；渔业	缺	缺	
-54	12	fisherman	n. 渔夫	缺	缺	
-54	13	fishermen	n. 渔民们	缺	缺	
-54	14	fishnet	n. 渔网	缺	缺	
-54	15	overfishing	n. 过度捕捞	缺	缺	
-54	16	term	n. 学期	缺	缺	
-54	17	midterm	adj. 期中的	缺	缺	
-54	18	mid-term	adj. 期中的	缺	缺	
-54	19	long-term	adj. 长期的	缺	缺	
-54	20	short-term	adj. 短期的	缺	缺	
-54	21	determine	v. 决定	缺	缺	
-54	22	determined	adj. 坚定的、有决心的	缺	缺	
-54	23	determination	n. 决心、毅力；确定、测定	缺	缺	
-54	24	determinedly	adv. 坚决地、毅然地	缺	缺	
-54	25	terminal	n. 航站楼；终端	缺	缺	
-54	26	star	n. 星	缺	缺	
-54	27	starry	adj. 繁星满天的	缺	缺	
-54	28	superstar	n. 超级明星、巨星	缺	缺	
-54	29	star-centered	adj. 以明星为中心的	缺	缺	
-54	30	starfish	n. 海星	缺	缺	
-54	31	starlight	n. 星光	缺	缺	
+54	7	wildflower	n. 野花	细节数据有	缺	词/w/wildflower.json
+54	8	wildcat	n. 野猫 adj. 未经工会批准的；投机性的	细节数据有	缺	词/w/wildcat.json
+54	9	hit	v. 打	细节数据有	缺	词/h/hit.json
+54	10	fish	n. 鱼	细节数据有	缺	词/f/fish.json
+54	11	fishing	n. 捕鱼；渔业	细节数据有	缺	词/f/fishing.json
+54	12	fisherman	n. 渔夫	细节数据有	缺	词/f/fisherman.json
+54	13	fishermen	n. 渔民们	细节数据有	缺	词/f/fishermen.json
+54	14	fishnet	n. 渔网	细节数据有	缺	词/f/fishnet.json
+54	15	overfishing	n. 过度捕捞	细节数据有	缺	词/o/overfishing.json
+54	16	term	n. 学期	细节数据有	缺	词/t/term.json
+54	17	midterm	adj. 期中的	细节数据有	缺	词/m/midterm.json
+54	18	mid-term	adj. 期中的	细节数据有	缺	词/m/mid-term.json
+54	19	long-term	adj. 长期的	细节数据有	缺	词/l/long-term.json
+54	20	short-term	adj. 短期的	细节数据有	缺	词/s/short-term.json
+54	21	determine	v. 决定	细节数据有	缺	词/d/determine.json
+54	22	determined	adj. 坚定的、有决心的	细节数据有	缺	词/d/determined.json
+54	23	determination	n. 决心、毅力；确定、测定	细节数据有	缺	词/d/determination.json
+54	24	determinedly	adv. 坚决地、毅然地	细节数据有	缺	词/d/determinedly.json
+54	25	terminal	n. 航站楼；终端	细节数据有	缺	词/t/terminal.json
+54	26	star	n. 星	细节数据有	缺	词/s/star.json
+54	27	starry	adj. 繁星满天的	细节数据有	缺	词/s/starry.json
+54	28	superstar	n. 超级明星、巨星	细节数据有	缺	词/s/superstar.json
+54	29	star-centered	adj. 以明星为中心的	细节数据有	缺	词/s/star-centered.json
+54	30	starfish	n. 海星	细节数据有	缺	词/s/starfish.json
+54	31	starlight	n. 星光	细节数据有	缺	词/s/starlight.json
 54	32	disaster	n. 灾难	缺	缺	
 54	33	disastrous	adj. 灾难性的	缺	缺	
 54	34	pre-disaster	adj. 灾前的	缺	缺	
