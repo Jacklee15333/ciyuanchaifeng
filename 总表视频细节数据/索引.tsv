@@ -3869,31 +3869,31 @@
 49	29	circle	n. 圆；圈子 v. 环绕、盘旋	细节数据有	缺	词/c/circle.json
 49	30	circular	adj. 圆的；环形的	细节数据有	缺	词/c/circular.json
 49	31	encircle	v. 环绕；包围	细节数据有	缺	词/e/encircle.json
-49	32	circuit	n. 电路；环形跑道、赛车场	缺	缺	
-49	33	circulate	v. 循环；流通	缺	缺	
-49	34	circulation	n. 循环；流通	缺	缺	
-49	35	circus	n. 马戏团	缺	缺	
-49	36	send	v. 打发；送	缺	缺	
-49	37	sent	v. send 的过去式和过去分词	缺	缺	
-49	38	sender	n. 发件人	缺	缺	
-49	39	thousand	num. 基数词	缺	缺	
-49	40	thumb	n. 拇指 v. 翻阅	缺	缺	
-49	41	thumbs-up	n. 竖大拇指；批准、认可	缺	缺	
-49	42	tumour	n. 肿瘤	缺	缺	
-49	43	tumor	n. 肿瘤	缺	缺	
-49	44	machine	n. 机器	缺	缺	
-49	45	mechanic	n. 机械师；技工	缺	缺	
-49	46	mechanics	n. 力学；机械原理、构造	缺	缺	
-49	47	mechanical	adj. 机械的、机器的；力学的	缺	缺	
-49	48	mechanise	v. 使机械化	缺	缺	
-49	49	mechanisation	n. 机械化	缺	缺	
-49	50	mechanize	v. 使机械化	缺	缺	
-49	51	mechanization	n. 机械化（英美都用这个写法	缺	缺	
-49	52	mechanism	n. 机械装置	缺	缺	
-49	53	fresh	adj. 新鲜的	缺	缺	
-49	54	freshly	adv. 刚刚、新近	缺	缺	
-49	55	freshness	n. 新鲜	缺	缺	
-49	56	refresh	v. 使恢复精力；提神	缺	缺	
+49	32	circuit	n. 电路；环形跑道、赛车场	细节数据有	缺	词/c/circuit.json
+49	33	circulate	v. 循环；流通	细节数据有	缺	词/c/circulate.json
+49	34	circulation	n. 循环；流通	细节数据有	缺	词/c/circulation.json
+49	35	circus	n. 马戏团	细节数据有	缺	词/c/circus.json
+49	36	send	v. 打发；送	细节数据有	缺	词/s/send.json
+49	37	sent	v. send 的过去式和过去分词	细节数据有	缺	词/s/sent.json
+49	38	sender	n. 发件人	细节数据有	缺	词/s/sender.json
+49	39	thousand	num. 基数词	细节数据有	缺	词/t/thousand.json
+49	40	thumb	n. 拇指 v. 翻阅	细节数据有	缺	词/t/thumb.json
+49	41	thumbs-up	n. 竖大拇指；批准、认可	细节数据有	缺	词/t/thumbs-up.json
+49	42	tumour	n. 肿瘤	细节数据有	缺	词/t/tumour.json
+49	43	tumor	n. 肿瘤	细节数据有	缺	词/t/tumor.json
+49	44	machine	n. 机器	细节数据有	缺	词/m/machine.json
+49	45	mechanic	n. 机械师；技工	细节数据有	缺	词/m/mechanic.json
+49	46	mechanics	n. 力学；机械原理、构造	细节数据有	缺	词/m/mechanics.json
+49	47	mechanical	adj. 机械的、机器的；力学的	细节数据有	缺	词/m/mechanical.json
+49	48	mechanise	v. 使机械化	细节数据有	缺	词/m/mechanise.json
+49	49	mechanisation	n. 机械化	细节数据有	缺	词/m/mechanisation.json
+49	50	mechanize	v. 使机械化	细节数据有	缺	词/m/mechanize.json
+49	51	mechanization	n. 机械化（英美都用这个写法	细节数据有	缺	词/m/mechanization.json
+49	52	mechanism	n. 机械装置	细节数据有	缺	词/m/mechanism.json
+49	53	fresh	adj. 新鲜的	细节数据有	缺	词/f/fresh.json
+49	54	freshly	adv. 刚刚、新近	细节数据有	缺	词/f/freshly.json
+49	55	freshness	n. 新鲜	细节数据有	缺	词/f/freshness.json
+49	56	refresh	v. 使恢复精力；提神	细节数据有	缺	词/r/refresh.json
 49	57	refreshing	adj. 提神的；清爽的	缺	缺	
 49	58	freshwater	adj. 淡水的	缺	缺	
 49	59	fresh-cut	adj. 刚割下的；新剪的	缺	缺	
