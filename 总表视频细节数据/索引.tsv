@@ -3518,31 +3518,31 @@
 44	76	kitchen	n. 厨房	细节数据有	缺	词/k/kitchen.json
 44	77	biscuit	n. 饼干	细节数据有	缺	词/b/biscuit.json
 44	78	cuisine	n. 烹饪风格、菜系	细节数据有	缺	词/c/cuisine.json
-45	1	along	prep. 沿着 adv. 向前；一道、一起	缺	缺	
-45	2	belong	v. 属	缺	缺	
-45	3	belonging	n. 归属感	缺	缺	
-45	4	belongings	n. 随身物品、个人财物	缺	缺	
-45	5	long	adj. 长的	缺	缺	
-45	6	length	n. 长度	缺	缺	
-45	7	lengthen	v. 变长、延长	缺	缺	
-45	8	lengthy	adj. 冗长的、很长的	缺	缺	
-45	9	linger	v. 逗留、流连	缺	缺	
-45	10	alongside	prep. 在…旁边；并肩	缺	缺	
-45	11	longing	n. 渴望、思慕	缺	缺	
-45	12	longingly	adv. 渴望地、眼巴巴地	缺	缺	
-45	13	longevity	n. 长寿	缺	缺	
-45	14	cold	adj. 冷的 n. 感冒	缺	缺	
-45	15	coldly	adv. 冷淡地、冷冰冰地	缺	缺	
-45	16	cool	adj. 凉的；酷	缺	缺	
-45	17	coolant	n. 冷却剂、冷却液	缺	缺	
-45	18	coolly	adv. 冷静地；满不在乎地	缺	缺	
-45	19	coolness	n. 凉爽；冷静、沉着	缺	缺	
-45	20	uncool	adj. 不地道的、让人尴尬的	缺	缺	
-45	21	chill	n. 寒意；着凉、发冷	缺	缺	
-45	22	chilly	adj. 冷飕飕的、凉得让人不舒服	缺	缺	
-45	23	reduce	v. 减少	缺	缺	
-45	24	reduced	adj. 减少了的、降低了的	缺	缺	
-45	25	reduction	n. 减少、降低；缩小	缺	缺	
+45	1	along	prep. 沿着 adv. 向前；一道、一起	细节数据有	缺	词/a/along.json
+45	2	belong	v. 属	细节数据有	缺	词/b/belong.json
+45	3	belonging	n. 归属感	细节数据有	缺	词/b/belonging.json
+45	4	belongings	n. 随身物品、个人财物	细节数据有	缺	词/b/belongings.json
+45	5	long	adj. 长的	细节数据有	缺	词/l/long.json
+45	6	length	n. 长度	细节数据有	缺	词/l/length.json
+45	7	lengthen	v. 变长、延长	细节数据有	缺	词/l/lengthen.json
+45	8	lengthy	adj. 冗长的、很长的	细节数据有	缺	词/l/lengthy.json
+45	9	linger	v. 逗留、流连	细节数据有	缺	词/l/linger.json
+45	10	alongside	prep. 在…旁边；并肩	细节数据有	缺	词/a/alongside.json
+45	11	longing	n. 渴望、思慕	细节数据有	缺	词/l/longing.json
+45	12	longingly	adv. 渴望地、眼巴巴地	细节数据有	缺	词/l/longingly.json
+45	13	longevity	n. 长寿	细节数据有	缺	词/l/longevity.json
+45	14	cold	adj. 冷的 n. 感冒	细节数据有	缺	词/c/cold.json
+45	15	coldly	adv. 冷淡地、冷冰冰地	细节数据有	缺	词/c/coldly.json
+45	16	cool	adj. 凉的；酷	细节数据有	缺	词/c/cool.json
+45	17	coolant	n. 冷却剂、冷却液	细节数据有	缺	词/c/coolant.json
+45	18	coolly	adv. 冷静地；满不在乎地	细节数据有	缺	词/c/coolly.json
+45	19	coolness	n. 凉爽；冷静、沉着	细节数据有	缺	词/c/coolness.json
+45	20	uncool	adj. 不地道的、让人尴尬的	细节数据有	缺	词/u/uncool.json
+45	21	chill	n. 寒意；着凉、发冷	细节数据有	缺	词/c/chill.json
+45	22	chilly	adj. 冷飕飕的、凉得让人不舒服	细节数据有	缺	词/c/chilly.json
+45	23	reduce	v. 减少	细节数据有	缺	词/r/reduce.json
+45	24	reduced	adj. 减少了的、降低了的	细节数据有	缺	词/r/reduced.json
+45	25	reduction	n. 减少、降低；缩小	细节数据有	缺	词/r/reduction.json
 45	26	reducer	n. 减速器	缺	缺	
 45	27	introduce	v. 介绍	缺	缺	
 45	28	introduction	n. 介绍；引进、采用	缺	缺	
