@@ -272,6 +272,7 @@
 - must：变形写成“三单 musts；过去式 must；现在分词 musting”，情态动词没有这些变形（名词 a must 的复数才是 musts）
 - cloth：易混写成“cloth / fabrique（fabrique 是工厂）”，fabrique 不是英语词，应为 cloth / fabric（面料）
 - decay：只写了 n.（不可数），decay 也常作动词“腐烂、衰败”，应补 v. 三单 decays；过去式、过去分词 decayed；现在分词 decaying
+- practise：词性写成 n. 练习；实践，practise 是英式动词“练习”（名词写 practice），应改为 v.
 
 ## 总表里出现两次的词（细节数据按单词存一份，两行共用；出题时两个意思都要考到）
 

@@ -3092,31 +3092,31 @@
 39	53	casual	adj. 随便的、非正式的；临时的	细节数据有	缺	词/c/casual.json
 39	54	casually	adv. 随意地；漫不经心地	细节数据有	缺	词/c/casually.json
 39	55	occasion	n. 场合；时机、机会	细节数据有	缺	词/o/occasion.json
-39	56	occasionally	adv. 偶尔、有时	缺	缺	
-39	57	occasional	adj. 偶尔的；为特定场合的	缺	缺	
-39	58	cascade	n. 小瀑布、阶梯瀑布 v. 倾泻而下	缺	缺	
-39	59	wear	v. 穿；戴	缺	缺	
-39	60	wore	v. wear 的过去式	缺	缺	
-39	61	worn	adj. 磨损的、穿旧的；疲惫的	缺	缺	
-39	62	wearable	adj. 可穿戴的	缺	缺	
-39	63	unworn	adj. 没穿过的、崭新的；未磨损的	缺	缺	
-39	64	wearer	n. 穿戴者、佩戴者	缺	缺	
-39	65	worn-out	adj. 破旧的、用坏的；筋疲力尽的	缺	缺	
-39	66	footwear	n. 鞋类	缺	缺	
-39	67	well-worn	adj. 用旧了的	缺	缺	
-39	68	win	v. 获胜；赢得	缺	缺	
-39	69	won	v. 过去分词	缺	缺	
-39	70	winner	n. 获胜者	缺	缺	
-39	71	arrive	v. 到达	缺	缺	
-39	72	arrival	n. 到达	缺	缺	
-39	73	river	n. 江；河	缺	缺	
-39	74	riverbank	n. 河岸	缺	缺	
-39	75	riverside	n. 河边、河畔	缺	缺	
-39	76	riverbed	n. 河床	缺	缺	
-39	77	practice	n. 练习；实践	缺	缺	
-39	78	practise	n. 练习；实践	缺	缺	
-39	79	practical	adj. 实际的、实践的	缺	缺	
-39	80	practically	adv. 几乎；实际上	缺	缺	
+39	56	occasionally	adv. 偶尔、有时	细节数据有	缺	词/o/occasionally.json
+39	57	occasional	adj. 偶尔的；为特定场合的	细节数据有	缺	词/o/occasional.json
+39	58	cascade	n. 小瀑布、阶梯瀑布 v. 倾泻而下	细节数据有	缺	词/c/cascade.json
+39	59	wear	v. 穿；戴	细节数据有	缺	词/w/wear.json
+39	60	wore	v. wear 的过去式	细节数据有	缺	词/w/wore.json
+39	61	worn	adj. 磨损的、穿旧的；疲惫的	细节数据有	缺	词/w/worn.json
+39	62	wearable	adj. 可穿戴的	细节数据有	缺	词/w/wearable.json
+39	63	unworn	adj. 没穿过的、崭新的；未磨损的	细节数据有	缺	词/u/unworn.json
+39	64	wearer	n. 穿戴者、佩戴者	细节数据有	缺	词/w/wearer.json
+39	65	worn-out	adj. 破旧的、用坏的；筋疲力尽的	细节数据有	缺	词/w/worn-out.json
+39	66	footwear	n. 鞋类	细节数据有	缺	词/f/footwear.json
+39	67	well-worn	adj. 用旧了的	细节数据有	缺	词/w/well-worn.json
+39	68	win	v. 获胜；赢得	细节数据有	缺	词/w/win.json
+39	69	won	v. 过去分词	细节数据有	缺	词/w/won.json
+39	70	winner	n. 获胜者	细节数据有	缺	词/w/winner.json
+39	71	arrive	v. 到达	细节数据有	缺	词/a/arrive.json
+39	72	arrival	n. 到达	细节数据有	缺	词/a/arrival.json
+39	73	river	n. 江；河	细节数据有	缺	词/r/river.json
+39	74	riverbank	n. 河岸	细节数据有	缺	词/r/riverbank.json
+39	75	riverside	n. 河边、河畔	细节数据有	缺	词/r/riverside.json
+39	76	riverbed	n. 河床	细节数据有	缺	词/r/riverbed.json
+39	77	practice	n. 练习；实践	细节数据有	缺	词/p/practice.json
+39	78	practise	n. 练习；实践	细节数据有	缺	词/p/practise.json
+39	79	practical	adj. 实际的、实践的	细节数据有	缺	词/p/practical.json
+39	80	practically	adv. 几乎；实际上	细节数据有	缺	词/p/practically.json
 39	81	impractical	adj. 不切实际的、不实用的	缺	缺	
 40	1	museum	n. 博物馆	缺	缺	
 40	2	music	n. 音乐	缺	缺	
