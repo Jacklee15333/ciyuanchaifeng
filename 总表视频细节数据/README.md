@@ -216,6 +216,7 @@
 - art：【变形】写成“不可数，没有复数”，其实有 the arts（文艺、文科）、an art（一门技艺）这样的可数用法
 - coordinates：【变形】写成“不可数，没有复数”，其实它本身是 coordinate 的复数（可数，谓语用复数）
 - career-exploration：【变形】写了复数 career-explorations，这个词一般不可数
+- plus：【变形】编了形容词比较级 plusser、最高级 plussest；plus 没有比较级
 
 ## 总表里出现两次的词（细节数据按单词存一份，两行共用；出题时两个意思都要考到）
 
