@@ -292,6 +292,8 @@
 - worth：初中含义写 prep.，考点却写“adj. 比较级 worther、最高级 worthest”，worth 没有比较级、最高级。
 - void：考点写“比较级 voider、最高级 voidest”，void 没有比较级；【易混】void / vacant 引号里的解释是空的（“void 偏“”，vacant 是“””）。
 - right-and-wrong：考点写“复数 right-and-wrongs”；“是非”一般写 right and wrong，不加连字符，也不用复数。
+- spent：考点里有 spents、spented、spenting、spenter、spentest 这些不存在的变形（spent 是 spend 的过去式、过去分词，作形容词“精疲力竭的”没有比较级）。
+- spend：初中含义写成“v. 度过；花费(钱”，括号没有关上，应是“花费（钱）”。
 
 ## 总表里出现两次的词（细节数据按单词存一份，两行共用；出题时两个意思都要考到）
 

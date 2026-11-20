@@ -3417,31 +3417,31 @@
 43	57	vacation	n. 假期、度假	细节数据有	缺	词/v/vacation.json
 43	58	vacuum	n. 真空；吸尘器	细节数据有	缺	词/v/vacuum.json
 43	59	evacuate	v. 疏散、撤离	细节数据有	缺	词/e/evacuate.json
-43	60	evacuation	n. 疏散、撤离	缺	缺	
-43	61	teen	n. 青少年	缺	缺	
-43	62	teenager	n. 青少年	缺	缺	
-43	63	teenage	adj. 青少年的、十几岁的	缺	缺	
-43	64	ten-dollar	adj. 十美元的	缺	缺	
-43	65	decade	n. 十年	缺	缺	
-43	66	decade-old	adj. 已有十年的、持续了十年的	缺	缺	
-43	67	decadal	adj. 十年的、每十年的	缺	缺	
-43	68	December	n. 十二月	缺	缺	
-43	69	earth	n. 地球；土	缺	缺	
-43	70	earthy	adj. 泥土的、有泥土气息的；朴实直率的	缺	缺	
-43	71	earthen	adj. 泥土做的、陶制的	缺	缺	
-43	72	earthly	adj. 尘世的、人间的	缺	缺	
-43	73	unearth	v. 挖出、发掘	缺	缺	
-43	74	earthquake	n. 地震	缺	缺	
-43	75	quake	v. 颤抖、哆嗦 n. 地震	缺	缺	
-43	76	develop	v. 发展；培养	缺	缺	
-43	77	developed	adj. 发达的	缺	缺	
-43	78	developing	adj. 发展中的；正在形成的	缺	缺	
-43	79	development	n. 发展	缺	缺	
-43	80	developer	n. 开发商；显影剂	缺	缺	
-43	81	well-developed	adj. 发育良好的；完善的、周密的	缺	缺	
-43	82	envelope	n. 信封	缺	缺	
-44	1	spend	v. 度过；花费(钱	缺	缺	
-44	2	spent	v. 过去分词 adj. 精疲力竭的	缺	缺	
+43	60	evacuation	n. 疏散、撤离	细节数据有	缺	词/e/evacuation.json
+43	61	teen	n. 青少年	细节数据有	缺	词/t/teen.json
+43	62	teenager	n. 青少年	细节数据有	缺	词/t/teenager.json
+43	63	teenage	adj. 青少年的、十几岁的	细节数据有	缺	词/t/teenage.json
+43	64	ten-dollar	adj. 十美元的	细节数据有	缺	词/t/ten-dollar.json
+43	65	decade	n. 十年	细节数据有	缺	词/d/decade.json
+43	66	decade-old	adj. 已有十年的、持续了十年的	细节数据有	缺	词/d/decade-old.json
+43	67	decadal	adj. 十年的、每十年的	细节数据有	缺	词/d/decadal.json
+43	68	December	n. 十二月	细节数据有	缺	词/d/December.json
+43	69	earth	n. 地球；土	细节数据有	缺	词/e/earth.json
+43	70	earthy	adj. 泥土的、有泥土气息的；朴实直率的	细节数据有	缺	词/e/earthy.json
+43	71	earthen	adj. 泥土做的、陶制的	细节数据有	缺	词/e/earthen.json
+43	72	earthly	adj. 尘世的、人间的	细节数据有	缺	词/e/earthly.json
+43	73	unearth	v. 挖出、发掘	细节数据有	缺	词/u/unearth.json
+43	74	earthquake	n. 地震	细节数据有	缺	词/e/earthquake.json
+43	75	quake	v. 颤抖、哆嗦 n. 地震	细节数据有	缺	词/q/quake.json
+43	76	develop	v. 发展；培养	细节数据有	缺	词/d/develop.json
+43	77	developed	adj. 发达的	细节数据有	缺	词/d/developed.json
+43	78	developing	adj. 发展中的；正在形成的	细节数据有	缺	词/d/developing.json
+43	79	development	n. 发展	细节数据有	缺	词/d/development.json
+43	80	developer	n. 开发商；显影剂	细节数据有	缺	词/d/developer.json
+43	81	well-developed	adj. 发育良好的；完善的、周密的	细节数据有	缺	词/w/well-developed.json
+43	82	envelope	n. 信封	细节数据有	缺	词/e/envelope.json
+44	1	spend	v. 度过；花费(钱	细节数据有	缺	词/s/spend.json
+44	2	spent	v. 过去分词 adj. 精疲力竭的	细节数据有	缺	词/s/spent.json
 44	3	spending	n. 开支、花费	缺	缺	
 44	4	overspend	v. 超支、花钱过多	缺	缺	
 44	5	expensive	adj. 昂贵的	缺	缺	
