@@ -3392,31 +3392,31 @@
 43	32	divorce	n. 离婚	细节数据有	缺	词/d/divorce.json
 43	33	wrong	adj. 错误的；不正常的	细节数据有	缺	词/w/wrong.json
 43	34	wrongly	adv. 错误地；冤枉地	细节数据有	缺	词/w/wrongly.json
-43	35	right-and-wrong	n. 是非	缺	缺	
-43	36	wrench	v. 猛扭、猛拉 n. 扳手	缺	缺	
-43	37	wrinkle	n. 皱纹；褶子	缺	缺	
-43	38	wrinkled	adj. 起皱的、满是皱纹的	缺	缺	
-43	39	worth	prep. 值…钱	缺	缺	
-43	40	worthy	adj. 值得的、配得上的；可敬的	缺	缺	
-43	41	worthless	adj. 毫无价值的、不值钱的	缺	缺	
-43	42	worthwhile	adj. 值得做的、有价值的	缺	缺	
-43	43	worship	n. 崇拜 v. 极度爱慕	缺	缺	
-43	44	wrestle	v. 摔跤、扭打	缺	缺	
-43	45	wrestling	n. 摔跤	缺	缺	
-43	46	wrestler	n. 摔跤运动员	缺	缺	
-43	47	weird	adj. 怪异的、离奇的	缺	缺	
-43	48	weirdly	adv. 怪异地	缺	缺	
-43	49	calm	adj. 镇静的；沉着的	缺	缺	
-43	50	calmly	adv. 平静地、镇定地	缺	缺	
-43	51	calmness	n. 平静；镇定	缺	缺	
-43	52	avoid	v. 避免	缺	缺	
-43	53	avoidable	adj. 可避免的	缺	缺	
-43	54	avoidance	n. 回避、避免	缺	缺	
-43	55	void	adj. 无效的；空的	缺	缺	
-43	56	devoid	adj. 完全没有…的	缺	缺	
-43	57	vacation	n. 假期、度假	缺	缺	
-43	58	vacuum	n. 真空；吸尘器	缺	缺	
-43	59	evacuate	v. 疏散、撤离	缺	缺	
+43	35	right-and-wrong	n. 是非	细节数据有	缺	词/r/right-and-wrong.json
+43	36	wrench	v. 猛扭、猛拉 n. 扳手	细节数据有	缺	词/w/wrench.json
+43	37	wrinkle	n. 皱纹；褶子	细节数据有	缺	词/w/wrinkle.json
+43	38	wrinkled	adj. 起皱的、满是皱纹的	细节数据有	缺	词/w/wrinkled.json
+43	39	worth	prep. 值…钱	细节数据有	缺	词/w/worth.json
+43	40	worthy	adj. 值得的、配得上的；可敬的	细节数据有	缺	词/w/worthy.json
+43	41	worthless	adj. 毫无价值的、不值钱的	细节数据有	缺	词/w/worthless.json
+43	42	worthwhile	adj. 值得做的、有价值的	细节数据有	缺	词/w/worthwhile.json
+43	43	worship	n. 崇拜 v. 极度爱慕	细节数据有	缺	词/w/worship.json
+43	44	wrestle	v. 摔跤、扭打	细节数据有	缺	词/w/wrestle.json
+43	45	wrestling	n. 摔跤	细节数据有	缺	词/w/wrestling.json
+43	46	wrestler	n. 摔跤运动员	细节数据有	缺	词/w/wrestler.json
+43	47	weird	adj. 怪异的、离奇的	细节数据有	缺	词/w/weird.json
+43	48	weirdly	adv. 怪异地	细节数据有	缺	词/w/weirdly.json
+43	49	calm	adj. 镇静的；沉着的	细节数据有	缺	词/c/calm.json
+43	50	calmly	adv. 平静地、镇定地	细节数据有	缺	词/c/calmly.json
+43	51	calmness	n. 平静；镇定	细节数据有	缺	词/c/calmness.json
+43	52	avoid	v. 避免	细节数据有	缺	词/a/avoid.json
+43	53	avoidable	adj. 可避免的	细节数据有	缺	词/a/avoidable.json
+43	54	avoidance	n. 回避、避免	细节数据有	缺	词/a/avoidance.json
+43	55	void	adj. 无效的；空的	细节数据有	缺	词/v/void.json
+43	56	devoid	adj. 完全没有…的	细节数据有	缺	词/d/devoid.json
+43	57	vacation	n. 假期、度假	细节数据有	缺	词/v/vacation.json
+43	58	vacuum	n. 真空；吸尘器	细节数据有	缺	词/v/vacuum.json
+43	59	evacuate	v. 疏散、撤离	细节数据有	缺	词/e/evacuate.json
 43	60	evacuation	n. 疏散、撤离	缺	缺	
 43	61	teen	n. 青少年	缺	缺	
 43	62	teenager	n. 青少年	缺	缺	

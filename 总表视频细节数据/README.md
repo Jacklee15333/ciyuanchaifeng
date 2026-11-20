@@ -289,6 +289,9 @@
 - dollar：初中含义“元(美国”少了右括号
 - ads：标成“一般不可数，不加 s”不对；ads 本身就是 ad 的复数
 - controversial：易混一栏写“disputed 侧重“””，后半句是空的，应补“（事实、归属）有争执的”
+- worth：初中含义写 prep.，考点却写“adj. 比较级 worther、最高级 worthest”，worth 没有比较级、最高级。
+- void：考点写“比较级 voider、最高级 voidest”，void 没有比较级；【易混】void / vacant 引号里的解释是空的（“void 偏“”，vacant 是“””）。
+- right-and-wrong：考点写“复数 right-and-wrongs”；“是非”一般写 right and wrong，不加连字符，也不用复数。
 
 ## 总表里出现两次的词（细节数据按单词存一份，两行共用；出题时两个意思都要考到）
 
