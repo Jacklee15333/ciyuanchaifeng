@@ -4094,31 +4094,31 @@
 52	15	impressionism	n. 印象派、印象主义	细节数据有	缺	词/i/impressionism.json
 52	16	impressionist	n. 印象派画家；模仿名人的艺人	细节数据有	缺	词/i/impressionist.json
 52	17	print	v. 打印	细节数据有	缺	词/p/print.json
-52	18	printing	n. 印刷	缺	缺	
-52	19	printer	n. 打印机	缺	缺	
-52	20	overprint	v. 在已印好的东西上加印、叠印	缺	缺	
-52	21	handprint	n. 手印	缺	缺	
-52	22	3D-printed	adj. 3D 打印的	缺	缺	
-52	23	handprinted	adj. 手工印制的、手工印花的	缺	缺	
-52	24	suppress	v. 镇压；隐瞒、封锁	缺	缺	
-52	25	secret	n. 秘密	缺	缺	
-52	26	secretly	adv. 秘密地、暗中	缺	缺	
-52	27	secretary	n. 秘书	缺	缺	
-52	28	certain	adj. 确定的、必然的；某个、某些	缺	缺	
-52	29	certainly	adv. 当然；一定	缺	缺	
-52	30	uncertain	adj. 不确定的、拿不准的	缺	缺	
-52	31	certainty	n. 确定性；把握	缺	缺	
-52	32	uncertainty	n. 不确定；拿不准	缺	缺	
-52	33	certify	v. 证明、证实	缺	缺	
-52	34	certification	n. 认证、证明	缺	缺	
-52	35	certificate	n. 证书、证明	缺	缺	
-52	36	concern	v. 涉及、关系到；使担忧 n. 企业	缺	缺	
-52	37	crisis	n. 危机；紧要关头	缺	缺	
-52	38	critic	n. 评论家	缺	缺	
-52	39	critical	adj. 批评的、挑剔的；关键的	缺	缺	
-52	40	critically	adv. 批判地、审视地；危急地	缺	缺	
-52	41	criticize	v. 批评、指责	缺	缺	
-52	42	criticism	n. 批评、指责	缺	缺	
+52	18	printing	n. 印刷	细节数据有	缺	词/p/printing.json
+52	19	printer	n. 打印机	细节数据有	缺	词/p/printer.json
+52	20	overprint	v. 在已印好的东西上加印、叠印	细节数据有	缺	词/o/overprint.json
+52	21	handprint	n. 手印	细节数据有	缺	词/h/handprint.json
+52	22	3D-printed	adj. 3D 打印的	细节数据有	缺	词/_/3D-printed.json
+52	23	handprinted	adj. 手工印制的、手工印花的	细节数据有	缺	词/h/handprinted.json
+52	24	suppress	v. 镇压；隐瞒、封锁	细节数据有	缺	词/s/suppress.json
+52	25	secret	n. 秘密	细节数据有	缺	词/s/secret.json
+52	26	secretly	adv. 秘密地、暗中	细节数据有	缺	词/s/secretly.json
+52	27	secretary	n. 秘书	细节数据有	缺	词/s/secretary.json
+52	28	certain	adj. 确定的、必然的；某个、某些	细节数据有	缺	词/c/certain.json
+52	29	certainly	adv. 当然；一定	细节数据有	缺	词/c/certainly.json
+52	30	uncertain	adj. 不确定的、拿不准的	细节数据有	缺	词/u/uncertain.json
+52	31	certainty	n. 确定性；把握	细节数据有	缺	词/c/certainty.json
+52	32	uncertainty	n. 不确定；拿不准	细节数据有	缺	词/u/uncertainty.json
+52	33	certify	v. 证明、证实	细节数据有	缺	词/c/certify.json
+52	34	certification	n. 认证、证明	细节数据有	缺	词/c/certification.json
+52	35	certificate	n. 证书、证明	细节数据有	缺	词/c/certificate.json
+52	36	concern	v. 涉及、关系到；使担忧 n. 企业	细节数据有	缺	词/c/concern.json
+52	37	crisis	n. 危机；紧要关头	细节数据有	缺	词/c/crisis.json
+52	38	critic	n. 评论家	细节数据有	缺	词/c/critic.json
+52	39	critical	adj. 批评的、挑剔的；关键的	细节数据有	缺	词/c/critical.json
+52	40	critically	adv. 批判地、审视地；危急地	细节数据有	缺	词/c/critically.json
+52	41	criticize	v. 批评、指责	细节数据有	缺	词/c/criticize.json
+52	42	criticism	n. 批评、指责	细节数据有	缺	词/c/criticism.json
 52	43	critique	n. 评论、评析	缺	缺	
 52	44	doctor	n. 医生	缺	缺	
 52	45	Dr	n. ……医生	缺	缺	
