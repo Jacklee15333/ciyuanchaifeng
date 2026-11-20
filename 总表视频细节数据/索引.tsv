@@ -2184,32 +2184,32 @@
 28	27	harmonica	n. 口琴	细节数据有	缺	词/h/harmonica.json
 28	28	alarm	n. 警报、警报器；闹钟	总表有	kit有（7A-U4）	
 28	29	alarming	adj. 令人担忧的、惊人的	细节数据有	缺	词/a/alarming.json
-28	30	alarmingly	adv. 惊人地、令人担忧地	缺	缺	
-28	31	army	n. 军队	缺	缺	
-28	32	armed	adj. 武装的、持械的	缺	缺	
-28	33	armor	n. 盔甲、铠甲	缺	缺	
-28	34	arm	n. 手臂	缺	缺	
-28	35	armful	n. 一抱	缺	缺	
-28	36	armchair	n. 扶手椅、单人沙发	缺	缺	
-28	37	mind	n. 思想 v. 介意；关心	缺	缺	
-28	38	mindful	adj. 留心的、记着的	缺	缺	
-28	39	mindless	adj. 无需动脑的、机械的；不顾及的	缺	缺	
+28	30	alarmingly	adv. 惊人地、令人担忧地	细节数据有	缺	词/a/alarmingly.json
+28	31	army	n. 军队	细节数据有	缺	词/a/army.json
+28	32	armed	adj. 武装的、持械的	细节数据有	缺	词/a/armed.json
+28	33	armor	n. 盔甲、铠甲	细节数据有	缺	词/a/armor.json
+28	34	arm	n. 手臂	细节数据有	缺	词/a/arm.json
+28	35	armful	n. 一抱	细节数据有	缺	词/a/armful.json
+28	36	armchair	n. 扶手椅、单人沙发	细节数据有	缺	词/a/armchair.json
+28	37	mind	n. 思想 v. 介意；关心	细节数据有	缺	词/m/mind.json
+28	38	mindful	adj. 留心的、记着的	细节数据有	缺	词/m/mindful.json
+28	39	mindless	adj. 无需动脑的、机械的；不顾及的	细节数据有	缺	词/m/mindless.json
 28	40	remind	v. 提醒；使想起	总表有	kit有（7A-U4）	
-28	41	reminder	n. 提醒物、提示；催款单、催办通知	缺	缺	
-28	42	mindfully	adv. 留心地、用心地；正念地	缺	缺	
-28	43	open-minded	adj. 思想开明的、乐于接受新观点的	缺	缺	
-28	44	mention	v. 提到	缺	缺	
-28	45	comment	n. 评论、意见	缺	缺	
-28	46	mental	adj. 精神的、心理的；脑力的	缺	缺	
-28	47	mentally	adv. 精神上、心理上；在脑子里	缺	缺	
-28	48	commentator	n. 时事评论员	缺	缺	
-28	49	commentative	adj. 评论性的、带评注的	缺	缺	
-28	50	mentor	n. 导师、引路人	缺	缺	
-28	51	carry	v. 拿	缺	缺	
-28	52	carrier	n. 运输公司、航空公司	缺	缺	
-28	53	carriage	n. 马车；运费	缺	缺	
-28	54	career	n. 职业生涯、事业 v. 猛冲、疾驰	缺	缺	
-28	55	career-exploration	n. 职业探索、职业规划初探	缺	缺	
+28	41	reminder	n. 提醒物、提示；催款单、催办通知	细节数据有	缺	词/r/reminder.json
+28	42	mindfully	adv. 留心地、用心地；正念地	细节数据有	缺	词/m/mindfully.json
+28	43	open-minded	adj. 思想开明的、乐于接受新观点的	细节数据有	缺	词/o/open-minded.json
+28	44	mention	v. 提到	细节数据有	缺	词/m/mention.json
+28	45	comment	n. 评论、意见	细节数据有	缺	词/c/comment.json
+28	46	mental	adj. 精神的、心理的；脑力的	细节数据有	缺	词/m/mental.json
+28	47	mentally	adv. 精神上、心理上；在脑子里	细节数据有	缺	词/m/mentally.json
+28	48	commentator	n. 时事评论员	细节数据有	缺	词/c/commentator.json
+28	49	commentative	adj. 评论性的、带评注的	细节数据有	缺	词/c/commentative.json
+28	50	mentor	n. 导师、引路人	细节数据有	缺	词/m/mentor.json
+28	51	carry	v. 拿	细节数据有	缺	词/c/carry.json
+28	52	carrier	n. 运输公司、航空公司	细节数据有	缺	词/c/carrier.json
+28	53	carriage	n. 马车；运费	细节数据有	缺	词/c/carriage.json
+28	54	career	n. 职业生涯、事业 v. 猛冲、疾驰	细节数据有	缺	词/c/career.json
+28	55	career-exploration	n. 职业探索、职业规划初探	细节数据有	缺	词/c/career-exploration.json
 28	56	career-related	adj. 与职业有关的	缺	缺	
 28	57	charge	n. 主管	缺	缺	
 28	58	charger	n. 充电器	缺	缺	
