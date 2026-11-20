@@ -144,6 +144,7 @@
 | 2026-11-20 | 题目第 56 批第 3 组 | 25 | strictly … electrochemical（体检全部 0 个问题；electric、mini-electric、electrochemical 第 7 题漏写考点，补上再存；restrictive、towering、tower-building、tower-shaped、electricity、electronics、electronically 出题时自查到答案是原形超过 1 道，改过再存）。累计 5249 个词有题目 |
 | 2026-11-20 | 题目第 56 批第 4 组 | 25 | electrode … climax（体检全部 0 个问题；announcement 答案就是本词 2 道，改过再存）。累计 5274 个词有题目 |
 | 2026-11-20 | 题目第 57 批第 1 组 | 25 | decline … champion（体检全部 0 个问题；ladder 答案就是本词 2 道、hobby 第 7 题漏写考点，改过再存）。累计 5299 个词有题目 |
+| 2026-11-20 | 题目第 57 批第 2 组 | 25 | championship … biodiesel（体检全部 0 个问题；chatter、quick、quick-thinking、vital 答案就是本词 2 道，改过再存）。累计 5323 个词有题目 |
 | 2026-11-19 | 试做 truly | 0 | 只用自带素材加表情图拼画面：起草检查不通过（表情图要换成写实插图、每幅画都要动、小图标要自己画）。结论：多数词要专门画插图，每个词的工作量和 7A-U4 一样；全表 9299 个词做不完，要先定先做哪些（等用户定） |
 
 ## 总表里看着不对的地方（出题时绕开了，以后用维护技能核对）
@@ -493,6 +494,8 @@
 - lean：考点写“过去式 leaned、过去分词 leant”，实际过去式和过去分词都可以是 leaned 或 leant（美式多用 leaned），不是一个只作过去式、一个只作过去分词
 - camp：初中含义写成“营夏令”，应是“营地；夏令营”
 - floor：初中含义写成“地面；层楼房的”，应是“地面、地板；（楼房的）层”
+- biology：初中含义只写了“学科”，应是“生物学”
+- survival：考点写复数 survivals，初中用的“生存”不可数，复数极少用
 
 ## 总表里出现两次的词（细节数据按单词存一份，两行共用；出题时两个意思都要考到）
 

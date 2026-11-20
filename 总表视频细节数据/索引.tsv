@@ -5327,31 +5327,31 @@
 68	18	campground	n. 露营场	细节数据有	缺	词/c/campground.json
 68	19	campus	n. 校园	细节数据有	缺	词/c/campus.json
 68	20	champion	n. 冠军 v. 支持、倡导	细节数据有	缺	词/c/champion.json
-68	21	championship	n. 锦标赛、冠军赛	缺	缺	
-68	22	campaign	n. 竞选活动；战役	缺	缺	
-68	23	chat	v. 聊天	缺	缺	
+68	21	championship	n. 锦标赛、冠军赛	细节数据有	缺	词/c/championship.json
+68	22	campaign	n. 竞选活动；战役	细节数据有	缺	词/c/campaign.json
+68	23	chat	v. 聊天	细节数据有	缺	词/c/chat.json
 68	24	chatter	v. 喋喋不休、唠叨	缺	缺	
-68	25	chatbot	n. 聊天机器人	缺	缺	
-68	26	quick	adj. 快的；敏捷的	缺	缺	
-68	27	quick-learning	adj. 学得快的、上手快的	缺	缺	
-68	28	quick-thinking	adj. 反应敏捷的、脑子转得快的	缺	缺	
-68	29	survive	v. 幸存；生还	缺	缺	
-68	30	survival	n. 生存、幸存	缺	缺	
-68	31	survivor	n. 幸存者	缺	缺	
-68	32	vivid	adj. 鲜艳的；生动的、清晰的	缺	缺	
-68	33	vividly	adv. 生动地；清晰地	缺	缺	
-68	34	revive	v. 使苏醒、复活；重新上演	缺	缺	
-68	35	vital	adj. 极其重要的、必不可少的；生命的、维持生命的	缺	缺	
-68	36	vitamin	n. 维生素、维他命	缺	缺	
-68	37	biological	adj. 生物的、生物学的	缺	缺	
-68	38	biology	n. 学科	缺	缺	
-68	39	biologist	n. 生物学家	缺	缺	
-68	40	biography	n. 传记；生平	缺	缺	
-68	41	biodiversity	n. 生物多样性	缺	缺	
-68	42	antibiotic	n. 抗生素	缺	缺	
-68	43	bio	n. 个人简介、小传	缺	缺	
-68	44	biofuel	n. 生物燃料	缺	缺	
-68	45	biodiesel	n. 生物柴油	缺	缺	
+68	25	chatbot	n. 聊天机器人	细节数据有	缺	词/c/chatbot.json
+68	26	quick	adj. 快的；敏捷的	细节数据有	缺	词/q/quick.json
+68	27	quick-learning	adj. 学得快的、上手快的	细节数据有	缺	词/q/quick-learning.json
+68	28	quick-thinking	adj. 反应敏捷的、脑子转得快的	细节数据有	缺	词/q/quick-thinking.json
+68	29	survive	v. 幸存；生还	细节数据有	缺	词/s/survive.json
+68	30	survival	n. 生存、幸存	细节数据有	缺	词/s/survival.json
+68	31	survivor	n. 幸存者	细节数据有	缺	词/s/survivor.json
+68	32	vivid	adj. 鲜艳的；生动的、清晰的	细节数据有	缺	词/v/vivid.json
+68	33	vividly	adv. 生动地；清晰地	细节数据有	缺	词/v/vividly.json
+68	34	revive	v. 使苏醒、复活；重新上演	细节数据有	缺	词/r/revive.json
+68	35	vital	adj. 极其重要的、必不可少的；生命的、维持生命的	细节数据有	缺	词/v/vital.json
+68	36	vitamin	n. 维生素、维他命	细节数据有	缺	词/v/vitamin.json
+68	37	biological	adj. 生物的、生物学的	细节数据有	缺	词/b/biological.json
+68	38	biology	n. 学科	细节数据有	缺	词/b/biology.json
+68	39	biologist	n. 生物学家	细节数据有	缺	词/b/biologist.json
+68	40	biography	n. 传记；生平	细节数据有	缺	词/b/biography.json
+68	41	biodiversity	n. 生物多样性	细节数据有	缺	词/b/biodiversity.json
+68	42	antibiotic	n. 抗生素	细节数据有	缺	词/a/antibiotic.json
+68	43	bio	n. 个人简介、小传	细节数据有	缺	词/b/bio.json
+68	44	biofuel	n. 生物燃料	细节数据有	缺	词/b/biofuel.json
+68	45	biodiesel	n. 生物柴油	细节数据有	缺	词/b/biodiesel.json
 68	46	bioengineer	n. 生物工程师	缺	缺	
 68	47	bioengineered	adj. 经基因工程改造的、转基因的	缺	缺	
 68	48	lift	v. 举起 n. 电梯	缺	缺	
