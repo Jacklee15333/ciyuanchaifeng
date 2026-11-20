@@ -4395,32 +4395,32 @@
 55	77	dessert	n. 甜点、餐后甜食	细节数据有	缺	词/d/dessert.json
 55	78	fear	n. 害怕；恐惧	细节数据有	缺	词/f/fear.json
 55	79	fearful	adj. 可怕的、吓人的	细节数据有	缺	词/f/fearful.json
-55	80	fearless	adj. 无畏的、大胆的	缺	缺	
-55	81	fearsome	adj. 可怕的、令人生畏的	缺	缺	
-56	1	strange	adj. 奇怪的；陌生的	缺	缺	
+55	80	fearless	adj. 无畏的、大胆的	细节数据有	缺	词/f/fearless.json
+55	81	fearsome	adj. 可怕的、令人生畏的	细节数据有	缺	词/f/fearsome.json
+56	1	strange	adj. 奇怪的；陌生的	细节数据有	缺	词/s/strange.json
 56	2	stranger	n. 陌生人	总表有	kit有（7A-U4）	
-56	3	strangely	adv. 奇怪地	缺	缺	
-56	4	strange-looking	adj. 样子古怪的、长相奇特的	缺	缺	
-56	5	extra	adv. 特别地；另外	缺	缺	
-56	6	extras	n. 额外的东西	缺	缺	
-56	7	extreme	adj. 极端的、极度的；偏激的	缺	缺	
-56	8	extremely	adv. 极其、非常	缺	缺	
-56	9	extremist	n. 极端分子、极端主义者	缺	缺	
-56	10	extremity	n. 末端、尽头；极度	缺	缺	
-56	11	external	adj. 外部的、外面的	缺	缺	
-56	12	exterior	adj. 外部的	缺	缺	
-56	13	exotic	adj. 异国的、外来的	缺	缺	
-56	14	goal	n. 目标	缺	缺	
-56	15	goalkeeper	n. 守门员	缺	缺	
-56	16	goalpost	n. 球门柱	缺	缺	
-56	17	character	n. 性格；特征	缺	缺	
-56	18	characterise	v. 描述…的特征	缺	缺	
-56	19	characterize	v. 描述、刻画；是…的特征、以…为特点	缺	缺	
-56	20	characteristic	adj. 典型的、独特的	缺	缺	
-56	21	wish	n. 愿望	缺	缺	
-56	22	low	adv. 低；矮	缺	缺	
-56	23	lower	adj. 较低的、下面的	缺	缺	
-56	24	below	prep. 低于	缺	缺	
+56	3	strangely	adv. 奇怪地	细节数据有	缺	词/s/strangely.json
+56	4	strange-looking	adj. 样子古怪的、长相奇特的	细节数据有	缺	词/s/strange-looking.json
+56	5	extra	adv. 特别地；另外	细节数据有	缺	词/e/extra.json
+56	6	extras	n. 额外的东西	细节数据有	缺	词/e/extras.json
+56	7	extreme	adj. 极端的、极度的；偏激的	细节数据有	缺	词/e/extreme.json
+56	8	extremely	adv. 极其、非常	细节数据有	缺	词/e/extremely.json
+56	9	extremist	n. 极端分子、极端主义者	细节数据有	缺	词/e/extremist.json
+56	10	extremity	n. 末端、尽头；极度	细节数据有	缺	词/e/extremity.json
+56	11	external	adj. 外部的、外面的	细节数据有	缺	词/e/external.json
+56	12	exterior	adj. 外部的	细节数据有	缺	词/e/exterior.json
+56	13	exotic	adj. 异国的、外来的	细节数据有	缺	词/e/exotic.json
+56	14	goal	n. 目标	细节数据有	缺	词/g/goal.json
+56	15	goalkeeper	n. 守门员	细节数据有	缺	词/g/goalkeeper.json
+56	16	goalpost	n. 球门柱	细节数据有	缺	词/g/goalpost.json
+56	17	character	n. 性格；特征	细节数据有	缺	词/c/character.json
+56	18	characterise	v. 描述…的特征	细节数据有	缺	词/c/characterise.json
+56	19	characterize	v. 描述、刻画；是…的特征、以…为特点	细节数据有	缺	词/c/characterize.json
+56	20	characteristic	adj. 典型的、独特的	细节数据有	缺	词/c/characteristic.json
+56	21	wish	n. 愿望	细节数据有	缺	词/w/wish.json
+56	22	low	adv. 低；矮	细节数据有	缺	词/l/low.json
+56	23	lower	adj. 较低的、下面的	细节数据有	缺	词/l/lower.json
+56	24	below	prep. 低于	细节数据有	缺	词/b/below.json
 56	25	low-lying	adj. 地势低的、低洼的	缺	缺	
 56	26	low-cost	adj. 低成本的、廉价的	缺	缺	
 56	27	lie	v. 谎言 v. 卧；位于	缺	缺	
