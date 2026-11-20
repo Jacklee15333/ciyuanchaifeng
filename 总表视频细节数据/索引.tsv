@@ -4119,31 +4119,31 @@
 52	40	critically	adv. 批判地、审视地；危急地	细节数据有	缺	词/c/critically.json
 52	41	criticize	v. 批评、指责	细节数据有	缺	词/c/criticize.json
 52	42	criticism	n. 批评、指责	细节数据有	缺	词/c/criticism.json
-52	43	critique	n. 评论、评析	缺	缺	
-52	44	doctor	n. 医生	缺	缺	
-52	45	Dr	n. ……医生	缺	缺	
-52	46	mini-doctor	n. 小医生：如学了些健康	缺	缺	
-52	47	document	n. 文件、公文	缺	缺	
-52	48	documentary	n. 纪录片 adj. 文件的、文献的	缺	缺	
-52	49	decorate	v. 装饰	缺	缺	
-52	50	decoration	n. 装饰；勋章、奖章	缺	缺	
-52	51	decorative	adj. 装饰性的；好看但不实用的	缺	缺	
-52	52	decent	adj. 得体的、体面的；像样的、相当好的	缺	缺	
-52	53	dignity	n. 尊严；庄重、端庄	缺	缺	
-52	54	field	n. 田地；牧场	缺	缺	
-52	55	midfield	n. 中场	缺	缺	
-52	56	midfielder	n. 中场球员	缺	缺	
-52	57	among	prep. 在…中间、被…围着	缺	缺	
-52	58	draw	v. 绘画；拉	缺	缺	
-52	59	drew	v. draw 的过去式	缺	缺	
-52	60	drawn	adj. 拉上的	缺	缺	
-52	61	drawing	n. 素描、线条画；图纸	缺	缺	
-52	62	drawings	n. 图画、素描	缺	缺	
-52	63	redraw	v. 重画	缺	缺	
-52	64	withdraw	v. 取；撤回、撤出	缺	缺	
-52	65	withdrew	v. withdraw 的过去式	缺	缺	
-52	66	draft	n. 草稿、草案；汇票	缺	缺	
-52	67	drafty	adj. 有穿堂风的、漏风的	缺	缺	
+52	43	critique	n. 评论、评析	细节数据有	缺	词/c/critique.json
+52	44	doctor	n. 医生	细节数据有	缺	词/d/doctor.json
+52	45	Dr	n. ……医生	细节数据有	缺	词/d/Dr.json
+52	46	mini-doctor	n. 小医生：如学了些健康	细节数据有	缺	词/m/mini-doctor.json
+52	47	document	n. 文件、公文	细节数据有	缺	词/d/document.json
+52	48	documentary	n. 纪录片 adj. 文件的、文献的	细节数据有	缺	词/d/documentary.json
+52	49	decorate	v. 装饰	细节数据有	缺	词/d/decorate.json
+52	50	decoration	n. 装饰；勋章、奖章	细节数据有	缺	词/d/decoration.json
+52	51	decorative	adj. 装饰性的；好看但不实用的	细节数据有	缺	词/d/decorative.json
+52	52	decent	adj. 得体的、体面的；像样的、相当好的	细节数据有	缺	词/d/decent.json
+52	53	dignity	n. 尊严；庄重、端庄	细节数据有	缺	词/d/dignity.json
+52	54	field	n. 田地；牧场	细节数据有	缺	词/f/field.json
+52	55	midfield	n. 中场	细节数据有	缺	词/m/midfield.json
+52	56	midfielder	n. 中场球员	细节数据有	缺	词/m/midfielder.json
+52	57	among	prep. 在…中间、被…围着	细节数据有	缺	词/a/among.json
+52	58	draw	v. 绘画；拉	细节数据有	缺	词/d/draw.json
+52	59	drew	v. draw 的过去式	细节数据有	缺	词/d/drew.json
+52	60	drawn	adj. 拉上的	细节数据有	缺	词/d/drawn.json
+52	61	drawing	n. 素描、线条画；图纸	细节数据有	缺	词/d/drawing.json
+52	62	drawings	n. 图画、素描	细节数据有	缺	词/d/drawings.json
+52	63	redraw	v. 重画	细节数据有	缺	词/r/redraw.json
+52	64	withdraw	v. 取；撤回、撤出	细节数据有	缺	词/w/withdraw.json
+52	65	withdrew	v. withdraw 的过去式	细节数据有	缺	词/w/withdrew.json
+52	66	draft	n. 草稿、草案；汇票	细节数据有	缺	词/d/draft.json
+52	67	drafty	adj. 有穿堂风的、漏风的	细节数据有	缺	词/d/drafty.json
 52	68	drag	v. 拖、拽 n. 累赘	缺	缺	
 52	69	drawer	n. 抽屉	缺	缺	
 52	70	drawback	n. 缺点、不利之处	缺	缺	
