@@ -5629,31 +5629,31 @@
 73	7	fourteen	num. 基数词	细节数据有	缺	词/f/fourteen.json
 73	8	four-day	adj. 为期四天的	细节数据有	缺	词/f/four-day.json
 73	9	toy	n. 玩具	细节数据有	缺	词/t/toy.json
-73	10	grab	v. 抓住、夺取；吸引	缺	缺	
-73	11	hesitate	v. 犹豫	缺	缺	
-73	12	hesitation	n. 犹豫、迟疑	缺	缺	
-73	13	hesitant	adj. 犹豫的、迟疑的	缺	缺	
-73	14	hesitantly	adv. 犹豫地、迟疑地	缺	缺	
-73	15	adhesive	adj. 有粘性的	缺	缺	
-73	16	coherent	adj. 条理清楚的、连贯的；协调一致的	缺	缺	
-73	17	dig	v. 挖；掘	缺	缺	
-73	18	dug	v. 挖	缺	缺	
-73	19	digging	n. 挖掘	缺	缺	
-73	20	hike	v. 远足、徒步旅行	缺	缺	
-73	21	hiking	n. 徒步旅行、远足	缺	缺	
-73	22	hiker	n. 徒步旅行者、远足者	缺	缺	
-73	23	norm	n. 常态、惯例；平均水平、定额	缺	缺	
-73	24	normal	adj. 正常的、平常的	缺	缺	
-73	25	normally	adv. 通常、一般情况下	缺	缺	
-73	26	normality	n. 正常状态、常态	缺	缺	
-73	27	enormous	adj. 巨大的、庞大的	缺	缺	
-73	28	grey	adj. 灰色的；阴沉的	缺	缺	
-73	29	gray	adj. 灰色的；花白的	缺	缺	
-73	30	gain	v. 获得	缺	缺	
-73	31	regain	v. 重新获得、恢复；回到	缺	缺	
-73	32	nest	n. 巢、窝	缺	缺	
-73	33	nestle	v. 依偎、舒适地躺	缺	缺	
-73	34	half	adj. 半	缺	缺	
+73	10	grab	v. 抓住、夺取；吸引	细节数据有	缺	词/g/grab.json
+73	11	hesitate	v. 犹豫	细节数据有	缺	词/h/hesitate.json
+73	12	hesitation	n. 犹豫、迟疑	细节数据有	缺	词/h/hesitation.json
+73	13	hesitant	adj. 犹豫的、迟疑的	细节数据有	缺	词/h/hesitant.json
+73	14	hesitantly	adv. 犹豫地、迟疑地	细节数据有	缺	词/h/hesitantly.json
+73	15	adhesive	adj. 有粘性的	细节数据有	缺	词/a/adhesive.json
+73	16	coherent	adj. 条理清楚的、连贯的；协调一致的	细节数据有	缺	词/c/coherent.json
+73	17	dig	v. 挖；掘	细节数据有	缺	词/d/dig.json
+73	18	dug	v. 挖	细节数据有	缺	词/d/dug.json
+73	19	digging	n. 挖掘	细节数据有	缺	词/d/digging.json
+73	20	hike	v. 远足、徒步旅行	细节数据有	缺	词/h/hike.json
+73	21	hiking	n. 徒步旅行、远足	细节数据有	缺	词/h/hiking.json
+73	22	hiker	n. 徒步旅行者、远足者	细节数据有	缺	词/h/hiker.json
+73	23	norm	n. 常态、惯例；平均水平、定额	细节数据有	缺	词/n/norm.json
+73	24	normal	adj. 正常的、平常的	细节数据有	缺	词/n/normal.json
+73	25	normally	adv. 通常、一般情况下	细节数据有	缺	词/n/normally.json
+73	26	normality	n. 正常状态、常态	细节数据有	缺	词/n/normality.json
+73	27	enormous	adj. 巨大的、庞大的	细节数据有	缺	词/e/enormous.json
+73	28	grey	adj. 灰色的；阴沉的	细节数据有	缺	词/g/grey.json
+73	29	gray	adj. 灰色的；花白的	细节数据有	缺	词/g/gray.json
+73	30	gain	v. 获得	细节数据有	缺	词/g/gain.json
+73	31	regain	v. 重新获得、恢复；回到	细节数据有	缺	词/r/regain.json
+73	32	nest	n. 巢、窝	细节数据有	缺	词/n/nest.json
+73	33	nestle	v. 依偎、舒适地躺	细节数据有	缺	词/n/nestle.json
+73	34	half	adj. 半	细节数据有	缺	词/h/half.json
 73	35	behalf	n. 为了某人	缺	缺	
 73	36	deliver	v. 投递(信件；传送	缺	缺	
 73	37	delivery	n. 递送、送货；分娩	缺	缺	
