@@ -1907,31 +1907,31 @@
 24	66	openness	n. 坦率、坦诚；开放、包容	细节数据有	缺	词/o/openness.json
 24	67	eye-opening	adj. 令人大开眼界的、发人深省的	细节数据有	缺	词/e/eye-opening.json
 24	68	upon	prep. 一…就	细节数据有	缺	词/u/upon.json
-24	69	upwards	adv. 向上	缺	缺	
-24	70	upward	adj. 向上的、上升的	缺	缺	
-24	71	upper	adj. 上面的、上部的；上层的 n. 鞋帮	缺	缺	
-24	72	up	prep. 向上；在上方	缺	缺	
-24	73	upside-down	adv. 上下颠倒、倒置；乱七八糟	缺	缺	
-24	74	job	n. 工作	缺	缺	
-24	75	jobless	adj. 失业的、无业的	缺	缺	
-24	76	job-related	adj. 与工作相关的、因工的	缺	缺	
-24	77	hue	n. 色相	缺	缺	
-25	1	prepare	v. 准备	缺	缺	
-25	2	prepared	adj. 有准备的；预先做好的	缺	缺	
-25	3	preparation	n. 准备、预备	缺	缺	
-25	4	preparatory	adj. 预备的、准备性的	缺	缺	
-25	5	preparedness	n. 有准备、准备就绪	缺	缺	
-25	6	unprepared	adj. 没有准备的	缺	缺	
-25	7	well-prepared	adj. 准备充分的	缺	缺	
-25	8	repair	v. 修理	缺	缺	
-25	9	repairable	adj. 可修理的、修得好的	缺	缺	
-25	10	repairer	n. 修理工、修理者	缺	缺	
-25	11	disrepair	n. 失修、破败	缺	缺	
-25	12	repairman	n. 修理工	缺	缺	
-25	13	parade	n. 游行；阅兵 v. 炫耀、卖弄	缺	缺	
-25	14	parachute	n. 降落伞 v. 空投	缺	缺	
-25	15	several	adj. 几个	缺	缺	
-25	16	separate	v. 分开、隔开 adj. 不同的	缺	缺	
+24	69	upwards	adv. 向上	细节数据有	缺	词/u/upwards.json
+24	70	upward	adj. 向上的、上升的	细节数据有	缺	词/u/upward.json
+24	71	upper	adj. 上面的、上部的；上层的 n. 鞋帮	细节数据有	缺	词/u/upper.json
+24	72	up	prep. 向上；在上方	细节数据有	缺	词/u/up.json
+24	73	upside-down	adv. 上下颠倒、倒置；乱七八糟	细节数据有	缺	词/u/upside-down.json
+24	74	job	n. 工作	细节数据有	缺	词/j/job.json
+24	75	jobless	adj. 失业的、无业的	细节数据有	缺	词/j/jobless.json
+24	76	job-related	adj. 与工作相关的、因工的	细节数据有	缺	词/j/job-related.json
+24	77	hue	n. 色相	细节数据有	缺	词/h/hue.json
+25	1	prepare	v. 准备	细节数据有	缺	词/p/prepare.json
+25	2	prepared	adj. 有准备的；预先做好的	细节数据有	缺	词/p/prepared.json
+25	3	preparation	n. 准备、预备	细节数据有	缺	词/p/preparation.json
+25	4	preparatory	adj. 预备的、准备性的	细节数据有	缺	词/p/preparatory.json
+25	5	preparedness	n. 有准备、准备就绪	细节数据有	缺	词/p/preparedness.json
+25	6	unprepared	adj. 没有准备的	细节数据有	缺	词/u/unprepared.json
+25	7	well-prepared	adj. 准备充分的	细节数据有	缺	词/w/well-prepared.json
+25	8	repair	v. 修理	细节数据有	缺	词/r/repair.json
+25	9	repairable	adj. 可修理的、修得好的	细节数据有	缺	词/r/repairable.json
+25	10	repairer	n. 修理工、修理者	细节数据有	缺	词/r/repairer.json
+25	11	disrepair	n. 失修、破败	细节数据有	缺	词/d/disrepair.json
+25	12	repairman	n. 修理工	细节数据有	缺	词/r/repairman.json
+25	13	parade	n. 游行；阅兵 v. 炫耀、卖弄	细节数据有	缺	词/p/parade.json
+25	14	parachute	n. 降落伞 v. 空投	细节数据有	缺	词/p/parachute.json
+25	15	several	adj. 几个	细节数据有	缺	词/s/several.json
+25	16	separate	v. 分开、隔开 adj. 不同的	细节数据有	缺	词/s/separate.json
 25	17	separately	adv. 分开地、分别地	缺	缺	
 25	18	separation	n. 分离、分开；间隔	缺	缺	
 25	19	inseparable	adj. 分不开的、不可分割的	缺	缺	

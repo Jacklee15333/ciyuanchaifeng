@@ -190,6 +190,7 @@
 - unkind：【词性转换】写成 kind n.种，应是 kind adj.善良的
 - native：【变形】编造了比较级 more native、最高级 most native，native 一般不比较
 - gentlemen：【变形】写“复数 gentlemens”是编造的，gentlemen 本身就是 gentleman 的复数
+- jobless：【变形】写“n. 一般不可数，不加 s”，jobless 是形容词“失业的”
 
 ## 总表里出现两次的词（细节数据按单词存一份，两行共用；出题时两个意思都要考到）
 
