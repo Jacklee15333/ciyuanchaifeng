@@ -75,6 +75,7 @@
 | 2026-11-20 | 题目第 31 批 | 100 | Pacific … voice-controlled（体检全部 0 个问题；PC 选项大小写重复、accountable 和 fairness 答案就是本词 2 道，改过再存）。累计 2775 个词有题目 |
 | 2026-11-20 | 题目第 32 批 | 100 | vocabulary … mountaintop（体检全部 0 个问题；officer 答案就是本词 2 道，改过再存）。累计 2875 个词有题目 |
 | 2026-11-20 | 题目第 33 批 | 100 | amount … socially（体检全部 0 个问题）。累计 2975 个词有题目 |
+| 2026-11-20 | 题目第 34 批 | 100 | socialism … occasion（体检全部 0 个问题；acceptable、captivated 改过再存）。累计 3075 个词有题目 |
 | 2026-11-19 | 试做 truly | 0 | 只用自带素材加表情图拼画面：起草检查不通过（表情图要换成写实插图、每幅画都要动、小图标要自己画）。结论：多数词要专门画插图，每个词的工作量和 7A-U4 一样；全表 9299 个词做不完，要先定先做哪些（等用户定） |
 
 ## 总表里看着不对的地方（出题时绕开了，以后用维护技能核对）
@@ -270,6 +271,7 @@
 - having：变形写成“三单 havings；过去式 havinged；现在分词 havinging”（不存在），having 本身就是 have 的 -ing 形式
 - must：变形写成“三单 musts；过去式 must；现在分词 musting”，情态动词没有这些变形（名词 a must 的复数才是 musts）
 - cloth：易混写成“cloth / fabrique（fabrique 是工厂）”，fabrique 不是英语词，应为 cloth / fabric（面料）
+- decay：只写了 n.（不可数），decay 也常作动词“腐烂、衰败”，应补 v. 三单 decays；过去式、过去分词 decayed；现在分词 decaying
 
 ## 总表里出现两次的词（细节数据按单词存一份，两行共用；出题时两个意思都要考到）
 

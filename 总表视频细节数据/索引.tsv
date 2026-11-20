@@ -3067,31 +3067,31 @@
 39	28	cashless	adj. 无现金的	细节数据有	缺	词/c/cashless.json
 39	29	capsule	n. 胶囊；太空舱 adj. 简要的	细节数据有	缺	词/c/capsule.json
 39	30	cassette	n. 盒式磁带	细节数据有	缺	词/c/cassette.json
-39	31	cashier	n. 收银员	缺	缺	
-39	32	capture	v. 俘获、捕获；夺取	缺	缺	
-39	33	cable	n. 电缆、电线	缺	缺	
-39	34	capable	adj. 有能力的、能干的	缺	缺	
-39	35	capability	n. 能力、性能	缺	缺	
-39	36	caption	n. 标题	缺	缺	
-39	37	captive	adj. 被俘的、被关着的	缺	缺	
-39	38	captivate	v. 迷住、吸引	缺	缺	
-39	39	captivated	adj. 着迷的	缺	缺	
-39	40	capacity	n. 容量；能力	缺	缺	
-39	41	capacitor	n. 电容器	缺	缺	
-39	42	chance	n. 机会	缺	缺	
-39	43	cheat	v. 作弊；欺骗、骗取	缺	缺	
-39	44	cheater	n. 作弊者、骗子	缺	缺	
-39	45	decay	n. 腐烂、腐朽；衰败、衰落	缺	缺	
-39	46	accident	n. 事故	缺	缺	
-39	47	accidentally	adv. 意外地、偶然地	缺	缺	
-39	48	accidental	adj. 意外的、偶然的；附带的、非主要的	缺	缺	
-39	49	incident	n. 事件、事故；插曲	缺	缺	
-39	50	coincide	v. 同时发生；相符、一致	缺	缺	
-39	51	coincidence	n. 巧合	缺	缺	
-39	52	case	n. 情况；案件	缺	缺	
-39	53	casual	adj. 随便的、非正式的；临时的	缺	缺	
-39	54	casually	adv. 随意地；漫不经心地	缺	缺	
-39	55	occasion	n. 场合；时机、机会	缺	缺	
+39	31	cashier	n. 收银员	细节数据有	缺	词/c/cashier.json
+39	32	capture	v. 俘获、捕获；夺取	细节数据有	缺	词/c/capture.json
+39	33	cable	n. 电缆、电线	细节数据有	缺	词/c/cable.json
+39	34	capable	adj. 有能力的、能干的	细节数据有	缺	词/c/capable.json
+39	35	capability	n. 能力、性能	细节数据有	缺	词/c/capability.json
+39	36	caption	n. 标题	细节数据有	缺	词/c/caption.json
+39	37	captive	adj. 被俘的、被关着的	细节数据有	缺	词/c/captive.json
+39	38	captivate	v. 迷住、吸引	细节数据有	缺	词/c/captivate.json
+39	39	captivated	adj. 着迷的	细节数据有	缺	词/c/captivated.json
+39	40	capacity	n. 容量；能力	细节数据有	缺	词/c/capacity.json
+39	41	capacitor	n. 电容器	细节数据有	缺	词/c/capacitor.json
+39	42	chance	n. 机会	细节数据有	缺	词/c/chance.json
+39	43	cheat	v. 作弊；欺骗、骗取	细节数据有	缺	词/c/cheat.json
+39	44	cheater	n. 作弊者、骗子	细节数据有	缺	词/c/cheater.json
+39	45	decay	n. 腐烂、腐朽；衰败、衰落	细节数据有	缺	词/d/decay.json
+39	46	accident	n. 事故	细节数据有	缺	词/a/accident.json
+39	47	accidentally	adv. 意外地、偶然地	细节数据有	缺	词/a/accidentally.json
+39	48	accidental	adj. 意外的、偶然的；附带的、非主要的	细节数据有	缺	词/a/accidental.json
+39	49	incident	n. 事件、事故；插曲	细节数据有	缺	词/i/incident.json
+39	50	coincide	v. 同时发生；相符、一致	细节数据有	缺	词/c/coincide.json
+39	51	coincidence	n. 巧合	细节数据有	缺	词/c/coincidence.json
+39	52	case	n. 情况；案件	细节数据有	缺	词/c/case.json
+39	53	casual	adj. 随便的、非正式的；临时的	细节数据有	缺	词/c/casual.json
+39	54	casually	adv. 随意地；漫不经心地	细节数据有	缺	词/c/casually.json
+39	55	occasion	n. 场合；时机、机会	细节数据有	缺	词/o/occasion.json
 39	56	occasionally	adv. 偶尔、有时	缺	缺	
 39	57	occasional	adj. 偶尔的；为特定场合的	缺	缺	
 39	58	cascade	n. 小瀑布、阶梯瀑布 v. 倾泻而下	缺	缺	
