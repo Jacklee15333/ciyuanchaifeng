@@ -4069,31 +4069,31 @@
 51	63	literacy	n. 识字、读写能力	细节数据有	缺	词/l/literacy.json
 51	64	literary	adj. 文学的；从事写作的	细节数据有	缺	词/l/literary.json
 51	65	literal	adj. 字面上的；确切的	细节数据有	缺	词/l/literal.json
-51	66	literally	adv. 照字面地 adj. 确实地、真的	缺	缺	
-51	67	yet	adv. 尚	缺	缺	
-51	68	poster	n. 海报	缺	缺	
-51	69	four-poster	n. 四柱床	缺	缺	
-51	70	plastic	adj. 塑料的	缺	缺	
-51	71	microplastic	n. 微塑料	缺	缺	
-51	72	no-plastic	adj. 无塑料的、不用塑料的	缺	缺	
-51	73	plasma	n. 血浆	缺	缺	
-52	1	press	v. 压	缺	缺	
-52	2	pressing	adj. 紧迫的、急迫的 n. 压制品	缺	缺	
-52	3	express	v. 表达 n. 快车	缺	缺	
-52	4	expression	n. 表达；措辞、说法	缺	缺	
-52	5	expressive	adj. 富于表情的、富有表现力的	缺	缺	
-52	6	pressure	n. 压力	缺	缺	
-52	7	pressurize	v. 加压；逼迫	缺	缺	
-52	8	impress	v. 使印象深刻、使钦佩；使铭记	缺	缺	
-52	9	impressed	adj. 钦佩的、印象深刻的	缺	缺	
-52	10	impressive	adj. 令人印象深刻的、了不起的	缺	缺	
-52	11	impressively	adv. 令人印象深刻地、了不起地	缺	缺	
-52	12	impression	n. 印象	缺	缺	
-52	13	depression	n. 抑郁、抑郁症；沮丧	缺	缺	
-52	14	depressed	adj. 沮丧的、消沉的；患抑郁症的	缺	缺	
-52	15	impressionism	n. 印象派、印象主义	缺	缺	
-52	16	impressionist	n. 印象派画家；模仿名人的艺人	缺	缺	
-52	17	print	v. 打印	缺	缺	
+51	66	literally	adv. 照字面地 adj. 确实地、真的	细节数据有	缺	词/l/literally.json
+51	67	yet	adv. 尚	细节数据有	缺	词/y/yet.json
+51	68	poster	n. 海报	细节数据有	缺	词/p/poster.json
+51	69	four-poster	n. 四柱床	细节数据有	缺	词/f/four-poster.json
+51	70	plastic	adj. 塑料的	细节数据有	缺	词/p/plastic.json
+51	71	microplastic	n. 微塑料	细节数据有	缺	词/m/microplastic.json
+51	72	no-plastic	adj. 无塑料的、不用塑料的	细节数据有	缺	词/n/no-plastic.json
+51	73	plasma	n. 血浆	细节数据有	缺	词/p/plasma.json
+52	1	press	v. 压	细节数据有	缺	词/p/press.json
+52	2	pressing	adj. 紧迫的、急迫的 n. 压制品	细节数据有	缺	词/p/pressing.json
+52	3	express	v. 表达 n. 快车	细节数据有	缺	词/e/express.json
+52	4	expression	n. 表达；措辞、说法	细节数据有	缺	词/e/expression.json
+52	5	expressive	adj. 富于表情的、富有表现力的	细节数据有	缺	词/e/expressive.json
+52	6	pressure	n. 压力	细节数据有	缺	词/p/pressure.json
+52	7	pressurize	v. 加压；逼迫	细节数据有	缺	词/p/pressurize.json
+52	8	impress	v. 使印象深刻、使钦佩；使铭记	细节数据有	缺	词/i/impress.json
+52	9	impressed	adj. 钦佩的、印象深刻的	细节数据有	缺	词/i/impressed.json
+52	10	impressive	adj. 令人印象深刻的、了不起的	细节数据有	缺	词/i/impressive.json
+52	11	impressively	adv. 令人印象深刻地、了不起地	细节数据有	缺	词/i/impressively.json
+52	12	impression	n. 印象	细节数据有	缺	词/i/impression.json
+52	13	depression	n. 抑郁、抑郁症；沮丧	细节数据有	缺	词/d/depression.json
+52	14	depressed	adj. 沮丧的、消沉的；患抑郁症的	细节数据有	缺	词/d/depressed.json
+52	15	impressionism	n. 印象派、印象主义	细节数据有	缺	词/i/impressionism.json
+52	16	impressionist	n. 印象派画家；模仿名人的艺人	细节数据有	缺	词/i/impressionist.json
+52	17	print	v. 打印	细节数据有	缺	词/p/print.json
 52	18	printing	n. 印刷	缺	缺	
 52	19	printer	n. 打印机	缺	缺	
 52	20	overprint	v. 在已印好的东西上加印、叠印	缺	缺	
