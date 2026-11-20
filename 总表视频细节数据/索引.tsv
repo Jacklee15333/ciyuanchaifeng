@@ -5227,31 +5227,31 @@
 66	81	season	n. 季	细节数据有	缺	词/s/season.json
 66	82	seasoned	adj. 经验丰富的、老练的；调过味的	细节数据有	缺	词/s/seasoned.json
 66	83	seasonal	adj. 季节性的	细节数据有	缺	词/s/seasonal.json
-67	1	web	n. 网	缺	缺	
-67	2	webbed	adj. 有蹼的	缺	缺	
-67	3	website	n. 网站	缺	缺	
-67	4	webpage	n. 网页	缺	缺	
-67	5	blog	n. 博客、网络日志	缺	缺	
-67	6	blogger	n. 博主、博客作者	缺	缺	
-67	7	weave	v. 织、编；在…中穿行	缺	缺	
-67	8	wove	v. 织、编	缺	缺	
-67	9	woven	adj. 织成的、编织的	缺	缺	
-67	10	weaver	n. 织工、织布者	缺	缺	
-67	11	hand-woven	adj. 手工织的	缺	缺	
-67	12	vlog	n. 视频日志	缺	缺	
-67	13	terrible	n. 可怕的；糟糕的	缺	缺	
-67	14	terribly	adv. 很糟地	缺	缺	
-67	15	terror	n. 恐惧、惊恐；令人害怕的人或事	缺	缺	
-67	16	terrify	v. 使恐惧、吓坏	缺	缺	
-67	17	terrific	adj. 极好的、了不起的	缺	缺	
-67	18	stress	n. 压力；紧张 v. 强调	缺	缺	
-67	19	stressed	adj. 感到压力的、紧张的；重读的	缺	缺	
-67	20	stressful	adj. 带来压力的、让人紧张的	缺	缺	
-67	21	distress	n. 痛苦、忧虑；危难	缺	缺	
-67	22	distressed	adj. 痛苦的、苦恼的	缺	缺	
-67	23	prestige	n. 声望、威望	缺	缺	
-67	24	prestigious	adj. 有声望的、一流的	缺	缺	
-67	25	strict	adj. 严格的	缺	缺	
+67	1	web	n. 网	细节数据有	缺	词/w/web.json
+67	2	webbed	adj. 有蹼的	细节数据有	缺	词/w/webbed.json
+67	3	website	n. 网站	细节数据有	缺	词/w/website.json
+67	4	webpage	n. 网页	细节数据有	缺	词/w/webpage.json
+67	5	blog	n. 博客、网络日志	细节数据有	缺	词/b/blog.json
+67	6	blogger	n. 博主、博客作者	细节数据有	缺	词/b/blogger.json
+67	7	weave	v. 织、编；在…中穿行	细节数据有	缺	词/w/weave.json
+67	8	wove	v. 织、编	细节数据有	缺	词/w/wove.json
+67	9	woven	adj. 织成的、编织的	细节数据有	缺	词/w/woven.json
+67	10	weaver	n. 织工、织布者	细节数据有	缺	词/w/weaver.json
+67	11	hand-woven	adj. 手工织的	细节数据有	缺	词/h/hand-woven.json
+67	12	vlog	n. 视频日志	细节数据有	缺	词/v/vlog.json
+67	13	terrible	n. 可怕的；糟糕的	细节数据有	缺	词/t/terrible.json
+67	14	terribly	adv. 很糟地	细节数据有	缺	词/t/terribly.json
+67	15	terror	n. 恐惧、惊恐；令人害怕的人或事	细节数据有	缺	词/t/terror.json
+67	16	terrify	v. 使恐惧、吓坏	细节数据有	缺	词/t/terrify.json
+67	17	terrific	adj. 极好的、了不起的	细节数据有	缺	词/t/terrific.json
+67	18	stress	n. 压力；紧张 v. 强调	细节数据有	缺	词/s/stress.json
+67	19	stressed	adj. 感到压力的、紧张的；重读的	细节数据有	缺	词/s/stressed.json
+67	20	stressful	adj. 带来压力的、让人紧张的	细节数据有	缺	词/s/stressful.json
+67	21	distress	n. 痛苦、忧虑；危难	细节数据有	缺	词/d/distress.json
+67	22	distressed	adj. 痛苦的、苦恼的	细节数据有	缺	词/d/distressed.json
+67	23	prestige	n. 声望、威望	细节数据有	缺	词/p/prestige.json
+67	24	prestigious	adj. 有声望的、一流的	细节数据有	缺	词/p/prestigious.json
+67	25	strict	adj. 严格的	细节数据有	缺	词/s/strict.json
 67	26	strictly	adv. 严格地；完全、仅	缺	缺	
 67	27	restriction	n. 限制、限定	缺	缺	
 67	28	restrict	v. 限制、限定	缺	缺	
