@@ -3017,31 +3017,31 @@
 38	58	having	v. 动名词	细节数据有	缺	词/h/having.json
 38	59	behave	v. 表现、举止；规矩点	细节数据有	缺	词/b/behave.json
 38	60	behavior	n. 行为	细节数据有	缺	词/b/behavior.json
-38	61	behaviour	n. 行为、举止	缺	缺	
-38	62	behavioural	adj. 行为的	缺	缺	
-38	63	behavioral	adj. 行为的	缺	缺	
-38	64	well-behaved	adj. 守规矩的、表现好的	缺	缺	
-38	65	haven	n. 避风港、安全的地方	缺	缺	
-38	66	heavy	adj. 重的	缺	缺	
-38	67	heavily	adv. 沉重地；大量地	缺	缺	
-38	68	hefty	adj. 高大结实的；沉重的	缺	缺	
-38	69	environment	n. 环境	缺	缺	
-38	70	environmental	adj. 环境的	缺	缺	
-38	71	environmentally	adv. 在环境方面	缺	缺	
-38	72	environmentalist	n. 环保人士、环境保护主义者	缺	缺	
-38	73	environmentalism	n. 环境保护主义	缺	缺	
-38	74	environmentally-friendly	adj. 环保的、对环境无害的	缺	缺	
-38	75	must	aux. v. 必须；需要	缺	缺	
-38	76	must-have	n. 必备之物	缺	缺	
-38	77	cloth	n. 布、布料	缺	缺	
-38	78	clothes	n. 衣服	缺	缺	
-38	79	clothing	n. 衣服、服装	缺	缺	
-38	80	tablecloth	n. 桌布	缺	缺	
-39	1	receive	v. 收到	缺	缺	
-39	2	receivable	adj. 应收的	缺	缺	
-39	3	receptionist	n. 接待员、前台	缺	缺	
-39	4	reception	n. 接待、招待会；反应、反响	缺	缺	
-39	5	receipt	n. 收据、收条	缺	缺	
+38	61	behaviour	n. 行为、举止	细节数据有	缺	词/b/behaviour.json
+38	62	behavioural	adj. 行为的	细节数据有	缺	词/b/behavioural.json
+38	63	behavioral	adj. 行为的	细节数据有	缺	词/b/behavioral.json
+38	64	well-behaved	adj. 守规矩的、表现好的	细节数据有	缺	词/w/well-behaved.json
+38	65	haven	n. 避风港、安全的地方	细节数据有	缺	词/h/haven.json
+38	66	heavy	adj. 重的	细节数据有	缺	词/h/heavy.json
+38	67	heavily	adv. 沉重地；大量地	细节数据有	缺	词/h/heavily.json
+38	68	hefty	adj. 高大结实的；沉重的	细节数据有	缺	词/h/hefty.json
+38	69	environment	n. 环境	细节数据有	缺	词/e/environment.json
+38	70	environmental	adj. 环境的	细节数据有	缺	词/e/environmental.json
+38	71	environmentally	adv. 在环境方面	细节数据有	缺	词/e/environmentally.json
+38	72	environmentalist	n. 环保人士、环境保护主义者	细节数据有	缺	词/e/environmentalist.json
+38	73	environmentalism	n. 环境保护主义	细节数据有	缺	词/e/environmentalism.json
+38	74	environmentally-friendly	adj. 环保的、对环境无害的	细节数据有	缺	词/e/environmentally-friendly.json
+38	75	must	aux. v. 必须；需要	细节数据有	缺	词/m/must.json
+38	76	must-have	n. 必备之物	细节数据有	缺	词/m/must-have.json
+38	77	cloth	n. 布、布料	细节数据有	缺	词/c/cloth.json
+38	78	clothes	n. 衣服	细节数据有	缺	词/c/clothes.json
+38	79	clothing	n. 衣服、服装	细节数据有	缺	词/c/clothing.json
+38	80	tablecloth	n. 桌布	细节数据有	缺	词/t/tablecloth.json
+39	1	receive	v. 收到	细节数据有	缺	词/r/receive.json
+39	2	receivable	adj. 应收的	细节数据有	缺	词/r/receivable.json
+39	3	receptionist	n. 接待员、前台	细节数据有	缺	词/r/receptionist.json
+39	4	reception	n. 接待、招待会；反应、反响	细节数据有	缺	词/r/reception.json
+39	5	receipt	n. 收据、收条	细节数据有	缺	词/r/receipt.json
 39	6	recipient	n. 接受者、领受者；收件人	缺	缺	
 39	7	accept	v. 接受	缺	缺	
 39	8	acceptance	n. 接受、认可	缺	缺	
