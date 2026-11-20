@@ -5477,31 +5477,31 @@
 70	52	brush-like	adj. 刷子状的	细节数据有	缺	词/b/brush-like.json
 70	53	business	n. 生意；事业	细节数据有	缺	词/b/business.json
 70	54	businessman	n. 商人	细节数据有	缺	词/b/businessman.json
-70	55	businessmen	n. 商人们、企业家们	缺	缺	
-70	56	businessperson	n. 商人、企业人士	缺	缺	
-70	57	businesswoman	n. 女商人、女企业家	缺	缺	
-70	58	busy	adj. 忙的	缺	缺	
-70	59	busily	adv. 忙碌地	缺	缺	
-70	60	lab	n. 实验室	缺	缺	
-70	61	laboratory	n. 实验室	缺	缺	
-70	62	collaborate	v. 合作、协作	缺	缺	
-70	63	collaboration	n. 合作、协作	缺	缺	
-70	64	collaborative	adj. 合作的、协作的	缺	缺	
-70	65	labour	n. 劳动、劳力；分娩 v. 辛苦工作	缺	缺	
-70	66	labor	n. 劳动；分娩 v. 辛苦工作	缺	缺	
-70	67	clever	adj. 聪明的	缺	缺	
-70	68	cleverly	adv. 聪明地、巧妙地；机灵地	缺	缺	
-70	69	cleverness	n. 聪明、机灵；巧妙	缺	缺	
-71	1	hurry	v. 赶快；急忙	缺	缺	
+70	55	businessmen	n. 商人们、企业家们	细节数据有	缺	词/b/businessmen.json
+70	56	businessperson	n. 商人、企业人士	细节数据有	缺	词/b/businessperson.json
+70	57	businesswoman	n. 女商人、女企业家	细节数据有	缺	词/b/businesswoman.json
+70	58	busy	adj. 忙的	细节数据有	缺	词/b/busy.json
+70	59	busily	adv. 忙碌地	细节数据有	缺	词/b/busily.json
+70	60	lab	n. 实验室	细节数据有	缺	词/l/lab.json
+70	61	laboratory	n. 实验室	细节数据有	缺	词/l/laboratory.json
+70	62	collaborate	v. 合作、协作	细节数据有	缺	词/c/collaborate.json
+70	63	collaboration	n. 合作、协作	细节数据有	缺	词/c/collaboration.json
+70	64	collaborative	adj. 合作的、协作的	细节数据有	缺	词/c/collaborative.json
+70	65	labour	n. 劳动、劳力；分娩 v. 辛苦工作	细节数据有	缺	词/l/labour.json
+70	66	labor	n. 劳动；分娩 v. 辛苦工作	细节数据有	缺	词/l/labor.json
+70	67	clever	adj. 聪明的	细节数据有	缺	词/c/clever.json
+70	68	cleverly	adv. 聪明地、巧妙地；机灵地	细节数据有	缺	词/c/cleverly.json
+70	69	cleverness	n. 聪明、机灵；巧妙	细节数据有	缺	词/c/cleverness.json
+71	1	hurry	v. 赶快；急忙	细节数据有	缺	词/h/hurry.json
 71	2	hurried	adj. 匆匆的、仓促的	缺	缺	
-71	3	hurriedly	adv. 匆忙地、仓促地	缺	缺	
-71	4	unhurried	adj. 从容的、不慌不忙的	缺	缺	
-71	5	single	adj. 单一的	缺	缺	
-71	6	singles	n. 单打	缺	缺	
-71	7	singular	adj. 单数的；非凡的、突出的	缺	缺	
-71	8	rather	adv. 相当；宁可	缺	缺	
-71	9	pet	n. 宠物	缺	缺	
-71	10	rain	n. 雨	缺	缺	
+71	3	hurriedly	adv. 匆忙地、仓促地	细节数据有	缺	词/h/hurriedly.json
+71	4	unhurried	adj. 从容的、不慌不忙的	细节数据有	缺	词/u/unhurried.json
+71	5	single	adj. 单一的	细节数据有	缺	词/s/single.json
+71	6	singles	n. 单打	细节数据有	缺	词/s/singles.json
+71	7	singular	adj. 单数的；非凡的、突出的	细节数据有	缺	词/s/singular.json
+71	8	rather	adv. 相当；宁可	细节数据有	缺	词/r/rather.json
+71	9	pet	n. 宠物	细节数据有	缺	词/p/pet.json
+71	10	rain	n. 雨	细节数据有	缺	词/r/rain.json
 71	11	rainy	adj. 有雨的	缺	缺	
 71	12	rainwater	n. 雨水	缺	缺	
 71	13	rainforest	n. 雨林	缺	缺	
