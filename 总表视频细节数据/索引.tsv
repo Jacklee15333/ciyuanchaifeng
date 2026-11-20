@@ -2764,31 +2764,31 @@
 35	44	enthusiasm	n. 热情、热忱	细节数据有	缺	词/e/enthusiasm.json
 35	45	enthusiastic	adj. 热情的、热心的	细节数据有	缺	词/e/enthusiastic.json
 35	46	enthusiast	n. 爱好者、热衷者	细节数据有	缺	词/e/enthusiast.json
-35	47	enthusiastically	adv. 热情地、热烈地	缺	缺	
-35	48	online	adj. 在线的	缺	缺	
-35	49	offline	adj. 离线的、脱机的	缺	缺	
-35	50	line	n. 排；线路	缺	缺	
-35	51	lined	adj. 有横线的；有衬里的	缺	缺	
-35	52	underline	v. 在…下面画线；强调、突出	缺	缺	
-35	53	underlined	adj. 带下划线的	缺	缺	
-35	54	outline	n. 轮廓、外形；提纲、大纲 v. 概述、勾勒	缺	缺	
-35	55	headline	n. 大字标题	缺	缺	
-35	56	lifeline	n. 救生索	缺	缺	
-35	57	sideline	n. 副业、兼职 v. 使靠边站	缺	缺	
-35	58	deadline	n. 最后期限、截止时间	缺	缺	
-35	59	guideline	n. 指导原则、准则	缺	缺	
-35	60	guidelines	n. 指导方针、准则	缺	缺	
-35	61	align	v. 使对齐、排成直线；使一致	缺	缺	
-35	62	alignment	n. 对齐、校准；一致、协调	缺	缺	
-35	63	linen	n. 亚麻布	缺	缺	
-35	64	cause	n. 原因 v. 促使	缺	缺	
-35	65	excuse	v. 原谅；宽恕 n. 借口	缺	缺	
-35	66	excusable	adj. 可原谅的、情有可原的	缺	缺	
-35	67	voice	n. 嗓音	缺	缺	
-35	68	voiced	adj. 浊音的	缺	缺	
-35	69	voiceless	adj. 没有发言权的	缺	缺	
-35	70	voice-activated	adj. 声控的、语音启动的	缺	缺	
-35	71	voice-controlled	adj. 声控的	缺	缺	
+35	47	enthusiastically	adv. 热情地、热烈地	细节数据有	缺	词/e/enthusiastically.json
+35	48	online	adj. 在线的	细节数据有	缺	词/o/online.json
+35	49	offline	adj. 离线的、脱机的	细节数据有	缺	词/o/offline.json
+35	50	line	n. 排；线路	细节数据有	缺	词/l/line.json
+35	51	lined	adj. 有横线的；有衬里的	细节数据有	缺	词/l/lined.json
+35	52	underline	v. 在…下面画线；强调、突出	细节数据有	缺	词/u/underline.json
+35	53	underlined	adj. 带下划线的	细节数据有	缺	词/u/underlined.json
+35	54	outline	n. 轮廓、外形；提纲、大纲 v. 概述、勾勒	细节数据有	缺	词/o/outline.json
+35	55	headline	n. 大字标题	细节数据有	缺	词/h/headline.json
+35	56	lifeline	n. 救生索	细节数据有	缺	词/l/lifeline.json
+35	57	sideline	n. 副业、兼职 v. 使靠边站	细节数据有	缺	词/s/sideline.json
+35	58	deadline	n. 最后期限、截止时间	细节数据有	缺	词/d/deadline.json
+35	59	guideline	n. 指导原则、准则	细节数据有	缺	词/g/guideline.json
+35	60	guidelines	n. 指导方针、准则	细节数据有	缺	词/g/guidelines.json
+35	61	align	v. 使对齐、排成直线；使一致	细节数据有	缺	词/a/align.json
+35	62	alignment	n. 对齐、校准；一致、协调	细节数据有	缺	词/a/alignment.json
+35	63	linen	n. 亚麻布	细节数据有	缺	词/l/linen.json
+35	64	cause	n. 原因 v. 促使	细节数据有	缺	词/c/cause.json
+35	65	excuse	v. 原谅；宽恕 n. 借口	细节数据有	缺	词/e/excuse.json
+35	66	excusable	adj. 可原谅的、情有可原的	细节数据有	缺	词/e/excusable.json
+35	67	voice	n. 嗓音	细节数据有	缺	词/v/voice.json
+35	68	voiced	adj. 浊音的	细节数据有	缺	词/v/voiced.json
+35	69	voiceless	adj. 没有发言权的	细节数据有	缺	词/v/voiceless.json
+35	70	voice-activated	adj. 声控的、语音启动的	细节数据有	缺	词/v/voice-activated.json
+35	71	voice-controlled	adj. 声控的	细节数据有	缺	词/v/voice-controlled.json
 35	72	vocabulary	n. 词汇、词汇量	缺	缺	
 35	73	provoke	v. 激怒、挑衅	缺	缺	
 35	74	thought-provoking	adj. 发人深省的、引人深思的	缺	缺	

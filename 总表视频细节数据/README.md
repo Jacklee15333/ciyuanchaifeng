@@ -72,6 +72,7 @@
 | 2026-11-20 | 题目第 28 批 | 100 | connected … immune（体检全部 0 个问题）。累计 2475 个词有题目 |
 | 2026-11-20 | 题目第 29 批 | 100 | municipal … setup（体检全部 0 个问题；discussable、proud、proudly 多写一道、improve 第 6 题漏考点，改过再存）。累计 2575 个词有题目 |
 | 2026-11-20 | 题目第 30 批 | 100 | upset … problem-solving（体检全部 0 个问题；broke 答案就是本词 2 道，改过再存）。累计 2675 个词有题目 |
+| 2026-11-20 | 题目第 31 批 | 100 | Pacific … voice-controlled（体检全部 0 个问题；PC 选项大小写重复、accountable 和 fairness 答案就是本词 2 道，改过再存）。累计 2775 个词有题目 |
 | 2026-11-19 | 试做 truly | 0 | 只用自带素材加表情图拼画面：起草检查不通过（表情图要换成写实插图、每幅画都要动、小图标要自己画）。结论：多数词要专门画插图，每个词的工作量和 7A-U4 一样；全表 9299 个词做不完，要先定先做哪些（等用户定） |
 
 ## 总表里看着不对的地方（出题时绕开了，以后用维护技能核对）
@@ -250,6 +251,8 @@
 - payable：变形写成“比较级 payabler、最高级 payablest”（不存在），payable 没有比较级
 - PC：复数写成小写“pcs”，应为 PCs
 - unfair：词性转换写“fair n.集市”，应为 fair adj.公平的
+- guidelines：考点写“一般不可数，不加 s”，但 guidelines 本身就是 guideline 的复数，可数
+- online：变形写“比较级 more online、最高级 most online”，online 一般不分等级
 
 ## 总表里出现两次的词（细节数据按单词存一份，两行共用；出题时两个意思都要考到）
 
