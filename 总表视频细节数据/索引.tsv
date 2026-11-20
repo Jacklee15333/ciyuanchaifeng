@@ -4194,31 +4194,31 @@
 53	35	compound	n. 复合词 v. 使恶化、加重	细节数据有	缺	词/c/compound.json
 53	36	compound-complex	n. 并列复合句	细节数据有	缺	词/c/compound-complex.json
 53	37	opponent	n. 对手	细节数据有	缺	词/o/opponent.json
-53	38	component	n. 组成部分、成分	缺	缺	
-53	39	new	adj. 新的	缺	缺	
-53	40	renewable	adj. 可再生的；可续期的	缺	缺	
-53	41	newly	adv. 新近、刚刚	缺	缺	
-53	42	renewal	n. 续期、续订；复兴、重建	缺	缺	
-53	43	renew	v. 续订、续期；重新开始	缺	缺	
-53	44	news	n. 新闻；消息	缺	缺	
-53	45	renewability	n. 可再生性；可续期性	缺	缺	
-53	46	newfound	adj. 新发现的、新获得的	缺	缺	
-53	47	newcomer	n. 新来的人	缺	缺	
-53	48	newscaster	n. 新闻播音员、新闻主播	缺	缺	
-53	49	newsworthy	adj. 有新闻价值的	缺	缺	
-53	50	newspaper	n. 报纸	缺	缺	
-53	51	novel	n. 小说	缺	缺	
-53	52	innovate	v. 创新、革新	缺	缺	
-53	53	innovation	n. 创新、革新	缺	缺	
-53	54	innovator	n. 创新者、革新者	缺	缺	
-53	55	innovative	adj. 创新的、新颖的	缺	缺	
-53	56	renovate	v. 翻修、整修	缺	缺	
-53	57	renovation	n. 翻修、整修；更新	缺	缺	
-53	58	ground	n. 地面	缺	缺	
-53	59	grounds	n. 理由、根据	缺	缺	
-53	60	foreground	n. 前景；最显著的位置	缺	缺	
-53	61	underground	adj. 地下的 n. 地铁	缺	缺	
-53	62	groundwater	n. 地下水	缺	缺	
+53	38	component	n. 组成部分、成分	细节数据有	缺	词/c/component.json
+53	39	new	adj. 新的	细节数据有	缺	词/n/new.json
+53	40	renewable	adj. 可再生的；可续期的	细节数据有	缺	词/r/renewable.json
+53	41	newly	adv. 新近、刚刚	细节数据有	缺	词/n/newly.json
+53	42	renewal	n. 续期、续订；复兴、重建	细节数据有	缺	词/r/renewal.json
+53	43	renew	v. 续订、续期；重新开始	细节数据有	缺	词/r/renew.json
+53	44	news	n. 新闻；消息	细节数据有	缺	词/n/news.json
+53	45	renewability	n. 可再生性；可续期性	细节数据有	缺	词/r/renewability.json
+53	46	newfound	adj. 新发现的、新获得的	细节数据有	缺	词/n/newfound.json
+53	47	newcomer	n. 新来的人	细节数据有	缺	词/n/newcomer.json
+53	48	newscaster	n. 新闻播音员、新闻主播	细节数据有	缺	词/n/newscaster.json
+53	49	newsworthy	adj. 有新闻价值的	细节数据有	缺	词/n/newsworthy.json
+53	50	newspaper	n. 报纸	细节数据有	缺	词/n/newspaper.json
+53	51	novel	n. 小说	细节数据有	缺	词/n/novel.json
+53	52	innovate	v. 创新、革新	细节数据有	缺	词/i/innovate.json
+53	53	innovation	n. 创新、革新	细节数据有	缺	词/i/innovation.json
+53	54	innovator	n. 创新者、革新者	细节数据有	缺	词/i/innovator.json
+53	55	innovative	adj. 创新的、新颖的	细节数据有	缺	词/i/innovative.json
+53	56	renovate	v. 翻修、整修	细节数据有	缺	词/r/renovate.json
+53	57	renovation	n. 翻修、整修；更新	细节数据有	缺	词/r/renovation.json
+53	58	ground	n. 地面	细节数据有	缺	词/g/ground.json
+53	59	grounds	n. 理由、根据	细节数据有	缺	词/g/grounds.json
+53	60	foreground	n. 前景；最显著的位置	细节数据有	缺	词/f/foreground.json
+53	61	underground	adj. 地下的 n. 地铁	细节数据有	缺	词/u/underground.json
+53	62	groundwater	n. 地下水	细节数据有	缺	词/g/groundwater.json
 53	63	ground-covering	adj. 贴地生长、能铺满地面的	缺	缺	
 53	64	groundwork	n. 基础工作、准备工作	缺	缺	
 53	65	background	n. 背景	缺	缺	
