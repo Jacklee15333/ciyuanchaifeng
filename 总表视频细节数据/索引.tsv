@@ -5050,31 +5050,31 @@
 64	64	abruptly	adv. 突然地	细节数据有	缺	词/a/abruptly.json
 64	65	bankrupt	adj. 破产的	细节数据有	缺	词/b/bankrupt.json
 64	66	rupture	n. 破裂	细节数据有	缺	词/r/rupture.json
-64	67	tie	n. 领带 v. (用绳	缺	缺	
-64	68	tied	v. 过去分词 adj. 被拴住的、受束缚的；打平的	缺	缺	
-64	69	tiebreaker	n. 决胜局、加赛	缺	缺	
-64	70	race	v. 比赛	缺	缺	
-64	71	race	v. 比赛	缺	缺	
-64	72	racial	adj. 种族的、人种的	缺	缺	
-64	73	brave	adj. 勇敢的	缺	缺	
-64	74	bravely	adv. 勇敢地	缺	缺	
-64	75	bravery	n. 勇敢、勇气	缺	缺	
-64	76	bravo	int. 好！妙！太棒了！ n. 喝彩声	缺	缺	
-64	77	jump	v. 跳	缺	缺	
-64	78	jumpsuit	n. 连体服、连身裤	缺	缺	
-64	79	whisper	v. 低语、耳语 n. 私下议论、传言	缺	缺	
-64	80	whisperer	n. 低声说话的人	缺	缺	
-65	1	warn	v. 警告	缺	缺	
-65	2	warning	n. 警告；预兆	缺	缺	
-65	3	aware	adj. 知道的；意识到的	缺	缺	
-65	4	awareness	n. 意识；觉察	缺	缺	
-65	5	unaware	adj. 不知道的；没察觉的	缺	缺	
-65	6	guard	n. 警卫；看守 v. 提防	缺	缺	
-65	7	guardian	n. 监护人	缺	缺	
-65	8	lifeguard	n. 救生员	缺	缺	
-65	9	regard	v. 把…看作；注视 n. 尊重、敬意	缺	缺	
-65	10	regards	n. 问候、致意	缺	缺	
-65	11	regarding	prep. 关于	缺	缺	
+64	67	tie	n. 领带 v. (用绳	细节数据有	缺	词/t/tie.json
+64	68	tied	v. 过去分词 adj. 被拴住的、受束缚的；打平的	细节数据有	缺	词/t/tied.json
+64	69	tiebreaker	n. 决胜局、加赛	细节数据有	缺	词/t/tiebreaker.json
+64	70	race	v. 比赛	细节数据有	缺	词/r/race.json
+64	71	race	v. 比赛	细节数据有	缺	词/r/race.json
+64	72	racial	adj. 种族的、人种的	细节数据有	缺	词/r/racial.json
+64	73	brave	adj. 勇敢的	细节数据有	缺	词/b/brave.json
+64	74	bravely	adv. 勇敢地	细节数据有	缺	词/b/bravely.json
+64	75	bravery	n. 勇敢、勇气	细节数据有	缺	词/b/bravery.json
+64	76	bravo	int. 好！妙！太棒了！ n. 喝彩声	细节数据有	缺	词/b/bravo.json
+64	77	jump	v. 跳	细节数据有	缺	词/j/jump.json
+64	78	jumpsuit	n. 连体服、连身裤	细节数据有	缺	词/j/jumpsuit.json
+64	79	whisper	v. 低语、耳语 n. 私下议论、传言	细节数据有	缺	词/w/whisper.json
+64	80	whisperer	n. 低声说话的人	细节数据有	缺	词/w/whisperer.json
+65	1	warn	v. 警告	细节数据有	缺	词/w/warn.json
+65	2	warning	n. 警告；预兆	细节数据有	缺	词/w/warning.json
+65	3	aware	adj. 知道的；意识到的	细节数据有	缺	词/a/aware.json
+65	4	awareness	n. 意识；觉察	细节数据有	缺	词/a/awareness.json
+65	5	unaware	adj. 不知道的；没察觉的	细节数据有	缺	词/u/unaware.json
+65	6	guard	n. 警卫；看守 v. 提防	细节数据有	缺	词/g/guard.json
+65	7	guardian	n. 监护人	细节数据有	缺	词/g/guardian.json
+65	8	lifeguard	n. 救生员	细节数据有	缺	词/l/lifeguard.json
+65	9	regard	v. 把…看作；注视 n. 尊重、敬意	细节数据有	缺	词/r/regard.json
+65	10	regards	n. 问候、致意	细节数据有	缺	词/r/regards.json
+65	11	regarding	prep. 关于	细节数据有	缺	词/r/regarding.json
 65	12	regardless	adv. 不管怎样；无论如何	缺	缺	
 65	13	guarantee	n. 保证	缺	缺	
 65	14	award	n. 奖品 v. 授予	缺	缺	
