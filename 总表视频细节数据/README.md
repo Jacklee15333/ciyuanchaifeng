@@ -113,6 +113,7 @@
 | 2026-11-20 | 题目第 48 批第 4 组 | 25 | glasses … seriousness（体检全部 0 个问题；gold、goldfish、golden-haired、seriousness 答案就是本词 2 道，改过再存）。累计 4475 个词有题目 |
 | 2026-11-20 | 题目第 49 批第 1 组 | 25 | remain … year（体检全部 0 个问题；firewood 答案就是本词 2 道，改过再存）。累计 4500 个词有题目 |
 | 2026-11-20 | 题目第 49 批第 2 组 | 25 | yearly … desktop（体检全部 0 个问题）。累计 4525 个词有题目 |
+| 2026-11-20 | 题目第 49 批第 3 组 | 25 | disc … compact（体检全部 0 个问题；DJ、each、proven、proofread、risen 答案就是本词 2 道，改过再存）。累计 4550 个词有题目 |
 | 2026-11-19 | 试做 truly | 0 | 只用自带素材加表情图拼画面：起草检查不通过（表情图要换成写实插图、每幅画都要动、小图标要自己画）。结论：多数词要专门画插图，每个词的工作量和 7A-U4 一样；全表 9299 个词做不完，要先定先做哪些（等用户定） |
 
 ## 总表里看着不对的地方（出题时绕开了，以后用维护技能核对）
@@ -396,6 +397,12 @@
 - fireworks：写成“n. 不可数，没有复数”不对；fireworks 本身是 firework 的复数（烟花表演），谓语用复数
 - drop：【易混】drop / fall 里 fall 的解释是空的（“fall 是“””），应补“fall 是自己落下”
 - front：编造了比较级 fronter、最高级 frontest；front 没有比较级（说 nearer the front）
+- DJ：复数写成小写 djs，动词变形写成 djs、djed、djing，应大写为 DJs、DJ'd/DJed、DJing
+- proof：编造了比较级 proofer、最高级 proofest；proof 作形容词（能抵挡…的）没有比较级
+- proofread：过去式、过去分词写成“proof read”，应为 proofread（和 read 一样不变，只是读音变）
+- rose：两行都写了动词变形 roses、rosed、rosing，这是编造的；rose 一行是“玫瑰”（复数 roses），另一行应是 rise 的过去式
+- risen：变形编造了 risens、risened、risening；risen 是 rise 的过去分词，本身没有这些变形
+- arose：变形编造了 aroses、arosed、arosing；arose 是 arise 的过去式，本身没有这些变形
 
 ## 总表里出现两次的词（细节数据按单词存一份，两行共用；出题时两个意思都要考到）
 

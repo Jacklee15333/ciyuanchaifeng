@@ -4547,31 +4547,31 @@
 57	74	desk	n. 书桌	细节数据有	缺	词/d/desk.json
 57	75	deskmate	n. 同桌	细节数据有	缺	词/d/deskmate.json
 57	76	desktop	n. 桌面；台式电脑	细节数据有	缺	词/d/desktop.json
-57	77	disc	n. 圆盘、圆片	缺	缺	
-57	78	disk	n. 圆盘	缺	缺	
-57	79	DJ	n. 音乐节目主持人；打碟师	缺	缺	
-57	80	each	adj. 每人	缺	缺	
-58	1	probably	adv. 很可能地	缺	缺	
-58	2	probable	adj. 很可能的、大概的	缺	缺	
-58	3	probability	n. 可能性	缺	缺	
-58	4	prove	v. 证明	缺	缺	
-58	5	proven	adj. 已证明的、经过验证的	缺	缺	
-58	6	proof	n. 证据、证明；校样 adj. 能抵挡…的	缺	缺	
-58	7	fire-proof	adj. 防火的、耐火的	缺	缺	
-58	8	proofread	v. 校对、审读	缺	缺	
-58	9	approve	v. 批准、通过；赞成	缺	缺	
-58	10	approval	n. 批准、同意；赞许	缺	缺	
-58	11	raise	v. 举起；饲养	缺	缺	
-58	12	rise	v. 上升；起立	缺	缺	
-58	13	rose	n. 玫瑰花	缺	缺	
-58	14	risen	adj. 复活的	缺	缺	
-58	15	rising	adj. 上升的、上涨的；新兴的、正在崛起的	缺	缺	
-58	16	arise	v. 出现、发生；由…引起	缺	缺	
-58	17	arose	v. 出现了、发生了	缺	缺	
-58	18	high-rise	n. 高层建筑、高楼	缺	缺	
-58	19	page	n. 页	缺	缺	
-58	20	impact	n. 撞击、冲击 v. 影响	缺	缺	
-58	21	compact	adj. 紧凑的、小巧的 v. 压实	缺	缺	
+57	77	disc	n. 圆盘、圆片	细节数据有	缺	词/d/disc.json
+57	78	disk	n. 圆盘	细节数据有	缺	词/d/disk.json
+57	79	DJ	n. 音乐节目主持人；打碟师	细节数据有	缺	词/d/DJ.json
+57	80	each	adj. 每人	细节数据有	缺	词/e/each.json
+58	1	probably	adv. 很可能地	细节数据有	缺	词/p/probably.json
+58	2	probable	adj. 很可能的、大概的	细节数据有	缺	词/p/probable.json
+58	3	probability	n. 可能性	细节数据有	缺	词/p/probability.json
+58	4	prove	v. 证明	细节数据有	缺	词/p/prove.json
+58	5	proven	adj. 已证明的、经过验证的	细节数据有	缺	词/p/proven.json
+58	6	proof	n. 证据、证明；校样 adj. 能抵挡…的	细节数据有	缺	词/p/proof.json
+58	7	fire-proof	adj. 防火的、耐火的	细节数据有	缺	词/f/fire-proof.json
+58	8	proofread	v. 校对、审读	细节数据有	缺	词/p/proofread.json
+58	9	approve	v. 批准、通过；赞成	细节数据有	缺	词/a/approve.json
+58	10	approval	n. 批准、同意；赞许	细节数据有	缺	词/a/approval.json
+58	11	raise	v. 举起；饲养	细节数据有	缺	词/r/raise.json
+58	12	rise	v. 上升；起立	细节数据有	缺	词/r/rise.json
+58	13	rose	n. 玫瑰花	细节数据有	缺	词/r/rose.json
+58	14	risen	adj. 复活的	细节数据有	缺	词/r/risen.json
+58	15	rising	adj. 上升的、上涨的；新兴的、正在崛起的	细节数据有	缺	词/r/rising.json
+58	16	arise	v. 出现、发生；由…引起	细节数据有	缺	词/a/arise.json
+58	17	arose	v. 出现了、发生了	细节数据有	缺	词/a/arose.json
+58	18	high-rise	n. 高层建筑、高楼	细节数据有	缺	词/h/high-rise.json
+58	19	page	n. 页	细节数据有	缺	词/p/page.json
+58	20	impact	n. 撞击、冲击 v. 影响	细节数据有	缺	词/i/impact.json
+58	21	compact	adj. 紧凑的、小巧的 v. 压实	细节数据有	缺	词/c/compact.json
 58	22	compactor	n. 压实机	缺	缺	
 58	23	cheer	v. 欢呼；喝彩	缺	缺	
 58	24	cheerful	adj. 快活的、开朗的	缺	缺	
@@ -8833,7 +8833,7 @@
 169	18	pinch	v. 掐、捏 n. 一撮	缺	缺	
 170	1	prey	n. 猎物；受害者、牺牲品	缺	缺	
 170	2	Qingming	n. 清明节	缺	缺	
-170	3	rose	n. 玫瑰花	缺	缺	
+170	3	rose	n. 玫瑰花	细节数据有	缺	词/r/rose.json
 170	4	rosy	adj. 红润的；美好的、乐观的	缺	缺	
 170	5	salon	n. 店；客厅	缺	缺	
 170	6	sour	adj. 酸的；不高兴的、尖刻的	缺	缺	
