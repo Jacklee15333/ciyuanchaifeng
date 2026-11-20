@@ -4144,31 +4144,31 @@
 52	65	withdrew	v. withdraw 的过去式	细节数据有	缺	词/w/withdrew.json
 52	66	draft	n. 草稿、草案；汇票	细节数据有	缺	词/d/draft.json
 52	67	drafty	adj. 有穿堂风的、漏风的	细节数据有	缺	词/d/drafty.json
-52	68	drag	v. 拖、拽 n. 累赘	缺	缺	
-52	69	drawer	n. 抽屉	缺	缺	
-52	70	drawback	n. 缺点、不利之处	缺	缺	
-52	71	tiny	adj. 极小的、微小的	缺	缺	
-52	72	tininess	n. 极小、微小	缺	缺	
-52	73	lunch	n. 午餐	缺	缺	
-52	74	lunchtime	n. 午饭时间、午休时间	缺	缺	
-52	75	lunchbox	n. 午餐盒、饭盒	缺	缺	
-52	76	map	n. 地图	缺	缺	
-52	77	apron	n. 围裙	缺	缺	
-52	78	napkin	n. 餐巾	缺	缺	
-52	79	miss	v. 失去；惦记 n. 小姐	缺	缺	
-52	80	missing	adj. 失踪的；缺少的	缺	缺	
-53	1	post	n. 邮政 v. 投寄	缺	缺	
-53	2	postage	n. 邮费、邮资	缺	缺	
-53	3	postal	adj. 邮政的、邮递的	缺	缺	
-53	4	positive	adj. 积极的、乐观的；肯定的	缺	缺	
-53	5	positively	adv. 积极地、正面地；确定地	缺	缺	
-53	6	positivity	n. 积极乐观、正能量	缺	缺	
-53	7	position	n. 位置；姿势	缺	缺	
-53	8	preposition	n. 介词	缺	缺	
-53	9	oppose	v. 反对	缺	缺	
-53	10	opposition	n. 反对、抵抗	缺	缺	
-53	11	opposite	adj. 对面的；相反的	缺	缺	
-53	12	compost	n. 堆肥、混合肥料	缺	缺	
+52	68	drag	v. 拖、拽 n. 累赘	细节数据有	缺	词/d/drag.json
+52	69	drawer	n. 抽屉	细节数据有	缺	词/d/drawer.json
+52	70	drawback	n. 缺点、不利之处	细节数据有	缺	词/d/drawback.json
+52	71	tiny	adj. 极小的、微小的	细节数据有	缺	词/t/tiny.json
+52	72	tininess	n. 极小、微小	细节数据有	缺	词/t/tininess.json
+52	73	lunch	n. 午餐	细节数据有	缺	词/l/lunch.json
+52	74	lunchtime	n. 午饭时间、午休时间	细节数据有	缺	词/l/lunchtime.json
+52	75	lunchbox	n. 午餐盒、饭盒	细节数据有	缺	词/l/lunchbox.json
+52	76	map	n. 地图	细节数据有	缺	词/m/map.json
+52	77	apron	n. 围裙	细节数据有	缺	词/a/apron.json
+52	78	napkin	n. 餐巾	细节数据有	缺	词/n/napkin.json
+52	79	miss	v. 失去；惦记 n. 小姐	细节数据有	缺	词/m/miss.json
+52	80	missing	adj. 失踪的；缺少的	细节数据有	缺	词/m/missing.json
+53	1	post	n. 邮政 v. 投寄	细节数据有	缺	词/p/post.json
+53	2	postage	n. 邮费、邮资	细节数据有	缺	词/p/postage.json
+53	3	postal	adj. 邮政的、邮递的	细节数据有	缺	词/p/postal.json
+53	4	positive	adj. 积极的、乐观的；肯定的	细节数据有	缺	词/p/positive.json
+53	5	positively	adv. 积极地、正面地；确定地	细节数据有	缺	词/p/positively.json
+53	6	positivity	n. 积极乐观、正能量	细节数据有	缺	词/p/positivity.json
+53	7	position	n. 位置；姿势	细节数据有	缺	词/p/position.json
+53	8	preposition	n. 介词	细节数据有	缺	词/p/preposition.json
+53	9	oppose	v. 反对	细节数据有	缺	词/o/oppose.json
+53	10	opposition	n. 反对、抵抗	细节数据有	缺	词/o/opposition.json
+53	11	opposite	adj. 对面的；相反的	细节数据有	缺	词/o/opposite.json
+53	12	compost	n. 堆肥、混合肥料	细节数据有	缺	词/c/compost.json
 53	13	posture	n. 姿势、体态	缺	缺	
 53	14	postwoman	n. 女邮递员（英式	缺	缺	
 53	15	purpose	n. 目的；用途	缺	缺	
