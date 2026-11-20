@@ -4900,31 +4900,31 @@
 62	69	board	n. 板 v. 登	细节数据有	缺	词/b/board.json
 62	70	aboard	prep. 在上 adv. 上	细节数据有	缺	词/a/aboard.json
 62	71	noticeboard	n. 布告栏、公告板	细节数据有	缺	词/n/noticeboard.json
-62	72	motherboard	n. 主板	缺	缺	
-62	73	keyboard	n. 键盘	缺	缺	
-62	74	cardboard	n. 硬纸板	缺	缺	
-62	75	dashboard	n. 仪表板	缺	缺	
-62	76	border	n. 边界、国界 v. 与…接壤	缺	缺	
-62	77	spot	n. 斑点、污点 v. 认出、发现	缺	缺	
-62	78	spotted	adj. 有斑点的	缺	缺	
-62	79	spotless	adj. 一尘不染的	缺	缺	
-62	80	spotlight	n. 聚光灯 v. 使受关注、突出	缺	缺	
-63	1	sell	v. 卖；销售	缺	缺	
-63	2	sold	adj. 卖出了的	缺	缺	
-63	3	seller	n. 卖方、卖主	缺	缺	
-63	4	resell	v. 转卖、转售	缺	缺	
-63	5	sale	n. 卖	缺	缺	
-63	6	best-selling	adj. 最畅销的	缺	缺	
-63	7	salesgirl	n. 女售货员、女店员	缺	缺	
-63	8	salesperson	n. 售货员、推销员	缺	缺	
-63	9	saleswoman	n. 女售货员、女推销员	缺	缺	
-63	10	wholesale	adj. 批发；大规模的、全盘的	缺	缺	
-63	11	math	n. 数学	缺	缺	
-63	12	maths	n. 数学	缺	缺	
-63	13	mathematics	n. 数学	缺	缺	
-63	14	mathematician	n. 数学家	缺	缺	
-63	15	mathematical	adj. 数学的	缺	缺	
-63	16	mathematically	adv. 数学上	缺	缺	
+62	72	motherboard	n. 主板	细节数据有	缺	词/m/motherboard.json
+62	73	keyboard	n. 键盘	细节数据有	缺	词/k/keyboard.json
+62	74	cardboard	n. 硬纸板	细节数据有	缺	词/c/cardboard.json
+62	75	dashboard	n. 仪表板	细节数据有	缺	词/d/dashboard.json
+62	76	border	n. 边界、国界 v. 与…接壤	细节数据有	缺	词/b/border.json
+62	77	spot	n. 斑点、污点 v. 认出、发现	细节数据有	缺	词/s/spot.json
+62	78	spotted	adj. 有斑点的	细节数据有	缺	词/s/spotted.json
+62	79	spotless	adj. 一尘不染的	细节数据有	缺	词/s/spotless.json
+62	80	spotlight	n. 聚光灯 v. 使受关注、突出	细节数据有	缺	词/s/spotlight.json
+63	1	sell	v. 卖；销售	细节数据有	缺	词/s/sell.json
+63	2	sold	adj. 卖出了的	细节数据有	缺	词/s/sold.json
+63	3	seller	n. 卖方、卖主	细节数据有	缺	词/s/seller.json
+63	4	resell	v. 转卖、转售	细节数据有	缺	词/r/resell.json
+63	5	sale	n. 卖	细节数据有	缺	词/s/sale.json
+63	6	best-selling	adj. 最畅销的	细节数据有	缺	词/b/best-selling.json
+63	7	salesgirl	n. 女售货员、女店员	细节数据有	缺	词/s/salesgirl.json
+63	8	salesperson	n. 售货员、推销员	细节数据有	缺	词/s/salesperson.json
+63	9	saleswoman	n. 女售货员、女推销员	细节数据有	缺	词/s/saleswoman.json
+63	10	wholesale	adj. 批发；大规模的、全盘的	细节数据有	缺	词/w/wholesale.json
+63	11	math	n. 数学	细节数据有	缺	词/m/math.json
+63	12	maths	n. 数学	细节数据有	缺	词/m/maths.json
+63	13	mathematics	n. 数学	细节数据有	缺	词/m/mathematics.json
+63	14	mathematician	n. 数学家	细节数据有	缺	词/m/mathematician.json
+63	15	mathematical	adj. 数学的	细节数据有	缺	词/m/mathematical.json
+63	16	mathematically	adv. 数学上	细节数据有	缺	词/m/mathematically.json
 63	17	math-related	adj. 与数学相关的	缺	缺	
 63	18	net	n. 网	缺	缺	
 63	19	Internet	n. 互联网	缺	缺	
