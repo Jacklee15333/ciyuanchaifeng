@@ -6180,31 +6180,31 @@
 84	4	kilometre	n. 千米	细节数据有	缺	词/k/kilometre.json
 84	5	kilometer	n. 千米、公里	细节数据有	缺	词/k/kilometer.json
 84	6	kilometric	adj. 千米的；按公里计的	细节数据有	缺	词/k/kilometric.json
-84	7	centimetre	n. 厘米	缺	缺	
-84	8	centimeter	n. 厘米	缺	缺	
-84	9	millimetre	n. 毫米	缺	缺	
-84	10	millimeter	n. 毫米	缺	缺	
-84	11	measure	v. 测量；有…长 n. 措施	缺	缺	
-84	12	measurement	n. 测量	缺	缺	
-84	13	immense	adj. 巨大的、极大的	缺	缺	
-84	14	dimension	n. 尺寸、长宽高；维	缺	缺	
-84	15	three-dimensional	adj. 三维的、立体的	缺	缺	
-84	16	moon	n. 月球	缺	缺	
-84	17	moonless	adj. 无月的、没有月光的	缺	缺	
-84	18	mooncake	n. 月饼	缺	缺	
-84	19	moonlight	n. 月光 v. 兼职、干第二份工作	缺	缺	
-84	20	moonbeam	n. 一道月光	缺	缺	
-84	21	moonlit	adj. 月光照耀的	缺	缺	
-84	22	month	n. 月	缺	缺	
-84	23	monthly	adj. 每月的、每月一次的	缺	缺	
-84	24	semester	n. 学期	缺	缺	
-84	25	shelf	n. 架子；搁板	缺	缺	
-84	26	shelve	v. 把…放上架子；搁置、暂缓	缺	缺	
-84	27	Britain	n. 不列颠、英国	缺	缺	
-84	28	British	adj. 英国的、英国人的	缺	缺	
-84	29	Briton	n. 英国人；古代不列颠人	缺	缺	
-84	30	skin	n. 皮肤	缺	缺	
-84	31	skinned	adj. 去了皮的	缺	缺	
+84	7	centimetre	n. 厘米	细节数据有	缺	词/c/centimetre.json
+84	8	centimeter	n. 厘米	细节数据有	缺	词/c/centimeter.json
+84	9	millimetre	n. 毫米	细节数据有	缺	词/m/millimetre.json
+84	10	millimeter	n. 毫米	细节数据有	缺	词/m/millimeter.json
+84	11	measure	v. 测量；有…长 n. 措施	细节数据有	缺	词/m/measure.json
+84	12	measurement	n. 测量	细节数据有	缺	词/m/measurement.json
+84	13	immense	adj. 巨大的、极大的	细节数据有	缺	词/i/immense.json
+84	14	dimension	n. 尺寸、长宽高；维	细节数据有	缺	词/d/dimension.json
+84	15	three-dimensional	adj. 三维的、立体的	细节数据有	缺	词/t/three-dimensional.json
+84	16	moon	n. 月球	细节数据有	缺	词/m/moon.json
+84	17	moonless	adj. 无月的、没有月光的	细节数据有	缺	词/m/moonless.json
+84	18	mooncake	n. 月饼	细节数据有	缺	词/m/mooncake.json
+84	19	moonlight	n. 月光 v. 兼职、干第二份工作	细节数据有	缺	词/m/moonlight.json
+84	20	moonbeam	n. 一道月光	细节数据有	缺	词/m/moonbeam.json
+84	21	moonlit	adj. 月光照耀的	细节数据有	缺	词/m/moonlit.json
+84	22	month	n. 月	细节数据有	缺	词/m/month.json
+84	23	monthly	adj. 每月的、每月一次的	细节数据有	缺	词/m/monthly.json
+84	24	semester	n. 学期	细节数据有	缺	词/s/semester.json
+84	25	shelf	n. 架子；搁板	细节数据有	缺	词/s/shelf.json
+84	26	shelve	v. 把…放上架子；搁置、暂缓	细节数据有	缺	词/s/shelve.json
+84	27	Britain	n. 不列颠、英国	细节数据有	缺	词/b/Britain.json
+84	28	British	adj. 英国的、英国人的	细节数据有	缺	词/b/British.json
+84	29	Briton	n. 英国人；古代不列颠人	细节数据有	缺	词/b/Briton.json
+84	30	skin	n. 皮肤	细节数据有	缺	词/s/skin.json
+84	31	skinned	adj. 去了皮的	细节数据有	缺	词/s/skinned.json
 84	32	skinny	adj. 极瘦的、皮包骨的	缺	缺	
 84	33	sun-skinned	adj. 皮肤被晒黑的	缺	缺	
 84	34	tanned-skinned	adj. 皮肤黝黑的、晒成古铜色的	缺	缺	
