@@ -5101,31 +5101,31 @@
 65	35	self-introduction	n. 自我介绍	细节数据有	缺	词/s/self-introduction.json
 65	36	self-discipline	n. 自律	细节数据有	缺	词/s/self-discipline.json
 65	37	self-driving	adj. 自动驾驶的	细节数据有	缺	词/s/self-driving.json
-65	38	self-control	n. 自制力	缺	缺	
-65	39	self-belief	n. 自信	缺	缺	
-65	40	self-talk	n. 自我暗示	缺	缺	
-65	41	self-care	n. 自我照顾	缺	缺	
-65	42	self-centered	adj. 以自我为中心的	缺	缺	
-65	43	self-check-out	n. 自助结账	缺	缺	
-65	44	self-checkout	n. 自助结账	缺	缺	
-65	45	self-coached	adj. 自己训练自己的	缺	缺	
-65	46	self-confidence	n. 自信	缺	缺	
-65	47	self-defense	n. 自卫；防身术	缺	缺	
-65	48	self-disclosure	n. 感受和经历	缺	缺	
-65	49	self-doubt	n. 自我怀疑	缺	缺	
-65	50	self-encouragement	n. 自我鼓励	缺	缺	
-65	51	self-esteem	n. 自尊	缺	缺	
-65	52	self-important	adj. 妄自尊大的	缺	缺	
-65	53	self-improvement	n. 自我提升	缺	缺	
-65	54	self-interest	n. 私利	缺	缺	
-65	55	self-publish	v. 自费出版	缺	缺	
-65	56	self-published	adj. 自行出版的	缺	缺	
-65	57	self-reliance	n. 自立	缺	缺	
-65	58	self-respect	n. 自尊	缺	缺	
-65	59	self-sustaining	adj. 自给自足的	缺	缺	
-65	60	it	pron. 它	缺	缺	
-65	61	die	v. 死	缺	缺	
-65	62	dying	adj. 垂死的；快要消失的	缺	缺	
+65	38	self-control	n. 自制力	细节数据有	缺	词/s/self-control.json
+65	39	self-belief	n. 自信	细节数据有	缺	词/s/self-belief.json
+65	40	self-talk	n. 自我暗示	细节数据有	缺	词/s/self-talk.json
+65	41	self-care	n. 自我照顾	细节数据有	缺	词/s/self-care.json
+65	42	self-centered	adj. 以自我为中心的	细节数据有	缺	词/s/self-centered.json
+65	43	self-check-out	n. 自助结账	细节数据有	缺	词/s/self-check-out.json
+65	44	self-checkout	n. 自助结账	细节数据有	缺	词/s/self-checkout.json
+65	45	self-coached	adj. 自己训练自己的	细节数据有	缺	词/s/self-coached.json
+65	46	self-confidence	n. 自信	细节数据有	缺	词/s/self-confidence.json
+65	47	self-defense	n. 自卫；防身术	细节数据有	缺	词/s/self-defense.json
+65	48	self-disclosure	n. 感受和经历	细节数据有	缺	词/s/self-disclosure.json
+65	49	self-doubt	n. 自我怀疑	细节数据有	缺	词/s/self-doubt.json
+65	50	self-encouragement	n. 自我鼓励	细节数据有	缺	词/s/self-encouragement.json
+65	51	self-esteem	n. 自尊	细节数据有	缺	词/s/self-esteem.json
+65	52	self-important	adj. 妄自尊大的	细节数据有	缺	词/s/self-important.json
+65	53	self-improvement	n. 自我提升	细节数据有	缺	词/s/self-improvement.json
+65	54	self-interest	n. 私利	细节数据有	缺	词/s/self-interest.json
+65	55	self-publish	v. 自费出版	细节数据有	缺	词/s/self-publish.json
+65	56	self-published	adj. 自行出版的	细节数据有	缺	词/s/self-published.json
+65	57	self-reliance	n. 自立	细节数据有	缺	词/s/self-reliance.json
+65	58	self-respect	n. 自尊	细节数据有	缺	词/s/self-respect.json
+65	59	self-sustaining	adj. 自给自足的	细节数据有	缺	词/s/self-sustaining.json
+65	60	it	pron. 它	细节数据有	缺	词/i/it.json
+65	61	die	v. 死	细节数据有	缺	词/d/die.json
+65	62	dying	adj. 垂死的；快要消失的	细节数据有	缺	词/d/dying.json
 65	63	dead	adj. 死的；无生命的	缺	缺	
 65	64	deadly	adj. 致命的；极端的、势不两立的	缺	缺	
 65	65	death	n. 死亡	缺	缺	
