@@ -304,6 +304,10 @@
 - length：考点写“不可数，没有复数”；length 是可数名词，常用复数 lengths（different lengths）。
 - conductor：初中含义只写“导体；避雷针”，漏了最常用的“指挥”和“售票员、列车员”（辨析里提到了）；“避雷针”是 lightning conductor。
 - outdoor、indoor：考点写“比较级 more outdoor / more indoor、最高级 most outdoor / most indoor”，这两个词不分等级，没有比较级、最高级。
+- mishear：考点写“过去式、过去分词 misheared”，应是 misheard。
+- overheard：考点里有 overheards、overhearded、overhearding 这些不存在的变形（overheard 是 overhear 的过去式、过去分词）。
+- invited：考点里有 inviteds、inviteded、inviteding 这些不存在的变形。
+- Rd：考点写“复数 rds”；Rd 只是书写缩写，复数写 Rds 也很少见。ride：初中含义写成“骑(马”，括号没关上。
 
 ## 总表里出现两次的词（细节数据按单词存一份，两行共用；出题时两个意思都要考到）
 

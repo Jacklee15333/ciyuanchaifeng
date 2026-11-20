@@ -3619,31 +3619,31 @@
 46	18	brightly	adv. 明亮地；鲜艳地	细节数据有	缺	词/b/brightly.json
 46	19	brighten	v. 使更鲜艳	细节数据有	缺	词/b/brighten.json
 46	20	brightness	n. 亮度；鲜艳	细节数据有	缺	词/b/brightness.json
-46	21	hear	v. 听见；得知	缺	缺	
-46	22	heard	v. 听见了	缺	缺	
-46	23	hearing	n. 听力	缺	缺	
-46	24	mishear	v. 听错	缺	缺	
-46	25	overheard	v. 无意中听到	缺	缺	
-46	26	invite	v. 邀请	缺	缺	
-46	27	invited	adj. 受到邀请的	缺	缺	
-46	28	invitation	n. 邀请	缺	缺	
-46	29	road	n. 路	缺	缺	
-46	30	Rd	n. 路	缺	缺	
-46	31	ready	adj. 准备好的；乐于	缺	缺	
-46	32	readiness	n. 准备就绪；乐意	缺	缺	
-46	33	readily	adv. 乐意地、爽快地；容易地	缺	缺	
-46	34	ready-made	adj. 现成的	缺	缺	
-46	35	ride	v. 骑(马 n. 乘车旅行	缺	缺	
-46	36	rode	v. 骑了、乘坐了	缺	缺	
-46	37	ridden	v. 骑过、乘过 adj. 充斥着…的、被…困扰的	缺	缺	
-46	38	rider	n. 骑手；乘客	缺	缺	
-46	39	override	v. 推翻、否决；比…更重要 n. 超控装置	缺	缺	
-46	40	raid	n. 突袭、袭击 v. 劫掠	缺	缺	
-46	41	huge	adj. 巨大的	缺	缺	
-46	42	hugely	adv. 非常、极其；巨大地	缺	缺	
-46	43	just	adv. 刚才；恰好	缺	缺	
-46	44	justly	adv. 公正地；理所当然地	缺	缺	
-46	45	injure	v. 使受伤、伤害	缺	缺	
+46	21	hear	v. 听见；得知	细节数据有	缺	词/h/hear.json
+46	22	heard	v. 听见了	细节数据有	缺	词/h/heard.json
+46	23	hearing	n. 听力	细节数据有	缺	词/h/hearing.json
+46	24	mishear	v. 听错	细节数据有	缺	词/m/mishear.json
+46	25	overheard	v. 无意中听到	细节数据有	缺	词/o/overheard.json
+46	26	invite	v. 邀请	细节数据有	缺	词/i/invite.json
+46	27	invited	adj. 受到邀请的	细节数据有	缺	词/i/invited.json
+46	28	invitation	n. 邀请	细节数据有	缺	词/i/invitation.json
+46	29	road	n. 路	细节数据有	缺	词/r/road.json
+46	30	Rd	n. 路	细节数据有	缺	词/r/Rd.json
+46	31	ready	adj. 准备好的；乐于	细节数据有	缺	词/r/ready.json
+46	32	readiness	n. 准备就绪；乐意	细节数据有	缺	词/r/readiness.json
+46	33	readily	adv. 乐意地、爽快地；容易地	细节数据有	缺	词/r/readily.json
+46	34	ready-made	adj. 现成的	细节数据有	缺	词/r/ready-made.json
+46	35	ride	v. 骑(马 n. 乘车旅行	细节数据有	缺	词/r/ride.json
+46	36	rode	v. 骑了、乘坐了	细节数据有	缺	词/r/rode.json
+46	37	ridden	v. 骑过、乘过 adj. 充斥着…的、被…困扰的	细节数据有	缺	词/r/ridden.json
+46	38	rider	n. 骑手；乘客	细节数据有	缺	词/r/rider.json
+46	39	override	v. 推翻、否决；比…更重要 n. 超控装置	细节数据有	缺	词/o/override.json
+46	40	raid	n. 突袭、袭击 v. 劫掠	细节数据有	缺	词/r/raid.json
+46	41	huge	adj. 巨大的	细节数据有	缺	词/h/huge.json
+46	42	hugely	adv. 非常、极其；巨大地	细节数据有	缺	词/h/hugely.json
+46	43	just	adv. 刚才；恰好	细节数据有	缺	词/j/just.json
+46	44	justly	adv. 公正地；理所当然地	细节数据有	缺	词/j/justly.json
+46	45	injure	v. 使受伤、伤害	细节数据有	缺	词/i/injure.json
 46	46	injured	adj. 受伤的	缺	缺	
 46	47	injury	n. 伤；侵害	缺	缺	
 46	48	jury	n. 陪审团	缺	缺	
