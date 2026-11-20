@@ -4925,31 +4925,31 @@
 63	14	mathematician	n. 数学家	细节数据有	缺	词/m/mathematician.json
 63	15	mathematical	adj. 数学的	细节数据有	缺	词/m/mathematical.json
 63	16	mathematically	adv. 数学上	细节数据有	缺	词/m/mathematically.json
-63	17	math-related	adj. 与数学相关的	缺	缺	
-63	18	net	n. 网	缺	缺	
-63	19	Internet	n. 互联网	缺	缺	
-63	20	internet-connected	adj. 联网的、能上网的	缺	缺	
-63	21	network	n. 网络	缺	缺	
-63	22	networked	adj. 联网的	缺	缺	
-63	23	networking	n. 建立人脉、职场社交	缺	缺	
-63	24	neat	adj. 整洁的、整齐的	缺	缺	
-63	25	neatly	adv. 整齐地；巧妙地、利落地	缺	缺	
-63	26	honest	adj. 诚实的；正直的	缺	缺	
-63	27	honesty	n. 诚实	缺	缺	
-63	28	honestly	adv. 诚实地、正当地	缺	缺	
-63	29	dishonesty	n. 不诚实；欺骗	缺	缺	
-63	30	dishonest	adj. 不诚实的	缺	缺	
-63	31	honour	n. 荣誉	缺	缺	
-63	32	honor	n. 荣誉	缺	缺	
-63	33	honorable	adj. 光荣的、可敬的；正当的、体面的	缺	缺	
-63	34	honourable	adj. 可敬的；光荣的	缺	缺	
-63	35	medicine	n. 药	缺	缺	
-63	36	medical	adj. 医学的	缺	缺	
-63	37	medication	n. 药物、药品	缺	缺	
-63	38	medicinal	adj. 药用的、有疗效的	缺	缺	
-63	39	med	n. 药；地中海 adj. 医学的、医科的	缺	缺	
-63	40	old	adj. 年老的；旧的	缺	缺	
-63	41	elder	adj. 年龄较大的；前辈的	缺	缺	
+63	17	math-related	adj. 与数学相关的	细节数据有	缺	词/m/math-related.json
+63	18	net	n. 网	细节数据有	缺	词/n/net.json
+63	19	Internet	n. 互联网	细节数据有	缺	词/i/Internet.json
+63	20	internet-connected	adj. 联网的、能上网的	细节数据有	缺	词/i/internet-connected.json
+63	21	network	n. 网络	细节数据有	缺	词/n/network.json
+63	22	networked	adj. 联网的	细节数据有	缺	词/n/networked.json
+63	23	networking	n. 建立人脉、职场社交	细节数据有	缺	词/n/networking.json
+63	24	neat	adj. 整洁的、整齐的	细节数据有	缺	词/n/neat.json
+63	25	neatly	adv. 整齐地；巧妙地、利落地	细节数据有	缺	词/n/neatly.json
+63	26	honest	adj. 诚实的；正直的	细节数据有	缺	词/h/honest.json
+63	27	honesty	n. 诚实	细节数据有	缺	词/h/honesty.json
+63	28	honestly	adv. 诚实地、正当地	细节数据有	缺	词/h/honestly.json
+63	29	dishonesty	n. 不诚实；欺骗	细节数据有	缺	词/d/dishonesty.json
+63	30	dishonest	adj. 不诚实的	细节数据有	缺	词/d/dishonest.json
+63	31	honour	n. 荣誉	细节数据有	缺	词/h/honour.json
+63	32	honor	n. 荣誉	细节数据有	缺	词/h/honor.json
+63	33	honorable	adj. 光荣的、可敬的；正当的、体面的	细节数据有	缺	词/h/honorable.json
+63	34	honourable	adj. 可敬的；光荣的	细节数据有	缺	词/h/honourable.json
+63	35	medicine	n. 药	细节数据有	缺	词/m/medicine.json
+63	36	medical	adj. 医学的	细节数据有	缺	词/m/medical.json
+63	37	medication	n. 药物、药品	细节数据有	缺	词/m/medication.json
+63	38	medicinal	adj. 药用的、有疗效的	细节数据有	缺	词/m/medicinal.json
+63	39	med	n. 药；地中海 adj. 医学的、医科的	细节数据有	缺	词/m/med.json
+63	40	old	adj. 年老的；旧的	细节数据有	缺	词/o/old.json
+63	41	elder	adj. 年龄较大的；前辈的	细节数据有	缺	词/e/elder.json
 63	42	eldest	adj. 年龄最大的	缺	缺	
 63	43	elderly	adj. 上了年纪的	缺	缺	
 63	44	eldercare	n. 老年人护理、养老照护	缺	缺	

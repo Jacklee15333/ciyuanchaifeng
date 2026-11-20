@@ -128,6 +128,7 @@
 | 2026-11-20 | 题目第 52 批第 3 组 | 25 | favorite … opinionated（体检全部 0 个问题；width 答案就是本词 2 道，改过再存）。累计 4850 个词有题目 |
 | 2026-11-20 | 题目第 52 批第 4 组 | 25 | consider … noticeboard（体检全部 0 个问题）。累计 4875 个词有题目 |
 | 2026-11-20 | 题目第 53 批第 1 组 | 25 | motherboard … mathematically（体检全部 0 个问题）。累计 4900 个词有题目 |
+| 2026-11-20 | 题目第 53 批第 2 组 | 25 | math-related … elder（体检全部 0 个问题）。累计 4925 个词有题目 |
 | 2026-11-19 | 试做 truly | 0 | 只用自带素材加表情图拼画面：起草检查不通过（表情图要换成写实插图、每幅画都要动、小图标要自己画）。结论：多数词要专门画插图，每个词的工作量和 7A-U4 一样；全表 9299 个词做不完，要先定先做哪些（等用户定） |
 
 ## 总表里看着不对的地方（出题时绕开了，以后用维护技能核对）
@@ -440,6 +441,10 @@
 - spotted：变形编造了 spotteds、spotteded、spotteding；spotted 本身是 spot 的过去式、过去分词，作形容词“有斑点的”
 - math：写“复数 maths”不对；maths 是英式说法，不是复数，math 不可数
 - maths：变形编造了复数 mathses；maths 作单数用，没有复数
+- Internet：写“复数 internets”不对；the Internet 只用单数
+- honorable、honourable：是形容词，【变形】却写成“n. 一般不可数，不加 s”
+- elder：变形编造了比较级 elderer、最高级 elderest；elder 本身是比较级，最高级是 eldest
+- old：【变形】只写了比较级 older，缺最高级 oldest（和 elder / eldest）
 
 ## 总表里出现两次的词（细节数据按单词存一份，两行共用；出题时两个意思都要考到）
 
