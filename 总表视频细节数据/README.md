@@ -187,6 +187,8 @@
 - finances：【变形】写“不可数，没有复数”不对，finances 本身是复数形式，谓语用复数（Her finances are…）
 - infinitive：【词性转换】写成 final adj.最后的，两者无关
 - unkind：【词性转换】写成 kind n.种，应是 kind adj.善良的
+- native：【变形】编造了比较级 more native、最高级 most native，native 一般不比较
+- gentlemen：【变形】写“复数 gentlemens”是编造的，gentlemen 本身就是 gentleman 的复数
 
 ## 总表里出现两次的词（细节数据按单词存一份，两行共用；出题时两个意思都要考到）
 

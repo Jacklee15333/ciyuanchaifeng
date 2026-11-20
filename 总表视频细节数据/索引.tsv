@@ -1857,31 +1857,31 @@
 24	16	nation	n. 民族；国家	细节数据有	缺	词/n/nation.json
 24	17	national	adj. 全国性的；民族的	细节数据有	缺	词/n/national.json
 24	18	nationalise	v. 收归国有、国有化	细节数据有	缺	词/n/nationalise.json
-24	19	nationalize	v. 把收归国有	缺	缺	
-24	20	nationwide	adj. 全国性的、全国范围的	缺	缺	
-24	21	international	adj. 国际的	缺	缺	
-24	22	internationally	adv. 在国际上、国际性地	缺	缺	
-24	23	nationality	n. 国籍	缺	缺	
-24	24	internationalist	n. 国际主义者	缺	缺	
-24	25	internationalize	v. 使国际化	缺	缺	
-24	26	internationalization	n. 国际化	缺	缺	
-24	27	native	adj. 本地的；当地的	缺	缺	
-24	28	pregnant	adj. 怀孕的	缺	缺	
-24	29	pregnancy	n. 怀孕	缺	缺	
-24	30	renaissance	n. 文艺复兴	缺	缺	
-24	31	generate	v. 产生、发；引起、带来	缺	缺	
-24	32	generation	n. 代	缺	缺	
-24	33	generational	adj. 代际的、一代与一代之间的	缺	缺	
-24	34	generator	n. 发电机；产生者	缺	缺	
-24	35	regenerate	v. 使复兴、振兴	缺	缺	
-24	36	general	adj. 大体的	缺	缺	
-24	37	generally	adv. 通常、一般；普遍地	缺	缺	
-24	38	generalize	v. 概括、归纳；推广	缺	缺	
-24	39	gentle	adj. 温柔的	缺	缺	
-24	40	gently	adv. 轻柔地	缺	缺	
-24	41	gentleman	n. 绅士；先生	缺	缺	
-24	42	gentlemen	n. 先生们；男厕	缺	缺	
-24	43	engine	n. 发动机	缺	缺	
+24	19	nationalize	v. 把收归国有	细节数据有	缺	词/n/nationalize.json
+24	20	nationwide	adj. 全国性的、全国范围的	细节数据有	缺	词/n/nationwide.json
+24	21	international	adj. 国际的	细节数据有	缺	词/i/international.json
+24	22	internationally	adv. 在国际上、国际性地	细节数据有	缺	词/i/internationally.json
+24	23	nationality	n. 国籍	细节数据有	缺	词/n/nationality.json
+24	24	internationalist	n. 国际主义者	细节数据有	缺	词/i/internationalist.json
+24	25	internationalize	v. 使国际化	细节数据有	缺	词/i/internationalize.json
+24	26	internationalization	n. 国际化	细节数据有	缺	词/i/internationalization.json
+24	27	native	adj. 本地的；当地的	细节数据有	缺	词/n/native.json
+24	28	pregnant	adj. 怀孕的	细节数据有	缺	词/p/pregnant.json
+24	29	pregnancy	n. 怀孕	细节数据有	缺	词/p/pregnancy.json
+24	30	renaissance	n. 文艺复兴	细节数据有	缺	词/r/renaissance.json
+24	31	generate	v. 产生、发；引起、带来	细节数据有	缺	词/g/generate.json
+24	32	generation	n. 代	细节数据有	缺	词/g/generation.json
+24	33	generational	adj. 代际的、一代与一代之间的	细节数据有	缺	词/g/generational.json
+24	34	generator	n. 发电机；产生者	细节数据有	缺	词/g/generator.json
+24	35	regenerate	v. 使复兴、振兴	细节数据有	缺	词/r/regenerate.json
+24	36	general	adj. 大体的	细节数据有	缺	词/g/general.json
+24	37	generally	adv. 通常、一般；普遍地	细节数据有	缺	词/g/generally.json
+24	38	generalize	v. 概括、归纳；推广	细节数据有	缺	词/g/generalize.json
+24	39	gentle	adj. 温柔的	细节数据有	缺	词/g/gentle.json
+24	40	gently	adv. 轻柔地	细节数据有	缺	词/g/gently.json
+24	41	gentleman	n. 绅士；先生	细节数据有	缺	词/g/gentleman.json
+24	42	gentlemen	n. 先生们；男厕	细节数据有	缺	词/g/gentlemen.json
+24	43	engine	n. 发动机	细节数据有	缺	词/e/engine.json
 24	44	engineer	n. 工程师	缺	缺	
 24	45	engineering	n. 工程	缺	缺	
 24	46	genius	n. 天才	缺	缺	
