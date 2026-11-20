@@ -4269,31 +4269,31 @@
 54	29	star-centered	adj. 以明星为中心的	细节数据有	缺	词/s/star-centered.json
 54	30	starfish	n. 海星	细节数据有	缺	词/s/starfish.json
 54	31	starlight	n. 星光	细节数据有	缺	词/s/starlight.json
-54	32	disaster	n. 灾难	缺	缺	
-54	33	disastrous	adj. 灾难性的	缺	缺	
-54	34	pre-disaster	adj. 灾前的	缺	缺	
-54	35	astronaut	n. 宇航员、航天员	缺	缺	
-54	36	astronomy	n. 天文学	缺	缺	
-54	37	astronomer	n. 天文学家	缺	缺	
-54	38	astronomical	adj. 天文的	缺	缺	
-54	39	asteroid	n. 小行星	缺	缺	
-54	40	constellation	n. 星座	缺	缺	
-54	41	dry	adj. 干的	缺	缺	
-54	42	dryness	n. 干燥	缺	缺	
-54	43	dried-up	adj. 干涸的	缺	缺	
-54	44	quick-drying	adj. 速干的	缺	缺	
-54	45	drought	n. 旱灾、干旱	缺	缺	
-54	46	drain	v. 排水、控干；耗尽	缺	缺	
-54	47	drainage	n. 排水	缺	缺	
-54	48	screen	n. 屏幕	缺	缺	
-54	49	screening	n. 筛查；放映、场次	缺	缺	
-54	50	path	n. 小路、小径	缺	缺	
-54	51	pathless	adj. 无路的、人迹罕至的	缺	缺	
-54	52	pathway	n. 小路、通道	缺	缺	
-54	53	hurt	v. 伤害；痛	缺	缺	
-54	54	hurtful	adj. 伤人的、刻薄的	缺	缺	
-54	55	patient	n. 病人 adj. 耐心的	缺	缺	
-54	56	patiently	adv. 耐心地	缺	缺	
+54	32	disaster	n. 灾难	细节数据有	缺	词/d/disaster.json
+54	33	disastrous	adj. 灾难性的	细节数据有	缺	词/d/disastrous.json
+54	34	pre-disaster	adj. 灾前的	细节数据有	缺	词/p/pre-disaster.json
+54	35	astronaut	n. 宇航员、航天员	细节数据有	缺	词/a/astronaut.json
+54	36	astronomy	n. 天文学	细节数据有	缺	词/a/astronomy.json
+54	37	astronomer	n. 天文学家	细节数据有	缺	词/a/astronomer.json
+54	38	astronomical	adj. 天文的	细节数据有	缺	词/a/astronomical.json
+54	39	asteroid	n. 小行星	细节数据有	缺	词/a/asteroid.json
+54	40	constellation	n. 星座	细节数据有	缺	词/c/constellation.json
+54	41	dry	adj. 干的	细节数据有	缺	词/d/dry.json
+54	42	dryness	n. 干燥	细节数据有	缺	词/d/dryness.json
+54	43	dried-up	adj. 干涸的	细节数据有	缺	词/d/dried-up.json
+54	44	quick-drying	adj. 速干的	细节数据有	缺	词/q/quick-drying.json
+54	45	drought	n. 旱灾、干旱	细节数据有	缺	词/d/drought.json
+54	46	drain	v. 排水、控干；耗尽	细节数据有	缺	词/d/drain.json
+54	47	drainage	n. 排水	细节数据有	缺	词/d/drainage.json
+54	48	screen	n. 屏幕	细节数据有	缺	词/s/screen.json
+54	49	screening	n. 筛查；放映、场次	细节数据有	缺	词/s/screening.json
+54	50	path	n. 小路、小径	细节数据有	缺	词/p/path.json
+54	51	pathless	adj. 无路的、人迹罕至的	细节数据有	缺	词/p/pathless.json
+54	52	pathway	n. 小路、通道	细节数据有	缺	词/p/pathway.json
+54	53	hurt	v. 伤害；痛	细节数据有	缺	词/h/hurt.json
+54	54	hurtful	adj. 伤人的、刻薄的	细节数据有	缺	词/h/hurtful.json
+54	55	patient	n. 病人 adj. 耐心的	细节数据有	缺	词/p/patient.json
+54	56	patiently	adv. 耐心地	细节数据有	缺	词/p/patiently.json
 54	57	patience	n. 耐心	缺	缺	
 54	58	impatient	adj. 不耐烦的；急切的、迫不及待的	缺	缺	
 54	59	compatible	adj. 兼容的；合得来的	缺	缺	
