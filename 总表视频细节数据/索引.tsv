@@ -2889,32 +2889,32 @@
 37	11	mountaineering	n. 登山运动	细节数据有	缺	词/m/mountaineering.json
 37	12	mountainous	adj. 多山的	细节数据有	缺	词/m/mountainous.json
 37	13	mountaintop	n. 山顶	细节数据有	缺	词/m/mountaintop.json
-37	14	amount	n. 数量	缺	缺	
-37	15	mount	v. 登上；骑上 n. 底座	缺	缺	
-37	16	mounting	adj. 不断增加的、越来越大的 n. 底座、支架	缺	缺	
-37	17	prominent	adj. 著名的、重要的；显眼的	缺	缺	
-37	18	prominently	adv. 显著地、显眼地	缺	缺	
-37	19	value	n. 价值	缺	缺	
-37	20	valuable	adj. 贵重的、值钱的	缺	缺	
-37	21	invaluable	adj. 极其宝贵的、非常有用的	缺	缺	
-37	22	valueless	adj. 毫无价值的、一文不值的	缺	缺	
-37	23	valuer	n. 估价师、评估师	缺	缺	
-37	24	avail	v. 有用、有益	缺	缺	
-37	25	available	adj. 可用的；可得到的	缺	缺	
-37	26	availability	n. 可得到性、可用性	缺	缺	
-37	27	valid	adj. 有效的；有根据的、合理的	缺	缺	
-37	28	validate	v. 确认、证实；使生效	缺	缺	
-37	29	validation	n. 确认、验证	缺	缺	
-37	30	evaluate	v. 评估、评价	缺	缺	
-37	31	evaluation	n. 评估、评价	缺	缺	
-37	32	equivalent	adj. 相等的、等值的 n. 对等物、对应的词	缺	缺	
-37	33	sentence	n. 句子	缺	缺	
+37	14	amount	n. 数量	细节数据有	缺	词/a/amount.json
+37	15	mount	v. 登上；骑上 n. 底座	细节数据有	缺	词/m/mount.json
+37	16	mounting	adj. 不断增加的、越来越大的 n. 底座、支架	细节数据有	缺	词/m/mounting.json
+37	17	prominent	adj. 著名的、重要的；显眼的	细节数据有	缺	词/p/prominent.json
+37	18	prominently	adv. 显著地、显眼地	细节数据有	缺	词/p/prominently.json
+37	19	value	n. 价值	细节数据有	缺	词/v/value.json
+37	20	valuable	adj. 贵重的、值钱的	细节数据有	缺	词/v/valuable.json
+37	21	invaluable	adj. 极其宝贵的、非常有用的	细节数据有	缺	词/i/invaluable.json
+37	22	valueless	adj. 毫无价值的、一文不值的	细节数据有	缺	词/v/valueless.json
+37	23	valuer	n. 估价师、评估师	细节数据有	缺	词/v/valuer.json
+37	24	avail	v. 有用、有益	细节数据有	缺	词/a/avail.json
+37	25	available	adj. 可用的；可得到的	细节数据有	缺	词/a/available.json
+37	26	availability	n. 可得到性、可用性	细节数据有	缺	词/a/availability.json
+37	27	valid	adj. 有效的；有根据的、合理的	细节数据有	缺	词/v/valid.json
+37	28	validate	v. 确认、证实；使生效	细节数据有	缺	词/v/validate.json
+37	29	validation	n. 确认、验证	细节数据有	缺	词/v/validation.json
+37	30	evaluate	v. 评估、评价	细节数据有	缺	词/e/evaluate.json
+37	31	evaluation	n. 评估、评价	细节数据有	缺	词/e/evaluation.json
+37	32	equivalent	adj. 相等的、等值的 n. 对等物、对应的词	细节数据有	缺	词/e/equivalent.json
+37	33	sentence	n. 句子	细节数据有	缺	词/s/sentence.json
 37	34	sense	n. 感觉；…感、意识；道理、明智	总表有	kit有（7A-U4）	
-37	35	sensor	n. 传感器、感应器	缺	缺	
-37	36	sensitive	adj. 敏感的、易受伤害的；体贴的、善解人意的	缺	缺	
-37	37	sensitivity	n. 敏感、体察	缺	缺	
-37	38	sensory	adj. 感觉的、感官的	缺	缺	
-37	39	sensible	adj. 明智的、合乎情理的	缺	缺	
+37	35	sensor	n. 传感器、感应器	细节数据有	缺	词/s/sensor.json
+37	36	sensitive	adj. 敏感的、易受伤害的；体贴的、善解人意的	细节数据有	缺	词/s/sensitive.json
+37	37	sensitivity	n. 敏感、体察	细节数据有	缺	词/s/sensitivity.json
+37	38	sensory	adj. 感觉的、感官的	细节数据有	缺	词/s/sensory.json
+37	39	sensible	adj. 明智的、合乎情理的	细节数据有	缺	词/s/sensible.json
 37	40	nonsense	n. 胡说、废话；荒唐的行为	缺	缺	
 37	41	sensation	n. 感觉、知觉；轰动、引起轰动的人或事	缺	缺	
 37	42	motion-sensing	adj. 移动感应的、体感的	缺	缺	
