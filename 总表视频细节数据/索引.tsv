@@ -4597,31 +4597,31 @@
 58	44	celebration	n. 庆祝、庆典	细节数据有	缺	词/c/celebration.json
 58	45	celebrity	n. 名人、明星	细节数据有	缺	词/c/celebrity.json
 58	46	celebratory	adj. 庆祝的、庆贺的	细节数据有	缺	词/c/celebratory.json
-58	47	soft	adj. 软的	缺	缺	
-58	48	softly	adv. 温柔地	缺	缺	
-58	49	soften	v. 使变软	缺	缺	
-58	50	softness	n. 柔软	缺	缺	
-58	51	softy	n. 心软的人、好说话的人	缺	缺	
-58	52	we	pron. 我们	缺	缺	
-58	53	ourselves	pron. 我们自己	缺	缺	
-58	54	ours	pron. 我们的	缺	缺	
-58	55	hall	n. 大厅	缺	缺	
-58	56	hallway	n. 走廊、过道；门厅	缺	缺	
-58	57	hallways	n. 走廊、过道	缺	缺	
-58	58	hallmark	n. 特征、标志 v. 打上纯度印记	缺	缺	
-58	59	colour	n. 颜色	缺	缺	
-58	60	coloured	adj. 有颜色的、彩色的	缺	缺	
-58	61	colorful	adj. 色彩鲜艳的	缺	缺	
-58	62	colourful	adj. 色彩鲜艳的	缺	缺	
-58	63	colored	adj. 有颜色的、彩色的	缺	缺	
-58	64	colorless	adj. 无色的；苍白的	缺	缺	
-58	65	colourless	adj. 无色的；苍白的	缺	缺	
-58	66	five-coloured	adj. 五色的、五彩的	缺	缺	
-58	67	colourfully	adv. 色彩鲜艳地；生动地	缺	缺	
-58	68	hole	n. 洞	缺	缺	
-58	69	hollow	adj. 空心的；凹陷的 n. 洼地、山谷	缺	缺	
-58	70	helmet	n. 头盔、安全帽	缺	缺	
-58	71	cell	n. 细胞；牢房	缺	缺	
+58	47	soft	adj. 软的	细节数据有	缺	词/s/soft.json
+58	48	softly	adv. 温柔地	细节数据有	缺	词/s/softly.json
+58	49	soften	v. 使变软	细节数据有	缺	词/s/soften.json
+58	50	softness	n. 柔软	细节数据有	缺	词/s/softness.json
+58	51	softy	n. 心软的人、好说话的人	细节数据有	缺	词/s/softy.json
+58	52	we	pron. 我们	细节数据有	缺	词/w/we.json
+58	53	ourselves	pron. 我们自己	细节数据有	缺	词/o/ourselves.json
+58	54	ours	pron. 我们的	细节数据有	缺	词/o/ours.json
+58	55	hall	n. 大厅	细节数据有	缺	词/h/hall.json
+58	56	hallway	n. 走廊、过道；门厅	细节数据有	缺	词/h/hallway.json
+58	57	hallways	n. 走廊、过道	细节数据有	缺	词/h/hallways.json
+58	58	hallmark	n. 特征、标志 v. 打上纯度印记	细节数据有	缺	词/h/hallmark.json
+58	59	colour	n. 颜色	细节数据有	缺	词/c/colour.json
+58	60	coloured	adj. 有颜色的、彩色的	细节数据有	缺	词/c/coloured.json
+58	61	colorful	adj. 色彩鲜艳的	细节数据有	缺	词/c/colorful.json
+58	62	colourful	adj. 色彩鲜艳的	细节数据有	缺	词/c/colourful.json
+58	63	colored	adj. 有颜色的、彩色的	细节数据有	缺	词/c/colored.json
+58	64	colorless	adj. 无色的；苍白的	细节数据有	缺	词/c/colorless.json
+58	65	colourless	adj. 无色的；苍白的	细节数据有	缺	词/c/colourless.json
+58	66	five-coloured	adj. 五色的、五彩的	细节数据有	缺	词/f/five-coloured.json
+58	67	colourfully	adv. 色彩鲜艳地；生动地	细节数据有	缺	词/c/colourfully.json
+58	68	hole	n. 洞	细节数据有	缺	词/h/hole.json
+58	69	hollow	adj. 空心的；凹陷的 n. 洼地、山谷	细节数据有	缺	词/h/hollow.json
+58	70	helmet	n. 头盔、安全帽	细节数据有	缺	词/h/helmet.json
+58	71	cell	n. 细胞；牢房	细节数据有	缺	词/c/cell.json
 58	72	cellar	n. 地窖、地下室；藏酒	缺	缺	
 59	1	storm	n. 风暴	缺	缺	
 59	2	stormy	adj. 有暴风雨的；激烈的、争吵不断的	缺	缺	
