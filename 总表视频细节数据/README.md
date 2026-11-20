@@ -267,6 +267,7 @@
 - enough：变形写“比较级 more enough、最高级 most enough”（不存在）
 - cover：易混写成“cover the cost / miles”，不是一组易混词，说明残缺
 - coverage：变形写“复数 coverages”，但辨析又说 coverage 不可数，前后矛盾
+- having：变形写成“三单 havings；过去式 havinged；现在分词 havinging”（不存在），having 本身就是 have 的 -ing 形式
 
 ## 总表里出现两次的词（细节数据按单词存一份，两行共用；出题时两个意思都要考到）
 

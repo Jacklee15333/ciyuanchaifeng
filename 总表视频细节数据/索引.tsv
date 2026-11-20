@@ -2992,31 +2992,31 @@
 38	33	secondhand	adj. 二手的；间接的	细节数据有	缺	词/s/secondhand.json
 38	34	social	adj. 社会的；群居的	细节数据有	缺	词/s/social.json
 38	35	socially	adv. 在社交方面	细节数据有	缺	词/s/socially.json
-38	36	socialism	n. 社会主义	缺	缺	
-38	37	socialize	v. 交际、应酬；使社会化	缺	缺	
-38	38	socialise	v. 交际、应酬；使社会化	缺	缺	
-38	39	sociable	adj. 好交际的、合群的	缺	缺	
-38	40	society	n. 社会	缺	缺	
-38	41	soccer	n. 足球	缺	缺	
-38	42	associate	v. 联想；交往 n. 同事、伙伴	缺	缺	
-38	43	association	n. 协会、社团；联系、关联	缺	缺	
-38	44	sociology	n. 社会学	缺	缺	
-38	45	sociologist	n. 社会学家	缺	缺	
-38	46	suit	n. 一套西装、套装；诉讼 v. 适合	缺	缺	
-38	47	suitable	adj. 合适的、适当的	缺	缺	
-38	48	unsuitable	adj. 不合适的、不相称的	缺	缺	
-38	49	suitcase	n. 手提箱、行李箱	缺	缺	
-38	50	pursue	v. 追赶、追捕；从事、继续	缺	缺	
-38	51	pursuit	n. 追求	缺	缺	
-38	52	sequence	n. 顺序、次序；一连串	缺	缺	
-38	53	consequence	n. 后果、结果；重要性	缺	缺	
-38	54	consequently	adv. 因此、所以	缺	缺	
-38	55	sequel	n. 续集、续篇	缺	缺	
-38	56	subsequent	adj. 随后的、后来的	缺	缺	
-38	57	have	v. 有；吃	缺	缺	
-38	58	having	v. 动名词	缺	缺	
-38	59	behave	v. 表现、举止；规矩点	缺	缺	
-38	60	behavior	n. 行为	缺	缺	
+38	36	socialism	n. 社会主义	细节数据有	缺	词/s/socialism.json
+38	37	socialize	v. 交际、应酬；使社会化	细节数据有	缺	词/s/socialize.json
+38	38	socialise	v. 交际、应酬；使社会化	细节数据有	缺	词/s/socialise.json
+38	39	sociable	adj. 好交际的、合群的	细节数据有	缺	词/s/sociable.json
+38	40	society	n. 社会	细节数据有	缺	词/s/society.json
+38	41	soccer	n. 足球	细节数据有	缺	词/s/soccer.json
+38	42	associate	v. 联想；交往 n. 同事、伙伴	细节数据有	缺	词/a/associate.json
+38	43	association	n. 协会、社团；联系、关联	细节数据有	缺	词/a/association.json
+38	44	sociology	n. 社会学	细节数据有	缺	词/s/sociology.json
+38	45	sociologist	n. 社会学家	细节数据有	缺	词/s/sociologist.json
+38	46	suit	n. 一套西装、套装；诉讼 v. 适合	细节数据有	缺	词/s/suit.json
+38	47	suitable	adj. 合适的、适当的	细节数据有	缺	词/s/suitable.json
+38	48	unsuitable	adj. 不合适的、不相称的	细节数据有	缺	词/u/unsuitable.json
+38	49	suitcase	n. 手提箱、行李箱	细节数据有	缺	词/s/suitcase.json
+38	50	pursue	v. 追赶、追捕；从事、继续	细节数据有	缺	词/p/pursue.json
+38	51	pursuit	n. 追求	细节数据有	缺	词/p/pursuit.json
+38	52	sequence	n. 顺序、次序；一连串	细节数据有	缺	词/s/sequence.json
+38	53	consequence	n. 后果、结果；重要性	细节数据有	缺	词/c/consequence.json
+38	54	consequently	adv. 因此、所以	细节数据有	缺	词/c/consequently.json
+38	55	sequel	n. 续集、续篇	细节数据有	缺	词/s/sequel.json
+38	56	subsequent	adj. 随后的、后来的	细节数据有	缺	词/s/subsequent.json
+38	57	have	v. 有；吃	细节数据有	缺	词/h/have.json
+38	58	having	v. 动名词	细节数据有	缺	词/h/having.json
+38	59	behave	v. 表现、举止；规矩点	细节数据有	缺	词/b/behave.json
+38	60	behavior	n. 行为	细节数据有	缺	词/b/behavior.json
 38	61	behaviour	n. 行为、举止	缺	缺	
 38	62	behavioural	adj. 行为的	缺	缺	
 38	63	behavioral	adj. 行为的	缺	缺	
