@@ -4294,32 +4294,32 @@
 54	54	hurtful	adj. 伤人的、刻薄的	细节数据有	缺	词/h/hurtful.json
 54	55	patient	n. 病人 adj. 耐心的	细节数据有	缺	词/p/patient.json
 54	56	patiently	adv. 耐心地	细节数据有	缺	词/p/patiently.json
-54	57	patience	n. 耐心	缺	缺	
-54	58	impatient	adj. 不耐烦的；急切的、迫不及待的	缺	缺	
-54	59	compatible	adj. 兼容的；合得来的	缺	缺	
-54	60	compatibility	n. 兼容性	缺	缺	
-54	61	passion	n. 激情、热情	缺	缺	
-54	62	passionate	adj. 热情的、狂热的	缺	缺	
-54	63	passionately	adv. 热烈地；深情地	缺	缺	
-54	64	passive	adj. 被动的	缺	缺	
-54	65	compassion	n. 同情、怜悯	缺	缺	
-54	66	library	n. 图书馆	缺	缺	
-54	67	librarian	n. 图书馆管理员	缺	缺	
-54	68	device	n. 装置、设备；手段、手法	缺	缺	
-54	69	multi-device	adj. 多设备的	缺	缺	
-54	70	devise	v. 设计、想出	缺	缺	
-54	71	divide	v. 分；除算术用语	缺	缺	
-54	72	divided	adj. 分裂的、有分歧的	缺	缺	
-54	73	division	n. 分开、分配	缺	缺	
-54	74	divisible	adj. 可分的	缺	缺	
-54	75	individual	adj. 个人的、单独的	缺	缺	
-54	76	individually	adv. 单独地、逐个地	缺	缺	
-54	77	individualize	v. 使个性化、按个人需要调整	缺	缺	
-54	78	widow	n. 寡妇	缺	缺	
+54	57	patience	n. 耐心	细节数据有	缺	词/p/patience.json
+54	58	impatient	adj. 不耐烦的；急切的、迫不及待的	细节数据有	缺	词/i/impatient.json
+54	59	compatible	adj. 兼容的；合得来的	细节数据有	缺	词/c/compatible.json
+54	60	compatibility	n. 兼容性	细节数据有	缺	词/c/compatibility.json
+54	61	passion	n. 激情、热情	细节数据有	缺	词/p/passion.json
+54	62	passionate	adj. 热情的、狂热的	细节数据有	缺	词/p/passionate.json
+54	63	passionately	adv. 热烈地；深情地	细节数据有	缺	词/p/passionately.json
+54	64	passive	adj. 被动的	细节数据有	缺	词/p/passive.json
+54	65	compassion	n. 同情、怜悯	细节数据有	缺	词/c/compassion.json
+54	66	library	n. 图书馆	细节数据有	缺	词/l/library.json
+54	67	librarian	n. 图书馆管理员	细节数据有	缺	词/l/librarian.json
+54	68	device	n. 装置、设备；手段、手法	细节数据有	缺	词/d/device.json
+54	69	multi-device	adj. 多设备的	细节数据有	缺	词/m/multi-device.json
+54	70	devise	v. 设计、想出	细节数据有	缺	词/d/devise.json
+54	71	divide	v. 分；除算术用语	细节数据有	缺	词/d/divide.json
+54	72	divided	adj. 分裂的、有分歧的	细节数据有	缺	词/d/divided.json
+54	73	division	n. 分开、分配	细节数据有	缺	词/d/division.json
+54	74	divisible	adj. 可分的	细节数据有	缺	词/d/divisible.json
+54	75	individual	adj. 个人的、单独的	细节数据有	缺	词/i/individual.json
+54	76	individually	adv. 单独地、逐个地	细节数据有	缺	词/i/individually.json
+54	77	individualize	v. 使个性化、按个人需要调整	细节数据有	缺	词/i/individualize.json
+54	78	widow	n. 寡妇	细节数据有	缺	词/w/widow.json
 55	1	manage	v. 设法做到；管理、经营	总表有	kit有（7A-U4）	
-55	2	manager	n. 经理	缺	缺	
-55	3	management	n. 管理、经营	缺	缺	
-55	4	manageable	adj. 可管理的、可控制的	缺	缺	
+55	2	manager	n. 经理	细节数据有	缺	词/m/manager.json
+55	3	management	n. 管理、经营	细节数据有	缺	词/m/management.json
+55	4	manageable	adj. 可管理的、可控制的	细节数据有	缺	词/m/manageable.json
 55	5	time-management	n. 时间管理	缺	缺	
 55	6	maintain	v. 保持、维持；供养	缺	缺	
 55	7	maintenance	n. 维修、保养	缺	缺	
