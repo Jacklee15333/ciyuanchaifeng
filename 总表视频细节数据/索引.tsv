@@ -2839,31 +2839,31 @@
 36	41	infection	n. 感染、传染	细节数据有	缺	词/i/infection.json
 36	42	infectious	adj. 传染性的	细节数据有	缺	词/i/infectious.json
 36	43	affection	n. 喜爱、关爱	细节数据有	缺	词/a/affection.json
-36	44	defect	n. 缺陷、毛病 v. 叛逃、投奔	缺	缺	
-36	45	prefect	n. 长官	缺	缺	
-36	46	vice-prefect	n. 副长官	缺	缺	
-36	47	fact	n. 事实	缺	缺	
-36	48	factory	n. 工厂	缺	缺	
-36	49	factory-farmed	adj. 工厂化养殖的、集约化养殖的	缺	缺	
-36	50	factor	n. 因素、要素；倍数	缺	缺	
-36	51	factual	adj. 事实的、真实的	缺	缺	
-36	52	factually	adv. 在事实上、按照事实	缺	缺	
-36	53	fax	n. 传真	缺	缺	
-36	54	feature	n. 特征、特点；故事片	缺	缺	
-36	55	fashion	n. 时尚	缺	缺	
-36	56	fashionable	adj. 时髦的、流行的	缺	缺	
-36	57	unfashionable	adj. 不时髦的、过时的；不合潮流的、不受欢迎的	缺	缺	
-36	58	old-fashioned	adj. 过时的、老式的；守旧的	缺	缺	
-36	59	defeat	v. 打败、战胜	缺	缺	
-36	60	feasible	adj. 可行的、行得通的	缺	缺	
-36	61	feat	n. 功绩、壮举；技艺、本领	缺	缺	
-36	62	theme	n. 主题、题目	缺	缺	
-36	63	prosthesis	n. 假体、义肢	缺	缺	
-36	64	prosthetic	adj. 假体的、义肢的	缺	缺	
-36	65	synthesis	n. 综合、合成	缺	缺	
-36	66	synthesizer	n. 合成器、电子合成乐器	缺	缺	
-36	67	synthetic	adj. 合成的、人造的	缺	缺	
-36	68	hypothesis	n. 假说、假设；前提	缺	缺	
+36	44	defect	n. 缺陷、毛病 v. 叛逃、投奔	细节数据有	缺	词/d/defect.json
+36	45	prefect	n. 长官	细节数据有	缺	词/p/prefect.json
+36	46	vice-prefect	n. 副长官	细节数据有	缺	词/v/vice-prefect.json
+36	47	fact	n. 事实	细节数据有	缺	词/f/fact.json
+36	48	factory	n. 工厂	细节数据有	缺	词/f/factory.json
+36	49	factory-farmed	adj. 工厂化养殖的、集约化养殖的	细节数据有	缺	词/f/factory-farmed.json
+36	50	factor	n. 因素、要素；倍数	细节数据有	缺	词/f/factor.json
+36	51	factual	adj. 事实的、真实的	细节数据有	缺	词/f/factual.json
+36	52	factually	adv. 在事实上、按照事实	细节数据有	缺	词/f/factually.json
+36	53	fax	n. 传真	细节数据有	缺	词/f/fax.json
+36	54	feature	n. 特征、特点；故事片	细节数据有	缺	词/f/feature.json
+36	55	fashion	n. 时尚	细节数据有	缺	词/f/fashion.json
+36	56	fashionable	adj. 时髦的、流行的	细节数据有	缺	词/f/fashionable.json
+36	57	unfashionable	adj. 不时髦的、过时的；不合潮流的、不受欢迎的	细节数据有	缺	词/u/unfashionable.json
+36	58	old-fashioned	adj. 过时的、老式的；守旧的	细节数据有	缺	词/o/old-fashioned.json
+36	59	defeat	v. 打败、战胜	细节数据有	缺	词/d/defeat.json
+36	60	feasible	adj. 可行的、行得通的	细节数据有	缺	词/f/feasible.json
+36	61	feat	n. 功绩、壮举；技艺、本领	细节数据有	缺	词/f/feat.json
+36	62	theme	n. 主题、题目	细节数据有	缺	词/t/theme.json
+36	63	prosthesis	n. 假体、义肢	细节数据有	缺	词/p/prosthesis.json
+36	64	prosthetic	adj. 假体的、义肢的	细节数据有	缺	词/p/prosthetic.json
+36	65	synthesis	n. 综合、合成	细节数据有	缺	词/s/synthesis.json
+36	66	synthesizer	n. 合成器、电子合成乐器	细节数据有	缺	词/s/synthesizer.json
+36	67	synthetic	adj. 合成的、人造的	细节数据有	缺	词/s/synthetic.json
+36	68	hypothesis	n. 假说、假设；前提	细节数据有	缺	词/h/hypothesis.json
 36	69	indeed	adv. 确实、的确	缺	缺	
 36	70	do	aux. 做	缺	缺	
 36	71	done	adj. 完成的	缺	缺	

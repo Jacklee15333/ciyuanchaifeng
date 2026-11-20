@@ -257,6 +257,7 @@
 - official：初中含义写成“n. (公司 adj. 官方的”，括号残缺
 - facility：初中含义只写“熟练、天赋”，漏了最常用的“设施（复数 facilities）”
 - effective：易混“effective / valid”的说明里例子 a valid ticket 放错了位置，句子残缺
+- prefect：初中含义只写“长官”，英国学校里常指“学生长、班干部”
 
 ## 总表里出现两次的词（细节数据按单词存一份，两行共用；出题时两个意思都要考到）
 
