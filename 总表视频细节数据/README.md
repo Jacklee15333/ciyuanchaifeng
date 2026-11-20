@@ -144,7 +144,7 @@
 | 2026-11-20 | 题目第 56 批第 3 组 | 25 | strictly … electrochemical（体检全部 0 个问题；electric、mini-electric、electrochemical 第 7 题漏写考点，补上再存；restrictive、towering、tower-building、tower-shaped、electricity、electronics、electronically 出题时自查到答案是原形超过 1 道，改过再存）。累计 5249 个词有题目 |
 | 2026-11-20 | 题目第 56 批第 4 组 | 25 | electrode … climax（体检全部 0 个问题；announcement 答案就是本词 2 道，改过再存）。累计 5274 个词有题目 |
 | 2026-11-20 | 题目第 57 批第 1 组 | 25 | decline … champion（体检全部 0 个问题；ladder 答案就是本词 2 道、hobby 第 7 题漏写考点，改过再存）。累计 5299 个词有题目 |
-| 2026-11-20 | 题目第 57 批第 2 组 | 25 | championship … biodiesel（体检全部 0 个问题；chatter、quick、quick-thinking、vital 答案就是本词 2 道，改过再存）。累计 5323 个词有题目 |
+| 2026-11-20 | 题目第 57 批第 2 组 | 25 | championship … biodiesel（体检全部 0 个问题；chatter、quick、quick-thinking、vital 答案就是本词 2 道，改过再存）。累计 5324 个词有题目 |
 | 2026-11-19 | 试做 truly | 0 | 只用自带素材加表情图拼画面：起草检查不通过（表情图要换成写实插图、每幅画都要动、小图标要自己画）。结论：多数词要专门画插图，每个词的工作量和 7A-U4 一样；全表 9299 个词做不完，要先定先做哪些（等用户定） |
 
 ## 总表里看着不对的地方（出题时绕开了，以后用维护技能核对）
