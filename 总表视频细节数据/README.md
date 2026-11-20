@@ -147,6 +147,7 @@
 | 2026-11-20 | 题目第 57 批第 2 组 | 25 | championship … biodiesel（体检全部 0 个问题；chatter、quick、quick-thinking、vital 答案就是本词 2 道，改过再存）。累计 5324 个词有题目 |
 | 2026-11-20 | 题目第 57 批第 3 组 | 25 | bioengineer … mid-thirties（体检全部 0 个问题；tracking、tracker、untrackable、relaxing、third、one-third、thirtieth、silently 出题时自查到答案是原形超过 1 道，改过再存）。累计 5349 个词有题目 |
 | 2026-11-20 | 题目第 57 批第 4 组 | 25 | thirty-seven … breathe（体检全部 0 个问题；gatekeeper、snack、shopping、breathlessly 出题时自查到答案是原形超过 1 道，shopper 第 7 题漏写考点，改过再存）。累计 5374 个词有题目 |
+| 2026-11-20 | 题目第 58 批第 1 组 | 25 | breathable … stick（体检全部 0 个问题；breathable、weakness、weakly、fitness、outfit、shook、shaky、smoothly、mid-autumn、ticket、etiquette 出题时自查到答案是原形超过 1 道，改过再存）。累计 5399 个词有题目 |
 | 2026-11-19 | 试做 truly | 0 | 只用自带素材加表情图拼画面：起草检查不通过（表情图要换成写实插图、每幅画都要动、小图标要自己画）。结论：多数词要专门画插图，每个词的工作量和 7A-U4 一样；全表 9299 个词做不完，要先定先做哪些（等用户定） |
 
 ## 总表里看着不对的地方（出题时绕开了，以后用维护技能核对）
@@ -503,6 +504,10 @@
 - three、third、thirty、thirtieth：初中含义只写了“基数词”“序数词”，没写意思（三、第三、三十、第三十）
 - triple：考点写了比较级 tripler、最高级 triplest，triple 没有比较级和最高级
 - package、packet：初中含义括号没有收尾（“包裹（美式；一揽子方案”“小包、小袋（英式”）
+- weakness：考点写“不可数，没有复数”，但“缺点、弱点”可数，常说 weaknesses（strengths and weaknesses）
+- shook：初中含义写成“phr. 激动不已”（俚语 I was shook），初中应作 shake 的过去式
+- shaky：词性转换写“shake v.握”，被截断，应是“shake v.摇动、发抖”
+- mid-autumn：考点写复数 mid-autumns，没有这种用法
 
 ## 总表里出现两次的词（细节数据按单词存一份，两行共用；出题时两个意思都要考到）
 

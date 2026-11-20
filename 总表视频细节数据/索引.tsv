@@ -5402,31 +5402,31 @@
 69	36	breathless	adj. 气喘吁吁的、上气不接下气的	细节数据有	缺	词/b/breathless.json
 69	37	breathlessly	adv. 气喘吁吁地	细节数据有	缺	词/b/breathlessly.json
 69	38	breathe	v. 呼吸	细节数据有	缺	词/b/breathe.json
-69	39	breathable	adj. 可供呼吸的；透气的	缺	缺	
-69	40	breathtaking	adj. 惊人的、令人叹为观止的	缺	缺	
-69	41	weak	adj. 弱的	缺	缺	
-69	42	weakness	n. 虚弱、软弱；偏爱	缺	缺	
-69	43	weaken	v. 变弱、削弱；动摇	缺	缺	
-69	44	weakly	adv. 虚弱地、无力地	缺	缺	
-69	45	fit	adj. 合适的；健康的、强健的 v. 安装	缺	缺	
-69	46	fitting	adj. 恰当的、相称的 n. 试穿	缺	缺	
-69	47	fitness	n. 健康、体能；适合、胜任	缺	缺	
-69	48	outfit	n. 全套装备	缺	缺	
-69	49	shake	v. 握手；使震动	缺	缺	
-69	50	shook	phr. 激动不已	缺	缺	
-69	51	shaky	adj. 发抖的；摇晃的、不稳的	缺	缺	
-69	52	shake-up	n. 大调整、大改组	缺	缺	
-69	53	smooth	adj. 光滑的、平滑的	缺	缺	
-69	54	smoothly	adv. 平稳地、顺利地；流畅地	缺	缺	
-69	55	smoothness	n. 光滑、平滑	缺	缺	
-69	56	smoothie	n. 果昔、奶昔	缺	缺	
-69	57	super-smoothie	n. 营养特别丰富的果昔	缺	缺	
-69	58	autumn	n. 秋天	缺	缺	
-69	59	mid-autumn	n. 仲秋、秋季过半的时候	缺	缺	
-70	1	ticket	n. 票；券	缺	缺	
-70	2	e-ticket	n. 电子票、电子客票	缺	缺	
-70	3	etiquette	n. 礼节、礼仪	缺	缺	
-70	4	stick	n. 木棒 v. 坚持	缺	缺	
+69	39	breathable	adj. 可供呼吸的；透气的	细节数据有	缺	词/b/breathable.json
+69	40	breathtaking	adj. 惊人的、令人叹为观止的	细节数据有	缺	词/b/breathtaking.json
+69	41	weak	adj. 弱的	细节数据有	缺	词/w/weak.json
+69	42	weakness	n. 虚弱、软弱；偏爱	细节数据有	缺	词/w/weakness.json
+69	43	weaken	v. 变弱、削弱；动摇	细节数据有	缺	词/w/weaken.json
+69	44	weakly	adv. 虚弱地、无力地	细节数据有	缺	词/w/weakly.json
+69	45	fit	adj. 合适的；健康的、强健的 v. 安装	细节数据有	缺	词/f/fit.json
+69	46	fitting	adj. 恰当的、相称的 n. 试穿	细节数据有	缺	词/f/fitting.json
+69	47	fitness	n. 健康、体能；适合、胜任	细节数据有	缺	词/f/fitness.json
+69	48	outfit	n. 全套装备	细节数据有	缺	词/o/outfit.json
+69	49	shake	v. 握手；使震动	细节数据有	缺	词/s/shake.json
+69	50	shook	phr. 激动不已	细节数据有	缺	词/s/shook.json
+69	51	shaky	adj. 发抖的；摇晃的、不稳的	细节数据有	缺	词/s/shaky.json
+69	52	shake-up	n. 大调整、大改组	细节数据有	缺	词/s/shake-up.json
+69	53	smooth	adj. 光滑的、平滑的	细节数据有	缺	词/s/smooth.json
+69	54	smoothly	adv. 平稳地、顺利地；流畅地	细节数据有	缺	词/s/smoothly.json
+69	55	smoothness	n. 光滑、平滑	细节数据有	缺	词/s/smoothness.json
+69	56	smoothie	n. 果昔、奶昔	细节数据有	缺	词/s/smoothie.json
+69	57	super-smoothie	n. 营养特别丰富的果昔	细节数据有	缺	词/s/super-smoothie.json
+69	58	autumn	n. 秋天	细节数据有	缺	词/a/autumn.json
+69	59	mid-autumn	n. 仲秋、秋季过半的时候	细节数据有	缺	词/m/mid-autumn.json
+70	1	ticket	n. 票；券	细节数据有	缺	词/t/ticket.json
+70	2	e-ticket	n. 电子票、电子客票	细节数据有	缺	词/e/e-ticket.json
+70	3	etiquette	n. 礼节、礼仪	细节数据有	缺	词/e/etiquette.json
+70	4	stick	n. 木棒 v. 坚持	细节数据有	缺	词/s/stick.json
 70	5	stuck	adj. 被卡住的	缺	缺	
 70	6	sticker	n. 贴纸、不干胶标签	缺	缺	
 70	7	sticky	adj. 黏的；棘手的	缺	缺	
