@@ -4824,31 +4824,31 @@
 61	73	flightless	adj. 不会飞的	细节数据有	缺	词/f/flightless.json
 61	74	butterfly	n. 蝴蝶	细节数据有	缺	词/b/butterfly.json
 61	75	butterfly-like	adj. 像蝴蝶的	细节数据有	缺	词/b/butterfly-like.json
-61	76	butterflying	n. 蝴蝶刀切法、开片	缺	缺	
-61	77	dragonfly	n. 蜻蜓	缺	缺	
-61	78	flee	v. 逃跑、逃离	缺	缺	
-61	79	fled	v. 过去分词	缺	缺	
-61	80	treasure	n. 财宝、珍宝	缺	缺	
-62	1	lake	n. 湖	缺	缺	
-62	2	lakeside	n. 湖边、湖畔	缺	缺	
-62	3	planet	n. 行星	缺	缺	
-62	4	planetary	adj. 行星的；全球的、地球的	缺	缺	
-62	5	phrase	n. 短语、词组；说法、措辞	缺	缺	
-62	6	phrasal	adj. 短语的；由两个以上的词构成的	缺	缺	
-62	7	push	v. 推	缺	缺	
-62	8	pulse	n. 脉搏；节拍	缺	缺	
-62	9	impulse	n. 冲动	缺	缺	
-62	10	impulsively	adv. 冲动地、一时兴起地	缺	缺	
-62	11	impulsive	adj. 冲动的、易冲动的	缺	缺	
-62	12	compulsory	adj. 强制的、义务的	缺	缺	
-62	13	appeal	v. 呼吁、恳求；上诉 n. 吸引力	缺	缺	
-62	14	appealing	adj. 吸引人的、有魅力的；恳求的	缺	缺	
-62	15	repellent	n. 驱虫剂 adj. 防……的；令人厌恶的	缺	缺	
-62	16	favour	n. 恩惠；好意	缺	缺	
-62	17	favor	n. 恩惠；好意	缺	缺	
-62	18	favorable	adj. 有利的；赞成的	缺	缺	
-62	19	favourable	adj. 有利的；赞成的	缺	缺	
-62	20	favourite	adj. 最喜爱的	缺	缺	
+61	76	butterflying	n. 蝴蝶刀切法、开片	细节数据有	缺	词/b/butterflying.json
+61	77	dragonfly	n. 蜻蜓	细节数据有	缺	词/d/dragonfly.json
+61	78	flee	v. 逃跑、逃离	细节数据有	缺	词/f/flee.json
+61	79	fled	v. 过去分词	细节数据有	缺	词/f/fled.json
+61	80	treasure	n. 财宝、珍宝	细节数据有	缺	词/t/treasure.json
+62	1	lake	n. 湖	细节数据有	缺	词/l/lake.json
+62	2	lakeside	n. 湖边、湖畔	细节数据有	缺	词/l/lakeside.json
+62	3	planet	n. 行星	细节数据有	缺	词/p/planet.json
+62	4	planetary	adj. 行星的；全球的、地球的	细节数据有	缺	词/p/planetary.json
+62	5	phrase	n. 短语、词组；说法、措辞	细节数据有	缺	词/p/phrase.json
+62	6	phrasal	adj. 短语的；由两个以上的词构成的	细节数据有	缺	词/p/phrasal.json
+62	7	push	v. 推	细节数据有	缺	词/p/push.json
+62	8	pulse	n. 脉搏；节拍	细节数据有	缺	词/p/pulse.json
+62	9	impulse	n. 冲动	细节数据有	缺	词/i/impulse.json
+62	10	impulsively	adv. 冲动地、一时兴起地	细节数据有	缺	词/i/impulsively.json
+62	11	impulsive	adj. 冲动的、易冲动的	细节数据有	缺	词/i/impulsive.json
+62	12	compulsory	adj. 强制的、义务的	细节数据有	缺	词/c/compulsory.json
+62	13	appeal	v. 呼吁、恳求；上诉 n. 吸引力	细节数据有	缺	词/a/appeal.json
+62	14	appealing	adj. 吸引人的、有魅力的；恳求的	细节数据有	缺	词/a/appealing.json
+62	15	repellent	n. 驱虫剂 adj. 防……的；令人厌恶的	细节数据有	缺	词/r/repellent.json
+62	16	favour	n. 恩惠；好意	细节数据有	缺	词/f/favour.json
+62	17	favor	n. 恩惠；好意	细节数据有	缺	词/f/favor.json
+62	18	favorable	adj. 有利的；赞成的	细节数据有	缺	词/f/favorable.json
+62	19	favourable	adj. 有利的；赞成的	细节数据有	缺	词/f/favourable.json
+62	20	favourite	adj. 最喜爱的	细节数据有	缺	词/f/favourite.json
 62	21	favorite	adj. 最喜爱的	缺	缺	
 62	22	wide	adj. 宽的；广泛的	缺	缺	
 62	23	widely	adv. 宽阔地；广泛地	缺	缺	
