@@ -1982,31 +1982,31 @@
 25	64	info	n. 信息、资料	细节数据有	缺	词/i/info.json
 25	65	uninformed	adj. 不了解情况的；无知的	细节数据有	缺	词/u/uninformed.json
 25	66	informative	adj. 信息丰富的、增长见识的	细节数据有	缺	词/i/informative.json
-25	67	informational	adj. 信息的、提供信息用的	缺	缺	
-25	68	form	n. 形式	缺	缺	
-25	69	transform	v. 使改观、彻底改变；转换、转化	缺	缺	
-25	70	transformation	n. 彻底改变、转变	缺	缺	
-25	71	transformer	n. 变压器	缺	缺	
-25	72	uniform	n. 制服	缺	缺	
-25	73	formal	adj. 正式的、正规的	缺	缺	
-25	74	formally	adv. 正式地；拘礼地、按礼节	缺	缺	
-25	75	informal	adj. 非正式的；不拘礼节的、便装的	缺	缺	
-25	76	formation	n. 形成、组建	缺	缺	
-25	77	reform	v. 改革、改良	缺	缺	
-25	78	format	n. 格式、版式	缺	缺	
-25	79	formula	n. 公式；配方	缺	缺	
-26	1	local	adj. 当地的；地方的 n. 本地人	缺	缺	
-26	2	localise	v. 使局限于某处	缺	缺	
-26	3	localize	v. 使局限于某处；找出…所在的位置	缺	缺	
-26	4	locally	adv. 在本地、在当地；局部地	缺	缺	
-26	5	locate	v. 找出…的位置；把…设在	缺	缺	
-26	6	located	adj. 位于…的、坐落在…的	缺	缺	
-26	7	location	n. 位置；场所	缺	缺	
-26	8	relocate	v. 搬迁、迁移	缺	缺	
-26	9	auto-location	n. 自动定位	缺	缺	
-26	10	allocate	v. 分配、拨给	缺	缺	
-26	11	allocation	n. 分配	缺	缺	
-26	12	allow	v. 允许	缺	缺	
+25	67	informational	adj. 信息的、提供信息用的	细节数据有	缺	词/i/informational.json
+25	68	form	n. 形式	细节数据有	缺	词/f/form.json
+25	69	transform	v. 使改观、彻底改变；转换、转化	细节数据有	缺	词/t/transform.json
+25	70	transformation	n. 彻底改变、转变	细节数据有	缺	词/t/transformation.json
+25	71	transformer	n. 变压器	细节数据有	缺	词/t/transformer.json
+25	72	uniform	n. 制服	细节数据有	缺	词/u/uniform.json
+25	73	formal	adj. 正式的、正规的	细节数据有	缺	词/f/formal.json
+25	74	formally	adv. 正式地；拘礼地、按礼节	细节数据有	缺	词/f/formally.json
+25	75	informal	adj. 非正式的；不拘礼节的、便装的	细节数据有	缺	词/i/informal.json
+25	76	formation	n. 形成、组建	细节数据有	缺	词/f/formation.json
+25	77	reform	v. 改革、改良	细节数据有	缺	词/r/reform.json
+25	78	format	n. 格式、版式	细节数据有	缺	词/f/format.json
+25	79	formula	n. 公式；配方	细节数据有	缺	词/f/formula.json
+26	1	local	adj. 当地的；地方的 n. 本地人	细节数据有	缺	词/l/local.json
+26	2	localise	v. 使局限于某处	细节数据有	缺	词/l/localise.json
+26	3	localize	v. 使局限于某处；找出…所在的位置	细节数据有	缺	词/l/localize.json
+26	4	locally	adv. 在本地、在当地；局部地	细节数据有	缺	词/l/locally.json
+26	5	locate	v. 找出…的位置；把…设在	细节数据有	缺	词/l/locate.json
+26	6	located	adj. 位于…的、坐落在…的	细节数据有	缺	词/l/located.json
+26	7	location	n. 位置；场所	细节数据有	缺	词/l/location.json
+26	8	relocate	v. 搬迁、迁移	细节数据有	缺	词/r/relocate.json
+26	9	auto-location	n. 自动定位	细节数据有	缺	词/a/auto-location.json
+26	10	allocate	v. 分配、拨给	细节数据有	缺	词/a/allocate.json
+26	11	allocation	n. 分配	细节数据有	缺	词/a/allocation.json
+26	12	allow	v. 允许	细节数据有	缺	词/a/allow.json
 26	13	allowance	n. 津贴、补助；限额	缺	缺	
 26	14	couch	n. 长沙发	缺	缺	
 26	15	grow	v. 生长；发育	缺	缺	
