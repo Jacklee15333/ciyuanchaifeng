@@ -4345,31 +4345,31 @@
 55	27	disease	n. 疾病	细节数据有	缺	词/d/disease.json
 55	28	refuse	v. 拒绝；不愿	细节数据有	缺	词/r/refuse.json
 55	29	refusal	n. 拒绝；优先选择权	细节数据有	缺	词/r/refusal.json
-55	30	confuse	v. 使困惑；分不清	缺	缺	
-55	31	confused	adj. 困惑的、糊涂的；混乱的	缺	缺	
-55	32	confusing	adj. 令人困惑的、难懂的	缺	缺	
-55	33	confusion	n. 困惑、糊涂；混淆	缺	缺	
-55	34	fuse	v. 熔合、融合	缺	缺	
-55	35	fusion	n. 融合	缺	缺	
-55	36	funnel	n. 漏斗 v. 把集中引向某处	缺	缺	
-55	37	refund	v. 退还	缺	缺	
-55	38	foundation	n. 基础、根基；创立	缺	缺	
-55	39	founder	n. 创始人、创办者	缺	缺	
-55	40	founded	adj. 有根据的	缺	缺	
-55	41	founding	n. 创立	缺	缺	
-55	42	fund	n. 基金、专款；储备	缺	缺	
-55	43	funding	n. 资金、拨款	缺	缺	
-55	44	crowdfunding	n. 众筹	缺	缺	
-55	45	fundraiser	n. 募捐者、筹款人	缺	缺	
-55	46	fundamental	adj. 基本的、根本的；必不可少的	缺	缺	
-55	47	fundamentally	adv. 根本上、从根本上	缺	缺	
-55	48	profound	adj. 深刻的、意义深远的	缺	缺	
-55	49	profoundly	adv. 深刻地、深深地	缺	缺	
-55	50	bottom	n. 底部	缺	缺	
-55	51	ocean	n. 海洋	缺	缺	
-55	52	oceanic	adj. 海洋的、大洋的	缺	缺	
-55	53	Oceania	n. 大洋洲	缺	缺	
-55	54	such	adj. 这样的 pron. 人泛指	缺	缺	
+55	30	confuse	v. 使困惑；分不清	细节数据有	缺	词/c/confuse.json
+55	31	confused	adj. 困惑的、糊涂的；混乱的	细节数据有	缺	词/c/confused.json
+55	32	confusing	adj. 令人困惑的、难懂的	细节数据有	缺	词/c/confusing.json
+55	33	confusion	n. 困惑、糊涂；混淆	细节数据有	缺	词/c/confusion.json
+55	34	fuse	v. 熔合、融合	细节数据有	缺	词/f/fuse.json
+55	35	fusion	n. 融合	细节数据有	缺	词/f/fusion.json
+55	36	funnel	n. 漏斗 v. 把集中引向某处	细节数据有	缺	词/f/funnel.json
+55	37	refund	v. 退还	细节数据有	缺	词/r/refund.json
+55	38	foundation	n. 基础、根基；创立	细节数据有	缺	词/f/foundation.json
+55	39	founder	n. 创始人、创办者	细节数据有	缺	词/f/founder.json
+55	40	founded	adj. 有根据的	细节数据有	缺	词/f/founded.json
+55	41	founding	n. 创立	细节数据有	缺	词/f/founding.json
+55	42	fund	n. 基金、专款；储备	细节数据有	缺	词/f/fund.json
+55	43	funding	n. 资金、拨款	细节数据有	缺	词/f/funding.json
+55	44	crowdfunding	n. 众筹	细节数据有	缺	词/c/crowdfunding.json
+55	45	fundraiser	n. 募捐者、筹款人	细节数据有	缺	词/f/fundraiser.json
+55	46	fundamental	adj. 基本的、根本的；必不可少的	细节数据有	缺	词/f/fundamental.json
+55	47	fundamentally	adv. 根本上、从根本上	细节数据有	缺	词/f/fundamentally.json
+55	48	profound	adj. 深刻的、意义深远的	细节数据有	缺	词/p/profound.json
+55	49	profoundly	adv. 深刻地、深深地	细节数据有	缺	词/p/profoundly.json
+55	50	bottom	n. 底部	细节数据有	缺	词/b/bottom.json
+55	51	ocean	n. 海洋	细节数据有	缺	词/o/ocean.json
+55	52	oceanic	adj. 海洋的、大洋的	细节数据有	缺	词/o/oceanic.json
+55	53	Oceania	n. 大洋洲	细节数据有	缺	词/o/Oceania.json
+55	54	such	adj. 这样的 pron. 人泛指	细节数据有	缺	词/s/such.json
 55	55	million	num. 基数词	缺	缺	
 55	56	billion	num. 基数词	缺	缺	
 55	57	billionaire	n. 亿万富翁	缺	缺	
