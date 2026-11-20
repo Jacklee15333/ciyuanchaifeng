@@ -4446,32 +4446,32 @@
 56	47	climb	v. 爬	细节数据有	缺	词/c/climb.json
 56	48	climbing	n. 攀登、登山运动 adj. 上升的	细节数据有	缺	词/c/climbing.json
 56	49	climber	n. 登山者、攀岩者	细节数据有	缺	词/c/climber.json
-56	50	century	n. 世纪	缺	缺	
-56	51	centurial	adj. 世纪的、百年的	缺	缺	
-56	52	century-old	adj. 百年的、有百年历史的	缺	缺	
-56	53	cent	n. 美分	缺	缺	
-56	54	percentage	n. 百分比、百分率	缺	缺	
-56	55	percent	n. 百分比	缺	缺	
-56	56	centipede	n. 蜈蚣	缺	缺	
-56	57	hundred	num. 基数词	缺	缺	
-56	58	hundred-year	adj. 百年的、持续百年的	缺	缺	
-56	59	corner	n. 角	缺	缺	
-56	60	cornerstone	n. 奠基石	缺	缺	
-56	61	horn	n. 角质；号、管乐器	缺	缺	
+56	50	century	n. 世纪	细节数据有	缺	词/c/century.json
+56	51	centurial	adj. 世纪的、百年的	细节数据有	缺	词/c/centurial.json
+56	52	century-old	adj. 百年的、有百年历史的	细节数据有	缺	词/c/century-old.json
+56	53	cent	n. 美分	细节数据有	缺	词/c/cent.json
+56	54	percentage	n. 百分比、百分率	细节数据有	缺	词/p/percentage.json
+56	55	percent	n. 百分比	细节数据有	缺	词/p/percent.json
+56	56	centipede	n. 蜈蚣	细节数据有	缺	词/c/centipede.json
+56	57	hundred	num. 基数词	细节数据有	缺	词/h/hundred.json
+56	58	hundred-year	adj. 百年的、持续百年的	细节数据有	缺	词/h/hundred-year.json
+56	59	corner	n. 角	细节数据有	缺	词/c/corner.json
+56	60	cornerstone	n. 奠基石	细节数据有	缺	词/c/cornerstone.json
+56	61	horn	n. 角质；号、管乐器	细节数据有	缺	词/h/horn.json
 56	62	lie	v. 谎言 v. 卧；位于	细节数据有	缺	词/l/lie.json
-56	63	liar	n. 说谎者、骗子	缺	缺	
-56	64	responsible	adj. 负责的	缺	缺	
-56	65	responsibility	n. 责任	缺	缺	
-56	66	responsibly	adv. 负责任地、可靠地	缺	缺	
-56	67	irresponsible	adj. 不负责任的、没有责任心的	缺	缺	
-56	68	respond	v. 回答、回复；作出反应	缺	缺	
-56	69	response	n. 响应；作答	缺	缺	
-56	70	responsive	adj. 反应快的、积极回应的	缺	缺	
-56	71	stone	n. 石头	缺	缺	
-56	72	stony	adj. 多石的；冷漠的、毫无表情的	缺	缺	
-56	73	limestone	n. 石灰岩、石灰石	缺	缺	
-56	74	milestone	n. 里程碑、里程标	缺	缺	
-57	1	glass	n. 玻璃杯；眼镜	缺	缺	
+56	63	liar	n. 说谎者、骗子	细节数据有	缺	词/l/liar.json
+56	64	responsible	adj. 负责的	细节数据有	缺	词/r/responsible.json
+56	65	responsibility	n. 责任	细节数据有	缺	词/r/responsibility.json
+56	66	responsibly	adv. 负责任地、可靠地	细节数据有	缺	词/r/responsibly.json
+56	67	irresponsible	adj. 不负责任的、没有责任心的	细节数据有	缺	词/i/irresponsible.json
+56	68	respond	v. 回答、回复；作出反应	细节数据有	缺	词/r/respond.json
+56	69	response	n. 响应；作答	细节数据有	缺	词/r/response.json
+56	70	responsive	adj. 反应快的、积极回应的	细节数据有	缺	词/r/responsive.json
+56	71	stone	n. 石头	细节数据有	缺	词/s/stone.json
+56	72	stony	adj. 多石的；冷漠的、毫无表情的	细节数据有	缺	词/s/stony.json
+56	73	limestone	n. 石灰岩、石灰石	细节数据有	缺	词/l/limestone.json
+56	74	milestone	n. 里程碑、里程标	细节数据有	缺	词/m/milestone.json
+57	1	glass	n. 玻璃杯；眼镜	细节数据有	缺	词/g/glass.json
 57	2	glasses	n. 眼镜；也是“玻璃杯”的复数	缺	缺	
 57	3	glassy	adj. 光滑如镜的	缺	缺	
 57	4	glassful	n. 一杯的量	缺	缺	
