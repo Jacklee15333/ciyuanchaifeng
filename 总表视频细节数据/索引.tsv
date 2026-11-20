@@ -4169,31 +4169,31 @@
 53	10	opposition	n. 反对、抵抗	细节数据有	缺	词/o/opposition.json
 53	11	opposite	adj. 对面的；相反的	细节数据有	缺	词/o/opposite.json
 53	12	compost	n. 堆肥、混合肥料	细节数据有	缺	词/c/compost.json
-53	13	posture	n. 姿势、体态	缺	缺	
-53	14	postwoman	n. 女邮递员（英式	缺	缺	
-53	15	purpose	n. 目的；用途	缺	缺	
-53	16	purposeful	adj. 有明确目标的、果断的；有意义的	缺	缺	
-53	17	purposefully	adv. 目标明确地、坚定地	缺	缺	
-53	18	purposeless	adj. 漫无目的的、无意义的	缺	缺	
-53	19	repurpose	v. 改变用途、改作他用	缺	缺	
-53	20	propose	v. 提议、建议；打算	缺	缺	
-53	21	proposal	n. 提议、建议；求婚	缺	缺	
-53	22	proposer	n. 提议者、提出人	缺	缺	
-53	23	suppose	v. 猜想	缺	缺	
-53	24	supposition	n. 假定、推测	缺	缺	
-53	25	compose	v. 作曲；写	缺	缺	
-53	26	composer	n. 作曲家	缺	缺	
-53	27	composition	n. 构成、成分	缺	缺	
-53	28	expose	v. 使暴露于；使接触	缺	缺	
-53	29	exposure	n. 暴露、接触；受冻	缺	缺	
-53	30	Expo	n. 博览会	缺	缺	
-53	31	dispose	v. 安排、布置	缺	缺	
-53	32	disposable	adj. 一次性的；可支配的	缺	缺	
-53	33	pose	n. 姿势 v. 造成、提出；冒充	缺	缺	
-53	34	pause	n. 暂停、停顿	缺	缺	
-53	35	compound	n. 复合词 v. 使恶化、加重	缺	缺	
-53	36	compound-complex	n. 并列复合句	缺	缺	
-53	37	opponent	n. 对手	缺	缺	
+53	13	posture	n. 姿势、体态	细节数据有	缺	词/p/posture.json
+53	14	postwoman	n. 女邮递员（英式	细节数据有	缺	词/p/postwoman.json
+53	15	purpose	n. 目的；用途	细节数据有	缺	词/p/purpose.json
+53	16	purposeful	adj. 有明确目标的、果断的；有意义的	细节数据有	缺	词/p/purposeful.json
+53	17	purposefully	adv. 目标明确地、坚定地	细节数据有	缺	词/p/purposefully.json
+53	18	purposeless	adj. 漫无目的的、无意义的	细节数据有	缺	词/p/purposeless.json
+53	19	repurpose	v. 改变用途、改作他用	细节数据有	缺	词/r/repurpose.json
+53	20	propose	v. 提议、建议；打算	细节数据有	缺	词/p/propose.json
+53	21	proposal	n. 提议、建议；求婚	细节数据有	缺	词/p/proposal.json
+53	22	proposer	n. 提议者、提出人	细节数据有	缺	词/p/proposer.json
+53	23	suppose	v. 猜想	细节数据有	缺	词/s/suppose.json
+53	24	supposition	n. 假定、推测	细节数据有	缺	词/s/supposition.json
+53	25	compose	v. 作曲；写	细节数据有	缺	词/c/compose.json
+53	26	composer	n. 作曲家	细节数据有	缺	词/c/composer.json
+53	27	composition	n. 构成、成分	细节数据有	缺	词/c/composition.json
+53	28	expose	v. 使暴露于；使接触	细节数据有	缺	词/e/expose.json
+53	29	exposure	n. 暴露、接触；受冻	细节数据有	缺	词/e/exposure.json
+53	30	Expo	n. 博览会	细节数据有	缺	词/e/Expo.json
+53	31	dispose	v. 安排、布置	细节数据有	缺	词/d/dispose.json
+53	32	disposable	adj. 一次性的；可支配的	细节数据有	缺	词/d/disposable.json
+53	33	pose	n. 姿势 v. 造成、提出；冒充	细节数据有	缺	词/p/pose.json
+53	34	pause	n. 暂停、停顿	细节数据有	缺	词/p/pause.json
+53	35	compound	n. 复合词 v. 使恶化、加重	细节数据有	缺	词/c/compound.json
+53	36	compound-complex	n. 并列复合句	细节数据有	缺	词/c/compound-complex.json
+53	37	opponent	n. 对手	细节数据有	缺	词/o/opponent.json
 53	38	component	n. 组成部分、成分	缺	缺	
 53	39	new	adj. 新的	缺	缺	
 53	40	renewable	adj. 可再生的；可续期的	缺	缺	
