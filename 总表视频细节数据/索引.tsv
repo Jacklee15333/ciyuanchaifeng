@@ -3819,31 +3819,31 @@
 48	57	graph	n. 图表、曲线图	细节数据有	缺	词/g/graph.json
 48	58	graphic	adj. 图形的、图像的	细节数据有	缺	词/g/graphic.json
 48	59	telegraph	n. 电报	细节数据有	缺	词/t/telegraph.json
-48	60	infographic	n. 信息图	缺	缺	
-48	61	graffiti	n. 涂鸦	缺	缺	
-48	62	choreograph	v. 编舞	缺	缺	
-48	63	choreography	n. 编舞、舞蹈设计	缺	缺	
-48	64	graphene	n. 石墨烯	缺	缺	
-48	65	kilo	n. 千克、公斤	缺	缺	
-48	66	kilogram	n. 千克	缺	缺	
-48	67	gram	n. 克	缺	缺	
-48	68	carve	v. 雕刻；切	缺	缺	
-48	69	carving	n. 雕刻	缺	缺	
-48	70	crab	n. 螃蟹 v. 抱怨、发牢骚	缺	缺	
-48	71	fall	v. 落下；倒下 n. 秋季	缺	缺	
-48	72	fell	v. fall 的过去式	缺	缺	
-48	73	fallen	adj. 落下的；倒下的	缺	缺	
-48	74	hide	v. 藏；躲	缺	缺	
-48	75	hidden	adj. 隐藏的、隐蔽的	缺	缺	
-48	76	hid	v. hide 的过去式	缺	缺	
-48	77	hide-and-seek	n. 捉迷藏	缺	缺	
-48	78	hideout	n. 藏身处、巢穴	缺	缺	
-49	1	friend	n. 朋友	缺	缺	
-49	2	friendship	n. 友谊	缺	缺	
-49	3	friendly	adj. 朋友般的	缺	缺	
-49	4	unfriendly	adj. 不友好的；冷淡的	缺	缺	
-49	5	friendliness	n. 友好	缺	缺	
-49	6	befriend	v. 帮助、照顾	缺	缺	
+48	60	infographic	n. 信息图	细节数据有	缺	词/i/infographic.json
+48	61	graffiti	n. 涂鸦	细节数据有	缺	词/g/graffiti.json
+48	62	choreograph	v. 编舞	细节数据有	缺	词/c/choreograph.json
+48	63	choreography	n. 编舞、舞蹈设计	细节数据有	缺	词/c/choreography.json
+48	64	graphene	n. 石墨烯	细节数据有	缺	词/g/graphene.json
+48	65	kilo	n. 千克、公斤	细节数据有	缺	词/k/kilo.json
+48	66	kilogram	n. 千克	细节数据有	缺	词/k/kilogram.json
+48	67	gram	n. 克	细节数据有	缺	词/g/gram.json
+48	68	carve	v. 雕刻；切	细节数据有	缺	词/c/carve.json
+48	69	carving	n. 雕刻	细节数据有	缺	词/c/carving.json
+48	70	crab	n. 螃蟹 v. 抱怨、发牢骚	细节数据有	缺	词/c/crab.json
+48	71	fall	v. 落下；倒下 n. 秋季	细节数据有	缺	词/f/fall.json
+48	72	fell	v. fall 的过去式	细节数据有	缺	词/f/fell.json
+48	73	fallen	adj. 落下的；倒下的	细节数据有	缺	词/f/fallen.json
+48	74	hide	v. 藏；躲	细节数据有	缺	词/h/hide.json
+48	75	hidden	adj. 隐藏的、隐蔽的	细节数据有	缺	词/h/hidden.json
+48	76	hid	v. hide 的过去式	细节数据有	缺	词/h/hid.json
+48	77	hide-and-seek	n. 捉迷藏	细节数据有	缺	词/h/hide-and-seek.json
+48	78	hideout	n. 藏身处、巢穴	细节数据有	缺	词/h/hideout.json
+49	1	friend	n. 朋友	细节数据有	缺	词/f/friend.json
+49	2	friendship	n. 友谊	细节数据有	缺	词/f/friendship.json
+49	3	friendly	adj. 朋友般的	细节数据有	缺	词/f/friendly.json
+49	4	unfriendly	adj. 不友好的；冷淡的	细节数据有	缺	词/u/unfriendly.json
+49	5	friendliness	n. 友好	细节数据有	缺	词/f/friendliness.json
+49	6	befriend	v. 帮助、照顾	细节数据有	缺	词/b/befriend.json
 49	7	e-friend	n. 网友	缺	缺	
 49	8	boyfriend	n. 男朋友	缺	缺	
 49	9	penfriend	n. 笔友（英式	缺	缺	
