@@ -170,6 +170,7 @@
 | 2026-11-20 | 题目第 63 批第 1 组 | 25 | descendant … bill（体检全部 0 个问题；scale、scalable、large-scale、small-scale、rhythmic、rhyme、straight、straighten、stretch、outstretched、bowl、bowl-like、bowl-washing、bill 出题时自查到答案是原形超过 1 道，bowl 第 6 题漏写考点，改过再存）。累计 5899 个词有题目 |
 | 2026-11-20 | 题目第 63 批第 2 组 | 25 | boil … approach（体检全部 0 个问题；boiled、bulletin、bullet、litter、series、cartoonist、card、postcard 出题时自查到答案是原形超过 1 道，改过再存）。累计 5924 个词有题目 |
 | 2026-11-20 | 题目第 63 批第 3 组 | 25 | eat … teeth（体检全部 0 个问题；uneaten、obesity、hunter、sow、silliness、off、teeth 出题时自查到答案是原形超过 1 道，改过再存）。累计 5949 个词有题目 |
+| 2026-11-20 | 题目第 63 批第 4 组 | 25 | toothbrush … automatically（体检全部 0 个问题；Bluetooth 第 2 题选项大小写重复，改过再存；toothbrush、toothpick、blueprint、blue、blues、encoding、color-coded、postcode、sharp、sharpener 出题时自查到答案是原形超过 1 道，改过再存）。累计 5974 个词有题目 |
 | 2026-11-19 | 试做 truly | 0 | 只用自带素材加表情图拼画面：起草检查不通过（表情图要换成写实插图、每幅画都要动、小图标要自己画）。结论：多数词要专门画插图，每个词的工作量和 7A-U4 一样；全表 9299 个词做不完，要先定先做哪些（等用户定） |
 
 ## 总表里看着不对的地方（出题时绕开了，以后用维护技能核对）

@@ -5980,31 +5980,31 @@
 79	41	off	adv. 离开、脱离；关着	细节数据有	缺	词/o/off.json
 80	1	tooth	n. 牙齿	细节数据有	缺	词/t/tooth.json
 80	2	teeth	n. 牙齿	细节数据有	缺	词/t/teeth.json
-80	3	toothbrush	n. 牙刷	缺	缺	
-80	4	toothpaste	n. 牙膏	缺	缺	
-80	5	toothpick	n. 牙签	缺	缺	
-80	6	dentist	n. 牙科医生	缺	缺	
-80	7	dental	adj. 牙齿的、牙科的	缺	缺	
-80	8	blueprint	n. 蓝图、设计图	缺	缺	
-80	9	blue	n. 蓝色	缺	缺	
-80	10	blues	n. 布鲁斯音乐、蓝调	缺	缺	
-80	11	blue-and-white	adj. 蓝白相间的	缺	缺	
-80	12	Bluetooth	n. 蓝牙	缺	缺	
-80	13	code	n. 法典、规范；密码	缺	缺	
-80	14	coding	n. 编程、写代码	缺	缺	
-80	15	decode	v. 破译、解码；读懂、领会	缺	缺	
-80	16	encode	v. 编码	缺	缺	
-80	17	encoding	n. 编码	缺	缺	
-80	18	coder	n. 编码员	缺	缺	
-80	19	code-breaking	n. 密码破译	缺	缺	
-80	20	color-coded	adj. 用颜色区分的、按颜色分类的	缺	缺	
-80	21	postcode	n. 邮政编码、邮编	缺	缺	
-80	22	sharp	adj. 锋利的、尖的；急剧的 adv. 准时地	缺	缺	
-80	23	sharply	adv. 急剧地；严厉地、尖刻地	缺	缺	
-80	24	sharpen	v. 磨快、削尖；提高、加强	缺	缺	
-80	25	sharpener	n. 卷笔刀、削笔器	缺	缺	
-80	26	automatic	adj. 自动的	缺	缺	
-80	27	automatically	adv. 自动地；不假思索地、下意识地	缺	缺	
+80	3	toothbrush	n. 牙刷	细节数据有	缺	词/t/toothbrush.json
+80	4	toothpaste	n. 牙膏	细节数据有	缺	词/t/toothpaste.json
+80	5	toothpick	n. 牙签	细节数据有	缺	词/t/toothpick.json
+80	6	dentist	n. 牙科医生	细节数据有	缺	词/d/dentist.json
+80	7	dental	adj. 牙齿的、牙科的	细节数据有	缺	词/d/dental.json
+80	8	blueprint	n. 蓝图、设计图	细节数据有	缺	词/b/blueprint.json
+80	9	blue	n. 蓝色	细节数据有	缺	词/b/blue.json
+80	10	blues	n. 布鲁斯音乐、蓝调	细节数据有	缺	词/b/blues.json
+80	11	blue-and-white	adj. 蓝白相间的	细节数据有	缺	词/b/blue-and-white.json
+80	12	Bluetooth	n. 蓝牙	细节数据有	缺	词/b/Bluetooth.json
+80	13	code	n. 法典、规范；密码	细节数据有	缺	词/c/code.json
+80	14	coding	n. 编程、写代码	细节数据有	缺	词/c/coding.json
+80	15	decode	v. 破译、解码；读懂、领会	细节数据有	缺	词/d/decode.json
+80	16	encode	v. 编码	细节数据有	缺	词/e/encode.json
+80	17	encoding	n. 编码	细节数据有	缺	词/e/encoding.json
+80	18	coder	n. 编码员	细节数据有	缺	词/c/coder.json
+80	19	code-breaking	n. 密码破译	细节数据有	缺	词/c/code-breaking.json
+80	20	color-coded	adj. 用颜色区分的、按颜色分类的	细节数据有	缺	词/c/color-coded.json
+80	21	postcode	n. 邮政编码、邮编	细节数据有	缺	词/p/postcode.json
+80	22	sharp	adj. 锋利的、尖的；急剧的 adv. 准时地	细节数据有	缺	词/s/sharp.json
+80	23	sharply	adv. 急剧地；严厉地、尖刻地	细节数据有	缺	词/s/sharply.json
+80	24	sharpen	v. 磨快、削尖；提高、加强	细节数据有	缺	词/s/sharpen.json
+80	25	sharpener	n. 卷笔刀、削笔器	细节数据有	缺	词/s/sharpener.json
+80	26	automatic	adj. 自动的	细节数据有	缺	词/a/automatic.json
+80	27	automatically	adv. 自动地；不假思索地、下意识地	细节数据有	缺	词/a/automatically.json
 80	28	automate	v. 使自动化	缺	缺	
 80	29	automated	adj. 自动化的	缺	缺	
 80	30	automation	n. 自动化	缺	缺	
