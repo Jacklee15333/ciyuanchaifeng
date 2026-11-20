@@ -3569,31 +3569,31 @@
 45	49	duke	n. 公爵	细节数据有	缺	词/d/duke.json
 45	50	ducat	n. 达克特	细节数据有	缺	词/d/ducat.json
 45	51	promise	v. 答应；承诺	细节数据有	缺	词/p/promise.json
-45	52	promising	adj. 有前途的、有希望的	缺	缺	
-45	53	mission	n. 任务、使命；代表团、使团	缺	缺	
-45	54	emit	v. 发出、排放	缺	缺	
-45	55	emission	n. 排放物、排放量	缺	缺	
-45	56	low-emission	adj. 低排放的	缺	缺	
-45	57	permit	v. 允许、准许	缺	缺	
-45	58	permission	n. 许可、准许	缺	缺	
-45	59	permissible	adj. 可允许的	缺	缺	
-45	60	compromise	n. 妥协、折中 v. 让步；损害、危及	缺	缺	
-45	61	dismiss	v. 解雇、开除；不予考虑	缺	缺	
-45	62	dismissal	n. 解雇、免职；不予理会	缺	缺	
-45	63	commission	n. 委员会；佣金	缺	缺	
-45	64	decommission	v. 使退役、停用	缺	缺	
-45	65	intermission	n. 间歇	缺	缺	
-45	66	missile	n. 导弹；投掷物	缺	缺	
-45	67	premise	n. 前提	缺	缺	
-45	68	message	n. 消息；音信	缺	缺	
-45	69	mess	n. 脏乱、一团糟；困境	缺	缺	
-45	70	messy	adj. 凌乱的、脏乱的	缺	缺	
-45	71	messenger	n. 信使、送信人	缺	缺	
-45	72	admit	v. 承认；准许进入、接纳	缺	缺	
-45	73	admission	n. 准许进入、录取；承认、供认	缺	缺	
-45	74	committee	n. 委员会	缺	缺	
-45	75	submit	v. 提交、呈递；屈服、服从	缺	缺	
-45	76	commit	v. 犯；承诺、使承担义务	缺	缺	
+45	52	promising	adj. 有前途的、有希望的	细节数据有	缺	词/p/promising.json
+45	53	mission	n. 任务、使命；代表团、使团	细节数据有	缺	词/m/mission.json
+45	54	emit	v. 发出、排放	细节数据有	缺	词/e/emit.json
+45	55	emission	n. 排放物、排放量	细节数据有	缺	词/e/emission.json
+45	56	low-emission	adj. 低排放的	细节数据有	缺	词/l/low-emission.json
+45	57	permit	v. 允许、准许	细节数据有	缺	词/p/permit.json
+45	58	permission	n. 许可、准许	细节数据有	缺	词/p/permission.json
+45	59	permissible	adj. 可允许的	细节数据有	缺	词/p/permissible.json
+45	60	compromise	n. 妥协、折中 v. 让步；损害、危及	细节数据有	缺	词/c/compromise.json
+45	61	dismiss	v. 解雇、开除；不予考虑	细节数据有	缺	词/d/dismiss.json
+45	62	dismissal	n. 解雇、免职；不予理会	细节数据有	缺	词/d/dismissal.json
+45	63	commission	n. 委员会；佣金	细节数据有	缺	词/c/commission.json
+45	64	decommission	v. 使退役、停用	细节数据有	缺	词/d/decommission.json
+45	65	intermission	n. 间歇	细节数据有	缺	词/i/intermission.json
+45	66	missile	n. 导弹；投掷物	细节数据有	缺	词/m/missile.json
+45	67	premise	n. 前提	细节数据有	缺	词/p/premise.json
+45	68	message	n. 消息；音信	细节数据有	缺	词/m/message.json
+45	69	mess	n. 脏乱、一团糟；困境	细节数据有	缺	词/m/mess.json
+45	70	messy	adj. 凌乱的、脏乱的	细节数据有	缺	词/m/messy.json
+45	71	messenger	n. 信使、送信人	细节数据有	缺	词/m/messenger.json
+45	72	admit	v. 承认；准许进入、接纳	细节数据有	缺	词/a/admit.json
+45	73	admission	n. 准许进入、录取；承认、供认	细节数据有	缺	词/a/admission.json
+45	74	committee	n. 委员会	细节数据有	缺	词/c/committee.json
+45	75	submit	v. 提交、呈递；屈服、服从	细节数据有	缺	词/s/submit.json
+45	76	commit	v. 犯；承诺、使承担义务	细节数据有	缺	词/c/commit.json
 45	77	commitment	n. 承诺；投入、献身	缺	缺	
 45	78	transmit	v. 传送、发射	缺	缺	
 45	79	rush	v. 冲	缺	缺	
