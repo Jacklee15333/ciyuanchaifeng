@@ -3543,32 +3543,32 @@
 45	23	reduce	v. 减少	细节数据有	缺	词/r/reduce.json
 45	24	reduced	adj. 减少了的、降低了的	细节数据有	缺	词/r/reduced.json
 45	25	reduction	n. 减少、降低；缩小	细节数据有	缺	词/r/reduction.json
-45	26	reducer	n. 减速器	缺	缺	
-45	27	introduce	v. 介绍	缺	缺	
-45	28	introduction	n. 介绍；引进、采用	缺	缺	
-45	29	introductory	adj. 介绍性的、入门的；开场的	缺	缺	
-45	30	reintroduce	v. 重新引入、恢复	缺	缺	
-45	31	educate	v. 教育；培养	缺	缺	
-45	32	education	n. 教育	缺	缺	
-45	33	educational	adj. 教育的	缺	缺	
-45	34	educator	n. 教育工作者、教育家	缺	缺	
-45	35	well-educated	adj. 受过良好教育的、有教养的	缺	缺	
+45	26	reducer	n. 减速器	细节数据有	缺	词/r/reducer.json
+45	27	introduce	v. 介绍	细节数据有	缺	词/i/introduce.json
+45	28	introduction	n. 介绍；引进、采用	细节数据有	缺	词/i/introduction.json
+45	29	introductory	adj. 介绍性的、入门的；开场的	细节数据有	缺	词/i/introductory.json
+45	30	reintroduce	v. 重新引入、恢复	细节数据有	缺	词/r/reintroduce.json
+45	31	educate	v. 教育；培养	细节数据有	缺	词/e/educate.json
+45	32	education	n. 教育	细节数据有	缺	词/e/education.json
+45	33	educational	adj. 教育的	细节数据有	缺	词/e/educational.json
+45	34	educator	n. 教育工作者、教育家	细节数据有	缺	词/e/educator.json
+45	35	well-educated	adj. 受过良好教育的、有教养的	细节数据有	缺	词/w/well-educated.json
 45	36	produce	v. 生产、制造 n. 农产品	总表有	缺	
-45	37	producer	n. 生产者、生产商	缺	缺	
-45	38	product	n. 产品	缺	缺	
-45	39	production	n. 生产、制造	缺	缺	
-45	40	productive	adj. 多产的、高产的；富有成效的	缺	缺	
-45	41	productivity	n. 生产率、生产力	缺	缺	
-45	42	reproduce	v. 复制、翻印；重现	缺	缺	
-45	43	co-produce	v. 联合制作、合拍	缺	缺	
-45	44	co-produced	adj. 合拍的、联合制作的	缺	缺	
-45	45	conduct	v. 进行、实施；指挥	缺	缺	
-45	46	conductor	n. 导体；避雷针	缺	缺	
-45	47	conduction	n. 传导；输送	缺	缺	
-45	48	conductive	adj. 导电的、导热的	缺	缺	
-45	49	duke	n. 公爵	缺	缺	
-45	50	ducat	n. 达克特	缺	缺	
-45	51	promise	v. 答应；承诺	缺	缺	
+45	37	producer	n. 生产者、生产商	细节数据有	缺	词/p/producer.json
+45	38	product	n. 产品	细节数据有	缺	词/p/product.json
+45	39	production	n. 生产、制造	细节数据有	缺	词/p/production.json
+45	40	productive	adj. 多产的、高产的；富有成效的	细节数据有	缺	词/p/productive.json
+45	41	productivity	n. 生产率、生产力	细节数据有	缺	词/p/productivity.json
+45	42	reproduce	v. 复制、翻印；重现	细节数据有	缺	词/r/reproduce.json
+45	43	co-produce	v. 联合制作、合拍	细节数据有	缺	词/c/co-produce.json
+45	44	co-produced	adj. 合拍的、联合制作的	细节数据有	缺	词/c/co-produced.json
+45	45	conduct	v. 进行、实施；指挥	细节数据有	缺	词/c/conduct.json
+45	46	conductor	n. 导体；避雷针	细节数据有	缺	词/c/conductor.json
+45	47	conduction	n. 传导；输送	细节数据有	缺	词/c/conduction.json
+45	48	conductive	adj. 导电的、导热的	细节数据有	缺	词/c/conductive.json
+45	49	duke	n. 公爵	细节数据有	缺	词/d/duke.json
+45	50	ducat	n. 达克特	细节数据有	缺	词/d/ducat.json
+45	51	promise	v. 答应；承诺	细节数据有	缺	词/p/promise.json
 45	52	promising	adj. 有前途的、有希望的	缺	缺	
 45	53	mission	n. 任务、使命；代表团、使团	缺	缺	
 45	54	emit	v. 发出、排放	缺	缺	
