@@ -3468,31 +3468,31 @@
 44	26	pointer	n. 教鞭、激光笔；指示犬	细节数据有	缺	词/p/pointer.json
 44	27	pointless	adj. 无意义的、徒劳的	细节数据有	缺	词/p/pointless.json
 44	28	pointy	adj. 尖尖的、尖头的	细节数据有	缺	词/p/pointy.json
-44	29	disappoint	v. 使失望；使落空	缺	缺	
-44	30	disappointed	adj. 失望的	缺	缺	
-44	31	disappointing	adj. 令人失望的、不如预期的	缺	缺	
-44	32	disappointment	n. 失望	缺	缺	
-44	33	appoint	v. 任命、委派	缺	缺	
-44	34	appointment	n. 任命；职位	缺	缺	
-44	35	lead	v. 领导	缺	缺	
-44	36	led	v. 过去分词	缺	缺	
-44	37	leading	adj. 领先的、一流的；最主要的	缺	缺	
-44	38	leader	n. 领导者、领袖	缺	缺	
-44	39	leadership	n. 领导地位	缺	缺	
-44	40	load	n. 负荷、重担 v. 装载	缺	缺	
-44	41	overload	v. 使超载、使负荷过重	缺	缺	
-44	42	download	v. 下载	缺	缺	
-44	43	upload	v. 上传	缺	缺	
-44	44	load-bearing	adj. 承重的	缺	缺	
-44	45	workload	n. 工作量	缺	缺	
-44	46	task	n. 任务	缺	缺	
-44	47	tax	n. 税 v. 使负重、使吃力	缺	缺	
-44	48	imagine	v. 想象	缺	缺	
-44	49	imagination	n. 想象力	缺	缺	
-44	50	imaginative	adj. 富有想象力的、有创意的	缺	缺	
-44	51	imaginary	adj. 想象中的、虚构的	缺	缺	
-44	52	imaginable	adj. 可想象的	缺	缺	
-44	53	image	n. 图像、影像	缺	缺	
+44	29	disappoint	v. 使失望；使落空	细节数据有	缺	词/d/disappoint.json
+44	30	disappointed	adj. 失望的	细节数据有	缺	词/d/disappointed.json
+44	31	disappointing	adj. 令人失望的、不如预期的	细节数据有	缺	词/d/disappointing.json
+44	32	disappointment	n. 失望	细节数据有	缺	词/d/disappointment.json
+44	33	appoint	v. 任命、委派	细节数据有	缺	词/a/appoint.json
+44	34	appointment	n. 任命；职位	细节数据有	缺	词/a/appointment.json
+44	35	lead	v. 领导	细节数据有	缺	词/l/lead.json
+44	36	led	v. 过去分词	细节数据有	缺	词/l/led.json
+44	37	leading	adj. 领先的、一流的；最主要的	细节数据有	缺	词/l/leading.json
+44	38	leader	n. 领导者、领袖	细节数据有	缺	词/l/leader.json
+44	39	leadership	n. 领导地位	细节数据有	缺	词/l/leadership.json
+44	40	load	n. 负荷、重担 v. 装载	细节数据有	缺	词/l/load.json
+44	41	overload	v. 使超载、使负荷过重	细节数据有	缺	词/o/overload.json
+44	42	download	v. 下载	细节数据有	缺	词/d/download.json
+44	43	upload	v. 上传	细节数据有	缺	词/u/upload.json
+44	44	load-bearing	adj. 承重的	细节数据有	缺	词/l/load-bearing.json
+44	45	workload	n. 工作量	细节数据有	缺	词/w/workload.json
+44	46	task	n. 任务	细节数据有	缺	词/t/task.json
+44	47	tax	n. 税 v. 使负重、使吃力	细节数据有	缺	词/t/tax.json
+44	48	imagine	v. 想象	细节数据有	缺	词/i/imagine.json
+44	49	imagination	n. 想象力	细节数据有	缺	词/i/imagination.json
+44	50	imaginative	adj. 富有想象力的、有创意的	细节数据有	缺	词/i/imaginative.json
+44	51	imaginary	adj. 想象中的、虚构的	细节数据有	缺	词/i/imaginary.json
+44	52	imaginable	adj. 可想象的	细节数据有	缺	词/i/imaginable.json
+44	53	image	n. 图像、影像	细节数据有	缺	词/i/image.json
 44	54	imaging	n. 成像	缺	缺	
 44	55	imaginal	adj. ①心像的、想象中的 adj. ②成虫的	缺	缺	
 44	56	reimagine	v. 重新构想、重新诠释	缺	缺	
