@@ -5829,31 +5829,31 @@
 77	22	archaeologist	n. 考古学家	细节数据有	缺	词/a/archaeologist.json
 77	23	archaeological	adj. 考古的、考古学的	细节数据有	缺	词/a/archaeological.json
 77	24	archive	n. 档案	细节数据有	缺	词/a/archive.json
-77	25	archivist	n. 档案管理员、档案保管员	缺	缺	
-77	26	ill	adj. 有病的；不健康的	缺	缺	
-77	27	illness	n. 疾病	缺	缺	
-77	28	night	n. 夜	缺	缺	
-77	29	nightly	adj. 每晚的	缺	缺	
-77	30	overnight	adv. 整夜、过夜	缺	缺	
-77	31	midnight	n. 午夜、半夜十二点	缺	缺	
-77	32	goodnight	int. 晚安	缺	缺	
-77	33	nightlife	n. 夜生活	缺	缺	
-77	34	nighttime	n. 夜间、夜里	缺	缺	
-77	35	midnightly	adv. 在午夜	缺	缺	
-77	36	nightbird	n. 夜鸟	缺	缺	
-77	37	tonight	n. 今晚	缺	缺	
-77	38	nightingale	n. 夜莺	缺	缺	
-77	39	nightingale-like	adj. 像夜莺般的	缺	缺	
-77	40	nightmare	n. 噩梦	缺	缺	
-77	41	nocturnal	adj. 夜间活动的	缺	缺	
-77	42	link	n. 连接；联系	缺	缺	
-77	43	interlink	v. 相互连接、相互关联	缺	缺	
-77	44	neuro-link	n. 神经连接	缺	缺	
-77	45	brain	n. 脑	缺	缺	
-77	46	brainy	adj. 聪明的、脑子好使的	缺	缺	
-77	47	brainchild	n. 首创的主意、计划	缺	缺	
-77	48	brainstorm	v. 集体讨论、头脑风暴	缺	缺	
-77	49	brainwave	n. 灵机一动、突然想到的好主意；脑电波	缺	缺	
+77	25	archivist	n. 档案管理员、档案保管员	细节数据有	缺	词/a/archivist.json
+77	26	ill	adj. 有病的；不健康的	细节数据有	缺	词/i/ill.json
+77	27	illness	n. 疾病	细节数据有	缺	词/i/illness.json
+77	28	night	n. 夜	细节数据有	缺	词/n/night.json
+77	29	nightly	adj. 每晚的	细节数据有	缺	词/n/nightly.json
+77	30	overnight	adv. 整夜、过夜	细节数据有	缺	词/o/overnight.json
+77	31	midnight	n. 午夜、半夜十二点	细节数据有	缺	词/m/midnight.json
+77	32	goodnight	int. 晚安	细节数据有	缺	词/g/goodnight.json
+77	33	nightlife	n. 夜生活	细节数据有	缺	词/n/nightlife.json
+77	34	nighttime	n. 夜间、夜里	细节数据有	缺	词/n/nighttime.json
+77	35	midnightly	adv. 在午夜	细节数据有	缺	词/m/midnightly.json
+77	36	nightbird	n. 夜鸟	细节数据有	缺	词/n/nightbird.json
+77	37	tonight	n. 今晚	细节数据有	缺	词/t/tonight.json
+77	38	nightingale	n. 夜莺	细节数据有	缺	词/n/nightingale.json
+77	39	nightingale-like	adj. 像夜莺般的	细节数据有	缺	词/n/nightingale-like.json
+77	40	nightmare	n. 噩梦	细节数据有	缺	词/n/nightmare.json
+77	41	nocturnal	adj. 夜间活动的	细节数据有	缺	词/n/nocturnal.json
+77	42	link	n. 连接；联系	细节数据有	缺	词/l/link.json
+77	43	interlink	v. 相互连接、相互关联	细节数据有	缺	词/i/interlink.json
+77	44	neuro-link	n. 神经连接	细节数据有	缺	词/n/neuro-link.json
+77	45	brain	n. 脑	细节数据有	缺	词/b/brain.json
+77	46	brainy	adj. 聪明的、脑子好使的	细节数据有	缺	词/b/brainy.json
+77	47	brainchild	n. 首创的主意、计划	细节数据有	缺	词/b/brainchild.json
+77	48	brainstorm	v. 集体讨论、头脑风暴	细节数据有	缺	词/b/brainstorm.json
+77	49	brainwave	n. 灵机一动、突然想到的好主意；脑电波	细节数据有	缺	词/b/brainwave.json
 77	50	budget	n. 预算 adj. 廉价的、经济型的	缺	缺	
 77	51	low-budget	adj. 低成本的、小成本的	缺	缺	
 77	52	bulge	n. 鼓起、凸起	缺	缺	
