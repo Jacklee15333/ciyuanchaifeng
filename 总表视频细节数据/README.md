@@ -297,6 +297,7 @@
 - spend：初中含义写成“v. 度过；花费(钱”，括号没有关上，应是“花费（钱）”。
 - overspend：考点写“过去式、过去分词 overspended”，应是 overspent；还写了“n. 不可数”，overspend 一般只作动词。
 - spun：考点里有 spuns、spunned、spunning、spunner、spunnest 这些不存在的变形（spun 是 spin 的过去式、过去分词）。
+- kitchen：考点【易混】kitchen / cuisine 的解释在“两词很可能是同一个拉丁词走”处断了（辨析里是完整的“走两条路进的英语”）。
 
 ## 总表里出现两次的词（细节数据按单词存一份，两行共用；出题时两个意思都要考到）
 

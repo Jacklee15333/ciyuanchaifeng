@@ -3493,31 +3493,31 @@
 44	51	imaginary	adj. 想象中的、虚构的	细节数据有	缺	词/i/imaginary.json
 44	52	imaginable	adj. 可想象的	细节数据有	缺	词/i/imaginable.json
 44	53	image	n. 图像、影像	细节数据有	缺	词/i/image.json
-44	54	imaging	n. 成像	缺	缺	
-44	55	imaginal	adj. ①心像的、想象中的 adj. ②成虫的	缺	缺	
-44	56	reimagine	v. 重新构想、重新诠释	缺	缺	
-44	57	imitate	v. 模仿、仿效	缺	缺	
-44	58	imitation	n. 模仿	缺	缺	
-44	59	pick	v. 拾起；摘	缺	缺	
-44	60	pick-up	n. 接人、取货；好转、回升	缺	缺	
-44	61	pickup	n. 皮卡、轻型卡车；接人、取货 adj. 临时凑成的	缺	缺	
-44	62	pollute	v. 污染	缺	缺	
-44	63	polluted	adj. 受污染的	缺	缺	
-44	64	pollution	n. 污染	缺	缺	
-44	65	pollutant	n. 污染物	缺	缺	
-44	66	unpolluted	adj. 未受污染的、纯净的	缺	缺	
-44	67	polluter	n. 污染者、排污方	缺	缺	
-44	68	non-polluting	adj. 无污染的、不排污的	缺	缺	
-44	69	street	n. 街	缺	缺	
-44	70	test	n. 测试	缺	缺	
-44	71	tester	n. 测试员	缺	缺	
-44	72	time-tested	adj. 久经考验的、经得起时间考验的	缺	缺	
-44	73	cook	n. 厨师 v. 烹调	缺	缺	
-44	74	home-cooked	adj. 家里做的、家常的	缺	缺	
-44	75	cooker	n. 炊具	缺	缺	
-44	76	kitchen	n. 厨房	缺	缺	
-44	77	biscuit	n. 饼干	缺	缺	
-44	78	cuisine	n. 烹饪风格、菜系	缺	缺	
+44	54	imaging	n. 成像	细节数据有	缺	词/i/imaging.json
+44	55	imaginal	adj. ①心像的、想象中的 adj. ②成虫的	细节数据有	缺	词/i/imaginal.json
+44	56	reimagine	v. 重新构想、重新诠释	细节数据有	缺	词/r/reimagine.json
+44	57	imitate	v. 模仿、仿效	细节数据有	缺	词/i/imitate.json
+44	58	imitation	n. 模仿	细节数据有	缺	词/i/imitation.json
+44	59	pick	v. 拾起；摘	细节数据有	缺	词/p/pick.json
+44	60	pick-up	n. 接人、取货；好转、回升	细节数据有	缺	词/p/pick-up.json
+44	61	pickup	n. 皮卡、轻型卡车；接人、取货 adj. 临时凑成的	细节数据有	缺	词/p/pickup.json
+44	62	pollute	v. 污染	细节数据有	缺	词/p/pollute.json
+44	63	polluted	adj. 受污染的	细节数据有	缺	词/p/polluted.json
+44	64	pollution	n. 污染	细节数据有	缺	词/p/pollution.json
+44	65	pollutant	n. 污染物	细节数据有	缺	词/p/pollutant.json
+44	66	unpolluted	adj. 未受污染的、纯净的	细节数据有	缺	词/u/unpolluted.json
+44	67	polluter	n. 污染者、排污方	细节数据有	缺	词/p/polluter.json
+44	68	non-polluting	adj. 无污染的、不排污的	细节数据有	缺	词/n/non-polluting.json
+44	69	street	n. 街	细节数据有	缺	词/s/street.json
+44	70	test	n. 测试	细节数据有	缺	词/t/test.json
+44	71	tester	n. 测试员	细节数据有	缺	词/t/tester.json
+44	72	time-tested	adj. 久经考验的、经得起时间考验的	细节数据有	缺	词/t/time-tested.json
+44	73	cook	n. 厨师 v. 烹调	细节数据有	缺	词/c/cook.json
+44	74	home-cooked	adj. 家里做的、家常的	细节数据有	缺	词/h/home-cooked.json
+44	75	cooker	n. 炊具	细节数据有	缺	词/c/cooker.json
+44	76	kitchen	n. 厨房	细节数据有	缺	词/k/kitchen.json
+44	77	biscuit	n. 饼干	细节数据有	缺	词/b/biscuit.json
+44	78	cuisine	n. 烹饪风格、菜系	细节数据有	缺	词/c/cuisine.json
 45	1	along	prep. 沿着 adv. 向前；一道、一起	缺	缺	
 45	2	belong	v. 属	缺	缺	
 45	3	belonging	n. 归属感	缺	缺	
