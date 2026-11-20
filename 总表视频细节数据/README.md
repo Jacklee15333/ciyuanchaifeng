@@ -205,6 +205,11 @@
 - doubtful：【易混】括号里写成 doubtful 偏“”，引号里漏了内容
 - double：【变形】编了形容词比较级 doubler、最高级 doublest；double 没有比较级
 - dual：【变形】编了比较级 dualer、最高级 dualest；dual 没有比较级
+- undergone：【变形】编了 undergones、undergoned、undergoning；undergone 本身是 undergo 的过去分词
+- underwent：【变形】编了 underwents、underwented、underwenting；underwent 本身是 undergo 的过去式
+- forgave：【变形】编了 forgaves、forgaved、forgaving；forgave 本身是 forgive 的过去式
+- forgiven：【变形】编了 forgivens、forgivened、forgivening；forgiven 本身是 forgive 的过去分词
+- give-and-take：【变形】写了复数 give-and-takes，这个词一般不可数
 
 ## 总表里出现两次的词（细节数据按单词存一份，两行共用；出题时两个意思都要考到）
 

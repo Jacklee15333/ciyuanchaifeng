@@ -2107,31 +2107,31 @@
 27	30	diplomat	n. 外交官	细节数据有	缺	词/d/diplomat.json
 27	31	diplomatic	adj. 外交的；得体的、有手腕的	细节数据有	缺	词/d/diplomatic.json
 27	32	go	v. 去；走	细节数据有	缺	词/g/go.json
-27	33	gone	adj. 走了的、不在了的；用光的	缺	缺	
-27	34	outgoing	adj. 外向的、开朗健谈的；即将离任的	缺	缺	
-27	35	ago	adv. 以前	缺	缺	
-27	36	ongoing	adj. 正在进行的、持续的	缺	缺	
-27	37	undergo	v. 经历、经受	缺	缺	
-27	38	undergone	v. undergo 的过去分词	缺	缺	
-27	39	went	v. go 的过去式	缺	缺	
-27	40	underwent	v. undergo 的过去式	缺	缺	
-27	41	wander	v. 闲逛、漫步；走散、偏离	缺	缺	
-27	42	winding	adj. 蜿蜒的、曲折的 n. 缠绕	缺	缺	
-27	43	rewind	v. 倒带、倒回	缺	缺	
-27	44	give	v. 给；付出	缺	缺	
-27	45	gave	v. give 的过去式	缺	缺	
-27	46	given	adj. 特定的、规定的 prep. 考虑到	缺	缺	
-27	47	giver	n. 给予者、赠送者	缺	缺	
-27	48	give-and-take	n. 互让、互谅	缺	缺	
-27	49	gift	n. 赠品；礼物	缺	缺	
-27	50	gifted	adj. 有天赋的	缺	缺	
-27	51	forgive	v. 原谅；宽恕	缺	缺	
-27	52	forgave	v. forgive 的过去式	缺	缺	
-27	53	forgiven	v. forgive 的过去分词	缺	缺	
-27	54	forgiveness	n. 原谅、宽恕	缺	缺	
-27	55	habit	n. 习惯	缺	缺	
-27	56	habitual	adj. 习惯性的	缺	缺	
-27	57	habitually	adv. 习惯性地、惯常地	缺	缺	
+27	33	gone	adj. 走了的、不在了的；用光的	细节数据有	缺	词/g/gone.json
+27	34	outgoing	adj. 外向的、开朗健谈的；即将离任的	细节数据有	缺	词/o/outgoing.json
+27	35	ago	adv. 以前	细节数据有	缺	词/a/ago.json
+27	36	ongoing	adj. 正在进行的、持续的	细节数据有	缺	词/o/ongoing.json
+27	37	undergo	v. 经历、经受	细节数据有	缺	词/u/undergo.json
+27	38	undergone	v. undergo 的过去分词	细节数据有	缺	词/u/undergone.json
+27	39	went	v. go 的过去式	细节数据有	缺	词/w/went.json
+27	40	underwent	v. undergo 的过去式	细节数据有	缺	词/u/underwent.json
+27	41	wander	v. 闲逛、漫步；走散、偏离	细节数据有	缺	词/w/wander.json
+27	42	winding	adj. 蜿蜒的、曲折的 n. 缠绕	细节数据有	缺	词/w/winding.json
+27	43	rewind	v. 倒带、倒回	细节数据有	缺	词/r/rewind.json
+27	44	give	v. 给；付出	细节数据有	缺	词/g/give.json
+27	45	gave	v. give 的过去式	细节数据有	缺	词/g/gave.json
+27	46	given	adj. 特定的、规定的 prep. 考虑到	细节数据有	缺	词/g/given.json
+27	47	giver	n. 给予者、赠送者	细节数据有	缺	词/g/giver.json
+27	48	give-and-take	n. 互让、互谅	细节数据有	缺	词/g/give-and-take.json
+27	49	gift	n. 赠品；礼物	细节数据有	缺	词/g/gift.json
+27	50	gifted	adj. 有天赋的	细节数据有	缺	词/g/gifted.json
+27	51	forgive	v. 原谅；宽恕	细节数据有	缺	词/f/forgive.json
+27	52	forgave	v. forgive 的过去式	细节数据有	缺	词/f/forgave.json
+27	53	forgiven	v. forgive 的过去分词	细节数据有	缺	词/f/forgiven.json
+27	54	forgiveness	n. 原谅、宽恕	细节数据有	缺	词/f/forgiveness.json
+27	55	habit	n. 习惯	细节数据有	缺	词/h/habit.json
+27	56	habitual	adj. 习惯性的	细节数据有	缺	词/h/habitual.json
+27	57	habitually	adv. 习惯性地、惯常地	细节数据有	缺	词/h/habitually.json
 27	58	habitat	n. 栖息地、生境	缺	缺	
 27	59	habitable	adj. 适合居住的、可住人的	缺	缺	
 27	60	inhabit	v. 居住于、栖息于	缺	缺	
