@@ -4497,31 +4497,31 @@
 57	24	serious	adj. 严肃的；认真的	细节数据有	缺	词/s/serious.json
 57	25	seriously	adj. 严肃地；认真地	细节数据有	缺	词/s/seriously.json
 57	26	seriousness	n. 严肃、认真	细节数据有	缺	词/s/seriousness.json
-57	27	remain	v. 剩下、遗留；保持、仍是	缺	缺	
-57	28	remaining	adj. 剩下的、其余的	缺	缺	
-57	29	permanent	adj. 永久的、长期的；常设的	缺	缺	
-57	30	permanently	adv. 永久地、长期地	缺	缺	
-57	31	manor	n. 庄园	缺	缺	
-57	32	mansion	n. 大宅、豪宅	缺	缺	
-57	33	fire	n. 火	缺	缺	
-57	34	firefighter	n. 消防员	缺	缺	
-57	35	fireman	n. 消防队员	缺	缺	
-57	36	firefighting	n. 消防、灭火	缺	缺	
-57	37	firefly	n. 萤火虫	缺	缺	
-57	38	firewood	n. 柴火、木柴	缺	缺	
-57	39	firecracker	n. 鞭炮、爆竹	缺	缺	
-57	40	fire-stick	n. 钻木取火用的木棍	缺	缺	
-57	41	fireplace	n. 壁炉	缺	缺	
-57	42	firewall	n. 防火墙	缺	缺	
-57	43	firework	n. 焰火	缺	缺	
-57	44	fireworks	n. 焰火、烟花表演	缺	缺	
-57	45	bonfire	n. 篝火、大火堆	缺	缺	
-57	46	drop	n. 滴 v. 掉下；放弃	缺	缺	
-57	47	droplet	n. 小滴、微滴	缺	缺	
-57	48	backdrop	n. 背景幕	缺	缺	
-57	49	drip	v. 滴、滴下	缺	缺	
-57	50	dribble	v. 流口水；运球、带球	缺	缺	
-57	51	year	n. 年	缺	缺	
+57	27	remain	v. 剩下、遗留；保持、仍是	细节数据有	缺	词/r/remain.json
+57	28	remaining	adj. 剩下的、其余的	细节数据有	缺	词/r/remaining.json
+57	29	permanent	adj. 永久的、长期的；常设的	细节数据有	缺	词/p/permanent.json
+57	30	permanently	adv. 永久地、长期地	细节数据有	缺	词/p/permanently.json
+57	31	manor	n. 庄园	细节数据有	缺	词/m/manor.json
+57	32	mansion	n. 大宅、豪宅	细节数据有	缺	词/m/mansion.json
+57	33	fire	n. 火	细节数据有	缺	词/f/fire.json
+57	34	firefighter	n. 消防员	细节数据有	缺	词/f/firefighter.json
+57	35	fireman	n. 消防队员	细节数据有	缺	词/f/fireman.json
+57	36	firefighting	n. 消防、灭火	细节数据有	缺	词/f/firefighting.json
+57	37	firefly	n. 萤火虫	细节数据有	缺	词/f/firefly.json
+57	38	firewood	n. 柴火、木柴	细节数据有	缺	词/f/firewood.json
+57	39	firecracker	n. 鞭炮、爆竹	细节数据有	缺	词/f/firecracker.json
+57	40	fire-stick	n. 钻木取火用的木棍	细节数据有	缺	词/f/fire-stick.json
+57	41	fireplace	n. 壁炉	细节数据有	缺	词/f/fireplace.json
+57	42	firewall	n. 防火墙	细节数据有	缺	词/f/firewall.json
+57	43	firework	n. 焰火	细节数据有	缺	词/f/firework.json
+57	44	fireworks	n. 焰火、烟花表演	细节数据有	缺	词/f/fireworks.json
+57	45	bonfire	n. 篝火、大火堆	细节数据有	缺	词/b/bonfire.json
+57	46	drop	n. 滴 v. 掉下；放弃	细节数据有	缺	词/d/drop.json
+57	47	droplet	n. 小滴、微滴	细节数据有	缺	词/d/droplet.json
+57	48	backdrop	n. 背景幕	细节数据有	缺	词/b/backdrop.json
+57	49	drip	v. 滴、滴下	细节数据有	缺	词/d/drip.json
+57	50	dribble	v. 流口水；运球、带球	细节数据有	缺	词/d/dribble.json
+57	51	year	n. 年	细节数据有	缺	词/y/year.json
 57	52	yearly	adj. 每年的、一年一度的	缺	缺	
 57	53	year-old	adj. …岁的	缺	缺	
 57	54	eight-year-old	adj. 八岁的	缺	缺	
