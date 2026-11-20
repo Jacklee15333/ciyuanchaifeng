@@ -2260,31 +2260,31 @@
 29	22	full	adj. 满的；完全的	细节数据有	缺	词/f/full.json
 29	23	fully	adv. 完全地、充分地；足足	细节数据有	缺	词/f/fully.json
 29	24	full-time	adj. 全职的、专职的	细节数据有	缺	词/f/full-time.json
-29	25	half-full	adj. 半满的	缺	缺	
-29	26	fullness	n. 充满、饱满	缺	缺	
-29	27	fill	v. 填空；装满	缺	缺	
-29	28	filling	n. 补牙的填料 adj. 顶饱的	缺	缺	
-29	29	filled	v. 过去分词 adj. 装满的、充满的	缺	缺	
-29	30	refill	v. 再装满、续满	缺	缺	
-29	31	filler	n. 填充物、填料	缺	缺	
-29	32	fulfil	v. 履行；实现	缺	缺	
-29	33	fulfilled	v. 过去分词 adj. 满足的、有成就感的	缺	缺	
-29	34	fulfillment	n. 履行、实现；满足感、成就感	缺	缺	
-29	35	begin	v. 开始	缺	缺	
-29	36	began	v. begin 的过去式	缺	缺	
-29	37	beginning	n. 开始	缺	缺	
-29	38	begun	v. begin 的过去分词	缺	缺	
-29	39	beginner	n. 初学者、新手	缺	缺	
-29	40	main	adj. 主要的	缺	缺	
-29	41	mainly	adv. 主要地	缺	缺	
-29	42	may	aux. v. 可以；也许	缺	缺	
-29	43	might	modal v. 也许、可能 n. 力量、威力	缺	缺	
-29	44	mighty	adj. 强大的、有力的；巨大的、浩荡的	缺	缺	
-29	45	maybe	adv. 可能；也许	缺	缺	
-29	46	till	prep. 直到	缺	缺	
-29	47	until	prep. 直到	缺	缺	
-29	48	under	prep. 在…下面；少于	缺	缺	
-29	49	underneath	prep. 在…下面 adv. 在底下	缺	缺	
+29	25	half-full	adj. 半满的	细节数据有	缺	词/h/half-full.json
+29	26	fullness	n. 充满、饱满	细节数据有	缺	词/f/fullness.json
+29	27	fill	v. 填空；装满	细节数据有	缺	词/f/fill.json
+29	28	filling	n. 补牙的填料 adj. 顶饱的	细节数据有	缺	词/f/filling.json
+29	29	filled	v. 过去分词 adj. 装满的、充满的	细节数据有	缺	词/f/filled.json
+29	30	refill	v. 再装满、续满	细节数据有	缺	词/r/refill.json
+29	31	filler	n. 填充物、填料	细节数据有	缺	词/f/filler.json
+29	32	fulfil	v. 履行；实现	细节数据有	缺	词/f/fulfil.json
+29	33	fulfilled	v. 过去分词 adj. 满足的、有成就感的	细节数据有	缺	词/f/fulfilled.json
+29	34	fulfillment	n. 履行、实现；满足感、成就感	细节数据有	缺	词/f/fulfillment.json
+29	35	begin	v. 开始	细节数据有	缺	词/b/begin.json
+29	36	began	v. begin 的过去式	细节数据有	缺	词/b/began.json
+29	37	beginning	n. 开始	细节数据有	缺	词/b/beginning.json
+29	38	begun	v. begin 的过去分词	细节数据有	缺	词/b/begun.json
+29	39	beginner	n. 初学者、新手	细节数据有	缺	词/b/beginner.json
+29	40	main	adj. 主要的	细节数据有	缺	词/m/main.json
+29	41	mainly	adv. 主要地	细节数据有	缺	词/m/mainly.json
+29	42	may	aux. v. 可以；也许	细节数据有	缺	词/m/may.json
+29	43	might	modal v. 也许、可能 n. 力量、威力	细节数据有	缺	词/m/might.json
+29	44	mighty	adj. 强大的、有力的；巨大的、浩荡的	细节数据有	缺	词/m/mighty.json
+29	45	maybe	adv. 可能；也许	细节数据有	缺	词/m/maybe.json
+29	46	till	prep. 直到	细节数据有	缺	词/t/till.json
+29	47	until	prep. 直到	细节数据有	缺	词/u/until.json
+29	48	under	prep. 在…下面；少于	细节数据有	缺	词/u/under.json
+29	49	underneath	prep. 在…下面 adv. 在底下	细节数据有	缺	词/u/underneath.json
 29	50	close	v. 关 adj. 亲密的；近	缺	缺	
 29	51	closely	adv. 密切地；仔细地	缺	缺	
 29	52	closeness	n. 亲近、亲密	缺	缺	

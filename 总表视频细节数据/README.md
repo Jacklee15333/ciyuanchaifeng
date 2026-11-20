@@ -67,6 +67,7 @@
 | 2026-11-20 | 题目第 23 批 | 100 | engineer … upon、upwards … informative（体检全部 0 个问题）。累计 1975 个词有题目 |
 | 2026-11-20 | 题目第 24 批 | 100 | informational … twig（体检全部 0 个问题；outgrew、human-tech、rejoin 各有一句超过 12 个词，改短后重存）。累计 2075 个词有题目 |
 | 2026-11-20 | 题目第 25 批 | 100 | twenty … alarming（体检全部 0 个问题）。累计 2175 个词有题目 |
+| 2026-11-20 | 题目第 26 批 | 100 | alarmingly … underneath（体检全部 0 个问题）。累计 2275 个词有题目 |
 | 2026-11-19 | 试做 truly | 0 | 只用自带素材加表情图拼画面：起草检查不通过（表情图要换成写实插图、每幅画都要动、小图标要自己画）。结论：多数词要专门画插图，每个词的工作量和 7A-U4 一样；全表 9299 个词做不完，要先定先做哪些（等用户定） |
 
 ## 总表里看着不对的地方（出题时绕开了，以后用维护技能核对）
@@ -217,6 +218,10 @@
 - coordinates：【变形】写成“不可数，没有复数”，其实它本身是 coordinate 的复数（可数，谓语用复数）
 - career-exploration：【变形】写了复数 career-explorations，这个词一般不可数
 - plus：【变形】编了形容词比较级 plusser、最高级 plussest；plus 没有比较级
+- filled：【变形】编了 filleds、filleded、filleding；filled 本身是 fill 的过去式、过去分词
+- fulfilled：【变形】编了 fulfilleds、fulfilleded、fulfilleding；fulfilled 本身是 fulfil 的过去式、过去分词
+- filling：【变形】写成“不可数，没有复数”，作“补牙的填料、馅”时可数（two fillings）
+- fulfil / fulfillment：英式 fulfil 配美式 fulfillment，拼写混用；英式应是 fulfilment，美式是 fulfill
 
 ## 总表里出现两次的词（细节数据按单词存一份，两行共用；出题时两个意思都要考到）
 
