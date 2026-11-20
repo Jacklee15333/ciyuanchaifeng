@@ -88,6 +88,7 @@
 | 2026-11-20 | 题目第 42 批第 3 组 | 25 | e-friend … encircle（体检全部 0 个问题）。累计 3850 个词有题目 |
 | 2026-11-20 | 题目第 42 批第 4 组 | 25 | circuit … refresh（体检全部 0 个问题）。累计 3875 个词有题目 |
 | 2026-11-20 | 题目第 43 批第 1 组 | 25 | refreshing … beautifully（体检全部 0 个问题）。累计 3900 个词有题目 |
+| 2026-11-20 | 题目第 43 批第 2 组 | 25 | beautify … ingredient（体检全部 0 个问题）。累计 3925 个词有题目 |
 | 2026-11-19 | 试做 truly | 0 | 只用自带素材加表情图拼画面：起草检查不通过（表情图要换成写实插图、每幅画都要动、小图标要自己画）。结论：多数词要专门画插图，每个词的工作量和 7A-U4 一样；全表 9299 个词做不完，要先定先做哪些（等用户定） |
 
 ## 总表里看着不对的地方（出题时绕开了，以后用维护技能核对）
@@ -325,6 +326,11 @@
 - reprogrammed：考点里有 reprogrammeds、reprogrammeded、reprogrammeding 这些不存在的变形；reprogramme 的考点写“去 e 加 d”，其实是双写 m（reprogrammed、reprogramming）。
 - mechanism：变形写“不可数，没有复数”，实际可数，复数 mechanisms（出题按可数）。
 - freshmen：它本身就是 freshman 的复数，变形却写“一般不可数，不加 s”，应改成“freshman 的复数”。
+- 6th-graders、7th-graders：本身是复数，变形却写“一般不可数，不加 s”，应改成“6th-grader / 7th-grader 的复数”。
+- above：变形写“比较级 more above、最高级 most above”，above 没有比较级，应删去。
+- heading、subheading：变形写“不可数，没有复数”，实际可数，复数 headings、subheadings。
+- headquarters：写成“不可数，没有复数”，实际是单复同形的可数名词（a headquarters / two headquarters），谓语单复数都可以。
+- cattle：写成“不可数，没有复数”，实际是复数名词，谓语用复数（The cattle are …），不能说 a cattle。
 
 ## 总表里出现两次的词（细节数据按单词存一份，两行共用；出题时两个意思都要考到）
 

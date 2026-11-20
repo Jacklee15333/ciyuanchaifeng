@@ -3919,31 +3919,31 @@
 49	79	beauty	n. 美	细节数据有	缺	词/b/beauty.json
 49	80	beautiful	adj. 美丽的	细节数据有	缺	词/b/beautiful.json
 49	81	beautifully	adv. 优美地	细节数据有	缺	词/b/beautifully.json
-49	82	beautify	v. 美化；装点	缺	缺	
-49	83	film	n. 电影；胶卷	缺	缺	
-49	84	filmmaker	n. 电影制作人	缺	缺	
-50	1	grade	n. 等级；学年	缺	缺	
-50	2	grader	n. 评分人、阅卷人	缺	缺	
-50	3	upgrade	v. 升级	缺	缺	
-50	4	6th-grader	n. 六年级学生	缺	缺	
-50	5	6th-graders	n. 六年级学生们	缺	缺	
-50	6	eighth-grader	n. 八年级学生	缺	缺	
-50	7	seventh-grader	n. 七年级学生	缺	缺	
-50	8	ninth-grader	n. 九年级学生	缺	缺	
-50	9	sixth-grader	n. 六年级学生	缺	缺	
-50	10	7th-grader	n. 七年级学生	缺	缺	
-50	11	7th-graders	n. 七年级学生们	缺	缺	
-50	12	eighth-grade	adj. 八年级水平的	缺	缺	
-50	13	military-grade	adj. 军用级的、按军用标准的	缺	缺	
-50	14	top-grade	adj. 顶级的、最高等级的	缺	缺	
-50	15	gradual	adj. 逐渐的、逐步的	缺	缺	
-50	16	gradually	adv. 逐渐地、慢慢地	缺	缺	
-50	17	degree	n. 程度；学位	缺	缺	
-50	18	graduate	v. 毕业	缺	缺	
-50	19	graduation	n. 毕业	缺	缺	
-50	20	progress	n. 进步	缺	缺	
-50	21	progressive	adj. 进步的、主张改革的	缺	缺	
-50	22	ingredient	n. 成分；要素	缺	缺	
+49	82	beautify	v. 美化；装点	细节数据有	缺	词/b/beautify.json
+49	83	film	n. 电影；胶卷	细节数据有	缺	词/f/film.json
+49	84	filmmaker	n. 电影制作人	细节数据有	缺	词/f/filmmaker.json
+50	1	grade	n. 等级；学年	细节数据有	缺	词/g/grade.json
+50	2	grader	n. 评分人、阅卷人	细节数据有	缺	词/g/grader.json
+50	3	upgrade	v. 升级	细节数据有	缺	词/u/upgrade.json
+50	4	6th-grader	n. 六年级学生	细节数据有	缺	词/_/6th-grader.json
+50	5	6th-graders	n. 六年级学生们	细节数据有	缺	词/_/6th-graders.json
+50	6	eighth-grader	n. 八年级学生	细节数据有	缺	词/e/eighth-grader.json
+50	7	seventh-grader	n. 七年级学生	细节数据有	缺	词/s/seventh-grader.json
+50	8	ninth-grader	n. 九年级学生	细节数据有	缺	词/n/ninth-grader.json
+50	9	sixth-grader	n. 六年级学生	细节数据有	缺	词/s/sixth-grader.json
+50	10	7th-grader	n. 七年级学生	细节数据有	缺	词/_/7th-grader.json
+50	11	7th-graders	n. 七年级学生们	细节数据有	缺	词/_/7th-graders.json
+50	12	eighth-grade	adj. 八年级水平的	细节数据有	缺	词/e/eighth-grade.json
+50	13	military-grade	adj. 军用级的、按军用标准的	细节数据有	缺	词/m/military-grade.json
+50	14	top-grade	adj. 顶级的、最高等级的	细节数据有	缺	词/t/top-grade.json
+50	15	gradual	adj. 逐渐的、逐步的	细节数据有	缺	词/g/gradual.json
+50	16	gradually	adv. 逐渐地、慢慢地	细节数据有	缺	词/g/gradually.json
+50	17	degree	n. 程度；学位	细节数据有	缺	词/d/degree.json
+50	18	graduate	v. 毕业	细节数据有	缺	词/g/graduate.json
+50	19	graduation	n. 毕业	细节数据有	缺	词/g/graduation.json
+50	20	progress	n. 进步	细节数据有	缺	词/p/progress.json
+50	21	progressive	adj. 进步的、主张改革的	细节数据有	缺	词/p/progressive.json
+50	22	ingredient	n. 成分；要素	细节数据有	缺	词/i/ingredient.json
 50	23	aggressive	adj. 好斗的、有攻击性的；侵略的	缺	缺	
 50	24	above	prep. 高于 adj. 上文的	缺	缺	
 50	25	head	n. 头；首脑	缺	缺	
