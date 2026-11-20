@@ -3894,31 +3894,31 @@
 49	54	freshly	adv. 刚刚、新近	细节数据有	缺	词/f/freshly.json
 49	55	freshness	n. 新鲜	细节数据有	缺	词/f/freshness.json
 49	56	refresh	v. 使恢复精力；提神	细节数据有	缺	词/r/refresh.json
-49	57	refreshing	adj. 提神的；清爽的	缺	缺	
-49	58	freshwater	adj. 淡水的	缺	缺	
-49	59	fresh-cut	adj. 刚割下的；新剪的	缺	缺	
-49	60	freshen	v. 使清新；续杯	缺	缺	
-49	61	freshman	n. 新手	缺	缺	
-49	62	freshmen	n. freshman 的复数：一年级新生们	缺	缺	
-49	63	shout	v. 喊	缺	缺	
-49	64	bridge	n. 桥	缺	缺	
-49	65	danger	n. 危险	缺	缺	
-49	66	dangerous	adj. 危险的	缺	缺	
-49	67	endanger	v. 危及	缺	缺	
-49	68	endangered	adj. 濒危的	缺	缺	
-49	69	dangerously	adv. 危险地	缺	缺	
-49	70	madam	n. 女士、夫人；鸨母	缺	缺	
-49	71	dominate	v. 支配、控制；在…中占主要地位	缺	缺	
-49	72	dominant	adj. 占优势的、占主导地位的	缺	缺	
-49	73	dominance	n. 优势；支配地位	缺	缺	
-49	74	dungeon	n. 地牢	缺	缺	
-49	75	dome	n. 圆屋顶	缺	缺	
-49	76	dome-shaped	adj. 圆顶状的；半球形的	缺	缺	
-49	77	dome-headed	adj. 圆头的	缺	缺	
-49	78	timber	n. 可作木材的林木	缺	缺	
-49	79	beauty	n. 美	缺	缺	
-49	80	beautiful	adj. 美丽的	缺	缺	
-49	81	beautifully	adv. 优美地	缺	缺	
+49	57	refreshing	adj. 提神的；清爽的	细节数据有	缺	词/r/refreshing.json
+49	58	freshwater	adj. 淡水的	细节数据有	缺	词/f/freshwater.json
+49	59	fresh-cut	adj. 刚割下的；新剪的	细节数据有	缺	词/f/fresh-cut.json
+49	60	freshen	v. 使清新；续杯	细节数据有	缺	词/f/freshen.json
+49	61	freshman	n. 新手	细节数据有	缺	词/f/freshman.json
+49	62	freshmen	n. freshman 的复数：一年级新生们	细节数据有	缺	词/f/freshmen.json
+49	63	shout	v. 喊	细节数据有	缺	词/s/shout.json
+49	64	bridge	n. 桥	细节数据有	缺	词/b/bridge.json
+49	65	danger	n. 危险	细节数据有	缺	词/d/danger.json
+49	66	dangerous	adj. 危险的	细节数据有	缺	词/d/dangerous.json
+49	67	endanger	v. 危及	细节数据有	缺	词/e/endanger.json
+49	68	endangered	adj. 濒危的	细节数据有	缺	词/e/endangered.json
+49	69	dangerously	adv. 危险地	细节数据有	缺	词/d/dangerously.json
+49	70	madam	n. 女士、夫人；鸨母	细节数据有	缺	词/m/madam.json
+49	71	dominate	v. 支配、控制；在…中占主要地位	细节数据有	缺	词/d/dominate.json
+49	72	dominant	adj. 占优势的、占主导地位的	细节数据有	缺	词/d/dominant.json
+49	73	dominance	n. 优势；支配地位	细节数据有	缺	词/d/dominance.json
+49	74	dungeon	n. 地牢	细节数据有	缺	词/d/dungeon.json
+49	75	dome	n. 圆屋顶	细节数据有	缺	词/d/dome.json
+49	76	dome-shaped	adj. 圆顶状的；半球形的	细节数据有	缺	词/d/dome-shaped.json
+49	77	dome-headed	adj. 圆头的	细节数据有	缺	词/d/dome-headed.json
+49	78	timber	n. 可作木材的林木	细节数据有	缺	词/t/timber.json
+49	79	beauty	n. 美	细节数据有	缺	词/b/beauty.json
+49	80	beautiful	adj. 美丽的	细节数据有	缺	词/b/beautiful.json
+49	81	beautifully	adv. 优美地	细节数据有	缺	词/b/beautifully.json
 49	82	beautify	v. 美化；装点	缺	缺	
 49	83	film	n. 电影；胶卷	缺	缺	
 49	84	filmmaker	n. 电影制作人	缺	缺	
