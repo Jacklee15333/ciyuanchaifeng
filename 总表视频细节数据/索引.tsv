@@ -4044,31 +4044,31 @@
 51	38	accessory	n. 配件、附件	细节数据有	缺	词/a/accessory.json
 51	39	excess	n. 过量、过剩；超出部分	细节数据有	缺	词/e/excess.json
 51	40	excessive	adj. 过度的、过多的	细节数据有	缺	词/e/excessive.json
-51	41	exceed	v. 超过、超出	缺	缺	
-51	42	proceed	v. 继续进行；前往	缺	缺	
-51	43	procedure	n. 程序、手续	缺	缺	
-51	44	procession	n. 接连不断的一串	缺	缺	
-51	45	necessary	adj. 必需的	缺	缺	
-51	46	unnecessary	adj. 不必要的、多余的；用不着的	缺	缺	
-51	47	necessarily	adv. 必然地、必定	缺	缺	
-51	48	necessity	n. 必要性	缺	缺	
-51	49	cease	v. 停止、终止	缺	缺	
-51	50	ceasefire	n. 停火	缺	缺	
-51	51	title	n. 标题	缺	缺	
-51	52	subtitle	n. 副标题 v. 给…加字幕	缺	缺	
-51	53	subtitled	adj. 带字幕的；有副标题的	缺	缺	
-51	54	language	n. 语言	缺	缺	
-51	55	language-teaching	n. 语言教学	缺	缺	
-51	56	linguist	n. 语言学家	缺	缺	
-51	57	linguistic	adj. 语言的	缺	缺	
-51	58	bilingual	adj. 双语的	缺	缺	
-51	59	tongue	n. 舌头	缺	缺	
-51	60	tongue-twister	n. 绕口令	缺	缺	
-51	61	letter	n. 信；字母	缺	缺	
-51	62	literature	n. 文学	缺	缺	
-51	63	literacy	n. 识字、读写能力	缺	缺	
-51	64	literary	adj. 文学的；从事写作的	缺	缺	
-51	65	literal	adj. 字面上的；确切的	缺	缺	
+51	41	exceed	v. 超过、超出	细节数据有	缺	词/e/exceed.json
+51	42	proceed	v. 继续进行；前往	细节数据有	缺	词/p/proceed.json
+51	43	procedure	n. 程序、手续	细节数据有	缺	词/p/procedure.json
+51	44	procession	n. 接连不断的一串	细节数据有	缺	词/p/procession.json
+51	45	necessary	adj. 必需的	细节数据有	缺	词/n/necessary.json
+51	46	unnecessary	adj. 不必要的、多余的；用不着的	细节数据有	缺	词/u/unnecessary.json
+51	47	necessarily	adv. 必然地、必定	细节数据有	缺	词/n/necessarily.json
+51	48	necessity	n. 必要性	细节数据有	缺	词/n/necessity.json
+51	49	cease	v. 停止、终止	细节数据有	缺	词/c/cease.json
+51	50	ceasefire	n. 停火	细节数据有	缺	词/c/ceasefire.json
+51	51	title	n. 标题	细节数据有	缺	词/t/title.json
+51	52	subtitle	n. 副标题 v. 给…加字幕	细节数据有	缺	词/s/subtitle.json
+51	53	subtitled	adj. 带字幕的；有副标题的	细节数据有	缺	词/s/subtitled.json
+51	54	language	n. 语言	细节数据有	缺	词/l/language.json
+51	55	language-teaching	n. 语言教学	细节数据有	缺	词/l/language-teaching.json
+51	56	linguist	n. 语言学家	细节数据有	缺	词/l/linguist.json
+51	57	linguistic	adj. 语言的	细节数据有	缺	词/l/linguistic.json
+51	58	bilingual	adj. 双语的	细节数据有	缺	词/b/bilingual.json
+51	59	tongue	n. 舌头	细节数据有	缺	词/t/tongue.json
+51	60	tongue-twister	n. 绕口令	细节数据有	缺	词/t/tongue-twister.json
+51	61	letter	n. 信；字母	细节数据有	缺	词/l/letter.json
+51	62	literature	n. 文学	细节数据有	缺	词/l/literature.json
+51	63	literacy	n. 识字、读写能力	细节数据有	缺	词/l/literacy.json
+51	64	literary	adj. 文学的；从事写作的	细节数据有	缺	词/l/literary.json
+51	65	literal	adj. 字面上的；确切的	细节数据有	缺	词/l/literal.json
 51	66	literally	adv. 照字面地 adj. 确实地、真的	缺	缺	
 51	67	yet	adv. 尚	缺	缺	
 51	68	poster	n. 海报	缺	缺	
