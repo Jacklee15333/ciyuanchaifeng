@@ -3217,31 +3217,31 @@
 41	19	attendee	n. 出席者、参会者	细节数据有	缺	词/a/attendee.json
 41	20	attender	n. 出席者	细节数据有	缺	词/a/attender.json
 41	21	pretend	v. 假装	细节数据有	缺	词/p/pretend.json
-41	22	tend	v. 往往会、倾向于	缺	缺	
-41	23	tendency	n. 倾向、趋势	缺	缺	
-41	24	extend	v. 延长；扩大	缺	缺	
-41	25	extensive	adj. 广泛的、大量的；大面积的	缺	缺	
-41	26	extension	n. 延期；扩建部分	缺	缺	
-41	27	extensible	adj. 可扩展的	缺	缺	
-41	28	continue	v. 继续	缺	缺	
-41	29	continuous	adj. 连续的、不间断的	缺	缺	
-41	30	continuously	adv. 连续不断地、不停地	缺	缺	
-41	31	continual	adj. 频繁的、一再发生的；不停的	缺	缺	
-41	32	continuation	n. 继续、延续	缺	缺	
-41	33	continuity	n. 连续性、连贯性	缺	缺	
-41	34	continent	n. 大陆、洲	缺	缺	
-41	35	continental	adj. 大陆的、洲的	缺	缺	
-41	36	content	adj. 满足的、满意的 n. 内容；含量	缺	缺	
-41	37	contents	n. 内容	缺	缺	
-41	38	contain	v. 包含、含有；容纳	缺	缺	
-41	39	container	n. 容器；集装箱	缺	缺	
-41	40	containment	n. 遏制、控制	缺	缺	
-41	41	containerize	v. 用集装箱装运、使集装箱化	缺	缺	
-41	42	containerized	adj. 用集装箱运输的	缺	缺	
-41	43	entertain	v. 使娱乐、使开心；招待、款待	缺	缺	
-41	44	entertaining	adj. 有趣的、使人愉快的 n. 招待客人	缺	缺	
-41	45	entertainment	n. 娱乐；消遣	缺	缺	
-41	46	entertainer	n. 艺人、表演者；会招待客人的人	缺	缺	
+41	22	tend	v. 往往会、倾向于	细节数据有	缺	词/t/tend.json
+41	23	tendency	n. 倾向、趋势	细节数据有	缺	词/t/tendency.json
+41	24	extend	v. 延长；扩大	细节数据有	缺	词/e/extend.json
+41	25	extensive	adj. 广泛的、大量的；大面积的	细节数据有	缺	词/e/extensive.json
+41	26	extension	n. 延期；扩建部分	细节数据有	缺	词/e/extension.json
+41	27	extensible	adj. 可扩展的	细节数据有	缺	词/e/extensible.json
+41	28	continue	v. 继续	细节数据有	缺	词/c/continue.json
+41	29	continuous	adj. 连续的、不间断的	细节数据有	缺	词/c/continuous.json
+41	30	continuously	adv. 连续不断地、不停地	细节数据有	缺	词/c/continuously.json
+41	31	continual	adj. 频繁的、一再发生的；不停的	细节数据有	缺	词/c/continual.json
+41	32	continuation	n. 继续、延续	细节数据有	缺	词/c/continuation.json
+41	33	continuity	n. 连续性、连贯性	细节数据有	缺	词/c/continuity.json
+41	34	continent	n. 大陆、洲	细节数据有	缺	词/c/continent.json
+41	35	continental	adj. 大陆的、洲的	细节数据有	缺	词/c/continental.json
+41	36	content	adj. 满足的、满意的 n. 内容；含量	细节数据有	缺	词/c/content.json
+41	37	contents	n. 内容	细节数据有	缺	词/c/contents.json
+41	38	contain	v. 包含、含有；容纳	细节数据有	缺	词/c/contain.json
+41	39	container	n. 容器；集装箱	细节数据有	缺	词/c/container.json
+41	40	containment	n. 遏制、控制	细节数据有	缺	词/c/containment.json
+41	41	containerize	v. 用集装箱装运、使集装箱化	细节数据有	缺	词/c/containerize.json
+41	42	containerized	adj. 用集装箱运输的	细节数据有	缺	词/c/containerized.json
+41	43	entertain	v. 使娱乐、使开心；招待、款待	细节数据有	缺	词/e/entertain.json
+41	44	entertaining	adj. 有趣的、使人愉快的 n. 招待客人	细节数据有	缺	词/e/entertaining.json
+41	45	entertainment	n. 娱乐；消遣	细节数据有	缺	词/e/entertainment.json
+41	46	entertainer	n. 艺人、表演者；会招待客人的人	细节数据有	缺	词/e/entertainer.json
 41	47	sustain	v. 维持、使持续；支撑、承受	缺	缺	
 41	48	sustainable	adj. 可持续的	缺	缺	
 41	49	sustainability	n. 可持续性	缺	缺	

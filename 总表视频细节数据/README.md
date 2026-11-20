@@ -277,6 +277,7 @@
 - science-music：词典里查不到，不是英语常用词，像是自造的复合词；按“科学与音乐结合的”出了题，建议核实是否保留
 - holding：初中含义写“租种的土地 / 暂时存放的”太偏；常见用法是 hold 的现在分词，名词“持有的股份、财产”常用复数 holdings，写成“不可数，没有复数”不对
 - hind：写了“比较级 hinder、最高级 hindest”，是编造的；hind（后面的）没有这样的比较级（hinder 是动词“阻碍”，只有 hindmost 这类说法），应删掉
+- contents：变形写“不可数，没有复数”不对；contents 本身就是复数形式（the contents of the box are …；table of contents 目录），作主语谓语用复数
 
 ## 总表里出现两次的词（细节数据按单词存一份，两行共用；出题时两个意思都要考到）
 
