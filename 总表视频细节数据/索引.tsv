@@ -4572,31 +4572,31 @@
 58	19	page	n. 页	细节数据有	缺	词/p/page.json
 58	20	impact	n. 撞击、冲击 v. 影响	细节数据有	缺	词/i/impact.json
 58	21	compact	adj. 紧凑的、小巧的 v. 压实	细节数据有	缺	词/c/compact.json
-58	22	compactor	n. 压实机	缺	缺	
-58	23	cheer	v. 欢呼；喝彩	缺	缺	
-58	24	cheerful	adj. 快活的、开朗的	缺	缺	
-58	25	cheerfully	adv. 高兴地、愉快地；欣然地、毫无怨言地	缺	缺	
-58	26	cheery	adj. 高兴的；令人愉快的	缺	缺	
-58	27	cheeriest	adj. 最快活的、最欢快的	缺	缺	
-58	28	cheerleader	n. 啦啦队员	缺	缺	
-58	29	scene	n. 现场；景象、情景	缺	缺	
-58	30	scenery	n. 风景、景色	缺	缺	
-58	31	scenic	adj. 风景优美的	缺	缺	
-58	32	scenario	n. 设想、可能出现的情况	缺	缺	
-58	33	item	n. 项目；一件商品	缺	缺	
-58	34	itemize	v. 逐项列出、开明细	缺	缺	
-58	35	please	v. 请	缺	缺	
-58	36	pleased	adj. 感到高兴的	缺	缺	
-58	37	pleasing	adj. 令人愉快的、令人满意的	缺	缺	
-58	38	pleasant	adj. 令人愉快的	缺	缺	
-58	39	unpleasant	adj. 令人不快的、讨厌的	缺	缺	
-58	40	pleasure	n. 高兴；愉快	缺	缺	
-58	41	unpleasantly	adv. 令人不快地；不友好地	缺	缺	
-58	42	celebrate	v. 庆祝	缺	缺	
-58	43	celebrated	adj. 著名的、驰名的	缺	缺	
-58	44	celebration	n. 庆祝、庆典	缺	缺	
-58	45	celebrity	n. 名人、明星	缺	缺	
-58	46	celebratory	adj. 庆祝的、庆贺的	缺	缺	
+58	22	compactor	n. 压实机	细节数据有	缺	词/c/compactor.json
+58	23	cheer	v. 欢呼；喝彩	细节数据有	缺	词/c/cheer.json
+58	24	cheerful	adj. 快活的、开朗的	细节数据有	缺	词/c/cheerful.json
+58	25	cheerfully	adv. 高兴地、愉快地；欣然地、毫无怨言地	细节数据有	缺	词/c/cheerfully.json
+58	26	cheery	adj. 高兴的；令人愉快的	细节数据有	缺	词/c/cheery.json
+58	27	cheeriest	adj. 最快活的、最欢快的	细节数据有	缺	词/c/cheeriest.json
+58	28	cheerleader	n. 啦啦队员	细节数据有	缺	词/c/cheerleader.json
+58	29	scene	n. 现场；景象、情景	细节数据有	缺	词/s/scene.json
+58	30	scenery	n. 风景、景色	细节数据有	缺	词/s/scenery.json
+58	31	scenic	adj. 风景优美的	细节数据有	缺	词/s/scenic.json
+58	32	scenario	n. 设想、可能出现的情况	细节数据有	缺	词/s/scenario.json
+58	33	item	n. 项目；一件商品	细节数据有	缺	词/i/item.json
+58	34	itemize	v. 逐项列出、开明细	细节数据有	缺	词/i/itemize.json
+58	35	please	v. 请	细节数据有	缺	词/p/please.json
+58	36	pleased	adj. 感到高兴的	细节数据有	缺	词/p/pleased.json
+58	37	pleasing	adj. 令人愉快的、令人满意的	细节数据有	缺	词/p/pleasing.json
+58	38	pleasant	adj. 令人愉快的	细节数据有	缺	词/p/pleasant.json
+58	39	unpleasant	adj. 令人不快的、讨厌的	细节数据有	缺	词/u/unpleasant.json
+58	40	pleasure	n. 高兴；愉快	细节数据有	缺	词/p/pleasure.json
+58	41	unpleasantly	adv. 令人不快地；不友好地	细节数据有	缺	词/u/unpleasantly.json
+58	42	celebrate	v. 庆祝	细节数据有	缺	词/c/celebrate.json
+58	43	celebrated	adj. 著名的、驰名的	细节数据有	缺	词/c/celebrated.json
+58	44	celebration	n. 庆祝、庆典	细节数据有	缺	词/c/celebration.json
+58	45	celebrity	n. 名人、明星	细节数据有	缺	词/c/celebrity.json
+58	46	celebratory	adj. 庆祝的、庆贺的	细节数据有	缺	词/c/celebratory.json
 58	47	soft	adj. 软的	缺	缺	
 58	48	softly	adv. 温柔地	缺	缺	
 58	49	soften	v. 使变软	缺	缺	
