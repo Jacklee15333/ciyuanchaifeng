@@ -5302,31 +5302,31 @@
 67	73	clinic	n. 诊所	细节数据有	缺	词/c/clinic.json
 67	74	clinical	adj. 临床的；冷静客观的、冷漠的	细节数据有	缺	词/c/clinical.json
 67	75	climax	n. 高潮、顶点	细节数据有	缺	词/c/climax.json
-67	76	decline	v. 下降、减少；婉拒 n. 衰落	缺	缺	
-67	77	incline	v. 倾向于、有意 n. 斜坡	缺	缺	
-67	78	inclination	n. 倾向、意愿；爱好、天性	缺	缺	
-67	79	lean	v. 倚、靠；倾斜、俯身	缺	缺	
-67	80	ladder	n. 梯子	缺	缺	
-68	1	hobby	n. 爱好	缺	缺	
-68	2	hobbyist	n. 业余爱好者	缺	缺	
-68	3	pull	v. 拉；拖	缺	缺	
-68	4	puller	n. 拉的人；拔取工具	缺	缺	
-68	5	tip	n. 尖端；提示	缺	缺	
-68	6	delicious	adj. 美味的	缺	缺	
-68	7	deliciously	adv. 美味地、香甜地；令人愉快地	缺	缺	
-68	8	delicate	adj. 易碎的、娇嫩的；精美的、细腻的	缺	缺	
-68	9	delight	n. 快乐、喜悦 v. 使高兴	缺	缺	
-68	10	delicacy	n. 佳肴、珍馐；精致、细腻	缺	缺	
-68	11	floor	n. 地面；层楼房的	缺	缺	
-68	12	third-floor	adj. 三楼的、位于第三层的	缺	缺	
-68	13	coach	n. 教练	缺	缺	
-68	14	camp	n. 营夏令	缺	缺	
-68	15	camper	n. 露营者	缺	缺	
-68	16	campfire	n. 营火、篝火	缺	缺	
-68	17	campsite	n. 露营地	缺	缺	
-68	18	campground	n. 露营场	缺	缺	
-68	19	campus	n. 校园	缺	缺	
-68	20	champion	n. 冠军 v. 支持、倡导	缺	缺	
+67	76	decline	v. 下降、减少；婉拒 n. 衰落	细节数据有	缺	词/d/decline.json
+67	77	incline	v. 倾向于、有意 n. 斜坡	细节数据有	缺	词/i/incline.json
+67	78	inclination	n. 倾向、意愿；爱好、天性	细节数据有	缺	词/i/inclination.json
+67	79	lean	v. 倚、靠；倾斜、俯身	细节数据有	缺	词/l/lean.json
+67	80	ladder	n. 梯子	细节数据有	缺	词/l/ladder.json
+68	1	hobby	n. 爱好	细节数据有	缺	词/h/hobby.json
+68	2	hobbyist	n. 业余爱好者	细节数据有	缺	词/h/hobbyist.json
+68	3	pull	v. 拉；拖	细节数据有	缺	词/p/pull.json
+68	4	puller	n. 拉的人；拔取工具	细节数据有	缺	词/p/puller.json
+68	5	tip	n. 尖端；提示	细节数据有	缺	词/t/tip.json
+68	6	delicious	adj. 美味的	细节数据有	缺	词/d/delicious.json
+68	7	deliciously	adv. 美味地、香甜地；令人愉快地	细节数据有	缺	词/d/deliciously.json
+68	8	delicate	adj. 易碎的、娇嫩的；精美的、细腻的	细节数据有	缺	词/d/delicate.json
+68	9	delight	n. 快乐、喜悦 v. 使高兴	细节数据有	缺	词/d/delight.json
+68	10	delicacy	n. 佳肴、珍馐；精致、细腻	细节数据有	缺	词/d/delicacy.json
+68	11	floor	n. 地面；层楼房的	细节数据有	缺	词/f/floor.json
+68	12	third-floor	adj. 三楼的、位于第三层的	细节数据有	缺	词/t/third-floor.json
+68	13	coach	n. 教练	细节数据有	缺	词/c/coach.json
+68	14	camp	n. 营夏令	细节数据有	缺	词/c/camp.json
+68	15	camper	n. 露营者	细节数据有	缺	词/c/camper.json
+68	16	campfire	n. 营火、篝火	细节数据有	缺	词/c/campfire.json
+68	17	campsite	n. 露营地	细节数据有	缺	词/c/campsite.json
+68	18	campground	n. 露营场	细节数据有	缺	词/c/campground.json
+68	19	campus	n. 校园	细节数据有	缺	词/c/campus.json
+68	20	champion	n. 冠军 v. 支持、倡导	细节数据有	缺	词/c/champion.json
 68	21	championship	n. 锦标赛、冠军赛	缺	缺	
 68	22	campaign	n. 竞选活动；战役	缺	缺	
 68	23	chat	v. 聊天	缺	缺	

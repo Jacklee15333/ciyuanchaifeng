@@ -143,6 +143,7 @@
 | 2026-11-20 | 题目第 56 批第 2 组 | 25 | web … strict（体检全部 0 个问题；terrible 答案就是本词 2 道，改过再存）。累计 5224 个词有题目 |
 | 2026-11-20 | 题目第 56 批第 3 组 | 25 | strictly … electrochemical（体检全部 0 个问题；electric、mini-electric、electrochemical 第 7 题漏写考点，补上再存；restrictive、towering、tower-building、tower-shaped、electricity、electronics、electronically 出题时自查到答案是原形超过 1 道，改过再存）。累计 5249 个词有题目 |
 | 2026-11-20 | 题目第 56 批第 4 组 | 25 | electrode … climax（体检全部 0 个问题；announcement 答案就是本词 2 道，改过再存）。累计 5274 个词有题目 |
+| 2026-11-20 | 题目第 57 批第 1 组 | 25 | decline … champion（体检全部 0 个问题；ladder 答案就是本词 2 道、hobby 第 7 题漏写考点，改过再存）。累计 5299 个词有题目 |
 | 2026-11-19 | 试做 truly | 0 | 只用自带素材加表情图拼画面：起草检查不通过（表情图要换成写实插图、每幅画都要动、小图标要自己画）。结论：多数词要专门画插图，每个词的工作量和 7A-U4 一样；全表 9299 个词做不完，要先定先做哪些（等用户定） |
 
 ## 总表里看着不对的地方（出题时绕开了，以后用维护技能核对）
@@ -489,6 +490,9 @@
 - strict：【易混】strict / tight 两边的解释都是空的（“strict 是“”，tight 是“”）
 - strait：考点里写了形容词比较级 straiter、最高级 straitest，形容词 strait（狭窄的）是古旧用法，初中只用名词“海峡”，不该列
 - climate-control：考点写了复数 climate-controls，“恒温控制”一般不可数，不加 s
+- lean：考点写“过去式 leaned、过去分词 leant”，实际过去式和过去分词都可以是 leaned 或 leant（美式多用 leaned），不是一个只作过去式、一个只作过去分词
+- camp：初中含义写成“营夏令”，应是“营地；夏令营”
+- floor：初中含义写成“地面；层楼房的”，应是“地面、地板；（楼房的）层”
 
 ## 总表里出现两次的词（细节数据按单词存一份，两行共用；出题时两个意思都要考到）
 
