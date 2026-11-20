@@ -5527,31 +5527,31 @@
 71	33	Norwegian	adj. 挪威的	细节数据有	缺	词/n/Norwegian.json
 71	34	shock	n. 震惊、打击	细节数据有	缺	词/s/shock.json
 71	35	shocking	adj. 骇人听闻的、令人震惊的	细节数据有	缺	词/s/shocking.json
-71	36	shocked	adj. 震惊的、吃惊的	缺	缺	
-71	37	beat	v. 敲打；跳动	缺	缺	
-71	38	beaten	adj. 被打的	缺	缺	
-71	39	heartbeat	n. 心跳	缺	缺	
-71	40	upbeat	adj. 乐观的、积极的	缺	缺	
-71	41	figure	n. 体型；数字	缺	缺	
-71	42	Fig.	n. 图	缺	缺	
-71	43	figurative	adj. 比喻的、引申的	缺	缺	
-71	44	disfigure	v. 毁容；损坏…的外观	缺	缺	
-71	45	fiction	n. 小说；虚构的事、编造的话	缺	缺	
-71	46	fictional	adj. 虚构的、小说里的	缺	缺	
-71	47	sci-fi	n. 科幻	缺	缺	
-71	48	science-fiction	n. 科幻小说、科幻	缺	缺	
-71	49	configure	v. 配置、设定	缺	缺	
-71	50	configuration	n. 构造、布局	缺	缺	
-71	51	faint	adj. 微弱的、模糊的；头晕的 v. 昏倒	缺	缺	
-71	52	faintly	adv. 微弱地、隐约地	缺	缺	
-71	53	dough	n. 生面团	缺	缺	
-71	54	joke	n. 笑话	缺	缺	
-71	55	jokey	adj. 爱开玩笑的	缺	缺	
-71	56	joking	adj. 开玩笑的	缺	缺	
-71	57	jokingly	adv. 开玩笑地、半开玩笑地	缺	缺	
-71	58	narrow	adj. 狭窄的	缺	缺	
-71	59	narrowly	adv. 勉强地、险些；狭隘地	缺	缺	
-71	60	narrow-minded	adj. 心胸狭窄的、思想偏狭的	缺	缺	
+71	36	shocked	adj. 震惊的、吃惊的	细节数据有	缺	词/s/shocked.json
+71	37	beat	v. 敲打；跳动	细节数据有	缺	词/b/beat.json
+71	38	beaten	adj. 被打的	细节数据有	缺	词/b/beaten.json
+71	39	heartbeat	n. 心跳	细节数据有	缺	词/h/heartbeat.json
+71	40	upbeat	adj. 乐观的、积极的	细节数据有	缺	词/u/upbeat.json
+71	41	figure	n. 体型；数字	细节数据有	缺	词/f/figure.json
+71	42	Fig.	n. 图	细节数据有	缺	词/f/Fig..json
+71	43	figurative	adj. 比喻的、引申的	细节数据有	缺	词/f/figurative.json
+71	44	disfigure	v. 毁容；损坏…的外观	细节数据有	缺	词/d/disfigure.json
+71	45	fiction	n. 小说；虚构的事、编造的话	细节数据有	缺	词/f/fiction.json
+71	46	fictional	adj. 虚构的、小说里的	细节数据有	缺	词/f/fictional.json
+71	47	sci-fi	n. 科幻	细节数据有	缺	词/s/sci-fi.json
+71	48	science-fiction	n. 科幻小说、科幻	细节数据有	缺	词/s/science-fiction.json
+71	49	configure	v. 配置、设定	细节数据有	缺	词/c/configure.json
+71	50	configuration	n. 构造、布局	细节数据有	缺	词/c/configuration.json
+71	51	faint	adj. 微弱的、模糊的；头晕的 v. 昏倒	细节数据有	缺	词/f/faint.json
+71	52	faintly	adv. 微弱地、隐约地	细节数据有	缺	词/f/faintly.json
+71	53	dough	n. 生面团	细节数据有	缺	词/d/dough.json
+71	54	joke	n. 笑话	细节数据有	缺	词/j/joke.json
+71	55	jokey	adj. 爱开玩笑的	细节数据有	缺	词/j/jokey.json
+71	56	joking	adj. 开玩笑的	细节数据有	缺	词/j/joking.json
+71	57	jokingly	adv. 开玩笑地、半开玩笑地	细节数据有	缺	词/j/jokingly.json
+71	58	narrow	adj. 狭窄的	细节数据有	缺	词/n/narrow.json
+71	59	narrowly	adv. 勉强地、险些；狭隘地	细节数据有	缺	词/n/narrowly.json
+71	60	narrow-minded	adj. 心胸狭窄的、思想偏狭的	细节数据有	缺	词/n/narrow-minded.json
 71	61	root	n. 根；起源	缺	缺	
 71	62	rootstock	n. 砧木：嫁接时承接接穗、提供根系的植株	缺	缺	
 71	63	beach	n. 海滨	缺	缺	
