@@ -2157,33 +2157,33 @@
 27	80	fewer	adj. 较少的、更少的	细节数据有	缺	词/f/fewer.json
 28	1	art	n. 艺术	细节数据有	缺	词/a/art.json
 28	2	artist	n. 艺术家	细节数据有	缺	词/a/artist.json
-28	3	artistic	adj. 艺术的；有美感的、精美的	缺	缺	
-28	4	artwork	n. 艺术品	缺	缺	
-28	5	artificial	adj. 人造的、人工的；假装的、不自然的	缺	缺	
-28	6	artifact	n. 人工制品、器物；伪影、人为误差	缺	缺	
-28	7	artisan	n. 工匠、手艺人	缺	缺	
-28	8	inert	adj. 不动的、无生气的；迟钝的	缺	缺	
-28	9	article	n. 文章	缺	缺	
+28	3	artistic	adj. 艺术的；有美感的、精美的	细节数据有	缺	词/a/artistic.json
+28	4	artwork	n. 艺术品	细节数据有	缺	词/a/artwork.json
+28	5	artificial	adj. 人造的、人工的；假装的、不自然的	细节数据有	缺	词/a/artificial.json
+28	6	artifact	n. 人工制品、器物；伪影、人为误差	细节数据有	缺	词/a/artifact.json
+28	7	artisan	n. 工匠、手艺人	细节数据有	缺	词/a/artisan.json
+28	8	inert	adj. 不动的、无生气的；迟钝的	细节数据有	缺	词/i/inert.json
+28	9	article	n. 文章	细节数据有	缺	词/a/article.json
 28	10	order	n. 顺序；命令 v. 订购、点菜	总表有	kit有（7A-U4）	
-28	11	orderly	adj. 整齐的、有条理的；守秩序的 n. 医院勤杂工、护工	缺	缺	
-28	12	disorder	n. 混乱、凌乱	缺	缺	
-28	13	pre-order	v. 预订、预购	缺	缺	
-28	14	pre-ordered	adj. 预购的、预订好的	缺	缺	
-28	15	ordinary	adj. 普通的	缺	缺	
-28	16	ordinarily	adv. 通常、一般情况下	缺	缺	
-28	17	extraordinary	adj. 非凡的、了不起的；惊人的、离奇的	缺	缺	
-28	18	coordinate	v. 协调、统筹；使配合 adj. 同等的	缺	缺	
-28	19	coordinates	n. 坐标	缺	缺	
-28	20	coordination	n. 协调、统筹	缺	缺	
-28	21	coordinator	n. 协调员、统筹人	缺	缺	
-28	22	harmony	n. 和谐、融洽；协调一致	缺	缺	
-28	23	harmonious	adj. 和谐的、融洽的	缺	缺	
-28	24	harmoniously	adv. 和谐地、融洽地；协调地	缺	缺	
-28	25	harmonize	v. 使协调、使一致	缺	缺	
-28	26	harmonise	v. 使协调、使一致；配和声	缺	缺	
-28	27	harmonica	n. 口琴	缺	缺	
+28	11	orderly	adj. 整齐的、有条理的；守秩序的 n. 医院勤杂工、护工	细节数据有	缺	词/o/orderly.json
+28	12	disorder	n. 混乱、凌乱	细节数据有	缺	词/d/disorder.json
+28	13	pre-order	v. 预订、预购	细节数据有	缺	词/p/pre-order.json
+28	14	pre-ordered	adj. 预购的、预订好的	细节数据有	缺	词/p/pre-ordered.json
+28	15	ordinary	adj. 普通的	细节数据有	缺	词/o/ordinary.json
+28	16	ordinarily	adv. 通常、一般情况下	细节数据有	缺	词/o/ordinarily.json
+28	17	extraordinary	adj. 非凡的、了不起的；惊人的、离奇的	细节数据有	缺	词/e/extraordinary.json
+28	18	coordinate	v. 协调、统筹；使配合 adj. 同等的	细节数据有	缺	词/c/coordinate.json
+28	19	coordinates	n. 坐标	细节数据有	缺	词/c/coordinates.json
+28	20	coordination	n. 协调、统筹	细节数据有	缺	词/c/coordination.json
+28	21	coordinator	n. 协调员、统筹人	细节数据有	缺	词/c/coordinator.json
+28	22	harmony	n. 和谐、融洽；协调一致	细节数据有	缺	词/h/harmony.json
+28	23	harmonious	adj. 和谐的、融洽的	细节数据有	缺	词/h/harmonious.json
+28	24	harmoniously	adv. 和谐地、融洽地；协调地	细节数据有	缺	词/h/harmoniously.json
+28	25	harmonize	v. 使协调、使一致	细节数据有	缺	词/h/harmonize.json
+28	26	harmonise	v. 使协调、使一致；配和声	细节数据有	缺	词/h/harmonise.json
+28	27	harmonica	n. 口琴	细节数据有	缺	词/h/harmonica.json
 28	28	alarm	n. 警报、警报器；闹钟	总表有	kit有（7A-U4）	
-28	29	alarming	adj. 令人担忧的、惊人的	缺	缺	
+28	29	alarming	adj. 令人担忧的、惊人的	细节数据有	缺	词/a/alarming.json
 28	30	alarmingly	adv. 惊人地、令人担忧地	缺	缺	
 28	31	army	n. 军队	缺	缺	
 28	32	armed	adj. 武装的、持械的	缺	缺	
