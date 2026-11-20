@@ -3969,31 +3969,31 @@
 50	45	precipitate	v. 促成、使突然发生 n. 沉淀物	细节数据有	缺	词/p/precipitate.json
 50	46	precipitation	n. 降水	细节数据有	缺	词/p/precipitation.json
 50	47	escape	v. 逃跑	细节数据有	缺	词/e/escape.json
-50	48	cap	n. 盖子；上限	缺	缺	
-50	49	chapel	n. 小教堂、礼拜堂	缺	缺	
-50	50	cape	n. ①披风、斗篷 n. ②海角、岬	缺	缺	
-50	51	sleep	v. 睡觉	缺	缺	
-50	52	slept	v. 睡	缺	缺	
-50	53	sleepy	adj. 困的、想睡的	缺	缺	
-50	54	sleepless	adj. 失眠的、不眠的	缺	缺	
-50	55	asleep	adj. 睡着的	缺	缺	
-50	56	oversleep	v. 睡过头、睡过了点	缺	缺	
-50	57	spirit	n. 精神、心灵；情绪	缺	缺	
-50	58	spiritual	adj. 精神上的、心灵的；宗教的	缺	缺	
-50	59	inspire	v. 激励、鼓舞；给…灵感	缺	缺	
-50	60	inspired	adj. 绝妙的、有灵感的；受…启发的	缺	缺	
-50	61	inspiring	adj. 鼓舞人心的、启发人的	缺	缺	
-50	62	inspiration	n. 灵感；鼓舞	缺	缺	
-50	63	expire	v. 到期、失效；去世	缺	缺	
-50	64	aspire	v. 渴望、立志	缺	缺	
-50	65	aspiration	n. 志向、抱负	缺	缺	
-50	66	conspiracy	n. 阴谋、密谋	缺	缺	
-50	67	respiratory	adj. 呼吸的、呼吸系统的	缺	缺	
-50	68	custom	n. 习惯	缺	缺	
-50	69	customs	n. 海关	缺	缺	
-50	70	customary	adj. 惯常的、合乎习俗的	缺	缺	
-50	71	custom-made	adj. 定做的、定制的	缺	缺	
-50	72	accustom	v. 使习惯于	缺	缺	
+50	48	cap	n. 盖子；上限	细节数据有	缺	词/c/cap.json
+50	49	chapel	n. 小教堂、礼拜堂	细节数据有	缺	词/c/chapel.json
+50	50	cape	n. ①披风、斗篷 n. ②海角、岬	细节数据有	缺	词/c/cape.json
+50	51	sleep	v. 睡觉	细节数据有	缺	词/s/sleep.json
+50	52	slept	v. 睡	细节数据有	缺	词/s/slept.json
+50	53	sleepy	adj. 困的、想睡的	细节数据有	缺	词/s/sleepy.json
+50	54	sleepless	adj. 失眠的、不眠的	细节数据有	缺	词/s/sleepless.json
+50	55	asleep	adj. 睡着的	细节数据有	缺	词/a/asleep.json
+50	56	oversleep	v. 睡过头、睡过了点	细节数据有	缺	词/o/oversleep.json
+50	57	spirit	n. 精神、心灵；情绪	细节数据有	缺	词/s/spirit.json
+50	58	spiritual	adj. 精神上的、心灵的；宗教的	细节数据有	缺	词/s/spiritual.json
+50	59	inspire	v. 激励、鼓舞；给…灵感	细节数据有	缺	词/i/inspire.json
+50	60	inspired	adj. 绝妙的、有灵感的；受…启发的	细节数据有	缺	词/i/inspired.json
+50	61	inspiring	adj. 鼓舞人心的、启发人的	细节数据有	缺	词/i/inspiring.json
+50	62	inspiration	n. 灵感；鼓舞	细节数据有	缺	词/i/inspiration.json
+50	63	expire	v. 到期、失效；去世	细节数据有	缺	词/e/expire.json
+50	64	aspire	v. 渴望、立志	细节数据有	缺	词/a/aspire.json
+50	65	aspiration	n. 志向、抱负	细节数据有	缺	词/a/aspiration.json
+50	66	conspiracy	n. 阴谋、密谋	细节数据有	缺	词/c/conspiracy.json
+50	67	respiratory	adj. 呼吸的、呼吸系统的	细节数据有	缺	词/r/respiratory.json
+50	68	custom	n. 习惯	细节数据有	缺	词/c/custom.json
+50	69	customs	n. 海关	细节数据有	缺	词/c/customs.json
+50	70	customary	adj. 惯常的、合乎习俗的	细节数据有	缺	词/c/customary.json
+50	71	custom-made	adj. 定做的、定制的	细节数据有	缺	词/c/custom-made.json
+50	72	accustom	v. 使习惯于	细节数据有	缺	词/a/accustom.json
 50	73	customize	v. 定制、改制	缺	缺	
 50	74	customer	n. 顾客	缺	缺	
 50	75	costume	n. 服装、戏服	缺	缺	
