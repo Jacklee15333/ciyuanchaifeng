@@ -2789,31 +2789,31 @@
 35	69	voiceless	adj. 没有发言权的	细节数据有	缺	词/v/voiceless.json
 35	70	voice-activated	adj. 声控的、语音启动的	细节数据有	缺	词/v/voice-activated.json
 35	71	voice-controlled	adj. 声控的	细节数据有	缺	词/v/voice-controlled.json
-35	72	vocabulary	n. 词汇、词汇量	缺	缺	
-35	73	provoke	v. 激怒、挑衅	缺	缺	
-35	74	thought-provoking	adj. 发人深省的、引人深思的	缺	缺	
-35	75	vocation	n. 天职	缺	缺	
-35	76	vocational	adj. 职业的、职业技能的	缺	缺	
-35	77	epic	n. 史诗	缺	缺	
-35	78	park	n. 公园 v. 停放	缺	缺	
-36	1	difficult	adj. 困难的	缺	缺	
-36	2	difficulty	n. 困难	缺	缺	
-36	3	difficultly	adv. 困难地、费力地	缺	缺	
-36	4	benefit	n. 好处、益处；福利、救济金	缺	缺	
-36	5	benefactor	n. 捐助人、恩人	缺	缺	
-36	6	office	n. 办公室	缺	缺	
-36	7	official	n. (公司 adj. 官方的	缺	缺	
-36	8	officially	adv. 正式地；据官方说法	缺	缺	
-36	9	officer	n. 官员	缺	缺	
-36	10	office-like	adj. 像办公室的、办公室式的	缺	缺	
-36	11	efficient	adj. 效率高的、高效的；有能力的、干练的	缺	缺	
-36	12	efficiently	adv. 高效地、有效率地	缺	缺	
-36	13	efficiency	n. 效率	缺	缺	
-36	14	inefficient	adj. 效率低的、浪费的；无能的	缺	缺	
-36	15	energy-efficient	adj. 节能的、能效高的	缺	缺	
-36	16	profit	n. 利润、盈利；益处	缺	缺	
-36	17	nonprofit	adj. 非营利的	缺	缺	
-36	18	profitable	adj. 有利可图的、赚钱的；有益的	缺	缺	
+35	72	vocabulary	n. 词汇、词汇量	细节数据有	缺	词/v/vocabulary.json
+35	73	provoke	v. 激怒、挑衅	细节数据有	缺	词/p/provoke.json
+35	74	thought-provoking	adj. 发人深省的、引人深思的	细节数据有	缺	词/t/thought-provoking.json
+35	75	vocation	n. 天职	细节数据有	缺	词/v/vocation.json
+35	76	vocational	adj. 职业的、职业技能的	细节数据有	缺	词/v/vocational.json
+35	77	epic	n. 史诗	细节数据有	缺	词/e/epic.json
+35	78	park	n. 公园 v. 停放	细节数据有	缺	词/p/park.json
+36	1	difficult	adj. 困难的	细节数据有	缺	词/d/difficult.json
+36	2	difficulty	n. 困难	细节数据有	缺	词/d/difficulty.json
+36	3	difficultly	adv. 困难地、费力地	细节数据有	缺	词/d/difficultly.json
+36	4	benefit	n. 好处、益处；福利、救济金	细节数据有	缺	词/b/benefit.json
+36	5	benefactor	n. 捐助人、恩人	细节数据有	缺	词/b/benefactor.json
+36	6	office	n. 办公室	细节数据有	缺	词/o/office.json
+36	7	official	n. (公司 adj. 官方的	细节数据有	缺	词/o/official.json
+36	8	officially	adv. 正式地；据官方说法	细节数据有	缺	词/o/officially.json
+36	9	officer	n. 官员	细节数据有	缺	词/o/officer.json
+36	10	office-like	adj. 像办公室的、办公室式的	细节数据有	缺	词/o/office-like.json
+36	11	efficient	adj. 效率高的、高效的；有能力的、干练的	细节数据有	缺	词/e/efficient.json
+36	12	efficiently	adv. 高效地、有效率地	细节数据有	缺	词/e/efficiently.json
+36	13	efficiency	n. 效率	细节数据有	缺	词/e/efficiency.json
+36	14	inefficient	adj. 效率低的、浪费的；无能的	细节数据有	缺	词/i/inefficient.json
+36	15	energy-efficient	adj. 节能的、能效高的	细节数据有	缺	词/e/energy-efficient.json
+36	16	profit	n. 利润、盈利；益处	细节数据有	缺	词/p/profit.json
+36	17	nonprofit	adj. 非营利的	细节数据有	缺	词/n/nonprofit.json
+36	18	profitable	adj. 有利可图的、赚钱的；有益的	细节数据有	缺	词/p/profitable.json
 36	19	non-profit	adj. 非营利的	缺	缺	
 36	20	not-for-profit	adj. 非营利的	缺	缺	
 36	21	facility	n. 熟练、天赋	缺	缺	

@@ -253,6 +253,8 @@
 - unfair：词性转换写“fair n.集市”，应为 fair adj.公平的
 - guidelines：考点写“一般不可数，不加 s”，但 guidelines 本身就是 guideline 的复数，可数
 - online：变形写“比较级 more online、最高级 most online”，online 一般不分等级
+- vocabulary：考点写“不可数，没有复数”，但可说 a large vocabulary、vocabularies（可数）；不说 many vocabularies 是指“很多单词”
+- official：初中含义写成“n. (公司 adj. 官方的”，括号残缺
 
 ## 总表里出现两次的词（细节数据按单词存一份，两行共用；出题时两个意思都要考到）
 
