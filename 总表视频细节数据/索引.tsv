@@ -5075,32 +5075,32 @@
 65	9	regard	v. 把…看作；注视 n. 尊重、敬意	细节数据有	缺	词/r/regard.json
 65	10	regards	n. 问候、致意	细节数据有	缺	词/r/regards.json
 65	11	regarding	prep. 关于	细节数据有	缺	词/r/regarding.json
-65	12	regardless	adv. 不管怎样；无论如何	缺	缺	
-65	13	guarantee	n. 保证	缺	缺	
-65	14	award	n. 奖品 v. 授予	缺	缺	
-65	15	award-winning	adj. 获奖的	缺	缺	
-65	16	reward	n. 报酬；奖赏	缺	缺	
-65	17	rewarding	adj. 值得做的；有意义的	缺	缺	
-65	18	ward	n. 病房；被监护人 v. 防止	缺	缺	
-65	19	wardrobe	n. 衣柜	缺	缺	
-65	20	garment	n. 衣服、服装	缺	缺	
-65	21	garnish	v. 给加配菜、装饰	缺	缺	
-65	22	garage	n. 车库	缺	缺	
-65	23	software	n. 软件	缺	缺	
-65	24	warehouse	n. 仓库；货栈	缺	缺	
-65	25	hardware	n. 五金器具	缺	缺	
-65	26	firmware	n. 固件	缺	缺	
-65	27	ware	n. 货物、商品	缺	缺	
-65	28	revere	v. 崇敬	缺	缺	
+65	12	regardless	adv. 不管怎样；无论如何	细节数据有	缺	词/r/regardless.json
+65	13	guarantee	n. 保证	细节数据有	缺	词/g/guarantee.json
+65	14	award	n. 奖品 v. 授予	细节数据有	缺	词/a/award.json
+65	15	award-winning	adj. 获奖的	细节数据有	缺	词/a/award-winning.json
+65	16	reward	n. 报酬；奖赏	细节数据有	缺	词/r/reward.json
+65	17	rewarding	adj. 值得做的；有意义的	细节数据有	缺	词/r/rewarding.json
+65	18	ward	n. 病房；被监护人 v. 防止	细节数据有	缺	词/w/ward.json
+65	19	wardrobe	n. 衣柜	细节数据有	缺	词/w/wardrobe.json
+65	20	garment	n. 衣服、服装	细节数据有	缺	词/g/garment.json
+65	21	garnish	v. 给加配菜、装饰	细节数据有	缺	词/g/garnish.json
+65	22	garage	n. 车库	细节数据有	缺	词/g/garage.json
+65	23	software	n. 软件	细节数据有	缺	词/s/software.json
+65	24	warehouse	n. 仓库；货栈	细节数据有	缺	词/w/warehouse.json
+65	25	hardware	n. 五金器具	细节数据有	缺	词/h/hardware.json
+65	26	firmware	n. 固件	细节数据有	缺	词/f/firmware.json
+65	27	ware	n. 货物、商品	细节数据有	缺	词/w/ware.json
+65	28	revere	v. 崇敬	细节数据有	缺	词/r/revere.json
 65	29	itself	pron. 它自己	总表有	kit有（7A-U4）	
-65	30	self	n. 自我；本性	缺	缺	
-65	31	selfish	adj. 自私的	缺	缺	
-65	32	selfishness	n. 自私	缺	缺	
-65	33	selfless	adj. 无私的；忘我的	缺	缺	
-65	34	self-expression	n. 自我表达	缺	缺	
-65	35	self-introduction	n. 自我介绍	缺	缺	
-65	36	self-discipline	n. 自律	缺	缺	
-65	37	self-driving	adj. 自动驾驶的	缺	缺	
+65	30	self	n. 自我；本性	细节数据有	缺	词/s/self.json
+65	31	selfish	adj. 自私的	细节数据有	缺	词/s/selfish.json
+65	32	selfishness	n. 自私	细节数据有	缺	词/s/selfishness.json
+65	33	selfless	adj. 无私的；忘我的	细节数据有	缺	词/s/selfless.json
+65	34	self-expression	n. 自我表达	细节数据有	缺	词/s/self-expression.json
+65	35	self-introduction	n. 自我介绍	细节数据有	缺	词/s/self-introduction.json
+65	36	self-discipline	n. 自律	细节数据有	缺	词/s/self-discipline.json
+65	37	self-driving	adj. 自动驾驶的	细节数据有	缺	词/s/self-driving.json
 65	38	self-control	n. 自制力	缺	缺	
 65	39	self-belief	n. 自信	缺	缺	
 65	40	self-talk	n. 自我暗示	缺	缺	
