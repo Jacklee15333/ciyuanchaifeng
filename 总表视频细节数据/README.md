@@ -179,6 +179,7 @@
 | 2026-11-20 | 题目第 65 批第 2 组 | 25 | crash … shady（体检全部 0 个问题；lantern、froze、freezer、unfrozen、frostbite、homeless、homey、homesickness、shadow、shadowy、shade 出题时自查到答案是原形超过 1 道，改过再存）。累计 6124 个词有题目 |
 | 2026-11-20 | 题目第 65 批第 3 组 | 25 | coin … kilometric（体检全部 0 个问题；soup、bark、drastic、sculpture、five-hundred-metre、kilometer 出题时自查到答案是原形超过 1 道，改过再存）。累计 6149 个词有题目 |
 | 2026-11-20 | 题目第 65 批第 4 组 | 25 | centimetre … skinned（体检全部 0 个问题；millimeter、measure、moon、moonlight、month、monthly、shelf、British、skin、skinned 出题时自查到答案是原形超过 1 道，改过再存）。累计 6174 个词有题目 |
+| 2026-11-20 | 题目第 66 批第 1 组 | 25 | skinny … theatre（体检全部 0 个问题；skinny、tan、sugary、ugly、bush、steel、operatic、operation、operational 出题时自查到答案是原形超过 1 道，改过再存）。累计 6199 个词有题目 |
 | 2026-11-19 | 试做 truly | 0 | 只用自带素材加表情图拼画面：起草检查不通过（表情图要换成写实插图、每幅画都要动、小图标要自己画）。结论：多数词要专门画插图，每个词的工作量和 7A-U4 一样；全表 9299 个词做不完，要先定先做哪些（等用户定） |
 
 ## 总表里看着不对的地方（出题时绕开了，以后用维护技能核对）
@@ -606,6 +607,8 @@
 - frozen / freezing / homeless：变形写成比较级 more frozen、more freezing、more homeless；这几个词表示绝对状态，一般不用比较级
 - bark：初中含义写“n. 狗叫声”，变形却只列动词形式；初中常用的是动词“（狗）叫”
 - Britain / British / Briton：复数和比较级写成小写 britains、more british、britons；国名 Britain 没有复数，British 没有比较级，Briton 复数应大写 Britons
+- cooperation：变形写成复数 cooperations，“合作”一般不可数
+- tanned-skinned：这种写法不规范，“形容词＋名词-ed”的复合词前一半用形容词原形，应为 tan-skinned；sun-skinned 也是临时组合，常用 suntanned
 
 ## 总表里出现两次的词（细节数据按单词存一份，两行共用；出题时两个意思都要考到）
 

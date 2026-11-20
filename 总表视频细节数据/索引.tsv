@@ -6205,31 +6205,31 @@
 84	29	Briton	n. 英国人；古代不列颠人	细节数据有	缺	词/b/Briton.json
 84	30	skin	n. 皮肤	细节数据有	缺	词/s/skin.json
 84	31	skinned	adj. 去了皮的	细节数据有	缺	词/s/skinned.json
-84	32	skinny	adj. 极瘦的、皮包骨的	缺	缺	
-84	33	sun-skinned	adj. 皮肤被晒黑的	缺	缺	
-84	34	tanned-skinned	adj. 皮肤黝黑的、晒成古铜色的	缺	缺	
-84	35	tan	v. 晒黑；鞣 adj. 黄褐色的、棕褐色的	缺	缺	
-84	36	sugar	n. 糖	缺	缺	
-84	37	sugary	adj. 含糖多的、甜的	缺	缺	
-84	38	sugar-free	adj. 无糖的	缺	缺	
-84	39	ugly	adj. 丑陋的、难看的；令人不快的、凶险的	缺	缺	
-84	40	ugliness	n. 丑陋	缺	缺	
-84	41	bush	n. 灌木、灌木丛	缺	缺	
-84	42	bushy	adj. 灌木丛生的	缺	缺	
-84	43	bouquet	n. 花束	缺	缺	
-84	44	steel	n. 钢 v. 使坚强	缺	缺	
-84	45	steely	adj. 钢青色的	缺	缺	
-84	46	opera	n. 歌剧	缺	缺	
-84	47	operatic	adj. 歌剧的	缺	缺	
-84	48	operate	v. 动手术；操作	缺	缺	
-84	49	operator	n. 经营者、运营商	缺	缺	
-84	50	operation	n. 手术	缺	缺	
-84	51	operational	adj. 运作上的、业务上的；可投入使用的	缺	缺	
-84	52	cooperate	v. 合作、协作	缺	缺	
-84	53	cooperation	n. 合作、协作	缺	缺	
-84	54	cooperative	adj. 合作的、肯配合的	缺	缺	
-84	55	crop	n. 庄稼、作物；收成 v. 剪短、裁切	缺	缺	
-84	56	theatre	n. 剧场	缺	缺	
+84	32	skinny	adj. 极瘦的、皮包骨的	细节数据有	缺	词/s/skinny.json
+84	33	sun-skinned	adj. 皮肤被晒黑的	细节数据有	缺	词/s/sun-skinned.json
+84	34	tanned-skinned	adj. 皮肤黝黑的、晒成古铜色的	细节数据有	缺	词/t/tanned-skinned.json
+84	35	tan	v. 晒黑；鞣 adj. 黄褐色的、棕褐色的	细节数据有	缺	词/t/tan.json
+84	36	sugar	n. 糖	细节数据有	缺	词/s/sugar.json
+84	37	sugary	adj. 含糖多的、甜的	细节数据有	缺	词/s/sugary.json
+84	38	sugar-free	adj. 无糖的	细节数据有	缺	词/s/sugar-free.json
+84	39	ugly	adj. 丑陋的、难看的；令人不快的、凶险的	细节数据有	缺	词/u/ugly.json
+84	40	ugliness	n. 丑陋	细节数据有	缺	词/u/ugliness.json
+84	41	bush	n. 灌木、灌木丛	细节数据有	缺	词/b/bush.json
+84	42	bushy	adj. 灌木丛生的	细节数据有	缺	词/b/bushy.json
+84	43	bouquet	n. 花束	细节数据有	缺	词/b/bouquet.json
+84	44	steel	n. 钢 v. 使坚强	细节数据有	缺	词/s/steel.json
+84	45	steely	adj. 钢青色的	细节数据有	缺	词/s/steely.json
+84	46	opera	n. 歌剧	细节数据有	缺	词/o/opera.json
+84	47	operatic	adj. 歌剧的	细节数据有	缺	词/o/operatic.json
+84	48	operate	v. 动手术；操作	细节数据有	缺	词/o/operate.json
+84	49	operator	n. 经营者、运营商	细节数据有	缺	词/o/operator.json
+84	50	operation	n. 手术	细节数据有	缺	词/o/operation.json
+84	51	operational	adj. 运作上的、业务上的；可投入使用的	细节数据有	缺	词/o/operational.json
+84	52	cooperate	v. 合作、协作	细节数据有	缺	词/c/cooperate.json
+84	53	cooperation	n. 合作、协作	细节数据有	缺	词/c/cooperation.json
+84	54	cooperative	adj. 合作的、肯配合的	细节数据有	缺	词/c/cooperative.json
+84	55	crop	n. 庄稼、作物；收成 v. 剪短、裁切	细节数据有	缺	词/c/crop.json
+84	56	theatre	n. 剧场	细节数据有	缺	词/t/theatre.json
 84	57	theater	n. 剧场	缺	缺	
 84	58	theatrical	adj. 戏剧的、剧场的；夸张的、做作的	缺	缺	
 84	59	theatrically	adv. 戏剧上、在演出方面；夸张地、做作地	缺	缺	
