@@ -5427,31 +5427,31 @@
 70	2	e-ticket	n. 电子票、电子客票	细节数据有	缺	词/e/e-ticket.json
 70	3	etiquette	n. 礼节、礼仪	细节数据有	缺	词/e/etiquette.json
 70	4	stick	n. 木棒 v. 坚持	细节数据有	缺	词/s/stick.json
-70	5	stuck	adj. 被卡住的	缺	缺	
-70	6	sticker	n. 贴纸、不干胶标签	缺	缺	
-70	7	sticky	adj. 黏的；棘手的	缺	缺	
-70	8	stitch	v. 缝	缺	缺	
-70	9	chopstick	n. 筷子	缺	缺	
-70	10	chopsticks	n. 筷子	缺	缺	
-70	11	steak	n. 牛排	缺	缺	
-70	12	level	n. 水平线	缺	缺	
-70	13	nano-level	n. 纳米级	缺	缺	
-70	14	deliberate	adj. 深思熟虑的；从容的	缺	缺	
-70	15	deliberately	adv. 故意地；从容不迫地、慢条斯理地	缺	缺	
-70	16	harm	n. 伤害	缺	缺	
-70	17	harmful	adj. 有害的	缺	缺	
-70	18	harmless	adj. 无害的	缺	缺	
-70	19	harmed	adj. 受到伤害的 v. 过去分词	缺	缺	
-70	20	unharmed	adj. 未受伤害的、安然无恙的	缺	缺	
-70	21	poem	n. 诗	缺	缺	
-70	22	poet	n. 诗人	缺	缺	
-70	23	poetry	n. 诗歌、诗	缺	缺	
-70	24	poetic	adj. 诗的、诗歌的	缺	缺	
-70	25	foot	n. 足；英尺	缺	缺	
-70	26	feet	n. 脚；英尺	缺	缺	
-70	27	footprint	n. 脚印、足迹	缺	缺	
-70	28	footstep	n. 脚步	缺	缺	
-70	29	foot-tapping	n. 用脚打拍子	缺	缺	
+70	5	stuck	adj. 被卡住的	细节数据有	缺	词/s/stuck.json
+70	6	sticker	n. 贴纸、不干胶标签	细节数据有	缺	词/s/sticker.json
+70	7	sticky	adj. 黏的；棘手的	细节数据有	缺	词/s/sticky.json
+70	8	stitch	v. 缝	细节数据有	缺	词/s/stitch.json
+70	9	chopstick	n. 筷子	细节数据有	缺	词/c/chopstick.json
+70	10	chopsticks	n. 筷子	细节数据有	缺	词/c/chopsticks.json
+70	11	steak	n. 牛排	细节数据有	缺	词/s/steak.json
+70	12	level	n. 水平线	细节数据有	缺	词/l/level.json
+70	13	nano-level	n. 纳米级	细节数据有	缺	词/n/nano-level.json
+70	14	deliberate	adj. 深思熟虑的；从容的	细节数据有	缺	词/d/deliberate.json
+70	15	deliberately	adv. 故意地；从容不迫地、慢条斯理地	细节数据有	缺	词/d/deliberately.json
+70	16	harm	n. 伤害	细节数据有	缺	词/h/harm.json
+70	17	harmful	adj. 有害的	细节数据有	缺	词/h/harmful.json
+70	18	harmless	adj. 无害的	细节数据有	缺	词/h/harmless.json
+70	19	harmed	adj. 受到伤害的 v. 过去分词	细节数据有	缺	词/h/harmed.json
+70	20	unharmed	adj. 未受伤害的、安然无恙的	细节数据有	缺	词/u/unharmed.json
+70	21	poem	n. 诗	细节数据有	缺	词/p/poem.json
+70	22	poet	n. 诗人	细节数据有	缺	词/p/poet.json
+70	23	poetry	n. 诗歌、诗	细节数据有	缺	词/p/poetry.json
+70	24	poetic	adj. 诗的、诗歌的	细节数据有	缺	词/p/poetic.json
+70	25	foot	n. 足；英尺	细节数据有	缺	词/f/foot.json
+70	26	feet	n. 脚；英尺	细节数据有	缺	词/f/feet.json
+70	27	footprint	n. 脚印、足迹	细节数据有	缺	词/f/footprint.json
+70	28	footstep	n. 脚步	细节数据有	缺	词/f/footstep.json
+70	29	foot-tapping	n. 用脚打拍子	细节数据有	缺	词/f/foot-tapping.json
 70	30	footage	n. 片段、镜头	缺	缺	
 70	31	100-foot-tall	adj. 高的	缺	缺	
 70	32	footman	n. 男仆、侍从；步兵	缺	缺	
