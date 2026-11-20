@@ -5252,31 +5252,31 @@
 67	23	prestige	n. 声望、威望	细节数据有	缺	词/p/prestige.json
 67	24	prestigious	adj. 有声望的、一流的	细节数据有	缺	词/p/prestigious.json
 67	25	strict	adj. 严格的	细节数据有	缺	词/s/strict.json
-67	26	strictly	adv. 严格地；完全、仅	缺	缺	
-67	27	restriction	n. 限制、限定	缺	缺	
-67	28	restrict	v. 限制、限定	缺	缺	
-67	29	restrictive	adj. 限制性的、约束性的	缺	缺	
-67	30	district	n. 区、地区	缺	缺	
-67	31	constrain	v. 限制、约束；强迫	缺	缺	
-67	32	constraint	n. 限制、约束条件	缺	缺	
-67	33	strain	v. 拉伤；使劲、竭力 n. 负担、重压	缺	缺	
-67	34	strait	n. 海峡	缺	缺	
-67	35	tower	n. 塔	缺	缺	
-67	36	towering	adj. 高耸的；杰出的	缺	缺	
-67	37	towery	adj. 高耸的	缺	缺	
-67	38	watchtower	n. 瞭望塔、岗楼	缺	缺	
-67	39	tower-building	n. 建塔、建造高楼	缺	缺	
-67	40	tower-shaped	adj. 塔形的	缺	缺	
-67	41	electric	adj. 电的	缺	缺	
-67	42	electricity	n. 电	缺	缺	
-67	43	electrical	adj. 电的、电气的	缺	缺	
-67	44	electrician	n. 电工	缺	缺	
-67	45	electronic	adj. 电子的	缺	缺	
-67	46	electronics	n. 电子学	缺	缺	
-67	47	electronically	adv. 用电子方式、通过电子手段	缺	缺	
-67	48	mini-electric	adj. 小型电动的	缺	缺	
-67	49	electrolyte	n. 电解质、电解液	缺	缺	
-67	50	electrochemical	adj. 电化学的	缺	缺	
+67	26	strictly	adv. 严格地；完全、仅	细节数据有	缺	词/s/strictly.json
+67	27	restriction	n. 限制、限定	细节数据有	缺	词/r/restriction.json
+67	28	restrict	v. 限制、限定	细节数据有	缺	词/r/restrict.json
+67	29	restrictive	adj. 限制性的、约束性的	细节数据有	缺	词/r/restrictive.json
+67	30	district	n. 区、地区	细节数据有	缺	词/d/district.json
+67	31	constrain	v. 限制、约束；强迫	细节数据有	缺	词/c/constrain.json
+67	32	constraint	n. 限制、约束条件	细节数据有	缺	词/c/constraint.json
+67	33	strain	v. 拉伤；使劲、竭力 n. 负担、重压	细节数据有	缺	词/s/strain.json
+67	34	strait	n. 海峡	细节数据有	缺	词/s/strait.json
+67	35	tower	n. 塔	细节数据有	缺	词/t/tower.json
+67	36	towering	adj. 高耸的；杰出的	细节数据有	缺	词/t/towering.json
+67	37	towery	adj. 高耸的	细节数据有	缺	词/t/towery.json
+67	38	watchtower	n. 瞭望塔、岗楼	细节数据有	缺	词/w/watchtower.json
+67	39	tower-building	n. 建塔、建造高楼	细节数据有	缺	词/t/tower-building.json
+67	40	tower-shaped	adj. 塔形的	细节数据有	缺	词/t/tower-shaped.json
+67	41	electric	adj. 电的	细节数据有	缺	词/e/electric.json
+67	42	electricity	n. 电	细节数据有	缺	词/e/electricity.json
+67	43	electrical	adj. 电的、电气的	细节数据有	缺	词/e/electrical.json
+67	44	electrician	n. 电工	细节数据有	缺	词/e/electrician.json
+67	45	electronic	adj. 电子的	细节数据有	缺	词/e/electronic.json
+67	46	electronics	n. 电子学	细节数据有	缺	词/e/electronics.json
+67	47	electronically	adv. 用电子方式、通过电子手段	细节数据有	缺	词/e/electronically.json
+67	48	mini-electric	adj. 小型电动的	细节数据有	缺	词/m/mini-electric.json
+67	49	electrolyte	n. 电解质、电解液	细节数据有	缺	词/e/electrolyte.json
+67	50	electrochemical	adj. 电化学的	细节数据有	缺	词/e/electrochemical.json
 67	51	electrode	n. 电极	缺	缺	
 67	52	electromagnetic	adj. 电磁的	缺	缺	
 67	53	electrochemically	adv. 用电化学方法	缺	缺	
