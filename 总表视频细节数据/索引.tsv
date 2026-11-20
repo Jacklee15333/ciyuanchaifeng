@@ -5854,31 +5854,31 @@
 77	47	brainchild	n. 首创的主意、计划	细节数据有	缺	词/b/brainchild.json
 77	48	brainstorm	v. 集体讨论、头脑风暴	细节数据有	缺	词/b/brainstorm.json
 77	49	brainwave	n. 灵机一动、突然想到的好主意；脑电波	细节数据有	缺	词/b/brainwave.json
-77	50	budget	n. 预算 adj. 廉价的、经济型的	缺	缺	
-77	51	low-budget	adj. 低成本的、小成本的	缺	缺	
-77	52	bulge	n. 鼓起、凸起	缺	缺	
-77	53	charity	n. 慈善	缺	缺	
-77	54	cherish	v. 珍爱、爱护	缺	缺	
-77	55	charitable	adj. 慈善的；宽厚的、宽容的	缺	缺	
-77	56	charitably	adv. 宽厚地、善意地	缺	缺	
-77	57	hug	v. 拥抱	缺	缺	
-77	58	pool	n. 水塘	缺	缺	
-77	59	attack	v. 进攻	缺	缺	
-77	60	attach	v. 系上、贴上；使隶属	缺	缺	
-78	1	trap	n. 陷阱、捕捉器；圈套 v. 困住	缺	缺	
-78	2	limit	n. 限度、极限	缺	缺	
-78	3	limited	adj. 有限的	缺	缺	
-78	4	limitation	n. 限制	缺	缺	
-78	5	unlimited	adj. 无限的、不受限制的	缺	缺	
-78	6	eliminate	v. 消除、根除；淘汰	缺	缺	
-78	7	elimination	n. 消除、排除；淘汰	缺	缺	
-78	8	polite	adj. 有礼貌的	缺	缺	
-78	9	politely	adv. 有礼貌地	缺	缺	
-78	10	impolite	adj. 不礼貌的、失礼的	缺	缺	
-78	11	impolitely	adv. 不礼貌地、失礼地	缺	缺	
-78	12	politeness	n. 礼貌、客气	缺	缺	
-78	13	impoliteness	n. 无礼、失礼	缺	缺	
-78	14	polish	v. 擦亮、磨光；润色、完善 n. 精致、优雅	缺	缺	
+77	50	budget	n. 预算 adj. 廉价的、经济型的	细节数据有	缺	词/b/budget.json
+77	51	low-budget	adj. 低成本的、小成本的	细节数据有	缺	词/l/low-budget.json
+77	52	bulge	n. 鼓起、凸起	细节数据有	缺	词/b/bulge.json
+77	53	charity	n. 慈善	细节数据有	缺	词/c/charity.json
+77	54	cherish	v. 珍爱、爱护	细节数据有	缺	词/c/cherish.json
+77	55	charitable	adj. 慈善的；宽厚的、宽容的	细节数据有	缺	词/c/charitable.json
+77	56	charitably	adv. 宽厚地、善意地	细节数据有	缺	词/c/charitably.json
+77	57	hug	v. 拥抱	细节数据有	缺	词/h/hug.json
+77	58	pool	n. 水塘	细节数据有	缺	词/p/pool.json
+77	59	attack	v. 进攻	细节数据有	缺	词/a/attack.json
+77	60	attach	v. 系上、贴上；使隶属	细节数据有	缺	词/a/attach.json
+78	1	trap	n. 陷阱、捕捉器；圈套 v. 困住	细节数据有	缺	词/t/trap.json
+78	2	limit	n. 限度、极限	细节数据有	缺	词/l/limit.json
+78	3	limited	adj. 有限的	细节数据有	缺	词/l/limited.json
+78	4	limitation	n. 限制	细节数据有	缺	词/l/limitation.json
+78	5	unlimited	adj. 无限的、不受限制的	细节数据有	缺	词/u/unlimited.json
+78	6	eliminate	v. 消除、根除；淘汰	细节数据有	缺	词/e/eliminate.json
+78	7	elimination	n. 消除、排除；淘汰	细节数据有	缺	词/e/elimination.json
+78	8	polite	adj. 有礼貌的	细节数据有	缺	词/p/polite.json
+78	9	politely	adv. 有礼貌地	细节数据有	缺	词/p/politely.json
+78	10	impolite	adj. 不礼貌的、失礼的	细节数据有	缺	词/i/impolite.json
+78	11	impolitely	adv. 不礼貌地、失礼地	细节数据有	缺	词/i/impolitely.json
+78	12	politeness	n. 礼貌、客气	细节数据有	缺	词/p/politeness.json
+78	13	impoliteness	n. 无礼、失礼	细节数据有	缺	词/i/impoliteness.json
+78	14	polish	v. 擦亮、磨光；润色、完善 n. 精致、优雅	细节数据有	缺	词/p/polish.json
 78	15	polished	adj. 擦亮的、锃亮的	缺	缺	
 78	16	pain	n. 疼痛	缺	缺	
 78	17	painful	adj. 疼痛的	缺	缺	
