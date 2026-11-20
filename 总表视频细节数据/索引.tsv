@@ -1932,31 +1932,31 @@
 25	14	parachute	n. 降落伞 v. 空投	细节数据有	缺	词/p/parachute.json
 25	15	several	adj. 几个	细节数据有	缺	词/s/several.json
 25	16	separate	v. 分开、隔开 adj. 不同的	细节数据有	缺	词/s/separate.json
-25	17	separately	adv. 分开地、分别地	缺	缺	
-25	18	separation	n. 分离、分开；间隔	缺	缺	
-25	19	inseparable	adj. 分不开的、不可分割的	缺	缺	
-25	20	emperor	n. 皇帝	缺	缺	
-25	21	empress	n. 女皇	缺	缺	
-25	22	empire	n. 帝国	缺	缺	
-25	23	imperial	adj. 帝国的、皇帝的	缺	缺	
-25	24	imperative	n. 必须做的事	缺	缺	
-25	25	move	v. 移动；搬家	缺	缺	
-25	26	moving	adj. 感人的、动人的 n. 搬家	缺	缺	
-25	27	movement	n. 动作、活动；乐章	缺	缺	
-25	28	movable	adj. 可移动的、活动的	缺	缺	
-25	29	unmoving	adj. 一动不动的、静止的	缺	缺	
-25	30	remove	v. 移开、拿走；去除	缺	缺	
-25	31	removal	n. 移除、去除；免职	缺	缺	
-25	32	movie	n. 电影	缺	缺	
-25	33	post-movie	adj. 看完电影之后的	缺	缺	
-25	34	movie-like	adj. 像电影般的	缺	缺	
-25	35	movie-making	n. 电影制作、拍电影	缺	缺	
-25	36	moment	n. 片刻	缺	缺	
-25	37	momentary	adj. 短暂的、瞬间的	缺	缺	
-25	38	momentous	adj. 重大的、意义深远的	缺	缺	
-25	39	mobile	adj. 可移动的、流动的	缺	缺	
-25	40	mobilize	v. 动员；把组织起来	缺	缺	
-25	41	emotion	n. 感情、情绪；激动	缺	缺	
+25	17	separately	adv. 分开地、分别地	细节数据有	缺	词/s/separately.json
+25	18	separation	n. 分离、分开；间隔	细节数据有	缺	词/s/separation.json
+25	19	inseparable	adj. 分不开的、不可分割的	细节数据有	缺	词/i/inseparable.json
+25	20	emperor	n. 皇帝	细节数据有	缺	词/e/emperor.json
+25	21	empress	n. 女皇	细节数据有	缺	词/e/empress.json
+25	22	empire	n. 帝国	细节数据有	缺	词/e/empire.json
+25	23	imperial	adj. 帝国的、皇帝的	细节数据有	缺	词/i/imperial.json
+25	24	imperative	n. 必须做的事	细节数据有	缺	词/i/imperative.json
+25	25	move	v. 移动；搬家	细节数据有	缺	词/m/move.json
+25	26	moving	adj. 感人的、动人的 n. 搬家	细节数据有	缺	词/m/moving.json
+25	27	movement	n. 动作、活动；乐章	细节数据有	缺	词/m/movement.json
+25	28	movable	adj. 可移动的、活动的	细节数据有	缺	词/m/movable.json
+25	29	unmoving	adj. 一动不动的、静止的	细节数据有	缺	词/u/unmoving.json
+25	30	remove	v. 移开、拿走；去除	细节数据有	缺	词/r/remove.json
+25	31	removal	n. 移除、去除；免职	细节数据有	缺	词/r/removal.json
+25	32	movie	n. 电影	细节数据有	缺	词/m/movie.json
+25	33	post-movie	adj. 看完电影之后的	细节数据有	缺	词/p/post-movie.json
+25	34	movie-like	adj. 像电影般的	细节数据有	缺	词/m/movie-like.json
+25	35	movie-making	n. 电影制作、拍电影	细节数据有	缺	词/m/movie-making.json
+25	36	moment	n. 片刻	细节数据有	缺	词/m/moment.json
+25	37	momentary	adj. 短暂的、瞬间的	细节数据有	缺	词/m/momentary.json
+25	38	momentous	adj. 重大的、意义深远的	细节数据有	缺	词/m/momentous.json
+25	39	mobile	adj. 可移动的、流动的	细节数据有	缺	词/m/mobile.json
+25	40	mobilize	v. 动员；把组织起来	细节数据有	缺	词/m/mobilize.json
+25	41	emotion	n. 感情、情绪；激动	细节数据有	缺	词/e/emotion.json
 25	42	emotional	adj. 感情上的、情绪的	缺	缺	
 25	43	emotionally	adv. 情感上、情绪上；激动地	缺	缺	
 25	44	promote	v. 提升、晋升；促进、推动	缺	缺	
