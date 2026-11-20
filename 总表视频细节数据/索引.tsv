@@ -3844,31 +3844,31 @@
 49	4	unfriendly	adj. 不友好的；冷淡的	细节数据有	缺	词/u/unfriendly.json
 49	5	friendliness	n. 友好	细节数据有	缺	词/f/friendliness.json
 49	6	befriend	v. 帮助、照顾	细节数据有	缺	词/b/befriend.json
-49	7	e-friend	n. 网友	缺	缺	
-49	8	boyfriend	n. 男朋友	缺	缺	
-49	9	penfriend	n. 笔友（英式	缺	缺	
-49	10	user-friendly	adj. 容易操作的	缺	缺	
-49	11	free	adj. 自由的；免费的	缺	缺	
-49	12	freedom	n. 自由	缺	缺	
-49	13	freely	adv. 自由地；无拘束地	缺	缺	
-49	14	freelance	adj. 自由职业的	缺	缺	
-49	15	freelancer	n. 自由职业者	缺	缺	
-49	16	mark	n. 记号、标记；痕迹、污迹 v. 批改	缺	缺	
-49	17	marker	n. 记号笔、马克笔	缺	缺	
-49	18	marking	n. 评分	缺	缺	
-49	19	markings	n. 斑纹、花纹；标志	缺	缺	
-49	20	remarkable	adj. 非凡的；了不起的	缺	缺	
-49	21	remark	n. 话；评论	缺	缺	
-49	22	landmark	n. 地标；里程碑式的事件	缺	缺	
-49	23	watermark	n. 水位线	缺	缺	
-49	24	search	v. 搜寻	缺	缺	
-49	25	searcher	n. 搜寻者	缺	缺	
-49	26	research	n. 研究；调查	缺	缺	
-49	27	researcher	n. 研究人员	缺	缺	
-49	28	searchable	adj. 可搜索的	缺	缺	
-49	29	circle	n. 圆；圈子 v. 环绕、盘旋	缺	缺	
-49	30	circular	adj. 圆的；环形的	缺	缺	
-49	31	encircle	v. 环绕；包围	缺	缺	
+49	7	e-friend	n. 网友	细节数据有	缺	词/e/e-friend.json
+49	8	boyfriend	n. 男朋友	细节数据有	缺	词/b/boyfriend.json
+49	9	penfriend	n. 笔友（英式	细节数据有	缺	词/p/penfriend.json
+49	10	user-friendly	adj. 容易操作的	细节数据有	缺	词/u/user-friendly.json
+49	11	free	adj. 自由的；免费的	细节数据有	缺	词/f/free.json
+49	12	freedom	n. 自由	细节数据有	缺	词/f/freedom.json
+49	13	freely	adv. 自由地；无拘束地	细节数据有	缺	词/f/freely.json
+49	14	freelance	adj. 自由职业的	细节数据有	缺	词/f/freelance.json
+49	15	freelancer	n. 自由职业者	细节数据有	缺	词/f/freelancer.json
+49	16	mark	n. 记号、标记；痕迹、污迹 v. 批改	细节数据有	缺	词/m/mark.json
+49	17	marker	n. 记号笔、马克笔	细节数据有	缺	词/m/marker.json
+49	18	marking	n. 评分	细节数据有	缺	词/m/marking.json
+49	19	markings	n. 斑纹、花纹；标志	细节数据有	缺	词/m/markings.json
+49	20	remarkable	adj. 非凡的；了不起的	细节数据有	缺	词/r/remarkable.json
+49	21	remark	n. 话；评论	细节数据有	缺	词/r/remark.json
+49	22	landmark	n. 地标；里程碑式的事件	细节数据有	缺	词/l/landmark.json
+49	23	watermark	n. 水位线	细节数据有	缺	词/w/watermark.json
+49	24	search	v. 搜寻	细节数据有	缺	词/s/search.json
+49	25	searcher	n. 搜寻者	细节数据有	缺	词/s/searcher.json
+49	26	research	n. 研究；调查	细节数据有	缺	词/r/research.json
+49	27	researcher	n. 研究人员	细节数据有	缺	词/r/researcher.json
+49	28	searchable	adj. 可搜索的	细节数据有	缺	词/s/searchable.json
+49	29	circle	n. 圆；圈子 v. 环绕、盘旋	细节数据有	缺	词/c/circle.json
+49	30	circular	adj. 圆的；环形的	细节数据有	缺	词/c/circular.json
+49	31	encircle	v. 环绕；包围	细节数据有	缺	词/e/encircle.json
 49	32	circuit	n. 电路；环形跑道、赛车场	缺	缺	
 49	33	circulate	v. 循环；流通	缺	缺	
 49	34	circulation	n. 循环；流通	缺	缺	
