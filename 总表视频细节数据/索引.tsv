@@ -5201,32 +5201,32 @@
 66	55	co-authored	adj. 合著的	细节数据有	缺	词/c/co-authored.json
 66	56	auction	n. 拍卖	细节数据有	缺	词/a/auction.json
 66	57	authority	n. 权力、职权；可信的依据	细节数据有	缺	词/a/authority.json
-66	58	authorized	adj. 经授权的、获准的	缺	缺	
-66	59	unauthorized	adj. 未经授权的、未经许可的	缺	缺	
-66	60	August	n. 八月	缺	缺	
-66	61	augment	v. 增加、扩大	缺	缺	
-66	62	blank	adj. 空白的；茫然的	缺	缺	
-66	63	blanket	n. 毯子	缺	缺	
-66	64	recent	adj. 近来的	缺	缺	
-66	65	recently	adv. 最近	缺	缺	
-66	66	hot	adj. 热的；辣的	缺	缺	
-66	67	heat	n. 热度	缺	缺	
+66	58	authorized	adj. 经授权的、获准的	细节数据有	缺	词/a/authorized.json
+66	59	unauthorized	adj. 未经授权的、未经许可的	细节数据有	缺	词/u/unauthorized.json
+66	60	August	n. 八月	细节数据有	缺	词/a/August.json
+66	61	augment	v. 增加、扩大	细节数据有	缺	词/a/augment.json
+66	62	blank	adj. 空白的；茫然的	细节数据有	缺	词/b/blank.json
+66	63	blanket	n. 毯子	细节数据有	缺	词/b/blanket.json
+66	64	recent	adj. 近来的	细节数据有	缺	词/r/recent.json
+66	65	recently	adv. 最近	细节数据有	缺	词/r/recently.json
+66	66	hot	adj. 热的；辣的	细节数据有	缺	词/h/hot.json
+66	67	heat	n. 热度	细节数据有	缺	词/h/heat.json
 66	68	heating	n. 供暖、暖气	总表有	kit有（7A-U4）	
-66	69	heated	adj. 加热的、有暖气的；激烈的、激动的	缺	缺	
-66	70	heater	n. 加热器、取暖器	缺	缺	
-66	71	overheat	v. 过热	缺	缺	
-66	72	heatwave	n. 热浪	缺	缺	
-66	73	hot-dog	n. 热狗	缺	缺	
-66	74	superheated	adj. 过热的	缺	缺	
-66	75	hotline	n. 热线电话	缺	缺	
-66	76	help	v. 帮助	缺	缺	
-66	77	helpful	adj. 有帮助的	缺	缺	
-66	78	helper	n. 帮手、助手	缺	缺	
-66	79	helpless	adj. 无助的	缺	缺	
-66	80	helplessly	adv. 无助地、无能为力地	缺	缺	
-66	81	season	n. 季	缺	缺	
-66	82	seasoned	adj. 经验丰富的、老练的；调过味的	缺	缺	
-66	83	seasonal	adj. 季节性的	缺	缺	
+66	69	heated	adj. 加热的、有暖气的；激烈的、激动的	细节数据有	缺	词/h/heated.json
+66	70	heater	n. 加热器、取暖器	细节数据有	缺	词/h/heater.json
+66	71	overheat	v. 过热	细节数据有	缺	词/o/overheat.json
+66	72	heatwave	n. 热浪	细节数据有	缺	词/h/heatwave.json
+66	73	hot-dog	n. 热狗	细节数据有	缺	词/h/hot-dog.json
+66	74	superheated	adj. 过热的	细节数据有	缺	词/s/superheated.json
+66	75	hotline	n. 热线电话	细节数据有	缺	词/h/hotline.json
+66	76	help	v. 帮助	细节数据有	缺	词/h/help.json
+66	77	helpful	adj. 有帮助的	细节数据有	缺	词/h/helpful.json
+66	78	helper	n. 帮手、助手	细节数据有	缺	词/h/helper.json
+66	79	helpless	adj. 无助的	细节数据有	缺	词/h/helpless.json
+66	80	helplessly	adv. 无助地、无能为力地	细节数据有	缺	词/h/helplessly.json
+66	81	season	n. 季	细节数据有	缺	词/s/season.json
+66	82	seasoned	adj. 经验丰富的、老练的；调过味的	细节数据有	缺	词/s/seasoned.json
+66	83	seasonal	adj. 季节性的	细节数据有	缺	词/s/seasonal.json
 67	1	web	n. 网	缺	缺	
 67	2	webbed	adj. 有蹼的	缺	缺	
 67	3	website	n. 网站	缺	缺	
