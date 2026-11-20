@@ -4799,31 +4799,31 @@
 61	48	concentration	n. 专注、注意力；集中、聚集	细节数据有	缺	词/c/concentration.json
 61	49	drive	v. 驾驶；驱赶	细节数据有	缺	词/d/drive.json
 61	50	driven	adj. 有强烈内在动力的、拼命的	细节数据有	缺	词/d/driven.json
-61	51	drove	v. drive 的过去式	缺	缺	
-61	52	driver	n. 司机	缺	缺	
-61	53	drift	v. 漂流、漂移 n. 大意、要旨	缺	缺	
-61	54	driftwood	n. 浮木、漂流木	缺	缺	
-61	55	screwdriver	n. 螺丝刀、改锥	缺	缺	
-61	56	screw	n. 螺丝、螺钉 v. 拧；坑、骗	缺	缺	
-61	57	smell	v. 嗅；闻到 n. 气味	缺	缺	
-61	58	smelt	v. 过去分词	缺	缺	
-61	59	smelly	adj. 有臭味的、难闻的	缺	缺	
-61	60	flow	v. 流、流动	缺	缺	
-61	61	overflow	v. 溢出、漫出；挤满	缺	缺	
-61	62	flood	n. 洪水	缺	缺	
-61	63	float	v. 漂浮、浮动；提出	缺	缺	
-61	64	floating	adj. 漂浮的；流动的、不固定的	缺	缺	
-61	65	afloat	adj. 漂浮着的、在水上的	缺	缺	
-61	66	floatable	adj. 能漂浮的、可浮起的	缺	缺	
-61	67	fleeting	adj. 短暂的、转瞬即逝的	缺	缺	
-61	68	fly	v. 飞；飘动 v. 放(风筝	缺	缺	
-61	69	flew	v. fly 的过去式	缺	缺	
-61	70	flyer	n. 传单、广告单；飞行员	缺	缺	
-61	71	flier	n. 飞行员；传单	缺	缺	
-61	72	flight	n. 航班；飞行	缺	缺	
-61	73	flightless	adj. 不会飞的	缺	缺	
-61	74	butterfly	n. 蝴蝶	缺	缺	
-61	75	butterfly-like	adj. 像蝴蝶的	缺	缺	
+61	51	drove	v. drive 的过去式	细节数据有	缺	词/d/drove.json
+61	52	driver	n. 司机	细节数据有	缺	词/d/driver.json
+61	53	drift	v. 漂流、漂移 n. 大意、要旨	细节数据有	缺	词/d/drift.json
+61	54	driftwood	n. 浮木、漂流木	细节数据有	缺	词/d/driftwood.json
+61	55	screwdriver	n. 螺丝刀、改锥	细节数据有	缺	词/s/screwdriver.json
+61	56	screw	n. 螺丝、螺钉 v. 拧；坑、骗	细节数据有	缺	词/s/screw.json
+61	57	smell	v. 嗅；闻到 n. 气味	细节数据有	缺	词/s/smell.json
+61	58	smelt	v. 过去分词	细节数据有	缺	词/s/smelt.json
+61	59	smelly	adj. 有臭味的、难闻的	细节数据有	缺	词/s/smelly.json
+61	60	flow	v. 流、流动	细节数据有	缺	词/f/flow.json
+61	61	overflow	v. 溢出、漫出；挤满	细节数据有	缺	词/o/overflow.json
+61	62	flood	n. 洪水	细节数据有	缺	词/f/flood.json
+61	63	float	v. 漂浮、浮动；提出	细节数据有	缺	词/f/float.json
+61	64	floating	adj. 漂浮的；流动的、不固定的	细节数据有	缺	词/f/floating.json
+61	65	afloat	adj. 漂浮着的、在水上的	细节数据有	缺	词/a/afloat.json
+61	66	floatable	adj. 能漂浮的、可浮起的	细节数据有	缺	词/f/floatable.json
+61	67	fleeting	adj. 短暂的、转瞬即逝的	细节数据有	缺	词/f/fleeting.json
+61	68	fly	v. 飞；飘动 v. 放(风筝	细节数据有	缺	词/f/fly.json
+61	69	flew	v. fly 的过去式	细节数据有	缺	词/f/flew.json
+61	70	flyer	n. 传单、广告单；飞行员	细节数据有	缺	词/f/flyer.json
+61	71	flier	n. 飞行员；传单	细节数据有	缺	词/f/flier.json
+61	72	flight	n. 航班；飞行	细节数据有	缺	词/f/flight.json
+61	73	flightless	adj. 不会飞的	细节数据有	缺	词/f/flightless.json
+61	74	butterfly	n. 蝴蝶	细节数据有	缺	词/b/butterfly.json
+61	75	butterfly-like	adj. 像蝴蝶的	细节数据有	缺	词/b/butterfly-like.json
 61	76	butterflying	n. 蝴蝶刀切法、开片	缺	缺	
 61	77	dragonfly	n. 蜻蜓	缺	缺	
 61	78	flee	v. 逃跑、逃离	缺	缺	
