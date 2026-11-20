@@ -2057,31 +2057,31 @@
 26	60	adjustment	n. 调整、调节；适应	细节数据有	缺	词/a/adjustment.json
 26	61	readjust	v. 重新调整	细节数据有	缺	词/r/readjust.json
 26	62	joint	n. 关节；接头、接缝 adj. 联合的、共同的	细节数据有	缺	词/j/joint.json
-26	63	conjunction	n. 连词；结合、同时出现	缺	缺	
-26	64	same	adj. 同样的	缺	缺	
-26	65	sameness	n. 同一性；千篇一律、单调	缺	缺	
-26	66	seem	v. 似乎	缺	缺	
-26	67	seeming	adj. 表面上的、似乎的	缺	缺	
-26	68	seemingly	adv. 表面上、看似	缺	缺	
-26	69	high	adj. 高的	缺	缺	
-26	70	highly	adv. 非常、高度地	缺	缺	
-26	71	height	n. 高度	缺	缺	
-26	72	heighten	v. 加强、提高	缺	缺	
-26	73	should	aux. v. 应当	缺	缺	
-26	74	shouldn't	modal v. 不应该	缺	缺	
-26	75	shall	modal v. 将；要不要	缺	缺	
-26	76	both	pron. 两者都	缺	缺	
-26	77	or	conj. 或者；还是	缺	缺	
-26	78	team	n. 队	缺	缺	
-26	79	teamwork	n. 团队合作、协作	缺	缺	
-26	80	teammate	n. 队友	缺	缺	
-27	1	between	prep. 在…之间；在两者中选	缺	缺	
-27	2	two	num. 基数词	缺	缺	
-27	3	twice	adv. 两次	缺	缺	
-27	4	twist	v. 拧、扭；曲解 n. 意外转折	缺	缺	
-27	5	twisty	adj. 弯弯曲曲的	缺	缺	
-27	6	twin	n. 双胞胎之一	缺	缺	
-27	7	twig	n. 细枝、嫩枝	缺	缺	
+26	63	conjunction	n. 连词；结合、同时出现	细节数据有	缺	词/c/conjunction.json
+26	64	same	adj. 同样的	细节数据有	缺	词/s/same.json
+26	65	sameness	n. 同一性；千篇一律、单调	细节数据有	缺	词/s/sameness.json
+26	66	seem	v. 似乎	细节数据有	缺	词/s/seem.json
+26	67	seeming	adj. 表面上的、似乎的	细节数据有	缺	词/s/seeming.json
+26	68	seemingly	adv. 表面上、看似	细节数据有	缺	词/s/seemingly.json
+26	69	high	adj. 高的	细节数据有	缺	词/h/high.json
+26	70	highly	adv. 非常、高度地	细节数据有	缺	词/h/highly.json
+26	71	height	n. 高度	细节数据有	缺	词/h/height.json
+26	72	heighten	v. 加强、提高	细节数据有	缺	词/h/heighten.json
+26	73	should	aux. v. 应当	细节数据有	缺	词/s/should.json
+26	74	shouldn't	modal v. 不应该	细节数据有	缺	词/s/shouldn't.json
+26	75	shall	modal v. 将；要不要	细节数据有	缺	词/s/shall.json
+26	76	both	pron. 两者都	细节数据有	缺	词/b/both.json
+26	77	or	conj. 或者；还是	细节数据有	缺	词/o/or.json
+26	78	team	n. 队	细节数据有	缺	词/t/team.json
+26	79	teamwork	n. 团队合作、协作	细节数据有	缺	词/t/teamwork.json
+26	80	teammate	n. 队友	细节数据有	缺	词/t/teammate.json
+27	1	between	prep. 在…之间；在两者中选	细节数据有	缺	词/b/between.json
+27	2	two	num. 基数词	细节数据有	缺	词/t/two.json
+27	3	twice	adv. 两次	细节数据有	缺	词/t/twice.json
+27	4	twist	v. 拧、扭；曲解 n. 意外转折	细节数据有	缺	词/t/twist.json
+27	5	twisty	adj. 弯弯曲曲的	细节数据有	缺	词/t/twisty.json
+27	6	twin	n. 双胞胎之一	细节数据有	缺	词/t/twin.json
+27	7	twig	n. 细枝、嫩枝	细节数据有	缺	词/t/twig.json
 27	8	twenty	num. 基数词	缺	缺	
 27	9	twentieth	num. 序数词	缺	缺	
 27	10	twelve	num. 基数词	缺	缺	

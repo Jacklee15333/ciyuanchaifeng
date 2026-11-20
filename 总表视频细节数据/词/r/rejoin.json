@@ -6,7 +6,7 @@
  "题目": {
   "题目1": "【听力】听录音，回答问题：说话人说他什么时候回到球队？\n听：I will rejoin the team after my leg gets better.\nA. 下个月\nB. 腿好了以后\nC. 明天\nD. 考试以后",
   "题目2": "【单项选择】选出最恰当的一项。\n题干：He left the team, but he wants to ______ it next year.\nA. rejoins\nB. rejoined\nC. rejoin\nD. rejoining\n考点：变形",
-  "题目3": "【选词填空】从 join、rejoin 中选一个，用适当形式填空。\n题干：I've never been in the chess club, but I'd like to ______ it.\n考点：易混",
+  "题目3": "【选词填空】从 join、rejoin 中选一个，用适当形式填空。\n题干：I was never in the chess club. I'd like to ______ it.\n考点：易混",
   "题目4": "【适当形式填空】用所给单词的适当形式填空。\n题干：He is thinking about ______ the team. (rejoin)\n考点：变形",
   "题目5": "【改错】句子里有一处错误，找出来并改正。\n题干：After the break, the students rejoin their classes yesterday.\n考点：变形",
   "题目6": "【单项选择】选出最恰当的一项。\n题干：To rejoin means to join ______.\nA. again\nB. first\nC. never\nD. alone\n考点：用法",
@@ -42,7 +42,7 @@
   {
    "type": "选词填空",
    "ask": "从 join、rejoin 中选一个，用适当形式填空。",
-   "stem": "I've never been in the chess club, but I'd like to ______ it.",
+   "stem": "I was never in the chess club. I'd like to ______ it.",
    "ans": "join",
    "why": "从没加入过，是第一次加入，用 join；rejoin 是重新加入。",
    "kd": "易混",

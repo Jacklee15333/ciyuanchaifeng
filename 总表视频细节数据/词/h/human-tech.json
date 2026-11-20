@@ -8,10 +8,10 @@
   "题目2": "【单项选择】选出最恰当的一项。\n题干：Human-tech puts ______ first.\nA. machines\nB. money\nC. speed\nD. people",
   "题目3": "【选词填空】从 human、humane 中选一个，用适当形式填空。\n题干：This robot can talk like a ______.\n考点：易混",
   "题目4": "【适当形式填空】用所给单词的适当形式填空。\n题干：Human-tech ______ life easier for old people. (make)\n考点：变形",
-  "题目5": "【改错】句子里有一处错误，找出来并改正。\n题干：This phone is human-tech because it is hard for old people to use.",
+  "题目5": "【改错】句子里有一处错误，找出来并改正。\n题干：Human-tech makes life harder for old people.",
   "题目6": "【单项选择】选出最恰当的一项。\n题干：Big buttons on phones for old people are an example of ______.\nA. high speed\nB. human-tech\nC. low price\nD. hard work\n考点：用法",
   "题目7": "【单项选择】选出最恰当的一项。\n题干：The word human-tech is made up of human and ______.\nA. tech\nB. teach\nC. tea\nD. ten\n考点：词性转换",
-  "答案": "【1】A（帮助老人的人性化技术）\n讲解：human-tech 以人为本的技术。\n【2】D（people）\n讲解：human-tech 以人为本，把人放在第一位。\n【3】human\n讲解：a 后面要名词 human（人）；humane 是形容词“人道的”。\n【4】makes\n讲解：human-tech 不可数，谓语用三单 makes。\n【5】hard → easy\n讲解：以人为本的技术应该让老人容易用，用 easy。\n【6】B（human-tech）\n讲解：为老人设计大按键，体现以人为本的技术。\n【7】A（tech）\n讲解：human-tech = human（人）+ tech（技术）。"
+  "答案": "【1】A（帮助老人的人性化技术）\n讲解：human-tech 以人为本的技术。\n【2】D（people）\n讲解：human-tech 以人为本，把人放在第一位。\n【3】human\n讲解：a 后面要名词 human（人）；humane 是形容词“人道的”。\n【4】makes\n讲解：human-tech 不可数，谓语用三单 makes。\n【5】harder → easier\n讲解：以人为本的技术让老人生活更方便，用 easier。\n【6】B（human-tech）\n讲解：为老人设计大按键，体现以人为本的技术。\n【7】A（tech）\n讲解：human-tech = human（人）+ tech（技术）。"
  },
  "题目原稿": [
   {
@@ -59,9 +59,9 @@
   {
    "type": "改错",
    "ask": "句子里有一处错误，找出来并改正。",
-   "stem": "This phone is human-tech because it is hard for old people to use.",
-   "ans": "hard → easy",
-   "why": "以人为本的技术应该让老人容易用，用 easy。",
+   "stem": "Human-tech makes life harder for old people.",
+   "ans": "harder → easier",
+   "why": "以人为本的技术让老人生活更方便，用 easier。",
    "zh": ""
   },
   {
