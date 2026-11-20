@@ -4370,31 +4370,31 @@
 55	52	oceanic	adj. 海洋的、大洋的	细节数据有	缺	词/o/oceanic.json
 55	53	Oceania	n. 大洋洲	细节数据有	缺	词/o/Oceania.json
 55	54	such	adj. 这样的 pron. 人泛指	细节数据有	缺	词/s/such.json
-55	55	million	num. 基数词	缺	缺	
-55	56	billion	num. 基数词	缺	缺	
-55	57	billionaire	n. 亿万富翁	缺	缺	
-55	58	millionaire	n. 百万富翁	缺	缺	
-55	59	trillion	n. 万亿、兆；无数	缺	缺	
-55	60	mile	n. 英里	缺	缺	
-55	61	seven-mile	adj. 七英里长的	缺	缺	
-55	62	millisecond	n. 毫秒	缺	缺	
-55	63	millennium	n. 千年	缺	缺	
-55	64	pattern	n. 图案、花样；模式、规律	缺	缺	
-55	65	patriot	n. 爱国者	缺	缺	
-55	66	patriotism	n. 爱国主义、爱国精神	缺	缺	
-55	67	patron	n. 赞助人、资助者；老主顾、常客	缺	缺	
-55	68	father	n. 父亲	缺	缺	
-55	69	fatherhood	n. 父亲的身份、为父之道	缺	缺	
-55	70	serve	v. 服务；上菜	缺	缺	
-55	71	servant	n. 仆人、佣人；公务员、雇员	缺	缺	
-55	72	server	n. 服务员；上菜用具	缺	缺	
-55	73	serving	n. 一份	缺	缺	
-55	74	servings	n. 份	缺	缺	
-55	75	service	n. 服务；公用事业	缺	缺	
-55	76	deserve	v. 应得	缺	缺	
-55	77	dessert	n. 甜点、餐后甜食	缺	缺	
-55	78	fear	n. 害怕；恐惧	缺	缺	
-55	79	fearful	adj. 可怕的、吓人的	缺	缺	
+55	55	million	num. 基数词	细节数据有	缺	词/m/million.json
+55	56	billion	num. 基数词	细节数据有	缺	词/b/billion.json
+55	57	billionaire	n. 亿万富翁	细节数据有	缺	词/b/billionaire.json
+55	58	millionaire	n. 百万富翁	细节数据有	缺	词/m/millionaire.json
+55	59	trillion	n. 万亿、兆；无数	细节数据有	缺	词/t/trillion.json
+55	60	mile	n. 英里	细节数据有	缺	词/m/mile.json
+55	61	seven-mile	adj. 七英里长的	细节数据有	缺	词/s/seven-mile.json
+55	62	millisecond	n. 毫秒	细节数据有	缺	词/m/millisecond.json
+55	63	millennium	n. 千年	细节数据有	缺	词/m/millennium.json
+55	64	pattern	n. 图案、花样；模式、规律	细节数据有	缺	词/p/pattern.json
+55	65	patriot	n. 爱国者	细节数据有	缺	词/p/patriot.json
+55	66	patriotism	n. 爱国主义、爱国精神	细节数据有	缺	词/p/patriotism.json
+55	67	patron	n. 赞助人、资助者；老主顾、常客	细节数据有	缺	词/p/patron.json
+55	68	father	n. 父亲	细节数据有	缺	词/f/father.json
+55	69	fatherhood	n. 父亲的身份、为父之道	细节数据有	缺	词/f/fatherhood.json
+55	70	serve	v. 服务；上菜	细节数据有	缺	词/s/serve.json
+55	71	servant	n. 仆人、佣人；公务员、雇员	细节数据有	缺	词/s/servant.json
+55	72	server	n. 服务员；上菜用具	细节数据有	缺	词/s/server.json
+55	73	serving	n. 一份	细节数据有	缺	词/s/serving.json
+55	74	servings	n. 份	细节数据有	缺	词/s/servings.json
+55	75	service	n. 服务；公用事业	细节数据有	缺	词/s/service.json
+55	76	deserve	v. 应得	细节数据有	缺	词/d/deserve.json
+55	77	dessert	n. 甜点、餐后甜食	细节数据有	缺	词/d/dessert.json
+55	78	fear	n. 害怕；恐惧	细节数据有	缺	词/f/fear.json
+55	79	fearful	adj. 可怕的、吓人的	细节数据有	缺	词/f/fearful.json
 55	80	fearless	adj. 无畏的、大胆的	缺	缺	
 55	81	fearsome	adj. 可怕的、令人生畏的	缺	缺	
 56	1	strange	adj. 奇怪的；陌生的	缺	缺	
