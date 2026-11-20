@@ -2385,33 +2385,33 @@
 30	67	humble	adj. 谦逊的、谦卑的；地位低下的	细节数据有	缺	词/h/humble.json
 30	68	humility	n. 谦逊、谦卑	细节数据有	缺	词/h/humility.json
 30	69	connect	v. 连接、接通；联系、关联	细节数据有	缺	词/c/connect.json
-30	70	connected	adj. 相连的、连接着的；有关联的	缺	缺	
-30	71	connection	n. 联系、关联；连接	缺	缺	
-30	72	connective	adj. 连接的	缺	缺	
-30	73	connectivity	n. 连通性	缺	缺	
-30	74	reconnect	v. 重新连接	缺	缺	
-30	75	disconnect	v. 断开、切断；使分离	缺	缺	
-30	76	disconnected	adj. 断开的、断线的；不连贯的	缺	缺	
-30	77	speak	v. 说；谈话	缺	缺	
-30	78	spoke	v. speak 的过去式	缺	缺	
-30	79	spoken	adj. 口头的、口语的	缺	缺	
+30	70	connected	adj. 相连的、连接着的；有关联的	细节数据有	缺	词/c/connected.json
+30	71	connection	n. 联系、关联；连接	细节数据有	缺	词/c/connection.json
+30	72	connective	adj. 连接的	细节数据有	缺	词/c/connective.json
+30	73	connectivity	n. 连通性	细节数据有	缺	词/c/connectivity.json
+30	74	reconnect	v. 重新连接	细节数据有	缺	词/r/reconnect.json
+30	75	disconnect	v. 断开、切断；使分离	细节数据有	缺	词/d/disconnect.json
+30	76	disconnected	adj. 断开的、断线的；不连贯的	细节数据有	缺	词/d/disconnected.json
+30	77	speak	v. 说；谈话	细节数据有	缺	词/s/speak.json
+30	78	spoke	v. speak 的过去式	细节数据有	缺	词/s/spoke.json
+30	79	spoken	adj. 口头的、口语的	细节数据有	缺	词/s/spoken.json
 30	80	speaker	n. 演讲人、发言人；扬声器、音箱	总表有	缺	
-30	81	speech	n. 演讲	缺	缺	
-30	82	speechless	adj. 说不出话的	缺	缺	
-30	83	spokesman	n. 发言人、代言人	缺	缺	
-31	1	modern	adj. 现代的	缺	缺	
-31	2	modernist	n. 现代主义者	缺	缺	
-31	3	modernise	v. 使现代化；革新	缺	缺	
-31	4	modernize	v. 使现代化；革新	缺	缺	
-31	5	modernity	n. 现代性	缺	缺	
-31	6	model	n. 模型；范例	缺	缺	
+30	81	speech	n. 演讲	细节数据有	缺	词/s/speech.json
+30	82	speechless	adj. 说不出话的	细节数据有	缺	词/s/speechless.json
+30	83	spokesman	n. 发言人、代言人	细节数据有	缺	词/s/spokesman.json
+31	1	modern	adj. 现代的	细节数据有	缺	词/m/modern.json
+31	2	modernist	n. 现代主义者	细节数据有	缺	词/m/modernist.json
+31	3	modernise	v. 使现代化；革新	细节数据有	缺	词/m/modernise.json
+31	4	modernize	v. 使现代化；革新	细节数据有	缺	词/m/modernize.json
+31	5	modernity	n. 现代性	细节数据有	缺	词/m/modernity.json
+31	6	model	n. 模型；范例	细节数据有	缺	词/m/model.json
 31	7	mode	n. 方式；模式	总表有	kit有（7A-U4）	
-31	8	modal	adj. 情态的；调式的	缺	缺	
-31	9	mould	n. 模子、模具；类型、样式 v. 塑造	缺	缺	
-31	10	mold	n. 模子 v. 塑造	缺	缺	
-31	11	modify	v. 修改；调整	缺	缺	
-31	12	modifier	n. 修改者	缺	缺	
-31	13	modification	n. 修改	缺	缺	
+31	8	modal	adj. 情态的；调式的	细节数据有	缺	词/m/modal.json
+31	9	mould	n. 模子、模具；类型、样式 v. 塑造	细节数据有	缺	词/m/mould.json
+31	10	mold	n. 模子 v. 塑造	细节数据有	缺	词/m/mold.json
+31	11	modify	v. 修改；调整	细节数据有	缺	词/m/modify.json
+31	12	modifier	n. 修改者	细节数据有	缺	词/m/modifier.json
+31	13	modification	n. 修改	细节数据有	缺	词/m/modification.json
 31	14	modest	adj. 谦虚的	缺	缺	
 31	15	science	n. 科学	缺	缺	
 31	16	scientist	n. 科学家	缺	缺	
