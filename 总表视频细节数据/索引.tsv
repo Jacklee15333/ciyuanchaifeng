@@ -5729,31 +5729,31 @@
 75	18	globe	n. 地球、全世界	细节数据有	缺	词/g/globe.json
 75	19	dirty	adj. 脏的	细节数据有	缺	词/d/dirty.json
 75	20	dirt	n. 污垢、灰尘；泥土、散土	细节数据有	缺	词/d/dirt.json
-75	21	child	n. 孩子	缺	缺	
-75	22	childhood	n. 幼年时代	缺	缺	
-75	23	childish	adj. 幼稚的、孩子气的	缺	缺	
-75	24	childlike	adj. 孩子般天真的、纯真的	缺	缺	
-75	25	childcare	n. 托儿服务、儿童看护	缺	缺	
-75	26	horse	n. 马	缺	缺	
-75	27	horseback	n. 马背	缺	缺	
-75	28	stare	v. 盯着看、凝视	缺	缺	
-75	29	fan	n. (电影；热心的爱好者	缺	缺	
-75	30	cousin	n. 堂兄弟	缺	缺	
-75	31	reveal	v. 揭示、透露	缺	缺	
-75	32	veil	n. 面纱 v. 遮盖、掩饰	缺	缺	
-75	33	unveil	v. 为…揭幕；推出、公布	缺	缺	
-75	34	west	n. 西部；西方 adj. 向西的	缺	缺	
-75	35	western	adj. 西方的	缺	缺	
-75	36	swim	n. 游泳	缺	缺	
-75	37	swimming	n. 游泳	缺	缺	
-75	38	swam	v. swim 的过去式	缺	缺	
-75	39	swimmer	n. 游泳的人	缺	缺	
-75	40	swimsuit	n. 泳衣	缺	缺	
-75	41	aid	n. 援助、帮助	缺	缺	
-75	42	first-aid	n. 急救	缺	缺	
-76	1	hungry	adj. 饥饿的	缺	缺	
-76	2	hunger	n. 饥饿；渴望	缺	缺	
-76	3	hungrily	adv. 饥饿地、狼吞虎咽地	缺	缺	
+75	21	child	n. 孩子	细节数据有	缺	词/c/child.json
+75	22	childhood	n. 幼年时代	细节数据有	缺	词/c/childhood.json
+75	23	childish	adj. 幼稚的、孩子气的	细节数据有	缺	词/c/childish.json
+75	24	childlike	adj. 孩子般天真的、纯真的	细节数据有	缺	词/c/childlike.json
+75	25	childcare	n. 托儿服务、儿童看护	细节数据有	缺	词/c/childcare.json
+75	26	horse	n. 马	细节数据有	缺	词/h/horse.json
+75	27	horseback	n. 马背	细节数据有	缺	词/h/horseback.json
+75	28	stare	v. 盯着看、凝视	细节数据有	缺	词/s/stare.json
+75	29	fan	n. (电影；热心的爱好者	细节数据有	缺	词/f/fan.json
+75	30	cousin	n. 堂兄弟	细节数据有	缺	词/c/cousin.json
+75	31	reveal	v. 揭示、透露	细节数据有	缺	词/r/reveal.json
+75	32	veil	n. 面纱 v. 遮盖、掩饰	细节数据有	缺	词/v/veil.json
+75	33	unveil	v. 为…揭幕；推出、公布	细节数据有	缺	词/u/unveil.json
+75	34	west	n. 西部；西方 adj. 向西的	细节数据有	缺	词/w/west.json
+75	35	western	adj. 西方的	细节数据有	缺	词/w/western.json
+75	36	swim	n. 游泳	细节数据有	缺	词/s/swim.json
+75	37	swimming	n. 游泳	细节数据有	缺	词/s/swimming.json
+75	38	swam	v. swim 的过去式	细节数据有	缺	词/s/swam.json
+75	39	swimmer	n. 游泳的人	细节数据有	缺	词/s/swimmer.json
+75	40	swimsuit	n. 泳衣	细节数据有	缺	词/s/swimsuit.json
+75	41	aid	n. 援助、帮助	细节数据有	缺	词/a/aid.json
+75	42	first-aid	n. 急救	细节数据有	缺	词/f/first-aid.json
+76	1	hungry	adj. 饥饿的	细节数据有	缺	词/h/hungry.json
+76	2	hunger	n. 饥饿；渴望	细节数据有	缺	词/h/hunger.json
+76	3	hungrily	adv. 饥饿地、狼吞虎咽地	细节数据有	缺	词/h/hungrily.json
 76	4	melt	v. 融化、熔化；渐渐消散	缺	缺	
 76	5	melted	v. 过去分词 adj. 融化了的	缺	缺	
 76	6	meltdown	n. 堆芯熔毁；崩溃	缺	缺	
