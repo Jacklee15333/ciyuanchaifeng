@@ -2941,31 +2941,31 @@
 37	63	descriptive	adj. 描写的、描述性的	细节数据有	缺	词/d/descriptive.json
 37	64	subscribe	v. 订阅、订购；赞同	细节数据有	缺	词/s/subscribe.json
 37	65	subscription	n. 订阅；会费	细节数据有	缺	词/s/subscription.json
-37	66	scribe	n. 抄写员、书记员	缺	缺	
-37	67	prescribe	v. 开、开处方；规定、指定	缺	缺	
-37	68	script	n. 剧本、脚本；文字、字母体系	缺	缺	
-37	69	scriptwriter	n. 编剧	缺	缺	
-37	70	inscription	n. 铭文、碑文	缺	缺	
-37	71	touch	v. 触摸；感动	缺	缺	
-37	72	touching	adj. 感人的、令人同情的	缺	缺	
-37	73	touched	adj. 感动的；有点疯的、脑子不太正常	缺	缺	
-37	74	untouched	adj. 未被触动的、原封不动的	缺	缺	
-37	75	touchable	adj. 可触摸的、摸得着的	缺	缺	
-37	76	enough	adj. 足够的；充分的	缺	缺	
-37	77	weather	n. 天气	缺	缺	
-37	78	weatherman	n. 天气预报员	缺	缺	
-37	79	wither	v. 枯萎、凋谢；衰退、消亡	缺	缺	
-37	80	reach	v. 到达	缺	缺	
-37	81	far-reaching	adj. 影响深远的、范围广泛的	缺	缺	
-38	1	cover	v. 覆盖 n. 罩；封面	缺	缺	
-38	2	covering	n. 覆盖物、遮盖层	缺	缺	
-38	3	uncover	v. 揭开	缺	缺	
-38	4	coverage	n. 覆盖范围	缺	缺	
-38	5	discovery	n. 发现	缺	缺	
-38	6	discover	v. 发现；看出	缺	缺	
-38	7	discoverer	n. 发现者	缺	缺	
-38	8	rediscover	v. 重新发现	缺	缺	
-38	9	garden	n. 花园	缺	缺	
+37	66	scribe	n. 抄写员、书记员	细节数据有	缺	词/s/scribe.json
+37	67	prescribe	v. 开、开处方；规定、指定	细节数据有	缺	词/p/prescribe.json
+37	68	script	n. 剧本、脚本；文字、字母体系	细节数据有	缺	词/s/script.json
+37	69	scriptwriter	n. 编剧	细节数据有	缺	词/s/scriptwriter.json
+37	70	inscription	n. 铭文、碑文	细节数据有	缺	词/i/inscription.json
+37	71	touch	v. 触摸；感动	细节数据有	缺	词/t/touch.json
+37	72	touching	adj. 感人的、令人同情的	细节数据有	缺	词/t/touching.json
+37	73	touched	adj. 感动的；有点疯的、脑子不太正常	细节数据有	缺	词/t/touched.json
+37	74	untouched	adj. 未被触动的、原封不动的	细节数据有	缺	词/u/untouched.json
+37	75	touchable	adj. 可触摸的、摸得着的	细节数据有	缺	词/t/touchable.json
+37	76	enough	adj. 足够的；充分的	细节数据有	缺	词/e/enough.json
+37	77	weather	n. 天气	细节数据有	缺	词/w/weather.json
+37	78	weatherman	n. 天气预报员	细节数据有	缺	词/w/weatherman.json
+37	79	wither	v. 枯萎、凋谢；衰退、消亡	细节数据有	缺	词/w/wither.json
+37	80	reach	v. 到达	细节数据有	缺	词/r/reach.json
+37	81	far-reaching	adj. 影响深远的、范围广泛的	细节数据有	缺	词/f/far-reaching.json
+38	1	cover	v. 覆盖 n. 罩；封面	细节数据有	缺	词/c/cover.json
+38	2	covering	n. 覆盖物、遮盖层	细节数据有	缺	词/c/covering.json
+38	3	uncover	v. 揭开	细节数据有	缺	词/u/uncover.json
+38	4	coverage	n. 覆盖范围	细节数据有	缺	词/c/coverage.json
+38	5	discovery	n. 发现	细节数据有	缺	词/d/discovery.json
+38	6	discover	v. 发现；看出	细节数据有	缺	词/d/discover.json
+38	7	discoverer	n. 发现者	细节数据有	缺	词/d/discoverer.json
+38	8	rediscover	v. 重新发现	细节数据有	缺	词/r/rediscover.json
+38	9	garden	n. 花园	细节数据有	缺	词/g/garden.json
 38	10	gardening	n. 园艺；在自家种花种菜	缺	缺	
 38	11	gardener	n. 园丁、花匠	缺	缺	
 38	12	kindergarten	n. 幼儿园	缺	缺	

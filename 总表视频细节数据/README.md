@@ -263,6 +263,9 @@
 - some：变形写成“比较级 somer、最高级 somest”（不存在）
 - someone：易混写成“someone / their（someone 是单数，their 指代））”，内容残缺
 - devastation：初中含义只写“极度的悲痛”，主要意思是“破坏、毁灭”
+- enough：变形写“比较级 more enough、最高级 most enough”（不存在）
+- cover：易混写成“cover the cost / miles”，不是一组易混词，说明残缺
+- coverage：变形写“复数 coverages”，但辨析又说 coverage 不可数，前后矛盾
 
 ## 总表里出现两次的词（细节数据按单词存一份，两行共用；出题时两个意思都要考到）
 
