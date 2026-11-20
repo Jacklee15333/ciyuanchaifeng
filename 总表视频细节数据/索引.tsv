@@ -5025,31 +5025,31 @@
 64	39	wartime	n. 战时	细节数据有	缺	词/w/wartime.json
 64	40	warrior	n. 武士、战士	细节数据有	缺	词/w/warrior.json
 64	41	warfare	n. 战争、作战	细节数据有	缺	词/w/warfare.json
-64	42	similar	adj. 相似的	缺	缺	
-64	43	similarly	adv. 相似地、同样地	缺	缺	
-64	44	similarity	n. 相似	缺	缺	
-64	45	simile	n. 明喻	缺	缺	
-64	46	assimilate	v. 吸收、消化	缺	缺	
-64	47	assimilation	n. 吸收、消化	缺	缺	
-64	48	simulate	v. 模拟、仿真；假装	缺	缺	
-64	49	simulation	n. 模拟、仿真；假装	缺	缺	
-64	50	ensemble	n. 一套服装；整体	缺	缺	
-64	51	assemble	v. 集合、聚集；装配、组装	缺	缺	
-64	52	resemble	v. 像	缺	缺	
-64	53	route	n. 路线；途径	缺	缺	
-64	54	reroute	v. 改道、改变路线	缺	缺	
-64	55	router	n. 路由器	缺	缺	
-64	56	routine	n. 日常惯例、例行公事	缺	缺	
-64	57	disrupt	v. 扰乱、打乱；使中断	缺	缺	
-64	58	disruptive	adj. 扰乱性的、捣乱的；颠覆性的	缺	缺	
-64	59	disruption	n. 扰乱、中断	缺	缺	
-64	60	erupt	v. 喷发；冒出	缺	缺	
-64	61	eruption	n. 喷发；出疹	缺	缺	
-64	62	interrupt	v. 打断	缺	缺	
-64	63	abrupt	adj. 突然的	缺	缺	
-64	64	abruptly	adv. 突然地	缺	缺	
-64	65	bankrupt	adj. 破产的	缺	缺	
-64	66	rupture	n. 破裂	缺	缺	
+64	42	similar	adj. 相似的	细节数据有	缺	词/s/similar.json
+64	43	similarly	adv. 相似地、同样地	细节数据有	缺	词/s/similarly.json
+64	44	similarity	n. 相似	细节数据有	缺	词/s/similarity.json
+64	45	simile	n. 明喻	细节数据有	缺	词/s/simile.json
+64	46	assimilate	v. 吸收、消化	细节数据有	缺	词/a/assimilate.json
+64	47	assimilation	n. 吸收、消化	细节数据有	缺	词/a/assimilation.json
+64	48	simulate	v. 模拟、仿真；假装	细节数据有	缺	词/s/simulate.json
+64	49	simulation	n. 模拟、仿真；假装	细节数据有	缺	词/s/simulation.json
+64	50	ensemble	n. 一套服装；整体	细节数据有	缺	词/e/ensemble.json
+64	51	assemble	v. 集合、聚集；装配、组装	细节数据有	缺	词/a/assemble.json
+64	52	resemble	v. 像	细节数据有	缺	词/r/resemble.json
+64	53	route	n. 路线；途径	细节数据有	缺	词/r/route.json
+64	54	reroute	v. 改道、改变路线	细节数据有	缺	词/r/reroute.json
+64	55	router	n. 路由器	细节数据有	缺	词/r/router.json
+64	56	routine	n. 日常惯例、例行公事	细节数据有	缺	词/r/routine.json
+64	57	disrupt	v. 扰乱、打乱；使中断	细节数据有	缺	词/d/disrupt.json
+64	58	disruptive	adj. 扰乱性的、捣乱的；颠覆性的	细节数据有	缺	词/d/disruptive.json
+64	59	disruption	n. 扰乱、中断	细节数据有	缺	词/d/disruption.json
+64	60	erupt	v. 喷发；冒出	细节数据有	缺	词/e/erupt.json
+64	61	eruption	n. 喷发；出疹	细节数据有	缺	词/e/eruption.json
+64	62	interrupt	v. 打断	细节数据有	缺	词/i/interrupt.json
+64	63	abrupt	adj. 突然的	细节数据有	缺	词/a/abrupt.json
+64	64	abruptly	adv. 突然地	细节数据有	缺	词/a/abruptly.json
+64	65	bankrupt	adj. 破产的	细节数据有	缺	词/b/bankrupt.json
+64	66	rupture	n. 破裂	细节数据有	缺	词/r/rupture.json
 64	67	tie	n. 领带 v. (用绳	缺	缺	
 64	68	tied	v. 过去分词 adj. 被拴住的、受束缚的；打平的	缺	缺	
 64	69	tiebreaker	n. 决胜局、加赛	缺	缺	
