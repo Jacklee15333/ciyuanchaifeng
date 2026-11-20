@@ -184,6 +184,9 @@
 - less：【变形】编造了最高级 lessest，little 的最高级是 least
 - least：【变形】编造了 leaster、leastest；least 本身就是 little 的最高级
 - carer：初中含义标成 adj.，还编造了比较级 carerer、carerest；carer 是名词“照护者”
+- finances：【变形】写“不可数，没有复数”不对，finances 本身是复数形式，谓语用复数（Her finances are…）
+- infinitive：【词性转换】写成 final adj.最后的，两者无关
+- unkind：【词性转换】写成 kind n.种，应是 kind adj.善良的
 
 ## 总表里出现两次的词（细节数据按单词存一份，两行共用；出题时两个意思都要考到）
 

@@ -1832,31 +1832,31 @@
 23	71	definition	n. 定义、释义；清晰度	细节数据有	缺	词/d/definition.json
 23	72	redefine	v. 重新定义、重新界定	细节数据有	缺	词/r/redefine.json
 23	73	high-definition	adj. 高清的	细节数据有	缺	词/h/high-definition.json
-23	74	finance	n. 金融；财务、理财	缺	缺	
-23	75	finances	n. 财务状况、资金	缺	缺	
-23	76	financial	adj. 金融的、财务的；经济上的	缺	缺	
-23	77	financially	adv. 财务上、经济上	缺	缺	
-23	78	finite	adj. 有限的	缺	缺	
-23	79	infinitive	n. 不定式	缺	缺	
-23	80	to-infinitive	n. （语法）带 to 的不定式	缺	缺	
-24	1	kind	n. 种；类 adj. 善良的	缺	缺	
-24	2	kindness	n. 仁慈；好意	缺	缺	
-24	3	kindly	adj. 和蔼的、慈祥的 adv. 友善地	缺	缺	
-24	4	unkind	adj. 不友善的、刻薄的	缺	缺	
-24	5	kind-looking	adj. 面相和善的	缺	缺	
-24	6	king	n. 国王	缺	缺	
-24	7	kingdom	n. 王国	缺	缺	
-24	8	mankind	n. 人类	缺	缺	
-24	9	nature	n. 自然；本质	缺	缺	
-24	10	natural	adj. 自然的	缺	缺	
-24	11	naturally	adv. 自然地、天然地	缺	缺	
-24	12	unnatural	adj. 反常的、违反自然的	缺	缺	
-24	13	naturalist	n. 博物学家、自然研究者	缺	缺	
-24	14	supernatural	adj. 超自然的、灵异的	缺	缺	
-24	15	nature-based	adj. 基于自然的、以自然为依托的	缺	缺	
-24	16	nation	n. 民族；国家	缺	缺	
-24	17	national	adj. 全国性的；民族的	缺	缺	
-24	18	nationalise	v. 收归国有、国有化	缺	缺	
+23	74	finance	n. 金融；财务、理财	细节数据有	缺	词/f/finance.json
+23	75	finances	n. 财务状况、资金	细节数据有	缺	词/f/finances.json
+23	76	financial	adj. 金融的、财务的；经济上的	细节数据有	缺	词/f/financial.json
+23	77	financially	adv. 财务上、经济上	细节数据有	缺	词/f/financially.json
+23	78	finite	adj. 有限的	细节数据有	缺	词/f/finite.json
+23	79	infinitive	n. 不定式	细节数据有	缺	词/i/infinitive.json
+23	80	to-infinitive	n. （语法）带 to 的不定式	细节数据有	缺	词/t/to-infinitive.json
+24	1	kind	n. 种；类 adj. 善良的	细节数据有	缺	词/k/kind.json
+24	2	kindness	n. 仁慈；好意	细节数据有	缺	词/k/kindness.json
+24	3	kindly	adj. 和蔼的、慈祥的 adv. 友善地	细节数据有	缺	词/k/kindly.json
+24	4	unkind	adj. 不友善的、刻薄的	细节数据有	缺	词/u/unkind.json
+24	5	kind-looking	adj. 面相和善的	细节数据有	缺	词/k/kind-looking.json
+24	6	king	n. 国王	细节数据有	缺	词/k/king.json
+24	7	kingdom	n. 王国	细节数据有	缺	词/k/kingdom.json
+24	8	mankind	n. 人类	细节数据有	缺	词/m/mankind.json
+24	9	nature	n. 自然；本质	细节数据有	缺	词/n/nature.json
+24	10	natural	adj. 自然的	细节数据有	缺	词/n/natural.json
+24	11	naturally	adv. 自然地、天然地	细节数据有	缺	词/n/naturally.json
+24	12	unnatural	adj. 反常的、违反自然的	细节数据有	缺	词/u/unnatural.json
+24	13	naturalist	n. 博物学家、自然研究者	细节数据有	缺	词/n/naturalist.json
+24	14	supernatural	adj. 超自然的、灵异的	细节数据有	缺	词/s/supernatural.json
+24	15	nature-based	adj. 基于自然的、以自然为依托的	细节数据有	缺	词/n/nature-based.json
+24	16	nation	n. 民族；国家	细节数据有	缺	词/n/nation.json
+24	17	national	adj. 全国性的；民族的	细节数据有	缺	词/n/national.json
+24	18	nationalise	v. 收归国有、国有化	细节数据有	缺	词/n/nationalise.json
 24	19	nationalize	v. 把收归国有	缺	缺	
 24	20	nationwide	adj. 全国性的、全国范围的	缺	缺	
 24	21	international	adj. 国际的	缺	缺	
