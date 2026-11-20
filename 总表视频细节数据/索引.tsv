@@ -2335,31 +2335,31 @@
 30	17	dictionary	n. 词典	细节数据有	缺	词/d/dictionary.json
 30	18	addict	n. 成瘾者	细节数据有	缺	词/a/addict.json
 30	19	addicted	adj. 上瘾的、沉迷的	细节数据有	缺	词/a/addicted.json
-30	20	addiction	n. 成瘾、瘾	缺	缺	
-30	21	addictive	adj. 使人上瘾的	缺	缺	
-30	22	contradict	v. 反驳、否认；与…相矛盾	缺	缺	
-30	23	dictate	v. 口述；命令、强行规定	缺	缺	
-30	24	edict	n. 法令、敕令	缺	缺	
-30	25	dedicate	v. 献身于、致力于；为举行落成仪式	缺	缺	
-30	26	dedicated	adj. 敬业的、全心投入的；专用的	缺	缺	
-30	27	dedication	n. 奉献精神、投入；落成典礼	缺	缺	
-30	28	indicate	v. 表明、显示	缺	缺	
-30	29	indicator	n. 指标	缺	缺	
-30	30	index	n. 索引；指数	缺	缺	
-30	31	heart	n. 心	缺	缺	
-30	32	heartless	adj. 无情的、冷酷的	缺	缺	
-30	33	hearty	adj. 热情的、衷心的；开怀的	缺	缺	
-30	34	heartbroken	adj. 心碎的、极度伤心的	缺	缺	
-30	35	heartbreaking	adj. 令人心碎的、令人悲痛的	缺	缺	
-30	36	heart-broken	adj. 心碎的、极度伤心的	缺	缺	
-30	37	heartfelt	adj. 衷心的、诚挚的	缺	缺	
-30	38	kind-hearted	adj. 心地善良的、好心肠的	缺	缺	
-30	39	courage	n. 勇气、胆量	缺	缺	
-30	40	courageous	adj. 勇敢的、有胆识的	缺	缺	
-30	41	encourage	v. 鼓励	缺	缺	
-30	42	encouraging	adj. 鼓舞人心的、令人鼓舞的	缺	缺	
-30	43	encouragement	n. 鼓励、激励；促进	缺	缺	
-30	44	encouragingly	adv. 鼓励地	缺	缺	
+30	20	addiction	n. 成瘾、瘾	细节数据有	缺	词/a/addiction.json
+30	21	addictive	adj. 使人上瘾的	细节数据有	缺	词/a/addictive.json
+30	22	contradict	v. 反驳、否认；与…相矛盾	细节数据有	缺	词/c/contradict.json
+30	23	dictate	v. 口述；命令、强行规定	细节数据有	缺	词/d/dictate.json
+30	24	edict	n. 法令、敕令	细节数据有	缺	词/e/edict.json
+30	25	dedicate	v. 献身于、致力于；为举行落成仪式	细节数据有	缺	词/d/dedicate.json
+30	26	dedicated	adj. 敬业的、全心投入的；专用的	细节数据有	缺	词/d/dedicated.json
+30	27	dedication	n. 奉献精神、投入；落成典礼	细节数据有	缺	词/d/dedication.json
+30	28	indicate	v. 表明、显示	细节数据有	缺	词/i/indicate.json
+30	29	indicator	n. 指标	细节数据有	缺	词/i/indicator.json
+30	30	index	n. 索引；指数	细节数据有	缺	词/i/index.json
+30	31	heart	n. 心	细节数据有	缺	词/h/heart.json
+30	32	heartless	adj. 无情的、冷酷的	细节数据有	缺	词/h/heartless.json
+30	33	hearty	adj. 热情的、衷心的；开怀的	细节数据有	缺	词/h/hearty.json
+30	34	heartbroken	adj. 心碎的、极度伤心的	细节数据有	缺	词/h/heartbroken.json
+30	35	heartbreaking	adj. 令人心碎的、令人悲痛的	细节数据有	缺	词/h/heartbreaking.json
+30	36	heart-broken	adj. 心碎的、极度伤心的	细节数据有	缺	词/h/heart-broken.json
+30	37	heartfelt	adj. 衷心的、诚挚的	细节数据有	缺	词/h/heartfelt.json
+30	38	kind-hearted	adj. 心地善良的、好心肠的	细节数据有	缺	词/k/kind-hearted.json
+30	39	courage	n. 勇气、胆量	细节数据有	缺	词/c/courage.json
+30	40	courageous	adj. 勇敢的、有胆识的	细节数据有	缺	词/c/courageous.json
+30	41	encourage	v. 鼓励	细节数据有	缺	词/e/encourage.json
+30	42	encouraging	adj. 鼓舞人心的、令人鼓舞的	细节数据有	缺	词/e/encouraging.json
+30	43	encouragement	n. 鼓励、激励；促进	细节数据有	缺	词/e/encouragement.json
+30	44	encouragingly	adv. 鼓励地	细节数据有	缺	词/e/encouragingly.json
 30	45	discourage	v. 使泄气、使灰心；劝阻、阻拦	缺	缺	
 30	46	discouraged	adj. 泄气的、灰心的；被劝阻的	缺	缺	
 30	47	discouraging	adj. 令人沮丧的、令人泄气的	缺	缺	
