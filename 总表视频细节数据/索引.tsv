@@ -3944,31 +3944,31 @@
 50	20	progress	n. 进步	细节数据有	缺	词/p/progress.json
 50	21	progressive	adj. 进步的、主张改革的	细节数据有	缺	词/p/progressive.json
 50	22	ingredient	n. 成分；要素	细节数据有	缺	词/i/ingredient.json
-50	23	aggressive	adj. 好斗的、有攻击性的；侵略的	缺	缺	
-50	24	above	prep. 高于 adj. 上文的	缺	缺	
-50	25	head	n. 头；首脑	缺	缺	
-50	26	heading	n. 标题、题目	缺	缺	
-50	27	subheading	n. 小标题、副标题	缺	缺	
-50	28	ahead	adv. 在前	缺	缺	
-50	29	forehead	n. 额头、前额	缺	缺	
-50	30	overhead	adv. 在头顶上 n. 经常性开支、管理费用（房租	缺	缺	
-50	31	headset	n. 头戴设备	缺	缺	
-50	32	head-on	adj. 迎面	缺	缺	
-50	33	headbutt	v. 用头撞	缺	缺	
-50	34	headquarters	n. 总部、总公司	缺	缺	
-50	35	achieve	v. 达到	缺	缺	
-50	36	achievement	n. 成就、成绩	缺	缺	
-50	37	achievable	adj. 可实现的、做得到的	缺	缺	
-50	38	chef	n. 厨师	缺	缺	
-50	39	chief	adj. 主要的 n. 领导	缺	缺	
-50	40	mischief	n. 淘气、捣蛋；挑拨离间、搬弄是非	缺	缺	
-50	41	capital	n. 首都	缺	缺	
-50	42	captain	n. 船长	缺	缺	
-50	43	chapter	n. 章；分会	缺	缺	
-50	44	cattle	n. 牛	缺	缺	
-50	45	precipitate	v. 促成、使突然发生 n. 沉淀物	缺	缺	
-50	46	precipitation	n. 降水	缺	缺	
-50	47	escape	v. 逃跑	缺	缺	
+50	23	aggressive	adj. 好斗的、有攻击性的；侵略的	细节数据有	缺	词/a/aggressive.json
+50	24	above	prep. 高于 adj. 上文的	细节数据有	缺	词/a/above.json
+50	25	head	n. 头；首脑	细节数据有	缺	词/h/head.json
+50	26	heading	n. 标题、题目	细节数据有	缺	词/h/heading.json
+50	27	subheading	n. 小标题、副标题	细节数据有	缺	词/s/subheading.json
+50	28	ahead	adv. 在前	细节数据有	缺	词/a/ahead.json
+50	29	forehead	n. 额头、前额	细节数据有	缺	词/f/forehead.json
+50	30	overhead	adv. 在头顶上 n. 经常性开支、管理费用（房租	细节数据有	缺	词/o/overhead.json
+50	31	headset	n. 头戴设备	细节数据有	缺	词/h/headset.json
+50	32	head-on	adj. 迎面	细节数据有	缺	词/h/head-on.json
+50	33	headbutt	v. 用头撞	细节数据有	缺	词/h/headbutt.json
+50	34	headquarters	n. 总部、总公司	细节数据有	缺	词/h/headquarters.json
+50	35	achieve	v. 达到	细节数据有	缺	词/a/achieve.json
+50	36	achievement	n. 成就、成绩	细节数据有	缺	词/a/achievement.json
+50	37	achievable	adj. 可实现的、做得到的	细节数据有	缺	词/a/achievable.json
+50	38	chef	n. 厨师	细节数据有	缺	词/c/chef.json
+50	39	chief	adj. 主要的 n. 领导	细节数据有	缺	词/c/chief.json
+50	40	mischief	n. 淘气、捣蛋；挑拨离间、搬弄是非	细节数据有	缺	词/m/mischief.json
+50	41	capital	n. 首都	细节数据有	缺	词/c/capital.json
+50	42	captain	n. 船长	细节数据有	缺	词/c/captain.json
+50	43	chapter	n. 章；分会	细节数据有	缺	词/c/chapter.json
+50	44	cattle	n. 牛	细节数据有	缺	词/c/cattle.json
+50	45	precipitate	v. 促成、使突然发生 n. 沉淀物	细节数据有	缺	词/p/precipitate.json
+50	46	precipitation	n. 降水	细节数据有	缺	词/p/precipitation.json
+50	47	escape	v. 逃跑	细节数据有	缺	词/e/escape.json
 50	48	cap	n. 盖子；上限	缺	缺	
 50	49	chapel	n. 小教堂、礼拜堂	缺	缺	
 50	50	cape	n. ①披风、斗篷 n. ②海角、岬	缺	缺	
