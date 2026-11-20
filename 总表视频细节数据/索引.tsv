@@ -6155,31 +6155,31 @@
 83	23	shadowy	adj. 阴暗的、多阴影的；模糊的	细节数据有	缺	词/s/shadowy.json
 83	24	shade	n. 阴凉处；色调	细节数据有	缺	词/s/shade.json
 83	25	shady	adj. 阴凉的、成荫的	细节数据有	缺	词/s/shady.json
-83	26	coin	n. 硬币	缺	缺	
-83	27	bitcoin	n. 比特币	缺	缺	
-83	28	concert	n. 音乐会	缺	缺	
-83	29	concerted	adj. 齐心协力的、共同的；坚决的	缺	缺	
-83	30	concertgoer	n. 常去听音乐会的人	缺	缺	
-83	31	concertlike	adj. 像音乐会般的	缺	缺	
-83	32	knock	v. 敲门；打	缺	缺	
-83	33	soup	n. 汤	缺	缺	
-83	34	supper	n. 晚餐	缺	缺	
-83	35	bark	n. 狗叫声	缺	缺	
-83	36	typhoon	n. 台风	缺	缺	
-83	37	drama	n. 戏剧、剧本	缺	缺	
-83	38	dramatically	adv. 急剧地、显著地	缺	缺	
-83	39	dramatic	adj. 戏剧的；激动人心的	缺	缺	
-83	40	drastic	adj. 激烈的、严厉的	缺	缺	
-83	41	drastically	adv. 大幅度地、严重地；彻底地	缺	缺	
-83	42	sculpt	v. 雕刻、雕塑	缺	缺	
-83	43	sculpture	n. 雕塑、雕刻艺术	缺	缺	
-83	44	sculptor	n. 雕塑家、雕刻家	缺	缺	
-84	1	metre	n. 米	缺	缺	
-84	2	meter	n. 米	缺	缺	
-84	3	five-hundred-metre	adj. 五百米的	缺	缺	
-84	4	kilometre	n. 千米	缺	缺	
-84	5	kilometer	n. 千米、公里	缺	缺	
-84	6	kilometric	adj. 千米的；按公里计的	缺	缺	
+83	26	coin	n. 硬币	细节数据有	缺	词/c/coin.json
+83	27	bitcoin	n. 比特币	细节数据有	缺	词/b/bitcoin.json
+83	28	concert	n. 音乐会	细节数据有	缺	词/c/concert.json
+83	29	concerted	adj. 齐心协力的、共同的；坚决的	细节数据有	缺	词/c/concerted.json
+83	30	concertgoer	n. 常去听音乐会的人	细节数据有	缺	词/c/concertgoer.json
+83	31	concertlike	adj. 像音乐会般的	细节数据有	缺	词/c/concertlike.json
+83	32	knock	v. 敲门；打	细节数据有	缺	词/k/knock.json
+83	33	soup	n. 汤	细节数据有	缺	词/s/soup.json
+83	34	supper	n. 晚餐	细节数据有	缺	词/s/supper.json
+83	35	bark	n. 狗叫声	细节数据有	缺	词/b/bark.json
+83	36	typhoon	n. 台风	细节数据有	缺	词/t/typhoon.json
+83	37	drama	n. 戏剧、剧本	细节数据有	缺	词/d/drama.json
+83	38	dramatically	adv. 急剧地、显著地	细节数据有	缺	词/d/dramatically.json
+83	39	dramatic	adj. 戏剧的；激动人心的	细节数据有	缺	词/d/dramatic.json
+83	40	drastic	adj. 激烈的、严厉的	细节数据有	缺	词/d/drastic.json
+83	41	drastically	adv. 大幅度地、严重地；彻底地	细节数据有	缺	词/d/drastically.json
+83	42	sculpt	v. 雕刻、雕塑	细节数据有	缺	词/s/sculpt.json
+83	43	sculpture	n. 雕塑、雕刻艺术	细节数据有	缺	词/s/sculpture.json
+83	44	sculptor	n. 雕塑家、雕刻家	细节数据有	缺	词/s/sculptor.json
+84	1	metre	n. 米	细节数据有	缺	词/m/metre.json
+84	2	meter	n. 米	细节数据有	缺	词/m/meter.json
+84	3	five-hundred-metre	adj. 五百米的	细节数据有	缺	词/f/five-hundred-metre.json
+84	4	kilometre	n. 千米	细节数据有	缺	词/k/kilometre.json
+84	5	kilometer	n. 千米、公里	细节数据有	缺	词/k/kilometer.json
+84	6	kilometric	adj. 千米的；按公里计的	细节数据有	缺	词/k/kilometric.json
 84	7	centimetre	n. 厘米	缺	缺	
 84	8	centimeter	n. 厘米	缺	缺	
 84	9	millimetre	n. 毫米	缺	缺	
