@@ -4723,31 +4723,31 @@
 60	25	bait	n. 诱饵 v. 故意招惹、激怒	细节数据有	缺	词/b/bait.json
 60	26	beetle	n. 甲虫	细节数据有	缺	词/b/beetle.json
 60	27	method	n. 方法	细节数据有	缺	词/m/method.json
-60	28	methodical	adj. 有条理的、有条不紊的；按部就班的	缺	缺	
-60	29	period	n. 时期、阶段	缺	缺	
-60	30	periodic	adj. 周期性的、定期的	缺	缺	
-60	31	episode	n. 一段经历、一件事	缺	缺	
-60	32	perform	v. 执行、做；表演、演奏	缺	缺	
-60	33	performance	n. 表演；行动	缺	缺	
-60	34	performer	n. 表演者、演员	缺	缺	
-60	35	high-performance	adj. 高性能的	缺	缺	
-60	36	furniture	n. 家具	缺	缺	
-60	37	furnish	v. 配备家具；提供、供应	缺	缺	
-60	38	furnishing	n. 家具陈设、室内用品	缺	缺	
-60	39	furnishings	n. 陈设，家具加上窗帘、地毯	缺	缺	
-60	40	top	n. 顶部 adj. 最上面的；居首位的	缺	缺	
-60	41	topping	n. 浇头、配料	缺	缺	
-60	42	atop	prep. 在…顶上	缺	缺	
-60	43	top-notch	adj. 一流的、顶尖的	缺	缺	
-60	44	top-tier	adj. 顶级的、第一梯队的	缺	缺	
-60	45	notch	v. 刻凹口	缺	缺	
-60	46	tier	n. 层、排	缺	缺	
-60	47	folk	n. 父母 adj. 民间的	缺	缺	
-60	48	townsfolk	n. 镇上的人、市民	缺	缺	
-60	49	folklore	n. 民间传说、民俗	缺	缺	
-60	50	proper	adj. 合适的、恰当的；像样的、正规的	缺	缺	
-60	51	properly	adv. 恰当地	缺	缺	
-60	52	improper	adj. 不恰当的、不正当的；不得体的	缺	缺	
+60	28	methodical	adj. 有条理的、有条不紊的；按部就班的	细节数据有	缺	词/m/methodical.json
+60	29	period	n. 时期、阶段	细节数据有	缺	词/p/period.json
+60	30	periodic	adj. 周期性的、定期的	细节数据有	缺	词/p/periodic.json
+60	31	episode	n. 一段经历、一件事	细节数据有	缺	词/e/episode.json
+60	32	perform	v. 执行、做；表演、演奏	细节数据有	缺	词/p/perform.json
+60	33	performance	n. 表演；行动	细节数据有	缺	词/p/performance.json
+60	34	performer	n. 表演者、演员	细节数据有	缺	词/p/performer.json
+60	35	high-performance	adj. 高性能的	细节数据有	缺	词/h/high-performance.json
+60	36	furniture	n. 家具	细节数据有	缺	词/f/furniture.json
+60	37	furnish	v. 配备家具；提供、供应	细节数据有	缺	词/f/furnish.json
+60	38	furnishing	n. 家具陈设、室内用品	细节数据有	缺	词/f/furnishing.json
+60	39	furnishings	n. 陈设，家具加上窗帘、地毯	细节数据有	缺	词/f/furnishings.json
+60	40	top	n. 顶部 adj. 最上面的；居首位的	细节数据有	缺	词/t/top.json
+60	41	topping	n. 浇头、配料	细节数据有	缺	词/t/topping.json
+60	42	atop	prep. 在…顶上	细节数据有	缺	词/a/atop.json
+60	43	top-notch	adj. 一流的、顶尖的	细节数据有	缺	词/t/top-notch.json
+60	44	top-tier	adj. 顶级的、第一梯队的	细节数据有	缺	词/t/top-tier.json
+60	45	notch	v. 刻凹口	细节数据有	缺	词/n/notch.json
+60	46	tier	n. 层、排	细节数据有	缺	词/t/tier.json
+60	47	folk	n. 父母 adj. 民间的	细节数据有	缺	词/f/folk.json
+60	48	townsfolk	n. 镇上的人、市民	细节数据有	缺	词/t/townsfolk.json
+60	49	folklore	n. 民间传说、民俗	细节数据有	缺	词/f/folklore.json
+60	50	proper	adj. 合适的、恰当的；像样的、正规的	细节数据有	缺	词/p/proper.json
+60	51	properly	adv. 恰当地	细节数据有	缺	词/p/properly.json
+60	52	improper	adj. 不恰当的、不正当的；不得体的	细节数据有	缺	词/i/improper.json
 60	53	property	n. 财产、所有物	缺	缺	
 61	1	robot	n. 机器人	缺	缺	
 61	2	robotic	adj. 机器人的、由机器人操作的	缺	缺	
