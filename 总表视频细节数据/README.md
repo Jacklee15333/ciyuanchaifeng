@@ -76,6 +76,7 @@
 | 2026-11-20 | 题目第 32 批 | 100 | vocabulary … mountaintop（体检全部 0 个问题；officer 答案就是本词 2 道，改过再存）。累计 2875 个词有题目 |
 | 2026-11-20 | 题目第 33 批 | 100 | amount … socially（体检全部 0 个问题）。累计 2975 个词有题目 |
 | 2026-11-20 | 题目第 34 批 | 100 | socialism … occasion（体检全部 0 个问题；acceptable、captivated 改过再存）。累计 3075 个词有题目 |
+| 2026-11-20 | 题目第 35 批 | 100 | occasionally … shape（体检全部 0 个问题；musical、landing、inland、worry、worried、worriedly、behind、unsure、inaccurate 改过再存）。累计 3175 个词有题目 |
 | 2026-11-19 | 试做 truly | 0 | 只用自带素材加表情图拼画面：起草检查不通过（表情图要换成写实插图、每幅画都要动、小图标要自己画）。结论：多数词要专门画插图，每个词的工作量和 7A-U4 一样；全表 9299 个词做不完，要先定先做哪些（等用户定） |
 
 ## 总表里看着不对的地方（出题时绕开了，以后用维护技能核对）

@@ -3167,31 +3167,31 @@
 40	47	surely	adv. 无疑、肯定	细节数据有	缺	词/s/surely.json
 40	48	ensure	v. 确保、保证	细节数据有	缺	词/e/ensure.json
 40	49	secure	adj. 安全的、有保障的；牢固的 v. 获得、争取到	细节数据有	缺	词/s/secure.json
-40	50	security	n. 安全；保障	缺	缺	
-40	51	insecurity	n. 不安全感、缺乏自信；不稳定、无保障	缺	缺	
-40	52	insecure	adj. 缺乏自信的、没有安全感的；不稳定的	缺	缺	
-40	53	insure	v. 给…保险	缺	缺	
-40	54	insurance	n. 保险	缺	缺	
-40	55	assure	v. 向…保证；使确信	缺	缺	
-40	56	assured	adj. 自信的、有把握的；确定的、有保证的	缺	缺	
-40	57	curious	adj. 好奇的	缺	缺	
-40	58	curiosity	n. 好奇心；珍品、古玩	缺	缺	
-40	59	curiously	adv. 好奇地	缺	缺	
-40	60	curiosity-driven	adj. 好奇心驱动的、出于兴趣的	缺	缺	
-40	61	cure	v. 治愈、治好；解决 n. 疗法、良药	缺	缺	
-40	62	curable	adj. 可治愈的	缺	缺	
-40	63	curative	adj. 有疗效的、治疗的	缺	缺	
-40	64	accurate	adj. 准确的	缺	缺	
-40	65	accuracy	n. 准确、精确	缺	缺	
-40	66	inaccurate	adj. 不准确的、有误的	缺	缺	
-40	67	accurately	adv. 准确地、精确地	缺	缺	
-40	68	period-accurate	adj. 符合时代特征的、考据严谨的	缺	缺	
-40	69	curator	n. 研究馆员、策展人	缺	缺	
-40	70	dream	v. 梦	缺	缺	
-40	71	dreamy	adj. 梦幻般的、朦胧的	缺	缺	
-40	72	dreamer	n. 做梦的人；空想家	缺	缺	
-40	73	daydream	n. 白日梦、幻想	缺	缺	
-40	74	shape	n. 形状；样子	缺	缺	
+40	50	security	n. 安全；保障	细节数据有	缺	词/s/security.json
+40	51	insecurity	n. 不安全感、缺乏自信；不稳定、无保障	细节数据有	缺	词/i/insecurity.json
+40	52	insecure	adj. 缺乏自信的、没有安全感的；不稳定的	细节数据有	缺	词/i/insecure.json
+40	53	insure	v. 给…保险	细节数据有	缺	词/i/insure.json
+40	54	insurance	n. 保险	细节数据有	缺	词/i/insurance.json
+40	55	assure	v. 向…保证；使确信	细节数据有	缺	词/a/assure.json
+40	56	assured	adj. 自信的、有把握的；确定的、有保证的	细节数据有	缺	词/a/assured.json
+40	57	curious	adj. 好奇的	细节数据有	缺	词/c/curious.json
+40	58	curiosity	n. 好奇心；珍品、古玩	细节数据有	缺	词/c/curiosity.json
+40	59	curiously	adv. 好奇地	细节数据有	缺	词/c/curiously.json
+40	60	curiosity-driven	adj. 好奇心驱动的、出于兴趣的	细节数据有	缺	词/c/curiosity-driven.json
+40	61	cure	v. 治愈、治好；解决 n. 疗法、良药	细节数据有	缺	词/c/cure.json
+40	62	curable	adj. 可治愈的	细节数据有	缺	词/c/curable.json
+40	63	curative	adj. 有疗效的、治疗的	细节数据有	缺	词/c/curative.json
+40	64	accurate	adj. 准确的	细节数据有	缺	词/a/accurate.json
+40	65	accuracy	n. 准确、精确	细节数据有	缺	词/a/accuracy.json
+40	66	inaccurate	adj. 不准确的、有误的	细节数据有	缺	词/i/inaccurate.json
+40	67	accurately	adv. 准确地、精确地	细节数据有	缺	词/a/accurately.json
+40	68	period-accurate	adj. 符合时代特征的、考据严谨的	细节数据有	缺	词/p/period-accurate.json
+40	69	curator	n. 研究馆员、策展人	细节数据有	缺	词/c/curator.json
+40	70	dream	v. 梦	细节数据有	缺	词/d/dream.json
+40	71	dreamy	adj. 梦幻般的、朦胧的	细节数据有	缺	词/d/dreamy.json
+40	72	dreamer	n. 做梦的人；空想家	细节数据有	缺	词/d/dreamer.json
+40	73	daydream	n. 白日梦、幻想	细节数据有	缺	词/d/daydream.json
+40	74	shape	n. 形状；样子	细节数据有	缺	词/s/shape.json
 40	75	shaped	adj. 有…形状的；被塑造的、受影响的	缺	缺	
 40	76	reshape	v. 重塑、改造	缺	缺	
 40	77	heart-shaped	adj. 心形的	缺	缺	
