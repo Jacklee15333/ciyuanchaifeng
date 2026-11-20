@@ -5452,31 +5452,31 @@
 70	27	footprint	n. 脚印、足迹	细节数据有	缺	词/f/footprint.json
 70	28	footstep	n. 脚步	细节数据有	缺	词/f/footstep.json
 70	29	foot-tapping	n. 用脚打拍子	细节数据有	缺	词/f/foot-tapping.json
-70	30	footage	n. 片段、镜头	缺	缺	
-70	31	100-foot-tall	adj. 高的	缺	缺	
-70	32	footman	n. 男仆、侍从；步兵	缺	缺	
-70	33	footmen	n. 男仆们、侍从们	缺	缺	
-70	34	pioneer	n. 先锋；开拓者	缺	缺	
-70	35	expedition	n. 远征、探险	缺	缺	
-70	36	pedestrian	n. 行人 adj. 平淡乏味的	缺	缺	
-70	37	pedal	n. 踏板	缺	缺	
-70	38	pedestal	n. 底座、基座	缺	缺	
-70	39	tall	adj. 高的	缺	缺	
-70	40	private	adj. 私人的	缺	缺	
-70	41	privately	adv. 私下地；在心里	缺	缺	
-70	42	privacy	n. 隐私；独处、清静	缺	缺	
-70	43	privilege	n. 特权、优惠；荣幸	缺	缺	
-70	44	pocket	n. 口袋	缺	缺	
-70	45	pouch	n. 小袋、小包	缺	缺	
-70	46	magazine	n. 杂志	缺	缺	
-70	47	brush	v. 刷；擦	缺	缺	
-70	48	brushing	n. 刷	缺	缺	
-70	49	brushstroke	n. 笔触、笔画	缺	缺	
-70	50	brushwork	n. 笔法、画法	缺	缺	
-70	51	paintbrush	n. 画笔；漆刷	缺	缺	
-70	52	brush-like	adj. 刷子状的	缺	缺	
-70	53	business	n. 生意；事业	缺	缺	
-70	54	businessman	n. 商人	缺	缺	
+70	30	footage	n. 片段、镜头	细节数据有	缺	词/f/footage.json
+70	31	100-foot-tall	adj. 高的	细节数据有	缺	词/_/100-foot-tall.json
+70	32	footman	n. 男仆、侍从；步兵	细节数据有	缺	词/f/footman.json
+70	33	footmen	n. 男仆们、侍从们	细节数据有	缺	词/f/footmen.json
+70	34	pioneer	n. 先锋；开拓者	细节数据有	缺	词/p/pioneer.json
+70	35	expedition	n. 远征、探险	细节数据有	缺	词/e/expedition.json
+70	36	pedestrian	n. 行人 adj. 平淡乏味的	细节数据有	缺	词/p/pedestrian.json
+70	37	pedal	n. 踏板	细节数据有	缺	词/p/pedal.json
+70	38	pedestal	n. 底座、基座	细节数据有	缺	词/p/pedestal.json
+70	39	tall	adj. 高的	细节数据有	缺	词/t/tall.json
+70	40	private	adj. 私人的	细节数据有	缺	词/p/private.json
+70	41	privately	adv. 私下地；在心里	细节数据有	缺	词/p/privately.json
+70	42	privacy	n. 隐私；独处、清静	细节数据有	缺	词/p/privacy.json
+70	43	privilege	n. 特权、优惠；荣幸	细节数据有	缺	词/p/privilege.json
+70	44	pocket	n. 口袋	细节数据有	缺	词/p/pocket.json
+70	45	pouch	n. 小袋、小包	细节数据有	缺	词/p/pouch.json
+70	46	magazine	n. 杂志	细节数据有	缺	词/m/magazine.json
+70	47	brush	v. 刷；擦	细节数据有	缺	词/b/brush.json
+70	48	brushing	n. 刷	细节数据有	缺	词/b/brushing.json
+70	49	brushstroke	n. 笔触、笔画	细节数据有	缺	词/b/brushstroke.json
+70	50	brushwork	n. 笔法、画法	细节数据有	缺	词/b/brushwork.json
+70	51	paintbrush	n. 画笔；漆刷	细节数据有	缺	词/p/paintbrush.json
+70	52	brush-like	adj. 刷子状的	细节数据有	缺	词/b/brush-like.json
+70	53	business	n. 生意；事业	细节数据有	缺	词/b/business.json
+70	54	businessman	n. 商人	细节数据有	缺	词/b/businessman.json
 70	55	businessmen	n. 商人们、企业家们	缺	缺	
 70	56	businessperson	n. 商人、企业人士	缺	缺	
 70	57	businesswoman	n. 女商人、女企业家	缺	缺	

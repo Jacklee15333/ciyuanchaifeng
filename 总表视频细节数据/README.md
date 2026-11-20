@@ -149,6 +149,7 @@
 | 2026-11-20 | 题目第 57 批第 4 组 | 25 | thirty-seven … breathe（体检全部 0 个问题；gatekeeper、snack、shopping、breathlessly 出题时自查到答案是原形超过 1 道，shopper 第 7 题漏写考点，改过再存）。累计 5374 个词有题目 |
 | 2026-11-20 | 题目第 58 批第 1 组 | 25 | breathable … stick（体检全部 0 个问题；breathable、weakness、weakly、fitness、outfit、shook、shaky、smoothly、mid-autumn、ticket、etiquette 出题时自查到答案是原形超过 1 道，改过再存）。累计 5399 个词有题目 |
 | 2026-11-20 | 题目第 58 批第 2 组 | 25 | stuck … foot-tapping（体检全部 0 个问题；stuck、chopsticks、level、deliberately、harmed、poet、poetic、foot、feet 出题时自查到答案是原形超过 1 道，改过再存）。累计 5424 个词有题目 |
+| 2026-11-20 | 题目第 58 批第 3 组 | 25 | footage … businessman（体检全部 0 个问题；出题时自查答案是原形不超过 1 道）。累计 5449 个词有题目 |
 | 2026-11-19 | 试做 truly | 0 | 只用自带素材加表情图拼画面：起草检查不通过（表情图要换成写实插图、每幅画都要动、小图标要自己画）。结论：多数词要专门画插图，每个词的工作量和 7A-U4 一样；全表 9299 个词做不完，要先定先做哪些（等用户定） |
 
 ## 总表里看着不对的地方（出题时绕开了，以后用维护技能核对）
@@ -512,6 +513,10 @@
 - chopsticks：考点写“一般不可数，不加 s”，chopsticks 本身就是复数（a pair of chopsticks）
 - harmed：考点写了编造的变形 harmeds、harmeded、harmeding
 - level：初中含义只写“水平线”，应是“水平、级别；层”
+- footmen：考点写“复数 footmens”，footmen 本身就是复数，没有 footmens
+- brushwork：考点写“复数 brushworks”，brushwork（笔法）一般不可数
+- business：考点写“不可数，没有复数”，作“公司、商店”讲时可数，复数 businesses
+- 100-foot-tall：初中含义只写“高的”，应是“一百英尺高的”
 
 ## 总表里出现两次的词（细节数据按单词存一份，两行共用；出题时两个意思都要考到）
 
