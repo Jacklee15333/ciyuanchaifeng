@@ -6255,31 +6255,31 @@
 85	16	instal	v. 使就职	细节数据有	缺	词/i/instal.json
 85	17	install	v. 安装；使就职	细节数据有	缺	词/i/install.json
 85	18	installation	n. 安装；就职典礼	细节数据有	缺	词/i/installation.json
-85	19	stall	n. 畜栏；摊位 v. 熄火、抛锚	缺	缺	
-85	20	stallion	n. 种马、未阉割的公马	缺	缺	
-85	21	refrigerator	n. 冰箱、冷藏柜	缺	缺	
-85	22	fridge	n. 冰箱	缺	缺	
-85	23	refrigeration	n. 制冷、冷藏	缺	缺	
-85	24	herb	n. 香草、药草	缺	缺	
-85	25	herbal	adj. 草药的、用草药制的	缺	缺	
+85	19	stall	n. 畜栏；摊位 v. 熄火、抛锚	细节数据有	缺	词/s/stall.json
+85	20	stallion	n. 种马、未阉割的公马	细节数据有	缺	词/s/stallion.json
+85	21	refrigerator	n. 冰箱、冷藏柜	细节数据有	缺	词/r/refrigerator.json
+85	22	fridge	n. 冰箱	细节数据有	缺	词/f/fridge.json
+85	23	refrigeration	n. 制冷、冷藏	细节数据有	缺	词/r/refrigeration.json
+85	24	herb	n. 香草、药草	细节数据有	缺	词/h/herb.json
+85	25	herbal	adj. 草药的、用草药制的	细节数据有	缺	词/h/herbal.json
 85	26	herbalist	n. 草药医生	缺	缺	
 85	27	tough	adj. 坚韧的；倒霉的	缺	缺	
-85	28	toughness	n. 韧性、坚固	缺	缺	
-85	29	tough-looking	adj. 看着凶悍的、不好惹的	缺	缺	
-85	30	carrot	n. 胡萝卜	缺	缺	
+85	28	toughness	n. 韧性、坚固	细节数据有	缺	词/t/toughness.json
+85	29	tough-looking	adj. 看着凶悍的、不好惹的	细节数据有	缺	词/t/tough-looking.json
+85	30	carrot	n. 胡萝卜	细节数据有	缺	词/c/carrot.json
 85	31	carrot-colored	adj. 胡萝卜色的、橙红色的	缺	缺	
 85	32	carroty	adj. 胡萝卜色的	缺	缺	
 85	33	bone	n. 骨头	缺	缺	
-85	34	bony	adj. 多骨的、刺多的	缺	缺	
-85	35	function	n. 功能、作用；正式活动、典礼	缺	缺	
-85	36	functional	adj. 功能的、机能的	缺	缺	
+85	34	bony	adj. 多骨的、刺多的	细节数据有	缺	词/b/bony.json
+85	35	function	n. 功能、作用；正式活动、典礼	细节数据有	缺	词/f/function.json
+85	36	functional	adj. 功能的、机能的	细节数据有	缺	词/f/functional.json
 85	37	malfunction	n. 故障、失灵	缺	缺	
 85	38	mall	n. 林荫步行道	缺	缺	
 85	39	jeans	n. 牛仔裤	缺	缺	
-85	40	panel	n. 面板、仪表板；专门小组、评审团	缺	缺	
-86	1	cave	n. 洞；地窖	缺	缺	
-86	2	excavate	v. 挖掘、发掘	缺	缺	
-86	3	excavation	n. 挖掘、发掘	缺	缺	
+85	40	panel	n. 面板、仪表板；专门小组、评审团	细节数据有	缺	词/p/panel.json
+86	1	cave	n. 洞；地窖	细节数据有	缺	词/c/cave.json
+86	2	excavate	v. 挖掘、发掘	细节数据有	缺	词/e/excavate.json
+86	3	excavation	n. 挖掘、发掘	细节数据有	缺	词/e/excavation.json
 86	4	cage	n. 笼子	缺	缺	
 86	5	caged	adj. 关在笼中的	缺	缺	
 86	6	jail	n. 监狱、看守所	缺	缺	
