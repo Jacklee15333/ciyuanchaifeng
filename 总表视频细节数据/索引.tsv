@@ -6055,31 +6055,31 @@
 81	12	Austria	n. 奥地利	细节数据有	缺	词/a/Austria.json
 81	13	aurora	n. 极光	细节数据有	缺	词/a/aurora.json
 81	14	blind	adj. 瞎的 n. 盲人	细节数据有	缺	词/b/blind.json
-81	15	blindly	adv. 盲目地、不加思考地；摸索着、看不见地	缺	缺	
-81	16	blindness	n. 失明、瞎	缺	缺	
-81	17	blend	v. 混合、调和	缺	缺	
-81	18	blender	n. 搅拌机、料理机	缺	缺	
-81	19	sweat	n. 汗	缺	缺	
-81	20	sweaty	adj. 汗津津的	缺	缺	
-81	21	sweater	n. 毛衣、针织衫	缺	缺	
-81	22	silver	n. 银	缺	缺	
-81	23	silvery	adj. 银白的、闪着银光的	缺	缺	
-81	24	hate	n. 不喜欢；恨	缺	缺	
-81	25	hateful	adj. 可恨的、可憎的；令人厌恶的	缺	缺	
-81	26	hatred	n. 仇恨、憎恨	缺	缺	
-81	27	row	n. 排一	缺	缺	
-81	28	rowboat	n. 划艇、小划子	缺	缺	
-81	29	young	adj. 年轻的	缺	缺	
-81	30	younger	adj. 更年轻的	缺	缺	
-81	31	youth	n. 青春、青年时期	缺	缺	
-81	32	junior	adj. 初级的；年少的	缺	缺	
-81	33	juvenile	n. 未成年人	缺	缺	
-81	34	dear	adj. 亲爱的；贵的	缺	缺	
-81	35	heritage	n. 传统	缺	缺	
-81	36	inherit	v. 继承；接手	缺	缺	
-81	37	heir	n. 继承人	缺	缺	
-81	38	beyond	prep. 在…的那边；超出 n. 未知的世界	缺	缺	
-81	39	clay	n. 黏土、陶土	缺	缺	
+81	15	blindly	adv. 盲目地、不加思考地；摸索着、看不见地	细节数据有	缺	词/b/blindly.json
+81	16	blindness	n. 失明、瞎	细节数据有	缺	词/b/blindness.json
+81	17	blend	v. 混合、调和	细节数据有	缺	词/b/blend.json
+81	18	blender	n. 搅拌机、料理机	细节数据有	缺	词/b/blender.json
+81	19	sweat	n. 汗	细节数据有	缺	词/s/sweat.json
+81	20	sweaty	adj. 汗津津的	细节数据有	缺	词/s/sweaty.json
+81	21	sweater	n. 毛衣、针织衫	细节数据有	缺	词/s/sweater.json
+81	22	silver	n. 银	细节数据有	缺	词/s/silver.json
+81	23	silvery	adj. 银白的、闪着银光的	细节数据有	缺	词/s/silvery.json
+81	24	hate	n. 不喜欢；恨	细节数据有	缺	词/h/hate.json
+81	25	hateful	adj. 可恨的、可憎的；令人厌恶的	细节数据有	缺	词/h/hateful.json
+81	26	hatred	n. 仇恨、憎恨	细节数据有	缺	词/h/hatred.json
+81	27	row	n. 排一	细节数据有	缺	词/r/row.json
+81	28	rowboat	n. 划艇、小划子	细节数据有	缺	词/r/rowboat.json
+81	29	young	adj. 年轻的	细节数据有	缺	词/y/young.json
+81	30	younger	adj. 更年轻的	细节数据有	缺	词/y/younger.json
+81	31	youth	n. 青春、青年时期	细节数据有	缺	词/y/youth.json
+81	32	junior	adj. 初级的；年少的	细节数据有	缺	词/j/junior.json
+81	33	juvenile	n. 未成年人	细节数据有	缺	词/j/juvenile.json
+81	34	dear	adj. 亲爱的；贵的	细节数据有	缺	词/d/dear.json
+81	35	heritage	n. 传统	细节数据有	缺	词/h/heritage.json
+81	36	inherit	v. 继承；接手	细节数据有	缺	词/i/inherit.json
+81	37	heir	n. 继承人	细节数据有	缺	词/h/heir.json
+81	38	beyond	prep. 在…的那边；超出 n. 未知的世界	细节数据有	缺	词/b/beyond.json
+81	39	clay	n. 黏土、陶土	细节数据有	缺	词/c/clay.json
 82	1	elephant	n. 大象	缺	缺	
 82	2	France	n. 法国	缺	缺	
 82	3	Frank	n. 法兰克人	缺	缺	
