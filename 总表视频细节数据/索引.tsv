@@ -4748,32 +4748,32 @@
 60	50	proper	adj. 合适的、恰当的；像样的、正规的	细节数据有	缺	词/p/proper.json
 60	51	properly	adv. 恰当地	细节数据有	缺	词/p/properly.json
 60	52	improper	adj. 不恰当的、不正当的；不得体的	细节数据有	缺	词/i/improper.json
-60	53	property	n. 财产、所有物	缺	缺	
-61	1	robot	n. 机器人	缺	缺	
-61	2	robotic	adj. 机器人的、由机器人操作的	缺	缺	
-61	3	robotics	n. 机器人学、机器人技术	缺	缺	
-61	4	robot-building	n. 机器人制作	缺	缺	
-61	5	empty	adj. 空的	缺	缺	
-61	6	emptiness	n. 空	缺	缺	
-61	7	emptily	adv. 空虚地、茫然地	缺	缺	
-61	8	empty-handed	adj. 空手的；一无所获的	缺	缺	
-61	9	wave	n. 波 v. 挥手	缺	缺	
-61	10	microwave	n. 微波	缺	缺	
-61	11	wavy	adj. 波浪形的、起伏的	缺	缺	
-61	12	waver	v. 犹豫不决、动摇	缺	缺	
-61	13	unwavering	adj. 坚定不移的、毫不动摇的	缺	缺	
+60	53	property	n. 财产、所有物	细节数据有	缺	词/p/property.json
+61	1	robot	n. 机器人	细节数据有	缺	词/r/robot.json
+61	2	robotic	adj. 机器人的、由机器人操作的	细节数据有	缺	词/r/robotic.json
+61	3	robotics	n. 机器人学、机器人技术	细节数据有	缺	词/r/robotics.json
+61	4	robot-building	n. 机器人制作	细节数据有	缺	词/r/robot-building.json
+61	5	empty	adj. 空的	细节数据有	缺	词/e/empty.json
+61	6	emptiness	n. 空	细节数据有	缺	词/e/emptiness.json
+61	7	emptily	adv. 空虚地、茫然地	细节数据有	缺	词/e/emptily.json
+61	8	empty-handed	adj. 空手的；一无所获的	细节数据有	缺	词/e/empty-handed.json
+61	9	wave	n. 波 v. 挥手	细节数据有	缺	词/w/wave.json
+61	10	microwave	n. 微波	细节数据有	缺	词/m/microwave.json
+61	11	wavy	adj. 波浪形的、起伏的	细节数据有	缺	词/w/wavy.json
+61	12	waver	v. 犹豫不决、动摇	细节数据有	缺	词/w/waver.json
+61	13	unwavering	adj. 坚定不移的、毫不动摇的	细节数据有	缺	词/u/unwavering.json
 61	14	camera	n. 照相机；摄像机	总表有	kit有（7A-U4）	
-61	15	cameraman	n. 摄像师、摄影师	缺	缺	
-61	16	chamber	n. 会议厅；腔、室	缺	缺	
-61	17	topic	n. 题目	缺	缺	
-61	18	topical	adj. 时事的、热门话题的	缺	缺	
-61	19	isotope	n. 同位素	缺	缺	
-61	20	praise	v. 赞扬	缺	缺	
-61	21	price	n. 价格	缺	缺	
-61	22	priceless	adj. 无价的、极珍贵的	缺	缺	
-61	23	pricey	adj. 价格高的、贵的	缺	缺	
-61	24	prize	n. 奖赏	缺	缺	
-61	25	prized	adj. 珍贵的、被视为宝贝的	缺	缺	
+61	15	cameraman	n. 摄像师、摄影师	细节数据有	缺	词/c/cameraman.json
+61	16	chamber	n. 会议厅；腔、室	细节数据有	缺	词/c/chamber.json
+61	17	topic	n. 题目	细节数据有	缺	词/t/topic.json
+61	18	topical	adj. 时事的、热门话题的	细节数据有	缺	词/t/topical.json
+61	19	isotope	n. 同位素	细节数据有	缺	词/i/isotope.json
+61	20	praise	v. 赞扬	细节数据有	缺	词/p/praise.json
+61	21	price	n. 价格	细节数据有	缺	词/p/price.json
+61	22	priceless	adj. 无价的、极珍贵的	细节数据有	缺	词/p/priceless.json
+61	23	pricey	adj. 价格高的、贵的	细节数据有	缺	词/p/pricey.json
+61	24	prize	n. 奖赏	细节数据有	缺	词/p/prize.json
+61	25	prized	adj. 珍贵的、被视为宝贝的	细节数据有	缺	词/p/prized.json
 61	26	prize-winning	adj. 获奖的	缺	缺	
 61	27	precious	adj. 宝贵的	缺	缺	
 61	28	preciousness	n. 珍贵、宝贵	缺	缺	
