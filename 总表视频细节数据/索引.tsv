@@ -3042,31 +3042,31 @@
 39	3	receptionist	n. 接待员、前台	细节数据有	缺	词/r/receptionist.json
 39	4	reception	n. 接待、招待会；反应、反响	细节数据有	缺	词/r/reception.json
 39	5	receipt	n. 收据、收条	细节数据有	缺	词/r/receipt.json
-39	6	recipient	n. 接受者、领受者；收件人	缺	缺	
-39	7	accept	v. 接受	缺	缺	
-39	8	acceptance	n. 接受、认可	缺	缺	
-39	9	acceptable	adj. 可以接受的、过得去的；合意的	缺	缺	
-39	10	unacceptable	adj. 不可接受的、不能容忍的	缺	缺	
-39	11	recipe	n. 菜谱、食谱	缺	缺	
-39	12	except	prep. 除…之外	缺	缺	
-39	13	exception	n. 例外；反对、异议	缺	缺	
-39	14	exceptional	adj. 特别出色的；例外的、罕见的	缺	缺	
-39	15	concept	n. 概念、观念	缺	缺	
-39	16	conceive	v. 构想、设想；怀孕	缺	缺	
-39	17	occupation	n. 职业	缺	缺	
-39	18	perceive	v. 察觉、感知；认为、看待	缺	缺	
-39	19	perception	n. 感知、知觉；看法、认识	缺	缺	
-39	20	catch	v. 接住；赶上	缺	缺	
-39	21	caught	v. 过去分词	缺	缺	
-39	22	catchy	adj. 上口的、好记的	缺	缺	
-39	23	eye-catching	adj. 醒目的、引人注目的	缺	缺	
-39	24	chase	v. 追赶	缺	缺	
-39	25	chaser	n. 追逐者	缺	缺	
-39	26	purchase	v. 购买	缺	缺	
-39	27	cash	n. 现金；钱	缺	缺	
-39	28	cashless	adj. 无现金的	缺	缺	
-39	29	capsule	n. 胶囊；太空舱 adj. 简要的	缺	缺	
-39	30	cassette	n. 盒式磁带	缺	缺	
+39	6	recipient	n. 接受者、领受者；收件人	细节数据有	缺	词/r/recipient.json
+39	7	accept	v. 接受	细节数据有	缺	词/a/accept.json
+39	8	acceptance	n. 接受、认可	细节数据有	缺	词/a/acceptance.json
+39	9	acceptable	adj. 可以接受的、过得去的；合意的	细节数据有	缺	词/a/acceptable.json
+39	10	unacceptable	adj. 不可接受的、不能容忍的	细节数据有	缺	词/u/unacceptable.json
+39	11	recipe	n. 菜谱、食谱	细节数据有	缺	词/r/recipe.json
+39	12	except	prep. 除…之外	细节数据有	缺	词/e/except.json
+39	13	exception	n. 例外；反对、异议	细节数据有	缺	词/e/exception.json
+39	14	exceptional	adj. 特别出色的；例外的、罕见的	细节数据有	缺	词/e/exceptional.json
+39	15	concept	n. 概念、观念	细节数据有	缺	词/c/concept.json
+39	16	conceive	v. 构想、设想；怀孕	细节数据有	缺	词/c/conceive.json
+39	17	occupation	n. 职业	细节数据有	缺	词/o/occupation.json
+39	18	perceive	v. 察觉、感知；认为、看待	细节数据有	缺	词/p/perceive.json
+39	19	perception	n. 感知、知觉；看法、认识	细节数据有	缺	词/p/perception.json
+39	20	catch	v. 接住；赶上	细节数据有	缺	词/c/catch.json
+39	21	caught	v. 过去分词	细节数据有	缺	词/c/caught.json
+39	22	catchy	adj. 上口的、好记的	细节数据有	缺	词/c/catchy.json
+39	23	eye-catching	adj. 醒目的、引人注目的	细节数据有	缺	词/e/eye-catching.json
+39	24	chase	v. 追赶	细节数据有	缺	词/c/chase.json
+39	25	chaser	n. 追逐者	细节数据有	缺	词/c/chaser.json
+39	26	purchase	v. 购买	细节数据有	缺	词/p/purchase.json
+39	27	cash	n. 现金；钱	细节数据有	缺	词/c/cash.json
+39	28	cashless	adj. 无现金的	细节数据有	缺	词/c/cashless.json
+39	29	capsule	n. 胶囊；太空舱 adj. 简要的	细节数据有	缺	词/c/capsule.json
+39	30	cassette	n. 盒式磁带	细节数据有	缺	词/c/cassette.json
 39	31	cashier	n. 收银员	缺	缺	
 39	32	capture	v. 俘获、捕获；夺取	缺	缺	
 39	33	cable	n. 电缆、电线	缺	缺	
