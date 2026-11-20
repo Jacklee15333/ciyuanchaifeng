@@ -6130,31 +6130,31 @@
 82	48	carpet	n. 地毯	细节数据有	缺	词/c/carpet.json
 82	49	ceremony	n. 典礼、仪式	细节数据有	缺	词/c/ceremony.json
 82	50	ceremonial	adj. 礼仪上的、仪式的	细节数据有	缺	词/c/ceremonial.json
-83	1	crash	n. 撞车、坠毁 v. 擅自闯入	缺	缺	
-83	2	lantern	n. 灯笼	缺	缺	
-83	3	shoulder	n. 肩、肩膀 v. 承担	缺	缺	
-83	4	freeze	v. 结冰	缺	缺	
-83	5	frozen	adj. 冰冻的	缺	缺	
-83	6	freezing	adj. 结冰的；极冷的	缺	缺	
-83	7	froze	v. 结冰了；冻住了	缺	缺	
-83	8	freezer	n. 冰柜、冷冻柜	缺	缺	
-83	9	unfrozen	adj. 未冻结的、没结冰的	缺	缺	
-83	10	frost	n. 霜	缺	缺	
-83	11	frost-covered	adj. 覆盖着霜的、结满霜的	缺	缺	
-83	12	frostbite	n. 冻伤	缺	缺	
-83	13	hoar-frost	n. 白霜	缺	缺	
-83	14	home	n. 家	缺	缺	
-83	15	homeless	adj. 无家可归的	缺	缺	
-83	16	homey	adj. 温馨舒适的、像家一样的	缺	缺	
-83	17	hometown	n. 家乡	缺	缺	
-83	18	homemade	adj. 自制的、家里做的	缺	缺	
-83	19	homesickness	n. 思乡病、想家	缺	缺	
-83	20	clap	v. 拍手、鼓掌；啪地一放	缺	缺	
-83	21	clapping	n. 拍手、鼓掌	缺	缺	
-83	22	shadow	n. 影子；一点点 v. 尾随、跟踪	缺	缺	
-83	23	shadowy	adj. 阴暗的、多阴影的；模糊的	缺	缺	
-83	24	shade	n. 阴凉处；色调	缺	缺	
-83	25	shady	adj. 阴凉的、成荫的	缺	缺	
+83	1	crash	n. 撞车、坠毁 v. 擅自闯入	细节数据有	缺	词/c/crash.json
+83	2	lantern	n. 灯笼	细节数据有	缺	词/l/lantern.json
+83	3	shoulder	n. 肩、肩膀 v. 承担	细节数据有	缺	词/s/shoulder.json
+83	4	freeze	v. 结冰	细节数据有	缺	词/f/freeze.json
+83	5	frozen	adj. 冰冻的	细节数据有	缺	词/f/frozen.json
+83	6	freezing	adj. 结冰的；极冷的	细节数据有	缺	词/f/freezing.json
+83	7	froze	v. 结冰了；冻住了	细节数据有	缺	词/f/froze.json
+83	8	freezer	n. 冰柜、冷冻柜	细节数据有	缺	词/f/freezer.json
+83	9	unfrozen	adj. 未冻结的、没结冰的	细节数据有	缺	词/u/unfrozen.json
+83	10	frost	n. 霜	细节数据有	缺	词/f/frost.json
+83	11	frost-covered	adj. 覆盖着霜的、结满霜的	细节数据有	缺	词/f/frost-covered.json
+83	12	frostbite	n. 冻伤	细节数据有	缺	词/f/frostbite.json
+83	13	hoar-frost	n. 白霜	细节数据有	缺	词/h/hoar-frost.json
+83	14	home	n. 家	细节数据有	缺	词/h/home.json
+83	15	homeless	adj. 无家可归的	细节数据有	缺	词/h/homeless.json
+83	16	homey	adj. 温馨舒适的、像家一样的	细节数据有	缺	词/h/homey.json
+83	17	hometown	n. 家乡	细节数据有	缺	词/h/hometown.json
+83	18	homemade	adj. 自制的、家里做的	细节数据有	缺	词/h/homemade.json
+83	19	homesickness	n. 思乡病、想家	细节数据有	缺	词/h/homesickness.json
+83	20	clap	v. 拍手、鼓掌；啪地一放	细节数据有	缺	词/c/clap.json
+83	21	clapping	n. 拍手、鼓掌	细节数据有	缺	词/c/clapping.json
+83	22	shadow	n. 影子；一点点 v. 尾随、跟踪	细节数据有	缺	词/s/shadow.json
+83	23	shadowy	adj. 阴暗的、多阴影的；模糊的	细节数据有	缺	词/s/shadowy.json
+83	24	shade	n. 阴凉处；色调	细节数据有	缺	词/s/shade.json
+83	25	shady	adj. 阴凉的、成荫的	细节数据有	缺	词/s/shady.json
 83	26	coin	n. 硬币	缺	缺	
 83	27	bitcoin	n. 比特币	缺	缺	
 83	28	concert	n. 音乐会	缺	缺	

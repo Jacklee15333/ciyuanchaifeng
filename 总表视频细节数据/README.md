@@ -176,6 +176,7 @@
 | 2026-11-20 | 题目第 64 批第 3 组 | 25 | blindly … clay（体检全部 0 个问题；blindness、blend、sweat、silver、silvery、row、younger、youth、junior、dear、heritage、heir、beyond 出题时自查到答案是原形超过 1 道，改过再存）。累计 6049 个词有题目 |
 | 2026-11-20 | 题目第 64 批第 4 组 | 25 | elephant … religious（体检全部 0 个问题；Frank 第 6 题选项大小写重复，改过再存；elephant、French、coastal、drum、drummer、reliability、over-reliance、alloy、league、obligation、religious 出题时自查到答案是原形超过 1 道，coastal 第 6 题漏写考点，改过再存）。累计 6074 个词有题目 |
 | 2026-11-20 | 题目第 65 批第 1 组 | 25 | religion … ceremonial（体检全部 0 个问题；ruin、coat、plot、Christmas、Christian、scarce、carpet、ceremonial 出题时自查到答案是原形超过 1 道，改过再存）。累计 6099 个词有题目 |
+| 2026-11-20 | 题目第 65 批第 2 组 | 25 | crash … shady（体检全部 0 个问题；lantern、froze、freezer、unfrozen、frostbite、homeless、homey、homesickness、shadow、shadowy、shade 出题时自查到答案是原形超过 1 道，改过再存）。累计 6124 个词有题目 |
 | 2026-11-19 | 试做 truly | 0 | 只用自带素材加表情图拼画面：起草检查不通过（表情图要换成写实插图、每幅画都要动、小图标要自己画）。结论：多数词要专门画插图，每个词的工作量和 7A-U4 一样；全表 9299 个词做不完，要先定先做哪些（等用户定） |
 
 ## 总表里看着不对的地方（出题时绕开了，以后用维护技能核对）
@@ -600,6 +601,7 @@
 - ruins：变形写成“不可数，没有复数”，ruins 本身就是 ruin 的复数形式，谓语用复数
 - Christmas / Christ / Christian：复数写成小写 christmases、christs、christians，专有名词首字母要大写（Christmases、Christians），Christ 一般不用复数
 - coating：变形写成“不可数，没有复数”，指各种涂层时可数，复数 coatings
+- frozen / freezing / homeless：变形写成比较级 more frozen、more freezing、more homeless；这几个词表示绝对状态，一般不用比较级
 
 ## 总表里出现两次的词（细节数据按单词存一份，两行共用；出题时两个意思都要考到）
 
