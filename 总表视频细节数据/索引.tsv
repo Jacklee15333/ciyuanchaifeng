@@ -5679,31 +5679,31 @@
 74	12	wing	n. 机翼；翅膀	细节数据有	缺	词/w/wing.json
 74	13	strike	v. 敲；鸣钟	细节数据有	缺	词/s/strike.json
 74	14	struck	v. 打了、击中了 phr. 对…印象很深	细节数据有	缺	词/s/struck.json
-74	15	striking	adj. 显著的、惊人的；罢工的	缺	缺	
-74	16	stroke	n. 击、打；笔画 v. 抚摸	缺	缺	
-74	17	streak	n. 条纹、条痕；一连串 v. 飞奔	缺	缺	
-74	18	sunstroke	n. 中暑	缺	缺	
-74	19	tear	n. 眼泪	缺	缺	
-74	20	torn	adj. 撕破的	缺	缺	
-74	21	tore	v. 撕	缺	缺	
-74	22	tear-jerking	adj. 催泪的、赚人眼泪的	缺	缺	
-74	23	hill	n. 小山	缺	缺	
-74	24	hilltop	n. 小山顶	缺	缺	
-74	25	downhill	adv. 向山下、下坡	缺	缺	
-74	26	uphill	adv. 往山上、上坡 adj. 费力的、艰难的	缺	缺	
-74	27	roof	n. 屋顶、房顶；上颚	缺	缺	
-74	28	rooftop	n. 屋顶	缺	缺	
-74	29	contest	n. 竞赛	缺	缺	
-74	30	contestant	n. 参赛者、选手；竞争者	缺	缺	
-74	31	protest	v. 抗议、反对；坚称	缺	缺	
-74	32	protester	n. 抗议者、示威者	缺	缺	
-74	33	testimony	n. 证词、证言	缺	缺	
-74	34	identify	v. 认出、确认	缺	缺	
-74	35	identifiable	adj. 可辨认的、可识别的；能确定身份的	缺	缺	
-74	36	identification	n. 识别、鉴定；身份证明、证件	缺	缺	
-74	37	ID	n. 身份证件	缺	缺	
-74	38	identity	n. 身份；特性、认同感	缺	缺	
-74	39	social-identity	n. 社会认同	缺	缺	
+74	15	striking	adj. 显著的、惊人的；罢工的	细节数据有	缺	词/s/striking.json
+74	16	stroke	n. 击、打；笔画 v. 抚摸	细节数据有	缺	词/s/stroke.json
+74	17	streak	n. 条纹、条痕；一连串 v. 飞奔	细节数据有	缺	词/s/streak.json
+74	18	sunstroke	n. 中暑	细节数据有	缺	词/s/sunstroke.json
+74	19	tear	n. 眼泪	细节数据有	缺	词/t/tear.json
+74	20	torn	adj. 撕破的	细节数据有	缺	词/t/torn.json
+74	21	tore	v. 撕	细节数据有	缺	词/t/tore.json
+74	22	tear-jerking	adj. 催泪的、赚人眼泪的	细节数据有	缺	词/t/tear-jerking.json
+74	23	hill	n. 小山	细节数据有	缺	词/h/hill.json
+74	24	hilltop	n. 小山顶	细节数据有	缺	词/h/hilltop.json
+74	25	downhill	adv. 向山下、下坡	细节数据有	缺	词/d/downhill.json
+74	26	uphill	adv. 往山上、上坡 adj. 费力的、艰难的	细节数据有	缺	词/u/uphill.json
+74	27	roof	n. 屋顶、房顶；上颚	细节数据有	缺	词/r/roof.json
+74	28	rooftop	n. 屋顶	细节数据有	缺	词/r/rooftop.json
+74	29	contest	n. 竞赛	细节数据有	缺	词/c/contest.json
+74	30	contestant	n. 参赛者、选手；竞争者	细节数据有	缺	词/c/contestant.json
+74	31	protest	v. 抗议、反对；坚称	细节数据有	缺	词/p/protest.json
+74	32	protester	n. 抗议者、示威者	细节数据有	缺	词/p/protester.json
+74	33	testimony	n. 证词、证言	细节数据有	缺	词/t/testimony.json
+74	34	identify	v. 认出、确认	细节数据有	缺	词/i/identify.json
+74	35	identifiable	adj. 可辨认的、可识别的；能确定身份的	细节数据有	缺	词/i/identifiable.json
+74	36	identification	n. 识别、鉴定；身份证明、证件	细节数据有	缺	词/i/identification.json
+74	37	ID	n. 身份证件	细节数据有	缺	词/i/ID.json
+74	38	identity	n. 身份；特性、认同感	细节数据有	缺	词/i/identity.json
+74	39	social-identity	n. 社会认同	细节数据有	缺	词/s/social-identity.json
 74	40	borrow	v. 借用	缺	缺	
 74	41	borrower	n. 借用者、借款人	缺	缺	
 74	42	bury	v. 埋葬、安葬；掩盖、遮住	缺	缺	
