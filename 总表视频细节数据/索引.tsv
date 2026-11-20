@@ -6080,31 +6080,31 @@
 81	37	heir	n. 继承人	细节数据有	缺	词/h/heir.json
 81	38	beyond	prep. 在…的那边；超出 n. 未知的世界	细节数据有	缺	词/b/beyond.json
 81	39	clay	n. 黏土、陶土	细节数据有	缺	词/c/clay.json
-82	1	elephant	n. 大象	缺	缺	
-82	2	France	n. 法国	缺	缺	
-82	3	Frank	n. 法兰克人	缺	缺	
-82	4	French	adj. 法国的	缺	缺	
-82	5	Frenchman	n. 法国人（男性	缺	缺	
-82	6	franc	n. 法郎（法国	缺	缺	
-82	7	coast	n. 海岸、沿海地区	缺	缺	
-82	8	coastal	adj. 沿海的、海岸的	缺	缺	
-82	9	coastline	n. 海岸线	缺	缺	
-82	10	drum	n. 鼓	缺	缺	
-82	11	drummer	n. 鼓手	缺	缺	
-82	12	drumbeat	n. 鼓声、鼓点	缺	缺	
-82	13	drumstick	n. 鼓槌	缺	缺	
-82	14	rely	v. 依靠	缺	缺	
-82	15	reliable	adj. 可靠的、可信赖的	缺	缺	
-82	16	unreliable	adj. 靠不住的、不可靠的	缺	缺	
-82	17	reliability	n. 可靠性、可信度	缺	缺	
-82	18	reliance	n. 依赖、依靠	缺	缺	
-82	19	over-reliance	n. 过度依赖	缺	缺	
-82	20	ally	n. 盟友、同盟国；支持者	缺	缺	
-82	21	alloy	n. 合金	缺	缺	
-82	22	league	n. 联盟、同盟；档次	缺	缺	
-82	23	oblige	v. 迫使；帮忙、满足要求	缺	缺	
-82	24	obligation	n. 义务、责任	缺	缺	
-82	25	religious	adj. 宗教的	缺	缺	
+82	1	elephant	n. 大象	细节数据有	缺	词/e/elephant.json
+82	2	France	n. 法国	细节数据有	缺	词/f/France.json
+82	3	Frank	n. 法兰克人	细节数据有	缺	词/f/Frank.json
+82	4	French	adj. 法国的	细节数据有	缺	词/f/French.json
+82	5	Frenchman	n. 法国人（男性	细节数据有	缺	词/f/Frenchman.json
+82	6	franc	n. 法郎（法国	细节数据有	缺	词/f/franc.json
+82	7	coast	n. 海岸、沿海地区	细节数据有	缺	词/c/coast.json
+82	8	coastal	adj. 沿海的、海岸的	细节数据有	缺	词/c/coastal.json
+82	9	coastline	n. 海岸线	细节数据有	缺	词/c/coastline.json
+82	10	drum	n. 鼓	细节数据有	缺	词/d/drum.json
+82	11	drummer	n. 鼓手	细节数据有	缺	词/d/drummer.json
+82	12	drumbeat	n. 鼓声、鼓点	细节数据有	缺	词/d/drumbeat.json
+82	13	drumstick	n. 鼓槌	细节数据有	缺	词/d/drumstick.json
+82	14	rely	v. 依靠	细节数据有	缺	词/r/rely.json
+82	15	reliable	adj. 可靠的、可信赖的	细节数据有	缺	词/r/reliable.json
+82	16	unreliable	adj. 靠不住的、不可靠的	细节数据有	缺	词/u/unreliable.json
+82	17	reliability	n. 可靠性、可信度	细节数据有	缺	词/r/reliability.json
+82	18	reliance	n. 依赖、依靠	细节数据有	缺	词/r/reliance.json
+82	19	over-reliance	n. 过度依赖	细节数据有	缺	词/o/over-reliance.json
+82	20	ally	n. 盟友、同盟国；支持者	细节数据有	缺	词/a/ally.json
+82	21	alloy	n. 合金	细节数据有	缺	词/a/alloy.json
+82	22	league	n. 联盟、同盟；档次	细节数据有	缺	词/l/league.json
+82	23	oblige	v. 迫使；帮忙、满足要求	细节数据有	缺	词/o/oblige.json
+82	24	obligation	n. 义务、责任	细节数据有	缺	词/o/obligation.json
+82	25	religious	adj. 宗教的	细节数据有	缺	词/r/religious.json
 82	26	religion	n. 宗教	缺	缺	
 82	27	ruin	n. 毁灭、破败；祸根	缺	缺	
 82	28	ruins	n. 废墟、遗迹	缺	缺	
