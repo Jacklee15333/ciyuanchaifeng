@@ -4,27 +4,27 @@
  "插图": [],
  "总表版本": "第八十五版",
  "题目": {
-  "题目1": "【听力】听录音，回答问题：说话人说昆明的气候怎么样？\n听：Kunming has a mild climate all year round.\nA. 夏天很热\nB. 一年四季温和\nC. 冬天很冷\nD. 常年下雨",
-  "题目2": "【单项选择】选出最恰当的一项。\n题干：The ______ is fine today. Let's go out.\nA. climate\nB. weather\nC. temperature\nD. season\n考点：易混",
-  "题目3": "【适当形式填空】用所给单词的适当形式填空。\n题干：The two countries have very different ______. (climate)\n考点：变形",
-  "题目4": "【选词填空】从 climate、climb 中选一个，用适当形式填空。\n题干：Let's ______ the hill this afternoon.",
-  "题目5": "【改错】句子里有一处错误，找出来并改正。\n题干：The climate in Beijing are dry in spring.",
+  "题目1": "【听力】听录音，回答问题：说话人说这里的气候怎么样？\n听：The climate here is warm and wet.\nA. 寒冷干燥\nB. 温暖潮湿\nC. 炎热干燥\nD. 寒冷潮湿",
+  "题目2": "【单项选择】选出最恰当的一项。\n题干：The ______ is fine today. Let's go out.\nA. climate\nB. weather\nC. climates\nD. temperature\n考点：易混",
+  "题目3": "【适当形式填空】用所给单词的适当形式填空。\n题干：Different places have different ______. (climate)\n考点：变形",
+  "题目4": "【选词填空】从 climate、weather 中选一个，用适当形式填空。\n题干：Hainan has a warm ______ all year round.\n考点：易混",
+  "题目5": "【改错】句子里有一处错误，找出来并改正。\n题干：What's the climate like in Beijing today?",
   "题目6": "【完成句子】根据中文完成句子，每空一词。\n中文：气候变化是个严重的问题。\n题干：______ ______ is a serious problem.\n考点：短语",
-  "题目7": "【单项选择】选出最恰当的一项。\n题干：What's the climate ______ in Harbin?\nA. about\nB. for\nC. like\nD. of\n考点：用法",
-  "答案": "【1】B（一年四季温和）\n讲解：mild climate 温和的气候。\n【2】B（weather）\n讲解：今天具体的天气用 weather，climate 是长期的气候。\n【3】climates\n讲解：different 后面用复数 climates。\n【4】climb\n讲解：“爬（山）”是动词 climb，climate 是名词“气候”。\n【5】are → is\n讲解：主语 The climate 单数，用 is。\n【6】Climate；change\n讲解：climate change 气候变化。\n【7】C（like）\n讲解：What's … like? ……怎么样？"
+  "题目7": "【单项选择】选出最恰当的一项。\n题干：Many plants can't grow in cold ______.\nA. climate\nB. weather\nC. climates\nD. weathers\n考点：变形",
+  "答案": "【1】B（温暖潮湿）\n讲解：climate 气候。\n【2】B（weather）\n讲解：“今天天气”用 weather，不能用 climate。\n【3】climates\n讲解：different 后接可数名词复数。\n【4】climate\n讲解：长期的气候用 climate。\n【5】climate → weather\n讲解：“今天”的情况是天气 weather。\n【6】Climate；change\n讲解：climate change 气候变化。\n【7】C（climates）\n讲解：cold 修饰可数复数 climates，泛指各种寒冷气候。"
  },
  "题目原稿": [
   {
    "type": "听力",
-   "ask": "听录音，回答问题：说话人说昆明的气候怎么样？",
-   "listen": "Kunming has a mild climate all year round.",
+   "ask": "听录音，回答问题：说话人说这里的气候怎么样？",
+   "listen": "The climate here is warm and wet.",
    "opts": [
-    "一年四季温和",
-    "夏天很热",
-    "冬天很冷",
-    "常年下雨"
+    "温暖潮湿",
+    "寒冷干燥",
+    "炎热干燥",
+    "寒冷潮湿"
    ],
-   "why": "mild climate 温和的气候。"
+   "why": "climate 气候。"
   },
   {
    "type": "单项选择",
@@ -33,35 +33,36 @@
    "opts": [
     "weather",
     "climate",
-    "temperature",
-    "season"
+    "climates",
+    "temperature"
    ],
-   "why": "今天具体的天气用 weather，climate 是长期的气候。",
+   "why": "“今天天气”用 weather，不能用 climate。",
    "kd": "易混"
   },
   {
    "type": "适当形式填空",
    "ask": "用所给单词的适当形式填空。",
-   "stem": "The two countries have very different ______. (climate)",
+   "stem": "Different places have different ______. (climate)",
    "ans": "climates",
-   "why": "different 后面用复数 climates。",
+   "why": "different 后接可数名词复数。",
    "kd": "变形",
    "zh": ""
   },
   {
    "type": "选词填空",
-   "ask": "从 climate、climb 中选一个，用适当形式填空。",
-   "stem": "Let's ______ the hill this afternoon.",
-   "ans": "climb",
-   "why": "“爬（山）”是动词 climb，climate 是名词“气候”。",
+   "ask": "从 climate、weather 中选一个，用适当形式填空。",
+   "stem": "Hainan has a warm ______ all year round.",
+   "ans": "climate",
+   "why": "长期的气候用 climate。",
+   "kd": "易混",
    "zh": ""
   },
   {
    "type": "改错",
    "ask": "句子里有一处错误，找出来并改正。",
-   "stem": "The climate in Beijing are dry in spring.",
-   "ans": "are → is",
-   "why": "主语 The climate 单数，用 is。",
+   "stem": "What's the climate like in Beijing today?",
+   "ans": "climate → weather",
+   "why": "“今天”的情况是天气 weather。",
    "zh": ""
   },
   {
@@ -76,15 +77,15 @@
   {
    "type": "单项选择",
    "ask": "选出最恰当的一项。",
-   "stem": "What's the climate ______ in Harbin?",
+   "stem": "Many plants can't grow in cold ______.",
    "opts": [
-    "like",
-    "about",
-    "for",
-    "of"
+    "climates",
+    "climate",
+    "weather",
+    "weathers"
    ],
-   "why": "What's … like? ……怎么样？",
-   "kd": "用法"
+   "why": "cold 修饰可数复数 climates，泛指各种寒冷气候。",
+   "kd": "变形"
   }
  ],
  "题目生成": "2026-11-20 Claude（云端）",

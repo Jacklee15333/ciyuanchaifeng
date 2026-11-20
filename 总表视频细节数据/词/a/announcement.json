@@ -4,87 +4,84 @@
  "插图": [],
  "总表版本": "第八十五版",
  "题目": {
-  "题目1": "【听力】听录音，回答问题：说话人让大家听什么？\n听：Listen! There is an announcement about the train.\nA. 天气预报\nB. 关于火车的通知\nC. 一首歌\nD. 一个故事",
-  "题目2": "【单项选择】选出最恰当的一项。\n题干：The headmaster made an important ______ this morning.\nA. announce\nB. announcer\nC. announced\nD. announcement",
-  "题目3": "【适当形式填空】用所给单词的适当形式填空。\n题干：Did you hear the two ______ at the station? (announcement)\n考点：变形",
-  "题目4": "【选词填空】从 announcement、notice 中选一个，用适当形式填空。\n题干：There is a ______ on the wall: \"No Parking\".\n考点：易混",
-  "题目5": "【改错】句子里有一处错误，找出来并改正。\n题干：They will announcement the plan tomorrow.",
-  "题目6": "【完成句子】根据中文完成句子，每空一词。\n中文：刚才广播里发布了一则通知。\n题干：An announcement ______ ______ on the radio just now.\n考点：用法",
-  "题目7": "【单项选择】选出最恰当的一项。\n题干：I heard the announcement ______ the radio.\nA. on\nB. in\nC. at\nD. by\n考点：短语",
-  "答案": "【1】B（关于火车的通知）\n讲解：announcement 通知、公告。\n【2】D（announcement）\n讲解：make an announcement 发布通告。\n【3】announcements\n讲解：two 后面用复数 announcements。\n【4】notice\n讲解：贴在墙上的告示、布告用 notice。\n【5】announcement → announce\n讲解：will 后面接动词原形 announce。\n【6】was；made\n讲解：被动语态；just now 表示过去，用 was made。\n【7】A（on）\n讲解：on the radio 通过广播。"
+  "题目1": "【听力】听录音，回答问题：说话人让大家听什么？\n听：Please listen to an important announcement.\nA. 一首歌\nB. 一则重要通知\nC. 一个故事\nD. 一场演讲",
+  "题目2": "【单项选择】选出最恰当的一项。\n题干：They made an ______ about the new school bus.\nA. announce\nB. announcer\nC. announced\nD. announcement\n考点：用法",
+  "题目3": "【适当形式填空】用所给单词的适当形式填空。\n题干：The manager will ______ the plan tomorrow. (announcement)\n考点：词性转换",
+  "题目4": "【选词填空】从 announcement、notice 中选一个，用适当形式填空。\n题干：There is a ______ on the board: \"No Smoking\".\n考点：易混",
+  "题目5": "【改错】句子里有一处错误，找出来并改正。\n题干：There were many announcement at the airport.",
+  "题目6": "【完成句子】根据中文完成句子，每空一词。\n中文：广播里有几则通知。\n题干：There are several ______ on the radio.\n考点：变形",
+  "题目7": "【适当形式填空】用所给单词的适当形式填空。\n题干：Our headmaster ______ the news at the meeting yesterday. (announcement)\n考点：词性转换",
+  "答案": "【1】B（一则重要通知）\n讲解：announcement 公告、通知。\n【2】D（announcement）\n讲解：make an announcement 发布通告，用名词。\n【3】announce\n讲解：will 后面接动词原形 announce。\n【4】notice\n讲解：贴在板上的告示用 notice。\n【5】announcement → announcements\n讲解：many 后面名词用复数。\n【6】announcements\n讲解：several 后接复数。\n【7】announced\n讲解：yesterday 是过去，用动词 announce 的过去式 announced。"
  },
  "题目原稿": [
   {
    "type": "听力",
    "ask": "听录音，回答问题：说话人让大家听什么？",
-   "listen": "Listen! There is an announcement about the train.",
+   "listen": "Please listen to an important announcement.",
    "opts": [
-    "关于火车的通知",
-    "天气预报",
+    "一则重要通知",
     "一首歌",
-    "一个故事"
+    "一个故事",
+    "一场演讲"
    ],
-   "why": "announcement 通知、公告。"
+   "why": "announcement 公告、通知。"
   },
   {
    "type": "单项选择",
    "ask": "选出最恰当的一项。",
-   "stem": "The headmaster made an important ______ this morning.",
+   "stem": "They made an ______ about the new school bus.",
    "opts": [
     "announcement",
     "announce",
     "announcer",
     "announced"
    ],
-   "why": "make an announcement 发布通告。"
+   "why": "make an announcement 发布通告，用名词。",
+   "kd": "用法"
   },
   {
    "type": "适当形式填空",
    "ask": "用所给单词的适当形式填空。",
-   "stem": "Did you hear the two ______ at the station? (announcement)",
-   "ans": "announcements",
-   "why": "two 后面用复数 announcements。",
-   "kd": "变形",
+   "stem": "The manager will ______ the plan tomorrow. (announcement)",
+   "ans": "announce",
+   "why": "will 后面接动词原形 announce。",
+   "kd": "词性转换",
    "zh": ""
   },
   {
    "type": "选词填空",
    "ask": "从 announcement、notice 中选一个，用适当形式填空。",
-   "stem": "There is a ______ on the wall: \"No Parking\".",
+   "stem": "There is a ______ on the board: \"No Smoking\".",
    "ans": "notice",
-   "why": "贴在墙上的告示、布告用 notice。",
+   "why": "贴在板上的告示用 notice。",
    "kd": "易混",
    "zh": ""
   },
   {
    "type": "改错",
    "ask": "句子里有一处错误，找出来并改正。",
-   "stem": "They will announcement the plan tomorrow.",
-   "ans": "announcement → announce",
-   "why": "will 后面接动词原形 announce。",
+   "stem": "There were many announcement at the airport.",
+   "ans": "announcement → announcements",
+   "why": "many 后面名词用复数。",
    "zh": ""
   },
   {
    "type": "完成句子",
    "ask": "根据中文完成句子，每空一词。",
-   "zh": "刚才广播里发布了一则通知。",
-   "stem": "An announcement ______ ______ on the radio just now.",
-   "ans": "was；made",
-   "why": "被动语态；just now 表示过去，用 was made。",
-   "kd": "用法"
+   "zh": "广播里有几则通知。",
+   "stem": "There are several ______ on the radio.",
+   "ans": "announcements",
+   "why": "several 后接复数。",
+   "kd": "变形"
   },
   {
-   "type": "单项选择",
-   "ask": "选出最恰当的一项。",
-   "stem": "I heard the announcement ______ the radio.",
-   "opts": [
-    "on",
-    "in",
-    "at",
-    "by"
-   ],
-   "why": "on the radio 通过广播。",
-   "kd": "短语"
+   "type": "适当形式填空",
+   "ask": "用所给单词的适当形式填空。",
+   "stem": "Our headmaster ______ the news at the meeting yesterday. (announcement)",
+   "ans": "announced",
+   "why": "yesterday 是过去，用动词 announce 的过去式 announced。",
+   "kd": "词性转换",
+   "zh": ""
   }
  ],
  "题目生成": "2026-11-20 Claude（云端）",

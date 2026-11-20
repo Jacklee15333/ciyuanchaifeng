@@ -4,25 +4,25 @@
  "插图": [],
  "总表版本": "第八十五版",
  "题目": {
-  "题目1": "【听力】听录音，回答问题：说话人说手机会发出什么？\n听：Mobile phones send out electromagnetic waves.\nA. 声波\nB. 光束\nC. 水波\nD. 电磁波",
-  "题目2": "【单项选择】选出最恰当的一项。\n题干：Light is a kind of ______ wave.\nA. electromagnet\nB. electricity\nC. electronics\nD. electromagnetic",
-  "题目3": "【适当形式填空】用所给单词的适当形式填空。\n题干：Faraday studied ______ for many years. (electromagnetic)\n考点：词性转换",
-  "题目4": "【选词填空】从 electromagnetic、electromagnet 中选一个，用适当形式填空。\n题干：The crane uses a big ______ to lift iron.\n考点：易混",
-  "题目5": "【改错】句子里有一处错误，找出来并改正。\n题干：Radio waves is electromagnetic waves.",
-  "题目6": "【完成句子】根据中文完成句子，每空一词。\n中文：这本书是关于电磁力的。\n题干：This book is ______ electromagnetic ______.\n考点：用法",
-  "题目7": "【单项选择】选出最恰当的一项。\n题干：X-rays are electromagnetic waves, ______ they?\nA. are\nB. don't\nC. aren't\nD. isn't\n考点：用法",
-  "答案": "【1】D（电磁波）\n讲解：electromagnetic waves 电磁波。\n【2】D（electromagnetic）\n讲解：修饰名词 wave 用形容词 electromagnetic。\n【3】electromagnetism\n讲解：studied 后面要名词 electromagnetism（电磁学）。\n【4】electromagnet\n讲解：a big 后面要名词 electromagnet（电磁铁）。\n【5】is → are\n讲解：主语 Radio waves 是复数，用 are。\n【6】about；force\n讲解：be about 关于；电磁力 electromagnetic force。\n【7】C（aren't）\n讲解：反意疑问句前肯定后否定，主语复数，用 aren't。"
+  "题目1": "【听力】听录音，回答问题：说话人在学什么？\n听：We are learning about electromagnetic waves.\nA. 水波\nB. 声波\nC. 海浪\nD. 电磁波",
+  "题目2": "【单项选择】选出最恰当的一项。\n题干：Light is a kind of ______ wave.\nA. electric\nB. electronic\nC. electrical\nD. electromagnetic",
+  "题目3": "【适当形式填空】用所给单词的适当形式填空。\n题干：A ______ can pick up small pieces of iron. (electromagnetic)\n考点：词性转换",
+  "题目4": "【选词填空】从 electromagnetic、electronic 中选一个，用适当形式填空。\n题干：My phone is an ______ device.\n考点：易混",
+  "题目5": "【改错】句子里有一处错误，找出来并改正。\n题干：Radio waves is a kind of electromagnetic wave.",
+  "题目6": "【完成句子】根据中文完成句子，每空一词。\n中文：电磁波传播得很快。\n题干：Electromagnetic waves ______ very ______.\n考点：用法",
+  "题目7": "【单项选择】选出最恰当的一项。\n题干：Scientists study the ______ field around the earth.\nA. magnet\nB. magnetically\nC. magnetic\nD. magnetism\n考点：词性转换",
+  "答案": "【1】D（电磁波）\n讲解：electromagnetic waves 电磁波。\n【2】D（electromagnetic）\n讲解：光是电磁波，用 electromagnetic。\n【3】magnet\n讲解：a 后面接名词“磁铁” magnet。\n【4】electronic\n讲解：手机是电子设备，用 electronic。\n【5】is → are\n讲解：主语 radio waves 是复数，用 are。\n【6】travel；fast\n讲解：travel fast 传播得快。\n【7】C（magnetic）\n讲解：修饰名词 field 用形容词 magnetic（磁的）。"
  },
  "题目原稿": [
   {
    "type": "听力",
-   "ask": "听录音，回答问题：说话人说手机会发出什么？",
-   "listen": "Mobile phones send out electromagnetic waves.",
+   "ask": "听录音，回答问题：说话人在学什么？",
+   "listen": "We are learning about electromagnetic waves.",
    "opts": [
     "电磁波",
+    "水波",
     "声波",
-    "光束",
-    "水波"
+    "海浪"
    ],
    "why": "electromagnetic waves 电磁波。"
   },
@@ -32,59 +32,59 @@
    "stem": "Light is a kind of ______ wave.",
    "opts": [
     "electromagnetic",
-    "electromagnet",
-    "electricity",
-    "electronics"
+    "electric",
+    "electronic",
+    "electrical"
    ],
-   "why": "修饰名词 wave 用形容词 electromagnetic。"
+   "why": "光是电磁波，用 electromagnetic。"
   },
   {
    "type": "适当形式填空",
    "ask": "用所给单词的适当形式填空。",
-   "stem": "Faraday studied ______ for many years. (electromagnetic)",
-   "ans": "electromagnetism",
-   "why": "studied 后面要名词 electromagnetism（电磁学）。",
+   "stem": "A ______ can pick up small pieces of iron. (electromagnetic)",
+   "ans": "magnet",
+   "why": "a 后面接名词“磁铁” magnet。",
    "kd": "词性转换",
    "zh": ""
   },
   {
    "type": "选词填空",
-   "ask": "从 electromagnetic、electromagnet 中选一个，用适当形式填空。",
-   "stem": "The crane uses a big ______ to lift iron.",
-   "ans": "electromagnet",
-   "why": "a big 后面要名词 electromagnet（电磁铁）。",
+   "ask": "从 electromagnetic、electronic 中选一个，用适当形式填空。",
+   "stem": "My phone is an ______ device.",
+   "ans": "electronic",
+   "why": "手机是电子设备，用 electronic。",
    "kd": "易混",
    "zh": ""
   },
   {
    "type": "改错",
    "ask": "句子里有一处错误，找出来并改正。",
-   "stem": "Radio waves is electromagnetic waves.",
+   "stem": "Radio waves is a kind of electromagnetic wave.",
    "ans": "is → are",
-   "why": "主语 Radio waves 是复数，用 are。",
+   "why": "主语 radio waves 是复数，用 are。",
    "zh": ""
   },
   {
    "type": "完成句子",
    "ask": "根据中文完成句子，每空一词。",
-   "zh": "这本书是关于电磁力的。",
-   "stem": "This book is ______ electromagnetic ______.",
-   "ans": "about；force",
-   "why": "be about 关于；电磁力 electromagnetic force。",
+   "zh": "电磁波传播得很快。",
+   "stem": "Electromagnetic waves ______ very ______.",
+   "ans": "travel；fast",
+   "why": "travel fast 传播得快。",
    "kd": "用法"
   },
   {
    "type": "单项选择",
    "ask": "选出最恰当的一项。",
-   "stem": "X-rays are electromagnetic waves, ______ they?",
+   "stem": "Scientists study the ______ field around the earth.",
    "opts": [
-    "aren't",
-    "are",
-    "don't",
-    "isn't"
+    "magnetic",
+    "magnet",
+    "magnetically",
+    "magnetism"
    ],
-   "why": "反意疑问句前肯定后否定，主语复数，用 aren't。",
-   "kd": "用法"
+   "why": "修饰名词 field 用形容词 magnetic（磁的）。",
+   "kd": "词性转换"
   }
  ],
  "题目生成": "2026-11-20 Claude（云端）",
