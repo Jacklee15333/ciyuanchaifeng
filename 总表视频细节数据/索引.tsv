@@ -4875,31 +4875,31 @@
 62	44	fluorescent	adj. 荧光的	细节数据有	缺	词/f/fluorescent.json
 62	45	opinion	n. 看法	细节数据有	缺	词/o/opinion.json
 62	46	opinionated	adj. 固执己见的、自以为是的	细节数据有	缺	词/o/opinionated.json
-62	47	consider	v. 考虑	缺	缺	
-62	48	consideration	n. 考虑；体谅	缺	缺	
-62	49	desire	n. 愿望	缺	缺	
-62	50	luck	n. 运气	缺	缺	
-62	51	lucky	adj. 幸运的	缺	缺	
-62	52	luckily	adv. 幸运地	缺	缺	
-62	53	unluckily	adv. 不幸的是、可惜	缺	缺	
-62	54	unlucky	adj. 不走运的；不吉利的	缺	缺	
-62	55	market	n. 市场	缺	缺	
-62	56	marketing	n. 市场营销	缺	缺	
-62	57	supermarket	n. 超级市场	缺	缺	
-62	58	marketplace	n. 集市场所	缺	缺	
-62	59	merchant	n. 商人	缺	缺	
-62	60	commerce	n. 商业、贸易	缺	缺	
-62	61	commercial	adj. 商业的；以营利为目的的 n. 电视、电台广告	缺	缺	
-62	62	commercialization	n. 商业化	缺	缺	
-62	63	commercialize	v. 使商业化；把推向市场	缺	缺	
-62	64	commercially	adv. 商业上；以营利方式	缺	缺	
-62	65	e-commerce	n. 电子商务、网上交易	缺	缺	
-62	66	merchandise	n. 商品、货物 v. 推销、促销	缺	缺	
-62	67	Mercury	n. 墨丘利；水星	缺	缺	
-62	68	mercy	n. 仁慈、怜悯；宽恕	缺	缺	
-62	69	board	n. 板 v. 登	缺	缺	
-62	70	aboard	prep. 在上 adv. 上	缺	缺	
-62	71	noticeboard	n. 布告栏、公告板	缺	缺	
+62	47	consider	v. 考虑	细节数据有	缺	词/c/consider.json
+62	48	consideration	n. 考虑；体谅	细节数据有	缺	词/c/consideration.json
+62	49	desire	n. 愿望	细节数据有	缺	词/d/desire.json
+62	50	luck	n. 运气	细节数据有	缺	词/l/luck.json
+62	51	lucky	adj. 幸运的	细节数据有	缺	词/l/lucky.json
+62	52	luckily	adv. 幸运地	细节数据有	缺	词/l/luckily.json
+62	53	unluckily	adv. 不幸的是、可惜	细节数据有	缺	词/u/unluckily.json
+62	54	unlucky	adj. 不走运的；不吉利的	细节数据有	缺	词/u/unlucky.json
+62	55	market	n. 市场	细节数据有	缺	词/m/market.json
+62	56	marketing	n. 市场营销	细节数据有	缺	词/m/marketing.json
+62	57	supermarket	n. 超级市场	细节数据有	缺	词/s/supermarket.json
+62	58	marketplace	n. 集市场所	细节数据有	缺	词/m/marketplace.json
+62	59	merchant	n. 商人	细节数据有	缺	词/m/merchant.json
+62	60	commerce	n. 商业、贸易	细节数据有	缺	词/c/commerce.json
+62	61	commercial	adj. 商业的；以营利为目的的 n. 电视、电台广告	细节数据有	缺	词/c/commercial.json
+62	62	commercialization	n. 商业化	细节数据有	缺	词/c/commercialization.json
+62	63	commercialize	v. 使商业化；把推向市场	细节数据有	缺	词/c/commercialize.json
+62	64	commercially	adv. 商业上；以营利方式	细节数据有	缺	词/c/commercially.json
+62	65	e-commerce	n. 电子商务、网上交易	细节数据有	缺	词/e/e-commerce.json
+62	66	merchandise	n. 商品、货物 v. 推销、促销	细节数据有	缺	词/m/merchandise.json
+62	67	Mercury	n. 墨丘利；水星	细节数据有	缺	词/m/Mercury.json
+62	68	mercy	n. 仁慈、怜悯；宽恕	细节数据有	缺	词/m/mercy.json
+62	69	board	n. 板 v. 登	细节数据有	缺	词/b/board.json
+62	70	aboard	prep. 在上 adv. 上	细节数据有	缺	词/a/aboard.json
+62	71	noticeboard	n. 布告栏、公告板	细节数据有	缺	词/n/noticeboard.json
 62	72	motherboard	n. 主板	缺	缺	
 62	73	keyboard	n. 键盘	缺	缺	
 62	74	cardboard	n. 硬纸板	缺	缺	
