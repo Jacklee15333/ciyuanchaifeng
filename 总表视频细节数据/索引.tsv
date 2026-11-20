@@ -2463,31 +2463,31 @@
 31	62	colonize	v. 开拓殖民地；移居某地	细节数据有	缺	词/c/colonize.json
 31	63	cultivate	v. 耕种；培养	细节数据有	缺	词/c/cultivate.json
 31	64	cycle	v. 骑车	细节数据有	缺	词/c/cycle.json
-31	65	cyclist	n. 骑自行车的人	缺	缺	
-31	66	recycle	v. 回收利用；使再循环	缺	缺	
-31	67	recycling	n. 回收利用	缺	缺	
-31	68	recyclable	adj. 可回收利用的	缺	缺	
-31	69	bicycle	n. 自行车	缺	缺	
-31	70	encyclopedia	n. 百科全书（英美通用	缺	缺	
-31	71	bike	n. 自行车	缺	缺	
-31	72	e-bike	n. 电动自行车	缺	缺	
-31	73	motorbike	n. 摩托车（英式常说	缺	缺	
-31	74	cyclone	n. 气旋	缺	缺	
-31	75	wheel	n. 轮子；方向盘 v. 推、转身	缺	缺	
-31	76	wheelchair	n. 轮椅	缺	缺	
-31	77	fun	n. 乐趣；玩笑	缺	缺	
-31	78	funny	adj. 滑稽的	缺	缺	
-31	79	funniness	n. 滑稽；好笑	缺	缺	
-31	80	wall	n. 墙	缺	缺	
-32	1	community	n. 社区	缺	缺	
-32	2	common	adj. 普通的；共有的	缺	缺	
-32	3	commonly	adv. 通常；一般	缺	缺	
-32	4	uncommon	adj. 不常见的、少有的	缺	缺	
-32	5	communicate	v. 交流；传达(感情	缺	缺	
-32	6	communication	n. 交流、沟通	缺	缺	
-32	7	communicator	n. 沟通者、传播者	缺	缺	
-32	8	communicative	adj. 健谈的、乐于交流的	缺	缺	
-32	9	immune	adj. 免疫的；不受影响的	缺	缺	
+31	65	cyclist	n. 骑自行车的人	细节数据有	缺	词/c/cyclist.json
+31	66	recycle	v. 回收利用；使再循环	细节数据有	缺	词/r/recycle.json
+31	67	recycling	n. 回收利用	细节数据有	缺	词/r/recycling.json
+31	68	recyclable	adj. 可回收利用的	细节数据有	缺	词/r/recyclable.json
+31	69	bicycle	n. 自行车	细节数据有	缺	词/b/bicycle.json
+31	70	encyclopedia	n. 百科全书（英美通用	细节数据有	缺	词/e/encyclopedia.json
+31	71	bike	n. 自行车	细节数据有	缺	词/b/bike.json
+31	72	e-bike	n. 电动自行车	细节数据有	缺	词/e/e-bike.json
+31	73	motorbike	n. 摩托车（英式常说	细节数据有	缺	词/m/motorbike.json
+31	74	cyclone	n. 气旋	细节数据有	缺	词/c/cyclone.json
+31	75	wheel	n. 轮子；方向盘 v. 推、转身	细节数据有	缺	词/w/wheel.json
+31	76	wheelchair	n. 轮椅	细节数据有	缺	词/w/wheelchair.json
+31	77	fun	n. 乐趣；玩笑	细节数据有	缺	词/f/fun.json
+31	78	funny	adj. 滑稽的	细节数据有	缺	词/f/funny.json
+31	79	funniness	n. 滑稽；好笑	细节数据有	缺	词/f/funniness.json
+31	80	wall	n. 墙	细节数据有	缺	词/w/wall.json
+32	1	community	n. 社区	细节数据有	缺	词/c/community.json
+32	2	common	adj. 普通的；共有的	细节数据有	缺	词/c/common.json
+32	3	commonly	adv. 通常；一般	细节数据有	缺	词/c/commonly.json
+32	4	uncommon	adj. 不常见的、少有的	细节数据有	缺	词/u/uncommon.json
+32	5	communicate	v. 交流；传达(感情	细节数据有	缺	词/c/communicate.json
+32	6	communication	n. 交流、沟通	细节数据有	缺	词/c/communication.json
+32	7	communicator	n. 沟通者、传播者	细节数据有	缺	词/c/communicator.json
+32	8	communicative	adj. 健谈的、乐于交流的	细节数据有	缺	词/c/communicative.json
+32	9	immune	adj. 免疫的；不受影响的	细节数据有	缺	词/i/immune.json
 32	10	municipal	adj. 市政的、市的	缺	缺	
 32	11	mutual	adj. 相互的；共同的	缺	缺	
 32	12	mutually	adv. 相互地、彼此	缺	缺	
