@@ -70,6 +70,8 @@
 | 2026-11-20 | 题目第 26 批 | 100 | alarmingly … underneath（体检全部 0 个问题）。累计 2275 个词有题目 |
 | 2026-11-20 | 题目第 27 批 | 100 | close … connect（outrun 答案就是本词 2 道，改过再存；其余体检 0 个问题）。累计 2375 个词有题目 |
 | 2026-11-20 | 题目第 28 批 | 100 | connected … immune（体检全部 0 个问题）。累计 2475 个词有题目 |
+| 2026-11-20 | 题目第 29 批 | 100 | municipal … setup（体检全部 0 个问题；discussable、proud、proudly 多写一道、improve 第 6 题漏考点，改过再存）。累计 2575 个词有题目 |
+| 2026-11-20 | 题目第 30 批 | 100 | upset … problem-solving（体检全部 0 个问题；broke 答案就是本词 2 道，改过再存）。累计 2675 个词有题目 |
 | 2026-11-19 | 试做 truly | 0 | 只用自带素材加表情图拼画面：起草检查不通过（表情图要换成写实插图、每幅画都要动、小图标要自己画）。结论：多数词要专门画插图，每个词的工作量和 7A-U4 一样；全表 9299 个词做不完，要先定先做哪些（等用户定） |
 
 ## 总表里看着不对的地方（出题时绕开了，以后用维护技能核对）
@@ -228,6 +230,26 @@
 - teachings：【变形】写成“一般不可数，不加 s”，其实它本身是复数形式（谓语用复数）
 - past：【变形】编了比较级 paster、最高级 pastest；past 没有比较级
 - passer-by / passers-by：【变形】写成“一般不可数，不加 s”，其实可数，passer-by 的复数是 passers-by
+- depth：考点写“不可数，没有复数”，但 in the depths of（在……深处）常用复数 depths，“深度”作具体数值时也可数
+- personnel：考点写“不可数，没有复数”；更准确是集合名词，作主语时谓语常用复数（The personnel are …）
+- dive-bombed：变形写成 dive-bombeds、dive-bombeded、dive-bombeding（不存在）；原形是 dive-bomb，变形 dive-bombs / dive-bombed / dive-bombing
+- on：变形写成“adj. 比较级 oner、最高级 onest”（不存在），on 没有比较级
+- clearing：考点写“不可数，没有复数”，但“林中空地”义可数（a clearing in the forest）
+- unclear：词性转换写“clear v.清除”，对应关系不当，应为 clear adj.清楚的
+- smarter：变形写成“比较级 smarterer、最高级 smarterest”（不存在）；smarter 本身就是 smart 的比较级
+- possible：变形写“比较级 more possible、最高级 most possible”，possible 一般不分等级，初中不宜考
+- sided：变形写成“v. 三单 sideds；过去式 sideded；现在分词 sideding”（不存在）；sided 是形容词，动词 side（with）的变形是 sides / sided / siding
+- inside：易混写成“inside / of an hour（of an hour 是‘不到一小时’）”，内容残缺，应为 inside / within（inside an hour 不到一小时）
+- settler：易混“immigrant 是“””引号里内容缺失，应为“（从外国）移入的移民”
+- transition：易混“shift 偏“””引号里内容缺失
+- exit：辨析把 export 列为“出口”的同义词，但 export 是货物出口，不是出口通道；初中含义“v. 离别”也不准确，应为“离开、退出”
+- in：词性转换写“irrelevant adj.不相关的”，和 in 没有词性转换关系
+- inward：词性转换写“in adv.在家”，对应不当
+- fraction：辨析把 score、mark 列为“分数”的同义词，但它们是考试得分，fraction 是数学里的分数
+- unbroke：初中含义按日常词收录，但 unbroke 只见于旧诗文，日常一律说 unbroken；出题时按 unbroken 考
+- payable：变形写成“比较级 payabler、最高级 payablest”（不存在），payable 没有比较级
+- PC：复数写成小写“pcs”，应为 PCs
+- unfair：词性转换写“fair n.集市”，应为 fair adj.公平的
 
 ## 总表里出现两次的词（细节数据按单词存一份，两行共用；出题时两个意思都要考到）
 

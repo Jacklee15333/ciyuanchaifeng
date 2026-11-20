@@ -2488,282 +2488,282 @@
 32	7	communicator	n. 沟通者、传播者	细节数据有	缺	词/c/communicator.json
 32	8	communicative	adj. 健谈的、乐于交流的	细节数据有	缺	词/c/communicative.json
 32	9	immune	adj. 免疫的；不受影响的	细节数据有	缺	词/i/immune.json
-32	10	municipal	adj. 市政的、市的	缺	缺	
-32	11	mutual	adj. 相互的；共同的	缺	缺	
-32	12	mutually	adv. 相互地、彼此	缺	缺	
-32	13	mutate	v. 变异	缺	缺	
-32	14	mutant	adj. 突变的	缺	缺	
-32	15	commute	v. 通勤、上下班往返；减刑	缺	缺	
-32	16	person	n. 人	缺	缺	
+32	10	municipal	adj. 市政的、市的	细节数据有	缺	词/m/municipal.json
+32	11	mutual	adj. 相互的；共同的	细节数据有	缺	词/m/mutual.json
+32	12	mutually	adv. 相互地、彼此	细节数据有	缺	词/m/mutually.json
+32	13	mutate	v. 变异	细节数据有	缺	词/m/mutate.json
+32	14	mutant	adj. 突变的	细节数据有	缺	词/m/mutant.json
+32	15	commute	v. 通勤、上下班往返；减刑	细节数据有	缺	词/c/commute.json
+32	16	person	n. 人	细节数据有	缺	词/p/person.json
 32	17	personal	adj. 个人的、私人的	总表有	kit有（7A-U4）	
-32	18	personally	adv. 亲自；就个人而言	缺	缺	
-32	19	interpersonal	adj. 人际的	缺	缺	
-32	20	personality	n. 个性、性格；名人	缺	缺	
-32	21	personalize	v. 个性化、按个人需要定制	缺	缺	
-32	22	one-person	adj. 单人的	缺	缺	
-32	23	personable	adj. 好相处的	缺	缺	
-32	24	personnel	n. 人事部门	缺	缺	
-32	25	parson	n. 堂区牧师	缺	缺	
-32	26	large	adj. 大的；巨大的	缺	缺	
-32	27	largely	adv. 主要地；在很大程度上	缺	缺	
-32	28	enlarge	v. 扩大、放大	缺	缺	
-32	29	focus	v. 集中	缺	缺	
-32	30	focused	adj. 专注的、目标明确的；对准焦点的	缺	缺	
-32	31	fuel	n. 燃料	缺	缺	
-32	32	deep	adj. 深	缺	缺	
-32	33	deeply	adv. 深深地、极其	缺	缺	
-32	34	deepen	v. 加深、使更深	缺	缺	
-32	35	depth	n. 深度	缺	缺	
-32	36	dive	v. 跳水	缺	缺	
-32	37	diver	n. 潜水员	缺	缺	
-32	38	dive-bombed	v. 俯冲轰炸；猛扑下来攻击	缺	缺	
-32	39	skydiving	n. 跳伞运动	缺	缺	
-32	40	dip	v. 蘸、浸 n. 短暂的游泳	缺	缺	
-32	41	scuba-diving	n. 水肺潜水	缺	缺	
-32	42	scuba	n. 水肺、自携式潜水呼吸器	缺	缺	
-32	43	discuss	v. 讨论	缺	缺	
-32	44	discussion	n. 讨论	缺	缺	
-32	45	discussable	adj. 可以讨论的、可以商量的	缺	缺	
-32	46	rescue	v. 营救、救援	缺	缺	
-32	47	rescuer	n. 救援者、营救人员	缺	缺	
-32	48	concuss	v. 使发生脑震荡	缺	缺	
-32	49	concussion	n. 脑震荡	缺	缺	
-32	50	percussion	n. 打击乐	缺	缺	
-32	51	improve	v. 改进	缺	缺	
-32	52	improved	adj. 改良的、改进了的；好转了的	缺	缺	
-32	53	improvement	n. 改进、改善	缺	缺	
-32	54	proud	adj. 自豪的；骄傲的	缺	缺	
-32	55	proudly	adv. 自豪地；骄傲地	缺	缺	
-32	56	pride	n. 自豪；令人骄傲的人或物	缺	缺	
-32	57	challenge	v. 挑战	缺	缺	
-32	58	challenging	adj. 有挑战性的、费力但值得做的	缺	缺	
-32	59	challenged	adj. 受到挑战的	缺	缺	
-32	60	unchallenged	adj. 无人挑战的、无可争议的；未经质疑的	缺	缺	
-32	61	clear	adj. 清晰的；明亮的	缺	缺	
-32	62	clearing	n. 清理、清除	缺	缺	
-32	63	clearly	adv. 清晰地	缺	缺	
-32	64	unclear	adj. 不清楚的、不明确的	缺	缺	
-32	65	clearance	n. 清理、清除；许可、批准	缺	缺	
-32	66	declare	v. 宣布、宣告；声明、表明	缺	缺	
-32	67	clarify	v. 澄清、阐明	缺	缺	
-32	68	clarity	n. 清晰、清楚	缺	缺	
-32	69	clarification	n. 澄清、说明	缺	缺	
-32	70	laugh	n. 笑	缺	缺	
-32	71	laughter	n. 笑声	缺	缺	
-32	72	laughable	adj. 可笑的、荒唐的	缺	缺	
-32	73	game	n. 游戏；运动	缺	缺	
-32	74	gaming	n. 电子游戏	缺	缺	
-32	75	e-game	n. 电子游戏	缺	缺	
-32	76	too	adv. 也；又	缺	缺	
-32	77	toward	prep. 向	缺	缺	
-32	78	towards	prep. 向	缺	缺	
-32	79	onto	prep. 到…上	缺	缺	
-32	80	on	prep. 在…上；关于 adv. 继续	缺	缺	
-33	1	power	n. 电源；动力	缺	缺	
-33	2	powerful	adj. 强大的	缺	缺	
-33	3	powerfully	adv. 强有力地、强烈地	缺	缺	
-33	4	powerless	adj. 无力的、无能为力的	缺	缺	
-33	5	empower	v. 授权；使有能力、使更自信更自主	缺	缺	
-33	6	empowerment	n. 授权	缺	缺	
-33	7	superpower	n. 超级大国	缺	缺	
-33	8	willpower	n. 意志力、毅力	缺	缺	
-33	9	possible	adj. 可能的	缺	缺	
-33	10	impossible	adj. 不可能的	缺	缺	
-33	11	possibility	n. 可能	缺	缺	
-33	12	impossibility	n. 不可能	缺	缺	
-33	13	possibly	adv. 可能地	缺	缺	
-33	14	impossibly	adv. 不可能地	缺	缺	
-33	15	potential	adj. 潜在的、可能的	缺	缺	
-33	16	potentially	adv. 潜在地、可能	缺	缺	
-33	17	possess	v. 拥有、具有	缺	缺	
-33	18	possession	n. 拥有、占有	缺	缺	
-33	19	possessive	adj. 占有欲强的	缺	缺	
-33	20	smart	adj. 灵巧的；智能的	缺	缺	
-33	21	smarter	adj. 更聪明的	缺	缺	
-33	22	smartly	adv. 利落地、敏捷地；聪明地	缺	缺	
-33	23	outsmart	v. 智胜	缺	缺	
-33	24	smartwatch	n. 智能手表	缺	缺	
-33	25	since	prep. 自从…以来 conj. 既然、因为	缺	缺	
-33	26	set	v. 释放；树立	缺	缺	
-33	27	setting	n. 环境、背景	缺	缺	
-33	28	reset	v. 重置、复位	缺	缺	
-33	29	setback	n. 挫折、倒退	缺	缺	
-33	30	setup	n. 设置、安装	缺	缺	
-33	31	upset	adj. 心烦的	缺	缺	
-33	32	mindset	n. 思维方式、心态	缺	缺	
-33	33	settle	v. 安家；解决	缺	缺	
-33	34	settlement	n. 协议、和解；定居点、聚居地	缺	缺	
-33	35	settler	n. 移民、殖民者	缺	缺	
-33	36	sit	v. 坐	缺	缺	
-33	37	sat	v. 坐	缺	缺	
-33	38	seat	n. 座位	缺	缺	
-33	39	reside	v. 居住；存在于、属于	缺	缺	
-33	40	resident	n. 居民；住户	缺	缺	
-33	41	residence	n. 住宅、住所；居留	缺	缺	
-33	42	residential	adj. 住宅的、居住的；寄宿的	缺	缺	
-33	43	president	n. 总统；主席	缺	缺	
-33	44	residue	n. 残渣、残留物；剩余部分	缺	缺	
-33	45	residual	adj. 残余的、剩余的	缺	缺	
-33	46	subsidy	n. 补贴、补助金	缺	缺	
-33	47	size	n. 尺寸；大小	缺	缺	
-33	48	oversized	adj. 特大号的、超大的	缺	缺	
-33	49	super-sized	adj. 超大份的、特大号的	缺	缺	
-33	50	family-sized	adj. 家庭装的、大包装的	缺	缺	
-33	51	life-sized	adj. 与真人一样大小的	缺	缺	
-33	52	one-size-fits-all	adj. 均码的	缺	缺	
-33	53	right-sized	adj. 大小合适的、规模适当的	缺	缺	
-33	54	siege	n. 围困、围攻	缺	缺	
-33	55	besiege	v. 围攻、包围	缺	缺	
-33	56	session	n. 一段时间、一场	缺	缺	
-33	57	obsess	v. 使着迷、使困扰	缺	缺	
-33	58	assess	v. 评估、评价	缺	缺	
-33	59	assessment	n. 评估、评价	缺	缺	
-33	60	paper	n. 纸不可数；考卷	缺	缺	
-33	61	paper-cutting	n. 剪纸	缺	缺	
-33	62	paper-cut	n. 剪纸作品	缺	缺	
-33	63	paperwork	n. 文书工作、文件处理	缺	缺	
-33	64	paper-making	n. 造纸、造纸术	缺	缺	
-33	65	notepaper	n. 信纸、便笺纸	缺	缺	
-33	66	inside	prep. 在…里面 n. 内部	缺	缺	
-33	67	insider	n. 内部人士、知情人	缺	缺	
-33	68	side	n. 边；面	缺	缺	
-33	69	sided	adj. 有…面的	缺	缺	
-33	70	sideways	adv. 向一侧、横着	缺	缺	
-33	71	beside	prep. 在…旁边；与…相比	缺	缺	
-33	72	besides	adv. 此外、而且	缺	缺	
-33	73	aside	adv. 在一边、到一边；撇开 n. 离题话	缺	缺	
-33	74	downside	n. 缺点、不利方面	缺	缺	
-33	75	one-sided	adj. 片面的、偏袒一方的；一边倒的、实力悬殊的	缺	缺	
-33	76	summer	n. 夏天	缺	缺	
-33	77	midsummer	n. 仲夏、盛夏	缺	缺	
-33	78	matter	n. 要紧事；问题	缺	缺	
-33	79	material	n. 材料	缺	缺	
-34	1	sudden	adj. 突然的、意外的	缺	缺	
-34	2	suddenly	adv. 突然地	缺	缺	
-34	3	issue	n. 问题、议题；发行、发放	缺	缺	
-34	4	reissue	v. 重新发行、再版	缺	缺	
-34	5	initial	adj. 最初的、开始的 v. 用姓名首字母签署	缺	缺	
-34	6	initially	adv. 起初、最初	缺	缺	
-34	7	initiate	v. 发起、开始实施；使入门	缺	缺	
-34	8	initiative	n. 主动性、进取心；倡议、新举措	缺	缺	
-34	9	exit	n. 出口 v. 离别	缺	缺	
-34	10	transit	n. 运输、运送；过境、中转	缺	缺	
-34	11	transition	n. 过渡、转变	缺	缺	
-34	12	itinerary	n. 行程、旅行日程	缺	缺	
-34	13	ambition	n. 雄心	缺	缺	
-34	14	ambitious	adj. 有雄心的、有抱负的	缺	缺	
-34	15	ambitiously	adv. 雄心勃勃地	缺	缺	
-34	16	county	n. 郡；县	缺	缺	
-34	17	enter	v. 进入；参加	缺	缺	
-34	18	entrance	n. 入口	缺	缺	
-34	19	entry	n. 进入、入场；条目、词条	缺	缺	
-34	20	interior	adj. 内部的、室内的	缺	缺	
-34	21	internal	adj. 内部的	缺	缺	
-34	22	intestine	n. 肠	缺	缺	
-34	23	intern	n. 实习生 v. 拘留、扣押	缺	缺	
-34	24	internship	n. 实习、实习期	缺	缺	
-34	25	intimate	adj. 亲密的	缺	缺	
-34	26	intimacy	n. 亲密、亲近	缺	缺	
-34	27	in	prep. 在…里；在	缺	缺	
-34	28	inner	adj. 内部的	缺	缺	
-34	29	inward	adj. 向内的	缺	缺	
-34	30	inwardly	adv. 在心里、暗自	缺	缺	
-34	31	break	v. 打破(断；损坏 n. 休息	缺	缺	
-34	32	broken	adj. 破碎的、坏了的；中断的	缺	缺	
-34	33	broke	v. 打破了	缺	缺	
-34	34	unbreakable	adj. 打不碎的；牢不可破的	缺	缺	
-34	35	breaker	n. 拍岸的碎浪；打破…的人或物	缺	缺	
-34	36	unbroke	adj. 未被违背的	缺	缺	
-34	37	breakthrough	n. 突破、重大进展	缺	缺	
-34	38	outbreak	n. 爆发	缺	缺	
-34	39	breakfast	n. 早餐	缺	缺	
-34	40	breach	n. 违反、违背 v. 攻破、突破	缺	缺	
-34	41	fragile	adj. 易碎的；脆弱的、不稳固的	缺	缺	
-34	42	fragment	n. 碎片、碎块	缺	缺	
-34	43	fraction	n. 分数	缺	缺	
-34	44	solve	v. 解决	缺	缺	
-34	45	solvable	adj. 可解决的、有解的	缺	缺	
-34	46	solution	n. 解决方法	缺	缺	
-34	47	resolve	v. 解决	缺	缺	
-34	48	resolution	n. 决议	缺	缺	
-34	49	solver	n. 解题者、解决者	缺	缺	
-34	50	dissolve	v. 溶解	缺	缺	
-34	51	problem-solving	n. 解决问题	缺	缺	
-34	52	problem-solution	adj. “先提出问题、再给出解决方案”的	缺	缺	
-34	53	absolute	adj. 绝对的、完全的；专制的	缺	缺	
-34	54	absolutely	adv. 绝对地、完全地	缺	缺	
-34	55	lose	v. 失去	缺	缺	
-34	56	lost	adj. 丢失的	缺	缺	
-34	57	loser	n. 失败者、输家	缺	缺	
-34	58	loss	n. 丧失	缺	缺	
-34	59	loose	adj. 松的、松动的；散装的、零散的	缺	缺	
-34	60	analyse	v. 分析	缺	缺	
-34	61	analyze	v. 分析	缺	缺	
-34	62	analysis	n. 分析	缺	缺	
-34	63	analyst	n. 分析师、分析员	缺	缺	
-34	64	paralyze	v. 使瘫痪；使不能正常运作	缺	缺	
-34	65	pay	v. 付钱、支付；偿还 n. 工资	缺	缺	
-34	66	paid	adj. 已付的、有报酬的	缺	缺	
-34	67	payment	n. 支付、付款；报偿	缺	缺	
-34	68	repay	v. 偿还；报答	缺	缺	
-34	69	repayment	n. 偿还、还款	缺	缺	
-34	70	e-payment	n. 电子支付、网上支付	缺	缺	
-34	71	well-paid	adj. 薪水高的、报酬丰厚的	缺	缺	
-34	72	payable	adj. 应付的、到期的	缺	缺	
-34	73	payer	n. 付款人、交款人	缺	缺	
-34	74	peace	n. 和平	缺	缺	
-34	75	peaceful	adj. 和平的；安宁的、宁静的	缺	缺	
-34	76	peacefully	adv. 和平地；安详地	缺	缺	
-34	77	Pacific	n. 太平洋	缺	缺	
-34	78	tool	n. 工具	缺	缺	
-34	79	toolbox	n. 工具箱	缺	缺	
-34	80	area	n. 面积；范围	缺	缺	
-35	1	agree	v. 同意；应允	缺	缺	
-35	2	agreement	n. 协议、协定；同意、一致	缺	缺	
-35	3	agreeable	adj. 令人愉快的	缺	缺	
-35	4	disagree	v. 不同意；不相符	缺	缺	
-35	5	disagreement	n. 分歧、意见不合；不一致、不相符	缺	缺	
-35	6	grace	n. 优雅、优美；宽限	缺	缺	
-35	7	graceful	adj. 优美的、优雅的；得体的	缺	缺	
-35	8	gracefully	adv. 优雅地；得体地	缺	缺	
-35	9	grateful	adj. 感激的、感谢的	缺	缺	
-35	10	gratitude	n. 感激、感谢	缺	缺	
-35	11	congratulate	v. 祝贺、恭喜	缺	缺	
-35	12	congratulation	n. 祝贺	缺	缺	
-35	13	congratulations	int. 恭喜！祝贺你！	缺	缺	
-35	14	country	n. 国家；农村	缺	缺	
-35	15	countryside	n. 乡村、农村地区	缺	缺	
-35	16	countryside-like	adj. 有乡村气息的、田园般的	缺	缺	
-35	17	countryside-style	adj. 乡村风格的、田园风的	缺	缺	
-35	18	encounter	v. 遇到、碰到；邂逅	缺	缺	
-35	19	contrary	adj. 相反的	缺	缺	
-35	20	con	n. 反对的理由、缺点	缺	缺	
-35	21	computer	n. 电脑	缺	缺	
-35	22	compute	v. 计算、估算	缺	缺	
-35	23	PC	n. 个人电脑	缺	缺	
-35	24	count	v. 数	缺	缺	
-35	25	countless	adj. 无数的、数不清的	缺	缺	
-35	26	countable	adj. 可数的；可计算的	缺	缺	
-35	27	uncountable	adj. 不可数的	缺	缺	
-35	28	discount	n. 折扣 v. 不予考虑、不全信	缺	缺	
-35	29	account	n. 账户；描述、叙述 v. 说明	缺	缺	
-35	30	accounting	n. 会计、会计工作；结算、清算	缺	缺	
-35	31	accountable	adj. 负有责任的、应作解释的	缺	缺	
-35	32	accountability	n. 问责、责任	缺	缺	
-35	33	reputation	n. 名声、名誉	缺	缺	
-35	34	counter	n. 柜台；计数器	缺	缺	
-35	35	festival	n. 节日	缺	缺	
-35	36	festive	adj. 节日的、欢乐的	缺	缺	
-35	37	festivity	n. 欢庆、喜庆	缺	缺	
-35	38	feast	n. 宴会、盛宴 v. 尽情享用	缺	缺	
-35	39	fair	adj. 公平的；金色的 n. 集市	缺	缺	
-35	40	unfair	adj. 不公正的；违反规则或准则的	缺	缺	
-35	41	fairness	n. 公平、公正	缺	缺	
-35	42	fairly	adv. 公平地；相当、颇	缺	缺	
-35	43	unfairly	adv. 不公平地；不正当地	缺	缺	
-35	44	enthusiasm	n. 热情、热忱	缺	缺	
-35	45	enthusiastic	adj. 热情的、热心的	缺	缺	
-35	46	enthusiast	n. 爱好者、热衷者	缺	缺	
+32	18	personally	adv. 亲自；就个人而言	细节数据有	缺	词/p/personally.json
+32	19	interpersonal	adj. 人际的	细节数据有	缺	词/i/interpersonal.json
+32	20	personality	n. 个性、性格；名人	细节数据有	缺	词/p/personality.json
+32	21	personalize	v. 个性化、按个人需要定制	细节数据有	缺	词/p/personalize.json
+32	22	one-person	adj. 单人的	细节数据有	缺	词/o/one-person.json
+32	23	personable	adj. 好相处的	细节数据有	缺	词/p/personable.json
+32	24	personnel	n. 人事部门	细节数据有	缺	词/p/personnel.json
+32	25	parson	n. 堂区牧师	细节数据有	缺	词/p/parson.json
+32	26	large	adj. 大的；巨大的	细节数据有	缺	词/l/large.json
+32	27	largely	adv. 主要地；在很大程度上	细节数据有	缺	词/l/largely.json
+32	28	enlarge	v. 扩大、放大	细节数据有	缺	词/e/enlarge.json
+32	29	focus	v. 集中	细节数据有	缺	词/f/focus.json
+32	30	focused	adj. 专注的、目标明确的；对准焦点的	细节数据有	缺	词/f/focused.json
+32	31	fuel	n. 燃料	细节数据有	缺	词/f/fuel.json
+32	32	deep	adj. 深	细节数据有	缺	词/d/deep.json
+32	33	deeply	adv. 深深地、极其	细节数据有	缺	词/d/deeply.json
+32	34	deepen	v. 加深、使更深	细节数据有	缺	词/d/deepen.json
+32	35	depth	n. 深度	细节数据有	缺	词/d/depth.json
+32	36	dive	v. 跳水	细节数据有	缺	词/d/dive.json
+32	37	diver	n. 潜水员	细节数据有	缺	词/d/diver.json
+32	38	dive-bombed	v. 俯冲轰炸；猛扑下来攻击	细节数据有	缺	词/d/dive-bombed.json
+32	39	skydiving	n. 跳伞运动	细节数据有	缺	词/s/skydiving.json
+32	40	dip	v. 蘸、浸 n. 短暂的游泳	细节数据有	缺	词/d/dip.json
+32	41	scuba-diving	n. 水肺潜水	细节数据有	缺	词/s/scuba-diving.json
+32	42	scuba	n. 水肺、自携式潜水呼吸器	细节数据有	缺	词/s/scuba.json
+32	43	discuss	v. 讨论	细节数据有	缺	词/d/discuss.json
+32	44	discussion	n. 讨论	细节数据有	缺	词/d/discussion.json
+32	45	discussable	adj. 可以讨论的、可以商量的	细节数据有	缺	词/d/discussable.json
+32	46	rescue	v. 营救、救援	细节数据有	缺	词/r/rescue.json
+32	47	rescuer	n. 救援者、营救人员	细节数据有	缺	词/r/rescuer.json
+32	48	concuss	v. 使发生脑震荡	细节数据有	缺	词/c/concuss.json
+32	49	concussion	n. 脑震荡	细节数据有	缺	词/c/concussion.json
+32	50	percussion	n. 打击乐	细节数据有	缺	词/p/percussion.json
+32	51	improve	v. 改进	细节数据有	缺	词/i/improve.json
+32	52	improved	adj. 改良的、改进了的；好转了的	细节数据有	缺	词/i/improved.json
+32	53	improvement	n. 改进、改善	细节数据有	缺	词/i/improvement.json
+32	54	proud	adj. 自豪的；骄傲的	细节数据有	缺	词/p/proud.json
+32	55	proudly	adv. 自豪地；骄傲地	细节数据有	缺	词/p/proudly.json
+32	56	pride	n. 自豪；令人骄傲的人或物	细节数据有	缺	词/p/pride.json
+32	57	challenge	v. 挑战	细节数据有	缺	词/c/challenge.json
+32	58	challenging	adj. 有挑战性的、费力但值得做的	细节数据有	缺	词/c/challenging.json
+32	59	challenged	adj. 受到挑战的	细节数据有	缺	词/c/challenged.json
+32	60	unchallenged	adj. 无人挑战的、无可争议的；未经质疑的	细节数据有	缺	词/u/unchallenged.json
+32	61	clear	adj. 清晰的；明亮的	细节数据有	缺	词/c/clear.json
+32	62	clearing	n. 清理、清除	细节数据有	缺	词/c/clearing.json
+32	63	clearly	adv. 清晰地	细节数据有	缺	词/c/clearly.json
+32	64	unclear	adj. 不清楚的、不明确的	细节数据有	缺	词/u/unclear.json
+32	65	clearance	n. 清理、清除；许可、批准	细节数据有	缺	词/c/clearance.json
+32	66	declare	v. 宣布、宣告；声明、表明	细节数据有	缺	词/d/declare.json
+32	67	clarify	v. 澄清、阐明	细节数据有	缺	词/c/clarify.json
+32	68	clarity	n. 清晰、清楚	细节数据有	缺	词/c/clarity.json
+32	69	clarification	n. 澄清、说明	细节数据有	缺	词/c/clarification.json
+32	70	laugh	n. 笑	细节数据有	缺	词/l/laugh.json
+32	71	laughter	n. 笑声	细节数据有	缺	词/l/laughter.json
+32	72	laughable	adj. 可笑的、荒唐的	细节数据有	缺	词/l/laughable.json
+32	73	game	n. 游戏；运动	细节数据有	缺	词/g/game.json
+32	74	gaming	n. 电子游戏	细节数据有	缺	词/g/gaming.json
+32	75	e-game	n. 电子游戏	细节数据有	缺	词/e/e-game.json
+32	76	too	adv. 也；又	细节数据有	缺	词/t/too.json
+32	77	toward	prep. 向	细节数据有	缺	词/t/toward.json
+32	78	towards	prep. 向	细节数据有	缺	词/t/towards.json
+32	79	onto	prep. 到…上	细节数据有	缺	词/o/onto.json
+32	80	on	prep. 在…上；关于 adv. 继续	细节数据有	缺	词/o/on.json
+33	1	power	n. 电源；动力	细节数据有	缺	词/p/power.json
+33	2	powerful	adj. 强大的	细节数据有	缺	词/p/powerful.json
+33	3	powerfully	adv. 强有力地、强烈地	细节数据有	缺	词/p/powerfully.json
+33	4	powerless	adj. 无力的、无能为力的	细节数据有	缺	词/p/powerless.json
+33	5	empower	v. 授权；使有能力、使更自信更自主	细节数据有	缺	词/e/empower.json
+33	6	empowerment	n. 授权	细节数据有	缺	词/e/empowerment.json
+33	7	superpower	n. 超级大国	细节数据有	缺	词/s/superpower.json
+33	8	willpower	n. 意志力、毅力	细节数据有	缺	词/w/willpower.json
+33	9	possible	adj. 可能的	细节数据有	缺	词/p/possible.json
+33	10	impossible	adj. 不可能的	细节数据有	缺	词/i/impossible.json
+33	11	possibility	n. 可能	细节数据有	缺	词/p/possibility.json
+33	12	impossibility	n. 不可能	细节数据有	缺	词/i/impossibility.json
+33	13	possibly	adv. 可能地	细节数据有	缺	词/p/possibly.json
+33	14	impossibly	adv. 不可能地	细节数据有	缺	词/i/impossibly.json
+33	15	potential	adj. 潜在的、可能的	细节数据有	缺	词/p/potential.json
+33	16	potentially	adv. 潜在地、可能	细节数据有	缺	词/p/potentially.json
+33	17	possess	v. 拥有、具有	细节数据有	缺	词/p/possess.json
+33	18	possession	n. 拥有、占有	细节数据有	缺	词/p/possession.json
+33	19	possessive	adj. 占有欲强的	细节数据有	缺	词/p/possessive.json
+33	20	smart	adj. 灵巧的；智能的	细节数据有	缺	词/s/smart.json
+33	21	smarter	adj. 更聪明的	细节数据有	缺	词/s/smarter.json
+33	22	smartly	adv. 利落地、敏捷地；聪明地	细节数据有	缺	词/s/smartly.json
+33	23	outsmart	v. 智胜	细节数据有	缺	词/o/outsmart.json
+33	24	smartwatch	n. 智能手表	细节数据有	缺	词/s/smartwatch.json
+33	25	since	prep. 自从…以来 conj. 既然、因为	细节数据有	缺	词/s/since.json
+33	26	set	v. 释放；树立	细节数据有	缺	词/s/set.json
+33	27	setting	n. 环境、背景	细节数据有	缺	词/s/setting.json
+33	28	reset	v. 重置、复位	细节数据有	缺	词/r/reset.json
+33	29	setback	n. 挫折、倒退	细节数据有	缺	词/s/setback.json
+33	30	setup	n. 设置、安装	细节数据有	缺	词/s/setup.json
+33	31	upset	adj. 心烦的	细节数据有	缺	词/u/upset.json
+33	32	mindset	n. 思维方式、心态	细节数据有	缺	词/m/mindset.json
+33	33	settle	v. 安家；解决	细节数据有	缺	词/s/settle.json
+33	34	settlement	n. 协议、和解；定居点、聚居地	细节数据有	缺	词/s/settlement.json
+33	35	settler	n. 移民、殖民者	细节数据有	缺	词/s/settler.json
+33	36	sit	v. 坐	细节数据有	缺	词/s/sit.json
+33	37	sat	v. 坐	细节数据有	缺	词/s/sat.json
+33	38	seat	n. 座位	细节数据有	缺	词/s/seat.json
+33	39	reside	v. 居住；存在于、属于	细节数据有	缺	词/r/reside.json
+33	40	resident	n. 居民；住户	细节数据有	缺	词/r/resident.json
+33	41	residence	n. 住宅、住所；居留	细节数据有	缺	词/r/residence.json
+33	42	residential	adj. 住宅的、居住的；寄宿的	细节数据有	缺	词/r/residential.json
+33	43	president	n. 总统；主席	细节数据有	缺	词/p/president.json
+33	44	residue	n. 残渣、残留物；剩余部分	细节数据有	缺	词/r/residue.json
+33	45	residual	adj. 残余的、剩余的	细节数据有	缺	词/r/residual.json
+33	46	subsidy	n. 补贴、补助金	细节数据有	缺	词/s/subsidy.json
+33	47	size	n. 尺寸；大小	细节数据有	缺	词/s/size.json
+33	48	oversized	adj. 特大号的、超大的	细节数据有	缺	词/o/oversized.json
+33	49	super-sized	adj. 超大份的、特大号的	细节数据有	缺	词/s/super-sized.json
+33	50	family-sized	adj. 家庭装的、大包装的	细节数据有	缺	词/f/family-sized.json
+33	51	life-sized	adj. 与真人一样大小的	细节数据有	缺	词/l/life-sized.json
+33	52	one-size-fits-all	adj. 均码的	细节数据有	缺	词/o/one-size-fits-all.json
+33	53	right-sized	adj. 大小合适的、规模适当的	细节数据有	缺	词/r/right-sized.json
+33	54	siege	n. 围困、围攻	细节数据有	缺	词/s/siege.json
+33	55	besiege	v. 围攻、包围	细节数据有	缺	词/b/besiege.json
+33	56	session	n. 一段时间、一场	细节数据有	缺	词/s/session.json
+33	57	obsess	v. 使着迷、使困扰	细节数据有	缺	词/o/obsess.json
+33	58	assess	v. 评估、评价	细节数据有	缺	词/a/assess.json
+33	59	assessment	n. 评估、评价	细节数据有	缺	词/a/assessment.json
+33	60	paper	n. 纸不可数；考卷	细节数据有	缺	词/p/paper.json
+33	61	paper-cutting	n. 剪纸	细节数据有	缺	词/p/paper-cutting.json
+33	62	paper-cut	n. 剪纸作品	细节数据有	缺	词/p/paper-cut.json
+33	63	paperwork	n. 文书工作、文件处理	细节数据有	缺	词/p/paperwork.json
+33	64	paper-making	n. 造纸、造纸术	细节数据有	缺	词/p/paper-making.json
+33	65	notepaper	n. 信纸、便笺纸	细节数据有	缺	词/n/notepaper.json
+33	66	inside	prep. 在…里面 n. 内部	细节数据有	缺	词/i/inside.json
+33	67	insider	n. 内部人士、知情人	细节数据有	缺	词/i/insider.json
+33	68	side	n. 边；面	细节数据有	缺	词/s/side.json
+33	69	sided	adj. 有…面的	细节数据有	缺	词/s/sided.json
+33	70	sideways	adv. 向一侧、横着	细节数据有	缺	词/s/sideways.json
+33	71	beside	prep. 在…旁边；与…相比	细节数据有	缺	词/b/beside.json
+33	72	besides	adv. 此外、而且	细节数据有	缺	词/b/besides.json
+33	73	aside	adv. 在一边、到一边；撇开 n. 离题话	细节数据有	缺	词/a/aside.json
+33	74	downside	n. 缺点、不利方面	细节数据有	缺	词/d/downside.json
+33	75	one-sided	adj. 片面的、偏袒一方的；一边倒的、实力悬殊的	细节数据有	缺	词/o/one-sided.json
+33	76	summer	n. 夏天	细节数据有	缺	词/s/summer.json
+33	77	midsummer	n. 仲夏、盛夏	细节数据有	缺	词/m/midsummer.json
+33	78	matter	n. 要紧事；问题	细节数据有	缺	词/m/matter.json
+33	79	material	n. 材料	细节数据有	缺	词/m/material.json
+34	1	sudden	adj. 突然的、意外的	细节数据有	缺	词/s/sudden.json
+34	2	suddenly	adv. 突然地	细节数据有	缺	词/s/suddenly.json
+34	3	issue	n. 问题、议题；发行、发放	细节数据有	缺	词/i/issue.json
+34	4	reissue	v. 重新发行、再版	细节数据有	缺	词/r/reissue.json
+34	5	initial	adj. 最初的、开始的 v. 用姓名首字母签署	细节数据有	缺	词/i/initial.json
+34	6	initially	adv. 起初、最初	细节数据有	缺	词/i/initially.json
+34	7	initiate	v. 发起、开始实施；使入门	细节数据有	缺	词/i/initiate.json
+34	8	initiative	n. 主动性、进取心；倡议、新举措	细节数据有	缺	词/i/initiative.json
+34	9	exit	n. 出口 v. 离别	细节数据有	缺	词/e/exit.json
+34	10	transit	n. 运输、运送；过境、中转	细节数据有	缺	词/t/transit.json
+34	11	transition	n. 过渡、转变	细节数据有	缺	词/t/transition.json
+34	12	itinerary	n. 行程、旅行日程	细节数据有	缺	词/i/itinerary.json
+34	13	ambition	n. 雄心	细节数据有	缺	词/a/ambition.json
+34	14	ambitious	adj. 有雄心的、有抱负的	细节数据有	缺	词/a/ambitious.json
+34	15	ambitiously	adv. 雄心勃勃地	细节数据有	缺	词/a/ambitiously.json
+34	16	county	n. 郡；县	细节数据有	缺	词/c/county.json
+34	17	enter	v. 进入；参加	细节数据有	缺	词/e/enter.json
+34	18	entrance	n. 入口	细节数据有	缺	词/e/entrance.json
+34	19	entry	n. 进入、入场；条目、词条	细节数据有	缺	词/e/entry.json
+34	20	interior	adj. 内部的、室内的	细节数据有	缺	词/i/interior.json
+34	21	internal	adj. 内部的	细节数据有	缺	词/i/internal.json
+34	22	intestine	n. 肠	细节数据有	缺	词/i/intestine.json
+34	23	intern	n. 实习生 v. 拘留、扣押	细节数据有	缺	词/i/intern.json
+34	24	internship	n. 实习、实习期	细节数据有	缺	词/i/internship.json
+34	25	intimate	adj. 亲密的	细节数据有	缺	词/i/intimate.json
+34	26	intimacy	n. 亲密、亲近	细节数据有	缺	词/i/intimacy.json
+34	27	in	prep. 在…里；在	细节数据有	缺	词/i/in.json
+34	28	inner	adj. 内部的	细节数据有	缺	词/i/inner.json
+34	29	inward	adj. 向内的	细节数据有	缺	词/i/inward.json
+34	30	inwardly	adv. 在心里、暗自	细节数据有	缺	词/i/inwardly.json
+34	31	break	v. 打破(断；损坏 n. 休息	细节数据有	缺	词/b/break.json
+34	32	broken	adj. 破碎的、坏了的；中断的	细节数据有	缺	词/b/broken.json
+34	33	broke	v. 打破了	细节数据有	缺	词/b/broke.json
+34	34	unbreakable	adj. 打不碎的；牢不可破的	细节数据有	缺	词/u/unbreakable.json
+34	35	breaker	n. 拍岸的碎浪；打破…的人或物	细节数据有	缺	词/b/breaker.json
+34	36	unbroke	adj. 未被违背的	细节数据有	缺	词/u/unbroke.json
+34	37	breakthrough	n. 突破、重大进展	细节数据有	缺	词/b/breakthrough.json
+34	38	outbreak	n. 爆发	细节数据有	缺	词/o/outbreak.json
+34	39	breakfast	n. 早餐	细节数据有	缺	词/b/breakfast.json
+34	40	breach	n. 违反、违背 v. 攻破、突破	细节数据有	缺	词/b/breach.json
+34	41	fragile	adj. 易碎的；脆弱的、不稳固的	细节数据有	缺	词/f/fragile.json
+34	42	fragment	n. 碎片、碎块	细节数据有	缺	词/f/fragment.json
+34	43	fraction	n. 分数	细节数据有	缺	词/f/fraction.json
+34	44	solve	v. 解决	细节数据有	缺	词/s/solve.json
+34	45	solvable	adj. 可解决的、有解的	细节数据有	缺	词/s/solvable.json
+34	46	solution	n. 解决方法	细节数据有	缺	词/s/solution.json
+34	47	resolve	v. 解决	细节数据有	缺	词/r/resolve.json
+34	48	resolution	n. 决议	细节数据有	缺	词/r/resolution.json
+34	49	solver	n. 解题者、解决者	细节数据有	缺	词/s/solver.json
+34	50	dissolve	v. 溶解	细节数据有	缺	词/d/dissolve.json
+34	51	problem-solving	n. 解决问题	细节数据有	缺	词/p/problem-solving.json
+34	52	problem-solution	adj. “先提出问题、再给出解决方案”的	细节数据有	缺	词/p/problem-solution.json
+34	53	absolute	adj. 绝对的、完全的；专制的	细节数据有	缺	词/a/absolute.json
+34	54	absolutely	adv. 绝对地、完全地	细节数据有	缺	词/a/absolutely.json
+34	55	lose	v. 失去	细节数据有	缺	词/l/lose.json
+34	56	lost	adj. 丢失的	细节数据有	缺	词/l/lost.json
+34	57	loser	n. 失败者、输家	细节数据有	缺	词/l/loser.json
+34	58	loss	n. 丧失	细节数据有	缺	词/l/loss.json
+34	59	loose	adj. 松的、松动的；散装的、零散的	细节数据有	缺	词/l/loose.json
+34	60	analyse	v. 分析	细节数据有	缺	词/a/analyse.json
+34	61	analyze	v. 分析	细节数据有	缺	词/a/analyze.json
+34	62	analysis	n. 分析	细节数据有	缺	词/a/analysis.json
+34	63	analyst	n. 分析师、分析员	细节数据有	缺	词/a/analyst.json
+34	64	paralyze	v. 使瘫痪；使不能正常运作	细节数据有	缺	词/p/paralyze.json
+34	65	pay	v. 付钱、支付；偿还 n. 工资	细节数据有	缺	词/p/pay.json
+34	66	paid	adj. 已付的、有报酬的	细节数据有	缺	词/p/paid.json
+34	67	payment	n. 支付、付款；报偿	细节数据有	缺	词/p/payment.json
+34	68	repay	v. 偿还；报答	细节数据有	缺	词/r/repay.json
+34	69	repayment	n. 偿还、还款	细节数据有	缺	词/r/repayment.json
+34	70	e-payment	n. 电子支付、网上支付	细节数据有	缺	词/e/e-payment.json
+34	71	well-paid	adj. 薪水高的、报酬丰厚的	细节数据有	缺	词/w/well-paid.json
+34	72	payable	adj. 应付的、到期的	细节数据有	缺	词/p/payable.json
+34	73	payer	n. 付款人、交款人	细节数据有	缺	词/p/payer.json
+34	74	peace	n. 和平	细节数据有	缺	词/p/peace.json
+34	75	peaceful	adj. 和平的；安宁的、宁静的	细节数据有	缺	词/p/peaceful.json
+34	76	peacefully	adv. 和平地；安详地	细节数据有	缺	词/p/peacefully.json
+34	77	Pacific	n. 太平洋	细节数据有	缺	词/p/Pacific.json
+34	78	tool	n. 工具	细节数据有	缺	词/t/tool.json
+34	79	toolbox	n. 工具箱	细节数据有	缺	词/t/toolbox.json
+34	80	area	n. 面积；范围	细节数据有	缺	词/a/area.json
+35	1	agree	v. 同意；应允	细节数据有	缺	词/a/agree.json
+35	2	agreement	n. 协议、协定；同意、一致	细节数据有	缺	词/a/agreement.json
+35	3	agreeable	adj. 令人愉快的	细节数据有	缺	词/a/agreeable.json
+35	4	disagree	v. 不同意；不相符	细节数据有	缺	词/d/disagree.json
+35	5	disagreement	n. 分歧、意见不合；不一致、不相符	细节数据有	缺	词/d/disagreement.json
+35	6	grace	n. 优雅、优美；宽限	细节数据有	缺	词/g/grace.json
+35	7	graceful	adj. 优美的、优雅的；得体的	细节数据有	缺	词/g/graceful.json
+35	8	gracefully	adv. 优雅地；得体地	细节数据有	缺	词/g/gracefully.json
+35	9	grateful	adj. 感激的、感谢的	细节数据有	缺	词/g/grateful.json
+35	10	gratitude	n. 感激、感谢	细节数据有	缺	词/g/gratitude.json
+35	11	congratulate	v. 祝贺、恭喜	细节数据有	缺	词/c/congratulate.json
+35	12	congratulation	n. 祝贺	细节数据有	缺	词/c/congratulation.json
+35	13	congratulations	int. 恭喜！祝贺你！	细节数据有	缺	词/c/congratulations.json
+35	14	country	n. 国家；农村	细节数据有	缺	词/c/country.json
+35	15	countryside	n. 乡村、农村地区	细节数据有	缺	词/c/countryside.json
+35	16	countryside-like	adj. 有乡村气息的、田园般的	细节数据有	缺	词/c/countryside-like.json
+35	17	countryside-style	adj. 乡村风格的、田园风的	细节数据有	缺	词/c/countryside-style.json
+35	18	encounter	v. 遇到、碰到；邂逅	细节数据有	缺	词/e/encounter.json
+35	19	contrary	adj. 相反的	细节数据有	缺	词/c/contrary.json
+35	20	con	n. 反对的理由、缺点	细节数据有	缺	词/c/con.json
+35	21	computer	n. 电脑	细节数据有	缺	词/c/computer.json
+35	22	compute	v. 计算、估算	细节数据有	缺	词/c/compute.json
+35	23	PC	n. 个人电脑	细节数据有	缺	词/p/PC.json
+35	24	count	v. 数	细节数据有	缺	词/c/count.json
+35	25	countless	adj. 无数的、数不清的	细节数据有	缺	词/c/countless.json
+35	26	countable	adj. 可数的；可计算的	细节数据有	缺	词/c/countable.json
+35	27	uncountable	adj. 不可数的	细节数据有	缺	词/u/uncountable.json
+35	28	discount	n. 折扣 v. 不予考虑、不全信	细节数据有	缺	词/d/discount.json
+35	29	account	n. 账户；描述、叙述 v. 说明	细节数据有	缺	词/a/account.json
+35	30	accounting	n. 会计、会计工作；结算、清算	细节数据有	缺	词/a/accounting.json
+35	31	accountable	adj. 负有责任的、应作解释的	细节数据有	缺	词/a/accountable.json
+35	32	accountability	n. 问责、责任	细节数据有	缺	词/a/accountability.json
+35	33	reputation	n. 名声、名誉	细节数据有	缺	词/r/reputation.json
+35	34	counter	n. 柜台；计数器	细节数据有	缺	词/c/counter.json
+35	35	festival	n. 节日	细节数据有	缺	词/f/festival.json
+35	36	festive	adj. 节日的、欢乐的	细节数据有	缺	词/f/festive.json
+35	37	festivity	n. 欢庆、喜庆	细节数据有	缺	词/f/festivity.json
+35	38	feast	n. 宴会、盛宴 v. 尽情享用	细节数据有	缺	词/f/feast.json
+35	39	fair	adj. 公平的；金色的 n. 集市	细节数据有	缺	词/f/fair.json
+35	40	unfair	adj. 不公正的；违反规则或准则的	细节数据有	缺	词/u/unfair.json
+35	41	fairness	n. 公平、公正	细节数据有	缺	词/f/fairness.json
+35	42	fairly	adv. 公平地；相当、颇	细节数据有	缺	词/f/fairly.json
+35	43	unfairly	adv. 不公平地；不正当地	细节数据有	缺	词/u/unfairly.json
+35	44	enthusiasm	n. 热情、热忱	细节数据有	缺	词/e/enthusiasm.json
+35	45	enthusiastic	adj. 热情的、热心的	细节数据有	缺	词/e/enthusiastic.json
+35	46	enthusiast	n. 爱好者、热衷者	细节数据有	缺	词/e/enthusiast.json
 35	47	enthusiastically	adv. 热情地、热烈地	缺	缺	
 35	48	online	adj. 在线的	缺	缺	
 35	49	offline	adj. 离线的、脱机的	缺	缺	
