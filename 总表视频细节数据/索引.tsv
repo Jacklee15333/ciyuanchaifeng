@@ -4320,31 +4320,31 @@
 55	2	manager	n. 经理	细节数据有	缺	词/m/manager.json
 55	3	management	n. 管理、经营	细节数据有	缺	词/m/management.json
 55	4	manageable	adj. 可管理的、可控制的	细节数据有	缺	词/m/manageable.json
-55	5	time-management	n. 时间管理	缺	缺	
-55	6	maintain	v. 保持、维持；供养	缺	缺	
-55	7	maintenance	n. 维修、保养	缺	缺	
-55	8	manner	n. 方式；态度	缺	缺	
-55	9	manners	n. 方式；态度	缺	缺	
-55	10	mannered	adj. 做作的、风格刻意的；举止…的	缺	缺	
-55	11	manual	adj. 手工的、体力的	缺	缺	
-55	12	manufacture	n. 制造	缺	缺	
-55	13	manufacturer	n. 制造商、生产厂家	缺	缺	
-55	14	manipulate	v. 操纵、摆布	缺	缺	
-55	15	maneuver	n. 策略、花招	缺	缺	
-55	16	manuscript	n. 手稿、原稿	缺	缺	
-55	17	fight	n. 打仗；争论	缺	缺	
-55	18	fought	v. 打过、斗争过	缺	缺	
-55	19	fighter	n. 战士、斗士；不服输的人	缺	缺	
-55	20	easy	adj. 容易的	缺	缺	
-55	21	easily	adv. 容易地	缺	缺	
-55	22	ease	n. 容易、不费力；自在、安逸 v. 减轻、缓和	缺	缺	
-55	23	uneasy	adj. 不安的、忧虑的；不稳定的	缺	缺	
-55	24	easy-goingly	adv. 随和地、从容地（罕用	缺	缺	
-55	25	easy-goingness	n. 随和、好脾气（较少用	缺	缺	
-55	26	easy-going	adj. 随和的、脾气好的	缺	缺	
-55	27	disease	n. 疾病	缺	缺	
-55	28	refuse	v. 拒绝；不愿	缺	缺	
-55	29	refusal	n. 拒绝；优先选择权	缺	缺	
+55	5	time-management	n. 时间管理	细节数据有	缺	词/t/time-management.json
+55	6	maintain	v. 保持、维持；供养	细节数据有	缺	词/m/maintain.json
+55	7	maintenance	n. 维修、保养	细节数据有	缺	词/m/maintenance.json
+55	8	manner	n. 方式；态度	细节数据有	缺	词/m/manner.json
+55	9	manners	n. 方式；态度	细节数据有	缺	词/m/manners.json
+55	10	mannered	adj. 做作的、风格刻意的；举止…的	细节数据有	缺	词/m/mannered.json
+55	11	manual	adj. 手工的、体力的	细节数据有	缺	词/m/manual.json
+55	12	manufacture	n. 制造	细节数据有	缺	词/m/manufacture.json
+55	13	manufacturer	n. 制造商、生产厂家	细节数据有	缺	词/m/manufacturer.json
+55	14	manipulate	v. 操纵、摆布	细节数据有	缺	词/m/manipulate.json
+55	15	maneuver	n. 策略、花招	细节数据有	缺	词/m/maneuver.json
+55	16	manuscript	n. 手稿、原稿	细节数据有	缺	词/m/manuscript.json
+55	17	fight	n. 打仗；争论	细节数据有	缺	词/f/fight.json
+55	18	fought	v. 打过、斗争过	细节数据有	缺	词/f/fought.json
+55	19	fighter	n. 战士、斗士；不服输的人	细节数据有	缺	词/f/fighter.json
+55	20	easy	adj. 容易的	细节数据有	缺	词/e/easy.json
+55	21	easily	adv. 容易地	细节数据有	缺	词/e/easily.json
+55	22	ease	n. 容易、不费力；自在、安逸 v. 减轻、缓和	细节数据有	缺	词/e/ease.json
+55	23	uneasy	adj. 不安的、忧虑的；不稳定的	细节数据有	缺	词/u/uneasy.json
+55	24	easy-goingly	adv. 随和地、从容地（罕用	细节数据有	缺	词/e/easy-goingly.json
+55	25	easy-goingness	n. 随和、好脾气（较少用	细节数据有	缺	词/e/easy-goingness.json
+55	26	easy-going	adj. 随和的、脾气好的	细节数据有	缺	词/e/easy-going.json
+55	27	disease	n. 疾病	细节数据有	缺	词/d/disease.json
+55	28	refuse	v. 拒绝；不愿	细节数据有	缺	词/r/refuse.json
+55	29	refusal	n. 拒绝；优先选择权	细节数据有	缺	词/r/refusal.json
 55	30	confuse	v. 使困惑；分不清	缺	缺	
 55	31	confused	adj. 困惑的、糊涂的；混乱的	缺	缺	
 55	32	confusing	adj. 令人困惑的、难懂的	缺	缺	
