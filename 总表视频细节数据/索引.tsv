@@ -5377,31 +5377,31 @@
 69	11	thirty	num. 基数词	细节数据有	缺	词/t/thirty.json
 69	12	thirtieth	num. 序数词	细节数据有	缺	词/t/thirtieth.json
 69	13	mid-thirties	n. 三十四五岁	细节数据有	缺	词/m/mid-thirties.json
-69	14	thirty-seven	num. 三十七	缺	缺	
-69	15	trio	n. 三人组	缺	缺	
-69	16	triple	adj. 三倍的、三重的	缺	缺	
-69	17	gate	n. 大门	缺	缺	
-69	18	gateway	n. 门道、出入口	缺	缺	
-69	19	gatekeeper	n. 看门人；把关人	缺	缺	
-69	20	snack	n. 小吃	缺	缺	
-69	21	shop	n. 店铺 v. 购物	缺	缺	
-69	22	shopping	n. 购物；买的东西	缺	缺	
-69	23	shopper	n. 购物者、顾客	缺	缺	
-69	24	workshop	n. 车间、作坊	缺	缺	
-69	25	shopkeeper	n. 店主	缺	缺	
-69	26	crowd	n. 人群	缺	缺	
-69	27	crowded	adj. 拥挤的	缺	缺	
-69	28	pack	n. 包	缺	缺	
-69	29	package	n. 包裹（美式；一揽子方案	缺	缺	
-69	30	unpack	v. 打开取出东西；剖析、拆解	缺	缺	
-69	31	backpack	v. 背包旅行	缺	缺	
-69	32	backpacker	n. 背包客	缺	缺	
-69	33	packet	n. 小包、小袋（英式	缺	缺	
-69	34	cup	n. 茶杯	缺	缺	
-69	35	breath	n. 呼吸；气息	缺	缺	
-69	36	breathless	adj. 气喘吁吁的、上气不接下气的	缺	缺	
-69	37	breathlessly	adv. 气喘吁吁地	缺	缺	
-69	38	breathe	v. 呼吸	缺	缺	
+69	14	thirty-seven	num. 三十七	细节数据有	缺	词/t/thirty-seven.json
+69	15	trio	n. 三人组	细节数据有	缺	词/t/trio.json
+69	16	triple	adj. 三倍的、三重的	细节数据有	缺	词/t/triple.json
+69	17	gate	n. 大门	细节数据有	缺	词/g/gate.json
+69	18	gateway	n. 门道、出入口	细节数据有	缺	词/g/gateway.json
+69	19	gatekeeper	n. 看门人；把关人	细节数据有	缺	词/g/gatekeeper.json
+69	20	snack	n. 小吃	细节数据有	缺	词/s/snack.json
+69	21	shop	n. 店铺 v. 购物	细节数据有	缺	词/s/shop.json
+69	22	shopping	n. 购物；买的东西	细节数据有	缺	词/s/shopping.json
+69	23	shopper	n. 购物者、顾客	细节数据有	缺	词/s/shopper.json
+69	24	workshop	n. 车间、作坊	细节数据有	缺	词/w/workshop.json
+69	25	shopkeeper	n. 店主	细节数据有	缺	词/s/shopkeeper.json
+69	26	crowd	n. 人群	细节数据有	缺	词/c/crowd.json
+69	27	crowded	adj. 拥挤的	细节数据有	缺	词/c/crowded.json
+69	28	pack	n. 包	细节数据有	缺	词/p/pack.json
+69	29	package	n. 包裹（美式；一揽子方案	细节数据有	缺	词/p/package.json
+69	30	unpack	v. 打开取出东西；剖析、拆解	细节数据有	缺	词/u/unpack.json
+69	31	backpack	v. 背包旅行	细节数据有	缺	词/b/backpack.json
+69	32	backpacker	n. 背包客	细节数据有	缺	词/b/backpacker.json
+69	33	packet	n. 小包、小袋（英式	细节数据有	缺	词/p/packet.json
+69	34	cup	n. 茶杯	细节数据有	缺	词/c/cup.json
+69	35	breath	n. 呼吸；气息	细节数据有	缺	词/b/breath.json
+69	36	breathless	adj. 气喘吁吁的、上气不接下气的	细节数据有	缺	词/b/breathless.json
+69	37	breathlessly	adv. 气喘吁吁地	细节数据有	缺	词/b/breathlessly.json
+69	38	breathe	v. 呼吸	细节数据有	缺	词/b/breathe.json
 69	39	breathable	adj. 可供呼吸的；透气的	缺	缺	
 69	40	breathtaking	adj. 惊人的、令人叹为观止的	缺	缺	
 69	41	weak	adj. 弱的	缺	缺	
