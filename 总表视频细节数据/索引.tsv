@@ -4622,32 +4622,32 @@
 58	69	hollow	adj. 空心的；凹陷的 n. 洼地、山谷	细节数据有	缺	词/h/hollow.json
 58	70	helmet	n. 头盔、安全帽	细节数据有	缺	词/h/helmet.json
 58	71	cell	n. 细胞；牢房	细节数据有	缺	词/c/cell.json
-58	72	cellar	n. 地窖、地下室；藏酒	缺	缺	
-59	1	storm	n. 风暴	缺	缺	
-59	2	stormy	adj. 有暴风雨的；激烈的、争吵不断的	缺	缺	
-59	3	sandstorm	n. 沙暴、沙尘暴	缺	缺	
-59	4	magic	n. 魔术	缺	缺	
-59	5	magical	adj. 魔法的、有魔力的；奇妙的、迷人的	缺	缺	
-59	6	magician	n. 魔术师	缺	缺	
-59	7	magically	adv. 魔法般地；神奇地	缺	缺	
+58	72	cellar	n. 地窖、地下室；藏酒	细节数据有	缺	词/c/cellar.json
+59	1	storm	n. 风暴	细节数据有	缺	词/s/storm.json
+59	2	stormy	adj. 有暴风雨的；激烈的、争吵不断的	细节数据有	缺	词/s/stormy.json
+59	3	sandstorm	n. 沙暴、沙尘暴	细节数据有	缺	词/s/sandstorm.json
+59	4	magic	n. 魔术	细节数据有	缺	词/m/magic.json
+59	5	magical	adj. 魔法的、有魔力的；奇妙的、迷人的	细节数据有	缺	词/m/magical.json
+59	6	magician	n. 魔术师	细节数据有	缺	词/m/magician.json
+59	7	magically	adv. 魔法般地；神奇地	细节数据有	缺	词/m/magically.json
 59	8	rock	n. 岩石；摇滚乐	总表有	kit有（7A-U4）	
-59	9	rocky	adj. 多岩石的、崎岖的	缺	缺	
-59	10	rocker	n. 摇椅	缺	缺	
-59	11	rock-eater	n. 不是词典里的固定词，按上下文理解：可以是故事里啃石头的怪物或机器	缺	缺	
-59	12	poor	adj. 贫穷的；可怜的	缺	缺	
-59	13	poorly	adv. 差地、不足地	缺	缺	
-59	14	poverty	n. 贫穷、贫困	缺	缺	
-59	15	govern	v. 统治、治理；支配、左右	缺	缺	
-59	16	government	n. 政府	缺	缺	
-59	17	governmental	adj. 政府的	缺	缺	
-59	18	cyber	adj. 网络的、电脑的	缺	缺	
-59	19	cybersecurity	n. 网络安全	缺	缺	
-59	20	cyberbullying	n. 网络欺凌、网络霸凌	缺	缺	
-59	21	else	adv. 别的；其他的	缺	缺	
-59	22	elsewhere	adv. 在别处、到别处	缺	缺	
-59	23	alien	adj. 外国的；陌生的、格格不入的	缺	缺	
-59	24	non-alien	n. 非外国人、本国公民	缺	缺	
-59	25	alienate	v. 使疏远、使不满；使感到格格不入	缺	缺	
+59	9	rocky	adj. 多岩石的、崎岖的	细节数据有	缺	词/r/rocky.json
+59	10	rocker	n. 摇椅	细节数据有	缺	词/r/rocker.json
+59	11	rock-eater	n. 不是词典里的固定词，按上下文理解：可以是故事里啃石头的怪物或机器	细节数据有	缺	词/r/rock-eater.json
+59	12	poor	adj. 贫穷的；可怜的	细节数据有	缺	词/p/poor.json
+59	13	poorly	adv. 差地、不足地	细节数据有	缺	词/p/poorly.json
+59	14	poverty	n. 贫穷、贫困	细节数据有	缺	词/p/poverty.json
+59	15	govern	v. 统治、治理；支配、左右	细节数据有	缺	词/g/govern.json
+59	16	government	n. 政府	细节数据有	缺	词/g/government.json
+59	17	governmental	adj. 政府的	细节数据有	缺	词/g/governmental.json
+59	18	cyber	adj. 网络的、电脑的	细节数据有	缺	词/c/cyber.json
+59	19	cybersecurity	n. 网络安全	细节数据有	缺	词/c/cybersecurity.json
+59	20	cyberbullying	n. 网络欺凌、网络霸凌	细节数据有	缺	词/c/cyberbullying.json
+59	21	else	adv. 别的；其他的	细节数据有	缺	词/e/else.json
+59	22	elsewhere	adv. 在别处、到别处	细节数据有	缺	词/e/elsewhere.json
+59	23	alien	adj. 外国的；陌生的、格格不入的	细节数据有	缺	词/a/alien.json
+59	24	non-alien	n. 非外国人、本国公民	细节数据有	缺	词/n/non-alien.json
+59	25	alienate	v. 使疏远、使不满；使感到格格不入	细节数据有	缺	词/a/alienate.json
 59	26	alternative	adj. 可供选择的、替代的；另类的、非主流的	缺	缺	
 59	27	alternate	v. 交替、轮流 adj. 隔一个的	缺	缺	
 59	28	alter	v. 改变、修改	缺	缺	
