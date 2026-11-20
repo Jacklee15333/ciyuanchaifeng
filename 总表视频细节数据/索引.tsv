@@ -6105,31 +6105,31 @@
 82	23	oblige	v. 迫使；帮忙、满足要求	细节数据有	缺	词/o/oblige.json
 82	24	obligation	n. 义务、责任	细节数据有	缺	词/o/obligation.json
 82	25	religious	adj. 宗教的	细节数据有	缺	词/r/religious.json
-82	26	religion	n. 宗教	缺	缺	
-82	27	ruin	n. 毁灭、破败；祸根	缺	缺	
-82	28	ruins	n. 废墟、遗迹	缺	缺	
-82	29	ruinous	adj. 毁灭性的、灾难性的	缺	缺	
-82	30	coat	n. 外套；上衣	缺	缺	
-82	31	coating	n. 涂层、外层	缺	缺	
-82	32	red-coated	adj. 穿红色外衣的	缺	缺	
-82	33	great	adj. 伟大的；重要的	缺	缺	
-82	34	greatly	adv. 非常、大大地	缺	缺	
-82	35	greatness	n. 伟大、卓越	缺	缺	
-82	36	rope	n. 绳子	缺	缺	
-82	37	tightrope	n. 绷索 phr. 在两难之间小心周旋	缺	缺	
-82	38	plot	n. 一小块地；阴谋	缺	缺	
-82	39	subplot	n. 副线、次要情节	缺	缺	
-82	40	Christmas	n. 圣诞节	缺	缺	
-82	41	Christmas-related	adj. 与圣诞相关的	缺	缺	
-82	42	Christ	n. 基督	缺	缺	
-82	43	Christian	n. 基督徒	缺	缺	
-82	44	harvest	n. 收获、收割 v. 采集	缺	缺	
-82	45	excerpt	n. 摘录、节选	缺	缺	
-82	46	scarce	adj. 缺乏的、不足的；稀少的	缺	缺	
-82	47	scarcity	n. 缺乏、短缺	缺	缺	
-82	48	carpet	n. 地毯	缺	缺	
-82	49	ceremony	n. 典礼、仪式	缺	缺	
-82	50	ceremonial	adj. 礼仪上的、仪式的	缺	缺	
+82	26	religion	n. 宗教	细节数据有	缺	词/r/religion.json
+82	27	ruin	n. 毁灭、破败；祸根	细节数据有	缺	词/r/ruin.json
+82	28	ruins	n. 废墟、遗迹	细节数据有	缺	词/r/ruins.json
+82	29	ruinous	adj. 毁灭性的、灾难性的	细节数据有	缺	词/r/ruinous.json
+82	30	coat	n. 外套；上衣	细节数据有	缺	词/c/coat.json
+82	31	coating	n. 涂层、外层	细节数据有	缺	词/c/coating.json
+82	32	red-coated	adj. 穿红色外衣的	细节数据有	缺	词/r/red-coated.json
+82	33	great	adj. 伟大的；重要的	细节数据有	缺	词/g/great.json
+82	34	greatly	adv. 非常、大大地	细节数据有	缺	词/g/greatly.json
+82	35	greatness	n. 伟大、卓越	细节数据有	缺	词/g/greatness.json
+82	36	rope	n. 绳子	细节数据有	缺	词/r/rope.json
+82	37	tightrope	n. 绷索 phr. 在两难之间小心周旋	细节数据有	缺	词/t/tightrope.json
+82	38	plot	n. 一小块地；阴谋	细节数据有	缺	词/p/plot.json
+82	39	subplot	n. 副线、次要情节	细节数据有	缺	词/s/subplot.json
+82	40	Christmas	n. 圣诞节	细节数据有	缺	词/c/Christmas.json
+82	41	Christmas-related	adj. 与圣诞相关的	细节数据有	缺	词/c/Christmas-related.json
+82	42	Christ	n. 基督	细节数据有	缺	词/c/Christ.json
+82	43	Christian	n. 基督徒	细节数据有	缺	词/c/Christian.json
+82	44	harvest	n. 收获、收割 v. 采集	细节数据有	缺	词/h/harvest.json
+82	45	excerpt	n. 摘录、节选	细节数据有	缺	词/e/excerpt.json
+82	46	scarce	adj. 缺乏的、不足的；稀少的	细节数据有	缺	词/s/scarce.json
+82	47	scarcity	n. 缺乏、短缺	细节数据有	缺	词/s/scarcity.json
+82	48	carpet	n. 地毯	细节数据有	缺	词/c/carpet.json
+82	49	ceremony	n. 典礼、仪式	细节数据有	缺	词/c/ceremony.json
+82	50	ceremonial	adj. 礼仪上的、仪式的	细节数据有	缺	词/c/ceremonial.json
 83	1	crash	n. 撞车、坠毁 v. 擅自闯入	缺	缺	
 83	2	lantern	n. 灯笼	缺	缺	
 83	3	shoulder	n. 肩、肩膀 v. 承担	缺	缺	
