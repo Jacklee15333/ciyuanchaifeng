@@ -2360,31 +2360,31 @@
 30	42	encouraging	adj. 鼓舞人心的、令人鼓舞的	细节数据有	缺	词/e/encouraging.json
 30	43	encouragement	n. 鼓励、激励；促进	细节数据有	缺	词/e/encouragement.json
 30	44	encouragingly	adv. 鼓励地	细节数据有	缺	词/e/encouragingly.json
-30	45	discourage	v. 使泄气、使灰心；劝阻、阻拦	缺	缺	
-30	46	discouraged	adj. 泄气的、灰心的；被劝阻的	缺	缺	
-30	47	discouraging	adj. 令人沮丧的、令人泄气的	缺	缺	
-30	48	record	n. 记录；唱片	缺	缺	
-30	49	recording	n. 录音、录像	缺	缺	
-30	50	recorder	n. 录音机、记录仪；竖笛	缺	缺	
-30	51	record-breaking	adj. 破纪录的、创纪录的	缺	缺	
-30	52	accord	n. 一致；协议 v. 给予	缺	缺	
-30	53	according	phr. 依照	缺	缺	
-30	54	accordingly	adv. 相应地；因此、所以	缺	缺	
-30	55	plant	v. 种植	缺	缺	
-30	56	planter	n. 种植园主	缺	缺	
-30	57	transplant	v. 移植	缺	缺	
-30	58	implant	v. 灌输、使牢固树立 n. 植入物	缺	缺	
-30	59	eggplant	n. 茄子	缺	缺	
-30	60	left	adj. 左边的	缺	缺	
-30	61	left-hand	adj. 左边的、左手的	缺	缺	
-30	62	human	adj. 人的 n. 人类	缺	缺	
-30	63	humanity	n. 人类；人性	缺	缺	
-30	64	human-like	adj. 类人的、像人的	缺	缺	
-30	65	human-made	adj. 人造的、人为的	缺	缺	
-30	66	human-led	adj. 由人主导的	缺	缺	
-30	67	humble	adj. 谦逊的、谦卑的；地位低下的	缺	缺	
-30	68	humility	n. 谦逊、谦卑	缺	缺	
-30	69	connect	v. 连接、接通；联系、关联	缺	缺	
+30	45	discourage	v. 使泄气、使灰心；劝阻、阻拦	细节数据有	缺	词/d/discourage.json
+30	46	discouraged	adj. 泄气的、灰心的；被劝阻的	细节数据有	缺	词/d/discouraged.json
+30	47	discouraging	adj. 令人沮丧的、令人泄气的	细节数据有	缺	词/d/discouraging.json
+30	48	record	n. 记录；唱片	细节数据有	缺	词/r/record.json
+30	49	recording	n. 录音、录像	细节数据有	缺	词/r/recording.json
+30	50	recorder	n. 录音机、记录仪；竖笛	细节数据有	缺	词/r/recorder.json
+30	51	record-breaking	adj. 破纪录的、创纪录的	细节数据有	缺	词/r/record-breaking.json
+30	52	accord	n. 一致；协议 v. 给予	细节数据有	缺	词/a/accord.json
+30	53	according	phr. 依照	细节数据有	缺	词/a/according.json
+30	54	accordingly	adv. 相应地；因此、所以	细节数据有	缺	词/a/accordingly.json
+30	55	plant	v. 种植	细节数据有	缺	词/p/plant.json
+30	56	planter	n. 种植园主	细节数据有	缺	词/p/planter.json
+30	57	transplant	v. 移植	细节数据有	缺	词/t/transplant.json
+30	58	implant	v. 灌输、使牢固树立 n. 植入物	细节数据有	缺	词/i/implant.json
+30	59	eggplant	n. 茄子	细节数据有	缺	词/e/eggplant.json
+30	60	left	adj. 左边的	细节数据有	缺	词/l/left.json
+30	61	left-hand	adj. 左边的、左手的	细节数据有	缺	词/l/left-hand.json
+30	62	human	adj. 人的 n. 人类	细节数据有	缺	词/h/human.json
+30	63	humanity	n. 人类；人性	细节数据有	缺	词/h/humanity.json
+30	64	human-like	adj. 类人的、像人的	细节数据有	缺	词/h/human-like.json
+30	65	human-made	adj. 人造的、人为的	细节数据有	缺	词/h/human-made.json
+30	66	human-led	adj. 由人主导的	细节数据有	缺	词/h/human-led.json
+30	67	humble	adj. 谦逊的、谦卑的；地位低下的	细节数据有	缺	词/h/humble.json
+30	68	humility	n. 谦逊、谦卑	细节数据有	缺	词/h/humility.json
+30	69	connect	v. 连接、接通；联系、关联	细节数据有	缺	词/c/connect.json
 30	70	connected	adj. 相连的、连接着的；有关联的	缺	缺	
 30	71	connection	n. 联系、关联；连接	缺	缺	
 30	72	connective	adj. 连接的	缺	缺	
