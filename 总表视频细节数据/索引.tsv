@@ -4698,31 +4698,31 @@
 59	73	affirm	v. 断言、坚称；肯定、支持	细节数据有	缺	词/a/affirm.json
 60	1	deal	v. 对付；分配 n. 交易	细节数据有	缺	词/d/deal.json
 60	2	dealt	v. 分发了、发了；处理过	细节数据有	缺	词/d/dealt.json
-60	3	dealer	n. 经销商、商人；发牌人	缺	缺	
-60	4	rubbish	n. 垃圾；废物	缺	缺	
-60	5	rubbishy	adj. 劣质的、没价值的	缺	缺	
-60	6	rubble	n. 瓦砾、碎石	缺	缺	
-60	7	struggle	v. 挣扎；奋斗、努力 n. 难事	缺	缺	
-60	8	tick	n. 嘀嗒声；勾号	缺	缺	
-60	9	talent	n. 才能	缺	缺	
-60	10	talented	adj. 有天赋的、有才华的	缺	缺	
-60	11	talentless	adj. 没有才华的、平庸的	缺	缺	
-60	12	cloud	n. 云	缺	缺	
-60	13	cloudy	adj. 多云的；阴天的	缺	缺	
-60	14	cloudiness	n. 多云	缺	缺	
-60	15	thick	adj. 厚的	缺	缺	
-60	16	thickness	n. 厚度	缺	缺	
-60	17	thicken	v. 变稠	缺	缺	
-60	18	thickly	adv. 厚厚地；密密地	缺	缺	
-60	19	bit	n. 一点；一些	缺	缺	
-60	20	bite	v. 咬；叮	缺	缺	
-60	21	bitten	adj. 被咬了的	缺	缺	
-60	22	bitter	adj. 苦的；怨恨的	缺	缺	
-60	23	bitterly	adv. 痛苦地、辛酸地；愤恨地	缺	缺	
-60	24	bitterness	n. 苦味；怨恨、积怨	缺	缺	
-60	25	bait	n. 诱饵 v. 故意招惹、激怒	缺	缺	
-60	26	beetle	n. 甲虫	缺	缺	
-60	27	method	n. 方法	缺	缺	
+60	3	dealer	n. 经销商、商人；发牌人	细节数据有	缺	词/d/dealer.json
+60	4	rubbish	n. 垃圾；废物	细节数据有	缺	词/r/rubbish.json
+60	5	rubbishy	adj. 劣质的、没价值的	细节数据有	缺	词/r/rubbishy.json
+60	6	rubble	n. 瓦砾、碎石	细节数据有	缺	词/r/rubble.json
+60	7	struggle	v. 挣扎；奋斗、努力 n. 难事	细节数据有	缺	词/s/struggle.json
+60	8	tick	n. 嘀嗒声；勾号	细节数据有	缺	词/t/tick.json
+60	9	talent	n. 才能	细节数据有	缺	词/t/talent.json
+60	10	talented	adj. 有天赋的、有才华的	细节数据有	缺	词/t/talented.json
+60	11	talentless	adj. 没有才华的、平庸的	细节数据有	缺	词/t/talentless.json
+60	12	cloud	n. 云	细节数据有	缺	词/c/cloud.json
+60	13	cloudy	adj. 多云的；阴天的	细节数据有	缺	词/c/cloudy.json
+60	14	cloudiness	n. 多云	细节数据有	缺	词/c/cloudiness.json
+60	15	thick	adj. 厚的	细节数据有	缺	词/t/thick.json
+60	16	thickness	n. 厚度	细节数据有	缺	词/t/thickness.json
+60	17	thicken	v. 变稠	细节数据有	缺	词/t/thicken.json
+60	18	thickly	adv. 厚厚地；密密地	细节数据有	缺	词/t/thickly.json
+60	19	bit	n. 一点；一些	细节数据有	缺	词/b/bit.json
+60	20	bite	v. 咬；叮	细节数据有	缺	词/b/bite.json
+60	21	bitten	adj. 被咬了的	细节数据有	缺	词/b/bitten.json
+60	22	bitter	adj. 苦的；怨恨的	细节数据有	缺	词/b/bitter.json
+60	23	bitterly	adv. 痛苦地、辛酸地；愤恨地	细节数据有	缺	词/b/bitterly.json
+60	24	bitterness	n. 苦味；怨恨、积怨	细节数据有	缺	词/b/bitterness.json
+60	25	bait	n. 诱饵 v. 故意招惹、激怒	细节数据有	缺	词/b/bait.json
+60	26	beetle	n. 甲虫	细节数据有	缺	词/b/beetle.json
+60	27	method	n. 方法	细节数据有	缺	词/m/method.json
 60	28	methodical	adj. 有条理的、有条不紊的；按部就班的	缺	缺	
 60	29	period	n. 时期、阶段	缺	缺	
 60	30	periodic	adj. 周期性的、定期的	缺	缺	
