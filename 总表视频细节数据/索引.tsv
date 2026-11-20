@@ -4472,31 +4472,31 @@
 56	73	limestone	n. 石灰岩、石灰石	细节数据有	缺	词/l/limestone.json
 56	74	milestone	n. 里程碑、里程标	细节数据有	缺	词/m/milestone.json
 57	1	glass	n. 玻璃杯；眼镜	细节数据有	缺	词/g/glass.json
-57	2	glasses	n. 眼镜；也是“玻璃杯”的复数	缺	缺	
-57	3	glassy	adj. 光滑如镜的	缺	缺	
-57	4	glassful	n. 一杯的量	缺	缺	
-57	5	sunglasses	n. 太阳镜、墨镜	缺	缺	
-57	6	glow	n. 微光、红光；满足感	缺	缺	
-57	7	glitter	v. 闪闪发光	缺	缺	
-57	8	glimpse	n. 一瞥；初步的了解	缺	缺	
-57	9	gold	n. 黄金	缺	缺	
-57	10	golden	adj. 金色的	缺	缺	
-57	11	goldfish	n. 金鱼	缺	缺	
-57	12	gold-leaf	n. 作定语多加连字符）	缺	缺	
-57	13	golden-haired	adj. 金发的	缺	缺	
-57	14	rose-gold	n. 玫瑰金	缺	缺	
-57	15	yellow	adj. 黄色的	缺	缺	
-57	16	glad	adj. 高兴的；乐意的	缺	缺	
-57	17	gladden	v. 使高兴、使欣慰	缺	缺	
-57	18	gladly	adv. 乐意地、欣然；高兴地	缺	缺	
-57	19	gladness	n. 高兴、喜悦	缺	缺	
-57	20	fail	v. 失败；不及格	缺	缺	
-57	21	failure	n. 失败；未做某事	缺	缺	
-57	22	false	adj. 假的、错误的；人造的	缺	缺	
-57	23	fault	n. 过错、责任；缺点、毛病	缺	缺	
-57	24	serious	adj. 严肃的；认真的	缺	缺	
-57	25	seriously	adj. 严肃地；认真地	缺	缺	
-57	26	seriousness	n. 严肃、认真	缺	缺	
+57	2	glasses	n. 眼镜；也是“玻璃杯”的复数	细节数据有	缺	词/g/glasses.json
+57	3	glassy	adj. 光滑如镜的	细节数据有	缺	词/g/glassy.json
+57	4	glassful	n. 一杯的量	细节数据有	缺	词/g/glassful.json
+57	5	sunglasses	n. 太阳镜、墨镜	细节数据有	缺	词/s/sunglasses.json
+57	6	glow	n. 微光、红光；满足感	细节数据有	缺	词/g/glow.json
+57	7	glitter	v. 闪闪发光	细节数据有	缺	词/g/glitter.json
+57	8	glimpse	n. 一瞥；初步的了解	细节数据有	缺	词/g/glimpse.json
+57	9	gold	n. 黄金	细节数据有	缺	词/g/gold.json
+57	10	golden	adj. 金色的	细节数据有	缺	词/g/golden.json
+57	11	goldfish	n. 金鱼	细节数据有	缺	词/g/goldfish.json
+57	12	gold-leaf	n. 作定语多加连字符）	细节数据有	缺	词/g/gold-leaf.json
+57	13	golden-haired	adj. 金发的	细节数据有	缺	词/g/golden-haired.json
+57	14	rose-gold	n. 玫瑰金	细节数据有	缺	词/r/rose-gold.json
+57	15	yellow	adj. 黄色的	细节数据有	缺	词/y/yellow.json
+57	16	glad	adj. 高兴的；乐意的	细节数据有	缺	词/g/glad.json
+57	17	gladden	v. 使高兴、使欣慰	细节数据有	缺	词/g/gladden.json
+57	18	gladly	adv. 乐意地、欣然；高兴地	细节数据有	缺	词/g/gladly.json
+57	19	gladness	n. 高兴、喜悦	细节数据有	缺	词/g/gladness.json
+57	20	fail	v. 失败；不及格	细节数据有	缺	词/f/fail.json
+57	21	failure	n. 失败；未做某事	细节数据有	缺	词/f/failure.json
+57	22	false	adj. 假的、错误的；人造的	细节数据有	缺	词/f/false.json
+57	23	fault	n. 过错、责任；缺点、毛病	细节数据有	缺	词/f/fault.json
+57	24	serious	adj. 严肃的；认真的	细节数据有	缺	词/s/serious.json
+57	25	seriously	adj. 严肃地；认真地	细节数据有	缺	词/s/seriously.json
+57	26	seriousness	n. 严肃、认真	细节数据有	缺	词/s/seriousness.json
 57	27	remain	v. 剩下、遗留；保持、仍是	缺	缺	
 57	28	remaining	adj. 剩下的、其余的	缺	缺	
 57	29	permanent	adj. 永久的、长期的；常设的	缺	缺	
