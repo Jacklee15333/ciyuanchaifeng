@@ -284,6 +284,8 @@
 - disadvantage：易混一栏写“drawback 是“””，后半句是空的，应补“drawback 是（某事物的）缺点、弊端”
 - holiness：短语“His Holiness 陛下”不对，“陛下”是 Your/His Majesty；His Holiness 是对教皇等宗教领袖的尊称（圣座、教皇陛下）
 - healthcare：初中含义“医疗保健、卫生保健（英式多连写”少了右括号
+- spacecraft：变形写“复数 spacecrafts”不对；craft 作“飞行器”讲复数不加 s（辨析里自己也这样说），复数仍是 spacecraft
+- dollar：初中含义“元(美国”少了右括号
 
 ## 总表里出现两次的词（细节数据按单词存一份，两行共用；出题时两个意思都要考到）
 

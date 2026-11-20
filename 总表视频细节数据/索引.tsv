@@ -3342,31 +3342,31 @@
 42	63	anticipate	v. 预料、预期；抢先应对	细节数据有	缺	词/a/anticipate.json
 42	64	much-anticipated	adj. 备受期待的	细节数据有	缺	词/m/much-anticipated.json
 42	65	antique	n. 古董	细节数据有	缺	词/a/antique.json
-42	66	antiquity	n. 古代	缺	缺	
-42	67	space	n. 空间	缺	缺	
-42	68	spacious	adj. 宽敞的	缺	缺	
-42	69	spatial	adj. 空间的	缺	缺	
-42	70	spaceship	n. 宇宙飞船	缺	缺	
-42	71	spacecraft	n. 航天器、宇宙飞船	缺	缺	
-42	72	spacesuit	n. 航天服、宇航服	缺	缺	
-42	73	space-based	adj. 天基的、部署在太空的	缺	缺	
-42	74	spaceflight	n. 航天飞行、太空飞行	缺	缺	
-42	75	spacewalk	n. 太空行走、出舱活动	缺	缺	
-42	76	member	n. 成员	缺	缺	
-42	77	membership	n. 会员资格、成员身份	缺	缺	
-42	78	non-member	n. 非会员、非成员	缺	缺	
-42	79	club	n. 俱乐部	缺	缺	
-42	80	clubroom	n. 俱乐部活动室、会所	缺	缺	
-42	81	dollar	n. 元(美国	缺	缺	
-43	1	window	n. 窗户	缺	缺	
-43	2	windowsill	n. 窗台	缺	缺	
-43	3	wind	n. 风	缺	缺	
-43	4	windy	adj. 有风的	缺	缺	
-43	5	windless	adj. 无风的	缺	缺	
-43	6	windmill	n. 风车	缺	缺	
-43	7	windswept	adj. 受强风吹袭的	缺	缺	
-43	8	windbreak	n. 防风林	缺	缺	
-43	9	conversation	n. 会话	缺	缺	
+42	66	antiquity	n. 古代	细节数据有	缺	词/a/antiquity.json
+42	67	space	n. 空间	细节数据有	缺	词/s/space.json
+42	68	spacious	adj. 宽敞的	细节数据有	缺	词/s/spacious.json
+42	69	spatial	adj. 空间的	细节数据有	缺	词/s/spatial.json
+42	70	spaceship	n. 宇宙飞船	细节数据有	缺	词/s/spaceship.json
+42	71	spacecraft	n. 航天器、宇宙飞船	细节数据有	缺	词/s/spacecraft.json
+42	72	spacesuit	n. 航天服、宇航服	细节数据有	缺	词/s/spacesuit.json
+42	73	space-based	adj. 天基的、部署在太空的	细节数据有	缺	词/s/space-based.json
+42	74	spaceflight	n. 航天飞行、太空飞行	细节数据有	缺	词/s/spaceflight.json
+42	75	spacewalk	n. 太空行走、出舱活动	细节数据有	缺	词/s/spacewalk.json
+42	76	member	n. 成员	细节数据有	缺	词/m/member.json
+42	77	membership	n. 会员资格、成员身份	细节数据有	缺	词/m/membership.json
+42	78	non-member	n. 非会员、非成员	细节数据有	缺	词/n/non-member.json
+42	79	club	n. 俱乐部	细节数据有	缺	词/c/club.json
+42	80	clubroom	n. 俱乐部活动室、会所	细节数据有	缺	词/c/clubroom.json
+42	81	dollar	n. 元(美国	细节数据有	缺	词/d/dollar.json
+43	1	window	n. 窗户	细节数据有	缺	词/w/window.json
+43	2	windowsill	n. 窗台	细节数据有	缺	词/w/windowsill.json
+43	3	wind	n. 风	细节数据有	缺	词/w/wind.json
+43	4	windy	adj. 有风的	细节数据有	缺	词/w/windy.json
+43	5	windless	adj. 无风的	细节数据有	缺	词/w/windless.json
+43	6	windmill	n. 风车	细节数据有	缺	词/w/windmill.json
+43	7	windswept	adj. 受强风吹袭的	细节数据有	缺	词/w/windswept.json
+43	8	windbreak	n. 防风林	细节数据有	缺	词/w/windbreak.json
+43	9	conversation	n. 会话	细节数据有	缺	词/c/conversation.json
 43	10	converse	v. 交谈	缺	缺	
 43	11	conversational	adj. 会话的、谈话的；聊天式的、口语化的	缺	缺	
 43	12	version	n. 版本	缺	缺	
