@@ -3242,31 +3242,31 @@
 41	44	entertaining	adj. 有趣的、使人愉快的 n. 招待客人	细节数据有	缺	词/e/entertaining.json
 41	45	entertainment	n. 娱乐；消遣	细节数据有	缺	词/e/entertainment.json
 41	46	entertainer	n. 艺人、表演者；会招待客人的人	细节数据有	缺	词/e/entertainer.json
-41	47	sustain	v. 维持、使持续；支撑、承受	缺	缺	
-41	48	sustainable	adj. 可持续的	缺	缺	
-41	49	sustainability	n. 可持续性	缺	缺	
-41	50	sustainably	adv. 可持续地	缺	缺	
-41	51	retain	v. 保留、保持；记住	缺	缺	
-41	52	retention	n. 保留、保持；记忆	缺	缺	
-41	53	obtain	v. 获得、得到	缺	缺	
-41	54	tennis	n. 网球	缺	缺	
-41	55	temperature	n. 温度	缺	缺	
-41	56	temper	n. 脾气；心情 v. 使缓和	缺	缺	
-41	57	bad-tempered	adj. 脾气坏的、易怒的	缺	缺	
-41	58	hot-tempered	adj. 性急的、暴躁的	缺	缺	
-41	59	well-tempered	adj. 性情平和的	缺	缺	
-41	60	thin	adj. 薄的；瘦的	缺	缺	
-41	61	paper-thin	adj. 极薄的	缺	缺	
-41	62	temporary	adj. 临时的、暂时的	缺	缺	
-41	63	temporarily	adv. 暂时地、临时地	缺	缺	
-41	64	tempest	n. 暴风雨；大骚动	缺	缺	
-41	65	tempo	n. 速度、节拍	缺	缺	
-41	66	contemporary	adj. 当代的	缺	缺	
-41	67	temple	n. 庙宇	缺	缺	
-41	68	tender	adj. 温柔的、慈爱的；一碰就疼的	缺	缺	
-41	69	tenderly	adv. 温柔地、深情地；小心翼翼地	缺	缺	
-41	70	wonder	n. 惊奇 v. 想知道	缺	缺	
-41	71	wonderful	adj. 美妙的；太好了	缺	缺	
+41	47	sustain	v. 维持、使持续；支撑、承受	细节数据有	缺	词/s/sustain.json
+41	48	sustainable	adj. 可持续的	细节数据有	缺	词/s/sustainable.json
+41	49	sustainability	n. 可持续性	细节数据有	缺	词/s/sustainability.json
+41	50	sustainably	adv. 可持续地	细节数据有	缺	词/s/sustainably.json
+41	51	retain	v. 保留、保持；记住	细节数据有	缺	词/r/retain.json
+41	52	retention	n. 保留、保持；记忆	细节数据有	缺	词/r/retention.json
+41	53	obtain	v. 获得、得到	细节数据有	缺	词/o/obtain.json
+41	54	tennis	n. 网球	细节数据有	缺	词/t/tennis.json
+41	55	temperature	n. 温度	细节数据有	缺	词/t/temperature.json
+41	56	temper	n. 脾气；心情 v. 使缓和	细节数据有	缺	词/t/temper.json
+41	57	bad-tempered	adj. 脾气坏的、易怒的	细节数据有	缺	词/b/bad-tempered.json
+41	58	hot-tempered	adj. 性急的、暴躁的	细节数据有	缺	词/h/hot-tempered.json
+41	59	well-tempered	adj. 性情平和的	细节数据有	缺	词/w/well-tempered.json
+41	60	thin	adj. 薄的；瘦的	细节数据有	缺	词/t/thin.json
+41	61	paper-thin	adj. 极薄的	细节数据有	缺	词/p/paper-thin.json
+41	62	temporary	adj. 临时的、暂时的	细节数据有	缺	词/t/temporary.json
+41	63	temporarily	adv. 暂时地、临时地	细节数据有	缺	词/t/temporarily.json
+41	64	tempest	n. 暴风雨；大骚动	细节数据有	缺	词/t/tempest.json
+41	65	tempo	n. 速度、节拍	细节数据有	缺	词/t/tempo.json
+41	66	contemporary	adj. 当代的	细节数据有	缺	词/c/contemporary.json
+41	67	temple	n. 庙宇	细节数据有	缺	词/t/temple.json
+41	68	tender	adj. 温柔的、慈爱的；一碰就疼的	细节数据有	缺	词/t/tender.json
+41	69	tenderly	adv. 温柔地、深情地；小心翼翼地	细节数据有	缺	词/t/tenderly.json
+41	70	wonder	n. 惊奇 v. 想知道	细节数据有	缺	词/w/wonder.json
+41	71	wonderful	adj. 美妙的；太好了	细节数据有	缺	词/w/wonderful.json
 41	72	wonderfully	adv. 极好地	缺	缺	
 41	73	wonderland	n. 仙境、奇境	缺	缺	
 41	74	journey	n. 旅行	缺	缺	
