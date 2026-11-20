@@ -3769,31 +3769,31 @@
 48	7	comfortably	adv. 舒适地；宽裕地	细节数据有	缺	词/c/comfortably.json
 48	8	uncomfortably	adv. 不舒服地；令人不安地、尴尬地	细节数据有	缺	词/u/uncomfortably.json
 48	9	discomfort	n. 不便之处	细节数据有	缺	词/d/discomfort.json
-48	10	fortress	n. 要塞、堡垒	缺	缺	
-48	11	comfy	adj. 舒服的	缺	缺	
-48	12	fort	n. 堡垒、要塞	缺	缺	
-48	13	force	n. 力、力量；部队 v. 强迫	缺	缺	
-48	14	forceful	adj. 强硬的	缺	缺	
-48	15	forcefully	adv. 有力地、强硬地	缺	缺	
-48	16	enforce	v. 执行、实施；强迫、强加	缺	缺	
-48	17	reinforce	v. 加强、巩固；增援	缺	缺	
-48	18	reinforcement	n. 加强、加固；援军	缺	缺	
-48	19	village	n. 村庄	缺	缺	
-48	20	villager	n. 村民	缺	缺	
-48	21	villain	n. 坏人、恶棍	缺	缺	
-48	22	ecosystem	n. 生态系统	缺	缺	
-48	23	economy	n. 经济	缺	缺	
-48	24	economist	n. 经济学家	缺	缺	
-48	25	economic	adj. 经济的、经济上的	缺	缺	
-48	26	economics	n. 经济学	缺	缺	
-48	27	economical	adj. 节约的、省钱的	缺	缺	
-48	28	economically	adv. 经济上；节约地	缺	缺	
-48	29	eco	n. 生态、环保	缺	缺	
-48	30	eco-friendly	adj. 环保的、不破坏环境的	缺	缺	
-48	31	eco-fashion	n. 环保时尚	缺	缺	
-48	32	eco-activist	n. 环保活动人士	缺	缺	
-48	33	eco-park	n. 生态公园、生态园	缺	缺	
-48	34	ecological	adj. 生态的；环保的	缺	缺	
+48	10	fortress	n. 要塞、堡垒	细节数据有	缺	词/f/fortress.json
+48	11	comfy	adj. 舒服的	细节数据有	缺	词/c/comfy.json
+48	12	fort	n. 堡垒、要塞	细节数据有	缺	词/f/fort.json
+48	13	force	n. 力、力量；部队 v. 强迫	细节数据有	缺	词/f/force.json
+48	14	forceful	adj. 强硬的	细节数据有	缺	词/f/forceful.json
+48	15	forcefully	adv. 有力地、强硬地	细节数据有	缺	词/f/forcefully.json
+48	16	enforce	v. 执行、实施；强迫、强加	细节数据有	缺	词/e/enforce.json
+48	17	reinforce	v. 加强、巩固；增援	细节数据有	缺	词/r/reinforce.json
+48	18	reinforcement	n. 加强、加固；援军	细节数据有	缺	词/r/reinforcement.json
+48	19	village	n. 村庄	细节数据有	缺	词/v/village.json
+48	20	villager	n. 村民	细节数据有	缺	词/v/villager.json
+48	21	villain	n. 坏人、恶棍	细节数据有	缺	词/v/villain.json
+48	22	ecosystem	n. 生态系统	细节数据有	缺	词/e/ecosystem.json
+48	23	economy	n. 经济	细节数据有	缺	词/e/economy.json
+48	24	economist	n. 经济学家	细节数据有	缺	词/e/economist.json
+48	25	economic	adj. 经济的、经济上的	细节数据有	缺	词/e/economic.json
+48	26	economics	n. 经济学	细节数据有	缺	词/e/economics.json
+48	27	economical	adj. 节约的、省钱的	细节数据有	缺	词/e/economical.json
+48	28	economically	adv. 经济上；节约地	细节数据有	缺	词/e/economically.json
+48	29	eco	n. 生态、环保	细节数据有	缺	词/e/eco.json
+48	30	eco-friendly	adj. 环保的、不破坏环境的	细节数据有	缺	词/e/eco-friendly.json
+48	31	eco-fashion	n. 环保时尚	细节数据有	缺	词/e/eco-fashion.json
+48	32	eco-activist	n. 环保活动人士	细节数据有	缺	词/e/eco-activist.json
+48	33	eco-park	n. 生态公园、生态园	细节数据有	缺	词/e/eco-park.json
+48	34	ecological	adj. 生态的；环保的	细节数据有	缺	词/e/ecological.json
 48	35	ecology	n. 生态学	缺	缺	
 48	36	grammar	n. 语法	缺	缺	
 48	37	grammatical	adj. 语法的	缺	缺	
