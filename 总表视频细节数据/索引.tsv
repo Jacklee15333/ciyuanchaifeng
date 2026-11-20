@@ -6280,13 +6280,13 @@
 86	1	cave	n. 洞；地窖	细节数据有	缺	词/c/cave.json
 86	2	excavate	v. 挖掘、发掘	细节数据有	缺	词/e/excavate.json
 86	3	excavation	n. 挖掘、发掘	细节数据有	缺	词/e/excavation.json
-86	4	cage	n. 笼子	缺	缺	
+86	4	cage	n. 笼子	细节数据有	缺	词/c/cage.json
 86	5	caged	adj. 关在笼中的	缺	缺	
-86	6	jail	n. 监狱、看守所	缺	缺	
+86	6	jail	n. 监狱、看守所	细节数据有	缺	词/j/jail.json
 86	7	oven	n. 烤箱	总表有	缺	
-86	8	gasp	v. 喘着气说	缺	缺	
+86	8	gasp	v. 喘着气说	细节数据有	缺	词/g/gasp.json
 86	9	lane	n. 小路、小巷；车道	缺	缺	
-86	10	craft	n. 手艺、工艺；船、飞行器 v. 精心制作	缺	缺	
+86	10	craft	n. 手艺、工艺；船、飞行器 v. 精心制作	细节数据有	缺	词/c/craft.json
 86	11	crafty	adj. 狡猾的、诡计多端的	缺	缺	
 86	12	craftsmanship	n. 手艺、工艺水准	缺	缺	
 86	13	craftsman	n. 工匠、手艺人	缺	缺	
@@ -6298,9 +6298,9 @@
 86	19	craftwork	n. 手工艺	缺	缺	
 86	20	slip	v. 滑倒、失足；溜 n. 小错	缺	缺	
 86	21	slippery	adj. 滑的；难以把握的	缺	缺	
-86	22	slipper	n. 拖鞋、便鞋	缺	缺	
-86	23	spark	n. 火星、火花 v. 引发、触发	缺	缺	
-86	24	sparkle	v. 闪耀、闪烁 n. 活力	缺	缺	
+86	22	slipper	n. 拖鞋、便鞋	细节数据有	缺	词/s/slipper.json
+86	23	spark	n. 火星、火花 v. 引发、触发	细节数据有	缺	词/s/spark.json
+86	24	sparkle	v. 闪耀、闪烁 n. 活力	细节数据有	缺	词/s/sparkle.json
 86	25	sparkly	adj. 闪闪发光的、亮晶晶的	缺	缺	
 86	26	salt	n. 盐	缺	缺	
 86	27	salty	adj. 咸的；含盐的	缺	缺	
