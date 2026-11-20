@@ -2210,31 +2210,31 @@
 28	53	carriage	n. 马车；运费	细节数据有	缺	词/c/carriage.json
 28	54	career	n. 职业生涯、事业 v. 猛冲、疾驰	细节数据有	缺	词/c/career.json
 28	55	career-exploration	n. 职业探索、职业规划初探	细节数据有	缺	词/c/career-exploration.json
-28	56	career-related	adj. 与职业有关的	缺	缺	
-28	57	charge	n. 主管	缺	缺	
-28	58	charger	n. 充电器	缺	缺	
-28	59	discharge	v. 退伍、离开；解雇 n. 分泌物	缺	缺	
-28	60	recharge	v. 恢复精力	缺	缺	
-28	61	car	n. 小汽车	缺	缺	
-28	62	car-free	adj. 无车的、禁止汽车通行的	缺	缺	
-28	63	carpooling	n. 拼车、合乘	缺	缺	
-28	64	cargo	n. 货物	缺	缺	
-28	65	course	n. 过程	缺	缺	
-28	66	off-course	adj. 偏离航线的、偏离方向的	缺	缺	
-28	67	cursive	n. 连笔字、草写体	缺	缺	
-28	68	cursive-written	adj. 连笔书写的、草写的	缺	缺	
-28	69	coarse	adj. 粗糙的、颗粒大的	缺	缺	
-28	70	current	adj. 当前的、现行的 n. 水流、气流	缺	缺	
-28	71	currently	adv. 目前、现在	缺	缺	
-28	72	occur	v. 发生；出现、存在	缺	缺	
-28	73	currency	n. 货币；流通、流行	缺	缺	
-28	74	cryptocurrency	n. 加密货币	缺	缺	
-28	75	curriculum	n. 课程、课程设置	缺	缺	
-28	76	extracurricular	adj. 课外的	缺	缺	
-28	77	corridor	n. 走廊、过道	缺	缺	
-28	78	hope	v. 希望	缺	缺	
-28	79	hopeful	adj. 抱有希望的	缺	缺	
-28	80	hopefully	adv. 但愿、希望	缺	缺	
+28	56	career-related	adj. 与职业有关的	细节数据有	缺	词/c/career-related.json
+28	57	charge	n. 主管	细节数据有	缺	词/c/charge.json
+28	58	charger	n. 充电器	细节数据有	缺	词/c/charger.json
+28	59	discharge	v. 退伍、离开；解雇 n. 分泌物	细节数据有	缺	词/d/discharge.json
+28	60	recharge	v. 恢复精力	细节数据有	缺	词/r/recharge.json
+28	61	car	n. 小汽车	细节数据有	缺	词/c/car.json
+28	62	car-free	adj. 无车的、禁止汽车通行的	细节数据有	缺	词/c/car-free.json
+28	63	carpooling	n. 拼车、合乘	细节数据有	缺	词/c/carpooling.json
+28	64	cargo	n. 货物	细节数据有	缺	词/c/cargo.json
+28	65	course	n. 过程	细节数据有	缺	词/c/course.json
+28	66	off-course	adj. 偏离航线的、偏离方向的	细节数据有	缺	词/o/off-course.json
+28	67	cursive	n. 连笔字、草写体	细节数据有	缺	词/c/cursive.json
+28	68	cursive-written	adj. 连笔书写的、草写的	细节数据有	缺	词/c/cursive-written.json
+28	69	coarse	adj. 粗糙的、颗粒大的	细节数据有	缺	词/c/coarse.json
+28	70	current	adj. 当前的、现行的 n. 水流、气流	细节数据有	缺	词/c/current.json
+28	71	currently	adv. 目前、现在	细节数据有	缺	词/c/currently.json
+28	72	occur	v. 发生；出现、存在	细节数据有	缺	词/o/occur.json
+28	73	currency	n. 货币；流通、流行	细节数据有	缺	词/c/currency.json
+28	74	cryptocurrency	n. 加密货币	细节数据有	缺	词/c/cryptocurrency.json
+28	75	curriculum	n. 课程、课程设置	细节数据有	缺	词/c/curriculum.json
+28	76	extracurricular	adj. 课外的	细节数据有	缺	词/e/extracurricular.json
+28	77	corridor	n. 走廊、过道	细节数据有	缺	词/c/corridor.json
+28	78	hope	v. 希望	细节数据有	缺	词/h/hope.json
+28	79	hopeful	adj. 抱有希望的	细节数据有	缺	词/h/hopeful.json
+28	80	hopefully	adv. 但愿、希望	细节数据有	缺	词/h/hopefully.json
 28	81	hopeless	adj. 没有希望的、绝望的；无可救药的	缺	缺	
 29	1	complete	adj. 完成的	缺	缺	
 29	2	completely	adv. 完全地	缺	缺	
