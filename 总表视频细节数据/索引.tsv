@@ -5578,31 +5578,31 @@
 72	21	reflection	n. 倒影、映像；反射	细节数据有	缺	词/r/reflection.json
 72	22	flexible	adj. 柔韧的、可弯曲的；灵活的、可变通的	细节数据有	缺	词/f/flexible.json
 72	23	flexibility	n. 柔韧性；灵活性、弹性	细节数据有	缺	词/f/flexibility.json
-72	24	finger	n. 手指	缺	缺	
-72	25	fingering	n. 用手指摸弄	缺	缺	
-72	26	fingertip	n. 指尖	缺	缺	
-72	27	hero	n. 英雄；男主角	缺	缺	
-72	28	heroic	adj. 英勇的、英雄的	缺	缺	
-72	29	superhero	n. 超级英雄	缺	缺	
-72	30	heroine	n. 女英雄	缺	缺	
-72	31	apt	adj. 恰当的；易于…的	缺	缺	
-72	32	attitude	n. 态度	缺	缺	
-72	33	attitudinal	adj. 态度上的、与态度有关的	缺	缺	
-72	34	attitudinally	adv. 在态度上、从态度方面	缺	缺	
-72	35	adapt	v. 使适应、调整；改编	缺	缺	
-72	36	adapter	n. 转接头、适配器；改编者	缺	缺	
-72	37	adaptation	n. 适应；改编本、改编作品	缺	缺	
-72	38	adaptability	n. 适应能力、适应性	缺	缺	
-72	39	adaptable	adj. 适应性强的、能随机应变的；可改编的、可调整的	缺	缺	
-72	40	aptitude	n. 天资、才能	缺	缺	
-72	41	branch	n. 树枝；分支、分部	缺	缺	
-72	42	daughter	n. 女儿	缺	缺	
-72	43	mirror	n. 镜子	缺	缺	
-72	44	admire	v. 钦佩、敬佩；欣赏、观赏	缺	缺	
-72	45	admirable	adj. 令人钦佩的、可敬的；极好的	缺	缺	
-72	46	admiration	n. 钦佩、赞赏	缺	缺	
-72	47	miracle	n. 奇迹、神迹	缺	缺	
-72	48	marvel	n. 奇迹、奇妙的人或事 v. 惊叹	缺	缺	
+72	24	finger	n. 手指	细节数据有	缺	词/f/finger.json
+72	25	fingering	n. 用手指摸弄	细节数据有	缺	词/f/fingering.json
+72	26	fingertip	n. 指尖	细节数据有	缺	词/f/fingertip.json
+72	27	hero	n. 英雄；男主角	细节数据有	缺	词/h/hero.json
+72	28	heroic	adj. 英勇的、英雄的	细节数据有	缺	词/h/heroic.json
+72	29	superhero	n. 超级英雄	细节数据有	缺	词/s/superhero.json
+72	30	heroine	n. 女英雄	细节数据有	缺	词/h/heroine.json
+72	31	apt	adj. 恰当的；易于…的	细节数据有	缺	词/a/apt.json
+72	32	attitude	n. 态度	细节数据有	缺	词/a/attitude.json
+72	33	attitudinal	adj. 态度上的、与态度有关的	细节数据有	缺	词/a/attitudinal.json
+72	34	attitudinally	adv. 在态度上、从态度方面	细节数据有	缺	词/a/attitudinally.json
+72	35	adapt	v. 使适应、调整；改编	细节数据有	缺	词/a/adapt.json
+72	36	adapter	n. 转接头、适配器；改编者	细节数据有	缺	词/a/adapter.json
+72	37	adaptation	n. 适应；改编本、改编作品	细节数据有	缺	词/a/adaptation.json
+72	38	adaptability	n. 适应能力、适应性	细节数据有	缺	词/a/adaptability.json
+72	39	adaptable	adj. 适应性强的、能随机应变的；可改编的、可调整的	细节数据有	缺	词/a/adaptable.json
+72	40	aptitude	n. 天资、才能	细节数据有	缺	词/a/aptitude.json
+72	41	branch	n. 树枝；分支、分部	细节数据有	缺	词/b/branch.json
+72	42	daughter	n. 女儿	细节数据有	缺	词/d/daughter.json
+72	43	mirror	n. 镜子	细节数据有	缺	词/m/mirror.json
+72	44	admire	v. 钦佩、敬佩；欣赏、观赏	细节数据有	缺	词/a/admire.json
+72	45	admirable	adj. 令人钦佩的、可敬的；极好的	细节数据有	缺	词/a/admirable.json
+72	46	admiration	n. 钦佩、赞赏	细节数据有	缺	词/a/admiration.json
+72	47	miracle	n. 奇迹、神迹	细节数据有	缺	词/m/miracle.json
+72	48	marvel	n. 奇迹、奇妙的人或事 v. 惊叹	细节数据有	缺	词/m/marvel.json
 72	49	palace	n. 宫	缺	缺	
 72	50	palatial	adj. 宫殿般的、富丽堂皇的	缺	缺	
 72	51	rare	adj. 稀有的、罕见的；难得的、极好的	缺	缺	
