@@ -5804,31 +5804,31 @@
 76	51	tragedy	n. 悲剧；惨事、不幸	细节数据有	缺	词/t/tragedy.json
 76	52	tragic	adj. 悲惨的、不幸的	细节数据有	缺	词/t/tragic.json
 76	53	comedy	n. 喜剧；滑稽、幽默	细节数据有	缺	词/c/comedy.json
-76	54	comic	adj. 喜剧的；滑稽的、搞笑的	缺	缺	
-77	1	nurse	n. 护士；保育员	缺	缺	
-77	2	nursing	n. 护理 adj. 哺乳期的	缺	缺	
-77	3	nurture	v. 养育、培育；扶植、助长	缺	缺	
-77	4	nutrient	n. 营养素、养分	缺	缺	
-77	5	nutrient-dense	adj. 营养密度高的	缺	缺	
-77	6	nutrient-rich	adj. 富含营养的	缺	缺	
-77	7	nutrition	n. 营养	缺	缺	
-77	8	nutritional	adj. 营养的、营养方面的	缺	缺	
-77	9	nutritionist	n. 营养学家	缺	缺	
-77	10	nutrition-balanced	adj. 营养均衡的	缺	缺	
-77	11	nutritious	adj. 有营养的	缺	缺	
-77	12	lady	n. 女士	缺	缺	
-77	13	unladylike	adj. 不文雅的、不得体的	缺	缺	
-77	14	ladybug	n. 瓢虫（美式	缺	缺	
-77	15	kill	v. 杀死	缺	缺	
-77	16	killer	n. 凶手、杀手；致命的东西	缺	缺	
-77	17	bin	n. 箱子	缺	缺	
-77	18	architect	n. 建筑师	缺	缺	
-77	19	architecture	n. 建筑学	缺	缺	
-77	20	architectural	adj. 建筑的、建筑学的	缺	缺	
-77	21	archaeology	n. 考古学	缺	缺	
-77	22	archaeologist	n. 考古学家	缺	缺	
-77	23	archaeological	adj. 考古的、考古学的	缺	缺	
-77	24	archive	n. 档案	缺	缺	
+76	54	comic	adj. 喜剧的；滑稽的、搞笑的	细节数据有	缺	词/c/comic.json
+77	1	nurse	n. 护士；保育员	细节数据有	缺	词/n/nurse.json
+77	2	nursing	n. 护理 adj. 哺乳期的	细节数据有	缺	词/n/nursing.json
+77	3	nurture	v. 养育、培育；扶植、助长	细节数据有	缺	词/n/nurture.json
+77	4	nutrient	n. 营养素、养分	细节数据有	缺	词/n/nutrient.json
+77	5	nutrient-dense	adj. 营养密度高的	细节数据有	缺	词/n/nutrient-dense.json
+77	6	nutrient-rich	adj. 富含营养的	细节数据有	缺	词/n/nutrient-rich.json
+77	7	nutrition	n. 营养	细节数据有	缺	词/n/nutrition.json
+77	8	nutritional	adj. 营养的、营养方面的	细节数据有	缺	词/n/nutritional.json
+77	9	nutritionist	n. 营养学家	细节数据有	缺	词/n/nutritionist.json
+77	10	nutrition-balanced	adj. 营养均衡的	细节数据有	缺	词/n/nutrition-balanced.json
+77	11	nutritious	adj. 有营养的	细节数据有	缺	词/n/nutritious.json
+77	12	lady	n. 女士	细节数据有	缺	词/l/lady.json
+77	13	unladylike	adj. 不文雅的、不得体的	细节数据有	缺	词/u/unladylike.json
+77	14	ladybug	n. 瓢虫（美式	细节数据有	缺	词/l/ladybug.json
+77	15	kill	v. 杀死	细节数据有	缺	词/k/kill.json
+77	16	killer	n. 凶手、杀手；致命的东西	细节数据有	缺	词/k/killer.json
+77	17	bin	n. 箱子	细节数据有	缺	词/b/bin.json
+77	18	architect	n. 建筑师	细节数据有	缺	词/a/architect.json
+77	19	architecture	n. 建筑学	细节数据有	缺	词/a/architecture.json
+77	20	architectural	adj. 建筑的、建筑学的	细节数据有	缺	词/a/architectural.json
+77	21	archaeology	n. 考古学	细节数据有	缺	词/a/archaeology.json
+77	22	archaeologist	n. 考古学家	细节数据有	缺	词/a/archaeologist.json
+77	23	archaeological	adj. 考古的、考古学的	细节数据有	缺	词/a/archaeological.json
+77	24	archive	n. 档案	细节数据有	缺	词/a/archive.json
 77	25	archivist	n. 档案管理员、档案保管员	缺	缺	
 77	26	ill	adj. 有病的；不健康的	缺	缺	
 77	27	illness	n. 疾病	缺	缺	

@@ -163,6 +163,7 @@
 | 2026-11-20 | 题目第 61 批第 2 组 | 25 | child … hungrily（体检全部 0 个问题；childhood、childish、childcare、horseback、west、western、swimming、swam、swimmer、aid、first-aid、hunger 等出题时自查到答案是原形超过 1 道，改过再存）。累计 5724 个词有题目 |
 | 2026-11-20 | 题目第 61 批第 3 组 | 25 | melt … radium（体检全部 0 个问题；melted、meltdown、pop、leopard、milk、smoke、smog、ray、radiation、radioactivity 等 16 个词出题时自查到答案是原形超过 1 道，改过再存）。累计 5749 个词有题目 |
 | 2026-11-20 | 题目第 61 批第 4 组 | 25 | shelter … comedy（体检全部 0 个问题；march 第 2 题选项大小写重复，改过再存；solid、scare、scared、vary、excellent、comedy 出题时自查到答案是原形超过 1 道，改过再存）。累计 5774 个词有题目 |
+| 2026-11-20 | 题目第 62 批第 1 组 | 25 | comic … archive（体检全部 0 个问题；comic、nurse、nursing、nutritional、killer、bin、architecture、architectural、archaeology、archaeological 出题时自查到答案是原形超过 1 道，kill 第 6 题答案不唯一，改过再存）。累计 5799 个词有题目 |
 | 2026-11-19 | 试做 truly | 0 | 只用自带素材加表情图拼画面：起草检查不通过（表情图要换成写实插图、每幅画都要动、小图标要自己画）。结论：多数词要专门画插图，每个词的工作量和 7A-U4 一样；全表 9299 个词做不完，要先定先做哪些（等用户定） |
 
 ## 总表里看着不对的地方（出题时绕开了，以后用维护技能核对）
@@ -559,6 +560,9 @@
 - varied：变形写成 varieds、varieded、varieding，不存在
 - march：单词写小写 march，初中含义却是“n. 月份”；“三月”应大写 March，小写 march 是“行进、游行”
 - excel：易混写成“excel / ceed（ceed 是拉丁 cedere“走”）”，ceed 不是英语单词，应为 excel / exceed
+- killer：变形写成形容词比较级 killerer、最高级 killerest，不存在
+- bin：初中含义只写“n. 箱子”，初中常用义是“垃圾箱”（rubbish bin）
+- ladybug：初中含义“n. 瓢虫（美式”括号没写完
 
 ## 总表里出现两次的词（细节数据按单词存一份，两行共用；出题时两个意思都要考到）
 
