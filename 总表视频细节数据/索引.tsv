@@ -1957,31 +1957,31 @@
 25	39	mobile	adj. 可移动的、流动的	细节数据有	缺	词/m/mobile.json
 25	40	mobilize	v. 动员；把组织起来	细节数据有	缺	词/m/mobilize.json
 25	41	emotion	n. 感情、情绪；激动	细节数据有	缺	词/e/emotion.json
-25	42	emotional	adj. 感情上的、情绪的	缺	缺	
-25	43	emotionally	adv. 情感上、情绪上；激动地	缺	缺	
-25	44	promote	v. 提升、晋升；促进、推动	缺	缺	
-25	45	promotion	n. 晋升、提升；促进	缺	缺	
-25	46	remote	adj. 遥远的、偏僻的；冷淡的	缺	缺	
-25	47	remotely	adv. 远程地；稍微	缺	缺	
-25	48	remotely-operated	adj. 遥控的	缺	缺	
-25	49	motion	n. 运动、移动 v. 打手势示意	缺	缺	
-25	50	motionless	adj. 一动不动的、静止的	缺	缺	
-25	51	motive	n. 动机	缺	缺	
-25	52	motivate	v. 激励、激发；成为…的动机	缺	缺	
-25	53	motivated	adj. 有积极性的、干劲十足的；出于…动机的	缺	缺	
-25	54	motivation	n. 积极性、干劲；动机	缺	缺	
-25	55	motor	n. 马达、电动机	缺	缺	
-25	56	motorize	v. 给…装马达；使机动化	缺	缺	
-25	57	motorized	adj. 装有马达的、电动的	缺	缺	
-25	58	motorcycle	n. 摩托车	缺	缺	
-25	59	motorcyclist	n. 骑摩托车的人、摩托车手	缺	缺	
-25	60	commotion	n. 骚动、混乱	缺	缺	
-25	61	inform	v. 通知、告知	缺	缺	
-25	62	informed	adj. 见多识广的、消息灵通的；有依据的	缺	缺	
-25	63	information	n. 信息；情报	缺	缺	
-25	64	info	n. 信息、资料	缺	缺	
-25	65	uninformed	adj. 不了解情况的；无知的	缺	缺	
-25	66	informative	adj. 信息丰富的、增长见识的	缺	缺	
+25	42	emotional	adj. 感情上的、情绪的	细节数据有	缺	词/e/emotional.json
+25	43	emotionally	adv. 情感上、情绪上；激动地	细节数据有	缺	词/e/emotionally.json
+25	44	promote	v. 提升、晋升；促进、推动	细节数据有	缺	词/p/promote.json
+25	45	promotion	n. 晋升、提升；促进	细节数据有	缺	词/p/promotion.json
+25	46	remote	adj. 遥远的、偏僻的；冷淡的	细节数据有	缺	词/r/remote.json
+25	47	remotely	adv. 远程地；稍微	细节数据有	缺	词/r/remotely.json
+25	48	remotely-operated	adj. 遥控的	细节数据有	缺	词/r/remotely-operated.json
+25	49	motion	n. 运动、移动 v. 打手势示意	细节数据有	缺	词/m/motion.json
+25	50	motionless	adj. 一动不动的、静止的	细节数据有	缺	词/m/motionless.json
+25	51	motive	n. 动机	细节数据有	缺	词/m/motive.json
+25	52	motivate	v. 激励、激发；成为…的动机	细节数据有	缺	词/m/motivate.json
+25	53	motivated	adj. 有积极性的、干劲十足的；出于…动机的	细节数据有	缺	词/m/motivated.json
+25	54	motivation	n. 积极性、干劲；动机	细节数据有	缺	词/m/motivation.json
+25	55	motor	n. 马达、电动机	细节数据有	缺	词/m/motor.json
+25	56	motorize	v. 给…装马达；使机动化	细节数据有	缺	词/m/motorize.json
+25	57	motorized	adj. 装有马达的、电动的	细节数据有	缺	词/m/motorized.json
+25	58	motorcycle	n. 摩托车	细节数据有	缺	词/m/motorcycle.json
+25	59	motorcyclist	n. 骑摩托车的人、摩托车手	细节数据有	缺	词/m/motorcyclist.json
+25	60	commotion	n. 骚动、混乱	细节数据有	缺	词/c/commotion.json
+25	61	inform	v. 通知、告知	细节数据有	缺	词/i/inform.json
+25	62	informed	adj. 见多识广的、消息灵通的；有依据的	细节数据有	缺	词/i/informed.json
+25	63	information	n. 信息；情报	细节数据有	缺	词/i/information.json
+25	64	info	n. 信息、资料	细节数据有	缺	词/i/info.json
+25	65	uninformed	adj. 不了解情况的；无知的	细节数据有	缺	词/u/uninformed.json
+25	66	informative	adj. 信息丰富的、增长见识的	细节数据有	缺	词/i/informative.json
 25	67	informational	adj. 信息的、提供信息用的	缺	缺	
 25	68	form	n. 形式	缺	缺	
 25	69	transform	v. 使改观、彻底改变；转换、转化	缺	缺	
