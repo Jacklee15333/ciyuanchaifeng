@@ -2132,31 +2132,31 @@
 27	55	habit	n. 习惯	细节数据有	缺	词/h/habit.json
 27	56	habitual	adj. 习惯性的	细节数据有	缺	词/h/habitual.json
 27	57	habitually	adv. 习惯性地、惯常地	细节数据有	缺	词/h/habitually.json
-27	58	habitat	n. 栖息地、生境	缺	缺	
-27	59	habitable	adj. 适合居住的、可住人的	缺	缺	
-27	60	inhabit	v. 居住于、栖息于	缺	缺	
-27	61	rehabilitate	v. 使康复；使改造后重返社会	缺	缺	
-27	62	rehabilitation	n. 康复、复健	缺	缺	
-27	63	able	adj. 能够	缺	缺	
-27	64	ability	n. 能力	缺	缺	
-27	65	unable	adj. 不能、无法	缺	缺	
-27	66	enable	v. 使能够、使有可能	缺	缺	
-27	67	disable	v. 使伤残、使丧失能力	缺	缺	
-27	68	disabled	adj. 残疾的、有残障的	缺	缺	
-27	69	disability	n. 残疾、残障	缺	缺	
-27	70	exhibit	v. 展出、陈列	缺	缺	
-27	71	exhibition	n. 展览	缺	缺	
-27	72	prohibit	v. 阻止	缺	缺	
-27	73	duty	n. 责任	缺	缺	
-27	74	dutiful	adj. 尽职的	缺	缺	
-27	75	due	adj. 到期的、应付的；预定的	缺	缺	
-27	76	overdue	adj. 逾期的；迟到的	缺	缺	
-27	77	debt	n. 债务	缺	缺	
-27	78	debit	v. 从账户扣款	缺	缺	
-27	79	few	pron. 不多；少数	缺	缺	
-27	80	fewer	adj. 较少的、更少的	缺	缺	
-28	1	art	n. 艺术	缺	缺	
-28	2	artist	n. 艺术家	缺	缺	
+27	58	habitat	n. 栖息地、生境	细节数据有	缺	词/h/habitat.json
+27	59	habitable	adj. 适合居住的、可住人的	细节数据有	缺	词/h/habitable.json
+27	60	inhabit	v. 居住于、栖息于	细节数据有	缺	词/i/inhabit.json
+27	61	rehabilitate	v. 使康复；使改造后重返社会	细节数据有	缺	词/r/rehabilitate.json
+27	62	rehabilitation	n. 康复、复健	细节数据有	缺	词/r/rehabilitation.json
+27	63	able	adj. 能够	细节数据有	缺	词/a/able.json
+27	64	ability	n. 能力	细节数据有	缺	词/a/ability.json
+27	65	unable	adj. 不能、无法	细节数据有	缺	词/u/unable.json
+27	66	enable	v. 使能够、使有可能	细节数据有	缺	词/e/enable.json
+27	67	disable	v. 使伤残、使丧失能力	细节数据有	缺	词/d/disable.json
+27	68	disabled	adj. 残疾的、有残障的	细节数据有	缺	词/d/disabled.json
+27	69	disability	n. 残疾、残障	细节数据有	缺	词/d/disability.json
+27	70	exhibit	v. 展出、陈列	细节数据有	缺	词/e/exhibit.json
+27	71	exhibition	n. 展览	细节数据有	缺	词/e/exhibition.json
+27	72	prohibit	v. 阻止	细节数据有	缺	词/p/prohibit.json
+27	73	duty	n. 责任	细节数据有	缺	词/d/duty.json
+27	74	dutiful	adj. 尽职的	细节数据有	缺	词/d/dutiful.json
+27	75	due	adj. 到期的、应付的；预定的	细节数据有	缺	词/d/due.json
+27	76	overdue	adj. 逾期的；迟到的	细节数据有	缺	词/o/overdue.json
+27	77	debt	n. 债务	细节数据有	缺	词/d/debt.json
+27	78	debit	v. 从账户扣款	细节数据有	缺	词/d/debit.json
+27	79	few	pron. 不多；少数	细节数据有	缺	词/f/few.json
+27	80	fewer	adj. 较少的、更少的	细节数据有	缺	词/f/fewer.json
+28	1	art	n. 艺术	细节数据有	缺	词/a/art.json
+28	2	artist	n. 艺术家	细节数据有	缺	词/a/artist.json
 28	3	artistic	adj. 艺术的；有美感的、精美的	缺	缺	
 28	4	artwork	n. 艺术品	缺	缺	
 28	5	artificial	adj. 人造的、人工的；假装的、不自然的	缺	缺	

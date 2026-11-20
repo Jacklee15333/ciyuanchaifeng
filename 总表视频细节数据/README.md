@@ -210,6 +210,9 @@
 - forgave：【变形】编了 forgaves、forgaved、forgaving；forgave 本身是 forgive 的过去式
 - forgiven：【变形】编了 forgivens、forgivened、forgivening；forgiven 本身是 forgive 的过去分词
 - give-and-take：【变形】写了复数 give-and-takes，这个词一般不可数
+- due：【变形】编了比较级 duer、最高级 duest；due 没有比较级
+- fewer：【变形】编了 fewerer、fewerest；fewer 本身是 few 的比较级（最高级 fewest）
+- art：【变形】写成“不可数，没有复数”，其实有 the arts（文艺、文科）、an art（一门技艺）这样的可数用法
 
 ## 总表里出现两次的词（细节数据按单词存一份，两行共用；出题时两个意思都要考到）
 
