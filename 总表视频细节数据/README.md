@@ -81,6 +81,7 @@
 | 2026-11-20 | 题目第 37 批 | 100 | absent … wrongly（体检全部 0 个问题；holy 改过再存）。累计 3375 个词有题目 |
 | 2026-11-20 | 题目第 38 批 | 100 | right-and-wrong … image（体检全部 0 个问题；envelope、leader、imaginable 答案就是本词 2 道，改过再存）。累计 3475 个词有题目 |
 | 2026-11-20 | 题目第 39 批 | 100 | imaging … commit（体检全部 0 个问题；longevity 答案就是本词 2 道，改过再存）。累计 3575 个词有题目 |
+| 2026-11-20 | 题目第 40 批 | 100 | commitment … rating（体检全部 0 个问题；Rd 选项大小写重复、neuroscience 答案就是本词 2 道，改过再存）。累计 3675 个词有题目 |
 | 2026-11-19 | 试做 truly | 0 | 只用自带素材加表情图拼画面：起草检查不通过（表情图要换成写实插图、每幅画都要动、小图标要自己画）。结论：多数词要专门画插图，每个词的工作量和 7A-U4 一样；全表 9299 个词做不完，要先定先做哪些（等用户定） |
 
 ## 总表里看着不对的地方（出题时绕开了，以后用维护技能核对）
@@ -308,6 +309,8 @@
 - overheard：考点里有 overheards、overhearded、overhearding 这些不存在的变形（overheard 是 overhear 的过去式、过去分词）。
 - invited：考点里有 inviteds、inviteded、inviteding 这些不存在的变形。
 - Rd：考点写“复数 rds”；Rd 只是书写缩写，复数写 Rds 也很少见。ride：初中含义写成“骑(马”，括号没关上。
+- outing：初中含义写成“揭露他人的同性恋身份”，初中应取最常用的“出游、远足”（考点和辨析讲的也是出游）。
+- digitalization：辨析里的【同义词】写成“企业：digitalization、enterprise、business、concern”，和“数字化”无关。
 
 ## 总表里出现两次的词（细节数据按单词存一份，两行共用；出题时两个意思都要考到）
 

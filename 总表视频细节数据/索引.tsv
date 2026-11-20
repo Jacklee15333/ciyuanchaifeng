@@ -3669,31 +3669,31 @@
 46	68	appear	v. 出现	细节数据有	缺	词/a/appear.json
 46	69	appearance	n. 外貌、外表；出现、露面	细节数据有	缺	词/a/appearance.json
 46	70	disappear	v. 消失	细节数据有	缺	词/d/disappear.json
-46	71	disappearance	n. 消失	缺	缺	
-46	72	transparent	adj. 透明的；易看穿的	缺	缺	
-46	73	digit	n. 数字、数位；手指、脚趾	缺	缺	
-46	74	digital	adj. 数字的、数码的	缺	缺	
-46	75	digitally	adv. 以数字方式、数码地	缺	缺	
-46	76	digitalisation	n. 数字化：把业务、流程转到数字技术上	缺	缺	
-46	77	digitalise	v. 数字化	缺	缺	
-46	78	digitalization	n. 数字化	缺	缺	
-46	79	digitalize	v. 使数字化	缺	缺	
-47	1	result	n. 结果	缺	缺	
-47	2	resultless	adj. 没有结果的、徒劳的	缺	缺	
-47	3	resilience	n. 恢复力、韧性；回弹性	缺	缺	
-47	4	resilient	adj. 有韧性的、恢复得快的	缺	缺	
-47	5	out	adv. 向外；离开	缺	缺	
-47	6	outside	n. 外面、外部	缺	缺	
-47	7	outer	adj. 外部的、外层的；离中心远的	缺	缺	
-47	8	outsider	n. 局外人、外人	缺	缺	
-47	9	outing	n. 揭露他人的同性恋身份	缺	缺	
-47	10	outage	n. 中断、停供	缺	缺	
-47	11	utterly	adv. 完全地、彻底地	缺	缺	
-47	12	reason	n. 理由；原因	缺	缺	
-47	13	reasonable	adj. 讲道理的、明智的；还不错的	缺	缺	
-47	14	unreasonable	adj. 不讲理的	缺	缺	
-47	15	rate	n. 比率、率；速度 v. 评价、评级	缺	缺	
-47	16	rating	n. 等级、评级	缺	缺	
+46	71	disappearance	n. 消失	细节数据有	缺	词/d/disappearance.json
+46	72	transparent	adj. 透明的；易看穿的	细节数据有	缺	词/t/transparent.json
+46	73	digit	n. 数字、数位；手指、脚趾	细节数据有	缺	词/d/digit.json
+46	74	digital	adj. 数字的、数码的	细节数据有	缺	词/d/digital.json
+46	75	digitally	adv. 以数字方式、数码地	细节数据有	缺	词/d/digitally.json
+46	76	digitalisation	n. 数字化：把业务、流程转到数字技术上	细节数据有	缺	词/d/digitalisation.json
+46	77	digitalise	v. 数字化	细节数据有	缺	词/d/digitalise.json
+46	78	digitalization	n. 数字化	细节数据有	缺	词/d/digitalization.json
+46	79	digitalize	v. 使数字化	细节数据有	缺	词/d/digitalize.json
+47	1	result	n. 结果	细节数据有	缺	词/r/result.json
+47	2	resultless	adj. 没有结果的、徒劳的	细节数据有	缺	词/r/resultless.json
+47	3	resilience	n. 恢复力、韧性；回弹性	细节数据有	缺	词/r/resilience.json
+47	4	resilient	adj. 有韧性的、恢复得快的	细节数据有	缺	词/r/resilient.json
+47	5	out	adv. 向外；离开	细节数据有	缺	词/o/out.json
+47	6	outside	n. 外面、外部	细节数据有	缺	词/o/outside.json
+47	7	outer	adj. 外部的、外层的；离中心远的	细节数据有	缺	词/o/outer.json
+47	8	outsider	n. 局外人、外人	细节数据有	缺	词/o/outsider.json
+47	9	outing	n. 揭露他人的同性恋身份	细节数据有	缺	词/o/outing.json
+47	10	outage	n. 中断、停供	细节数据有	缺	词/o/outage.json
+47	11	utterly	adv. 完全地、彻底地	细节数据有	缺	词/u/utterly.json
+47	12	reason	n. 理由；原因	细节数据有	缺	词/r/reason.json
+47	13	reasonable	adj. 讲道理的、明智的；还不错的	细节数据有	缺	词/r/reasonable.json
+47	14	unreasonable	adj. 不讲理的	细节数据有	缺	词/u/unreasonable.json
+47	15	rate	n. 比率、率；速度 v. 评价、评级	细节数据有	缺	词/r/rate.json
+47	16	rating	n. 等级、评级	细节数据有	缺	词/r/rating.json
 47	17	ration	n. 定量、配给量	缺	缺	
 47	18	ratio	n. 比、比率	缺	缺	
 47	19	fix	v. 修理；安装	缺	缺	
