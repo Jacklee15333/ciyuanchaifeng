@@ -2437,32 +2437,32 @@
 31	36	expand	v. 扩大；膨胀	细节数据有	缺	词/e/expand.json
 31	37	expansion	n. 扩张；膨胀	细节数据有	缺	词/e/expansion.json
 31	38	expanse	n. 一大片；广阔的区域	细节数据有	缺	词/e/expanse.json
-31	39	trip	n. 旅行	缺	缺	
-31	40	post-trip	adj. 行程结束后的	缺	缺	
-31	41	quiet	adj. 安静的	缺	缺	
-31	42	quietly	adv. 安静地	缺	缺	
-31	43	quietness	n. 安静	缺	缺	
-31	44	quite	adv. 完全；十分	缺	缺	
-31	45	quit	v. 辞职；戒掉	缺	缺	
-31	46	quitting	n. 放弃；辞职	缺	缺	
-31	47	warm	adj. 暖和的；热情的	缺	缺	
-31	48	warmth	n. 温暖	缺	缺	
-31	49	warmly	adv. 热情地；暖和地	缺	缺	
-31	50	warm-up	n. 热身	缺	缺	
-31	51	heartwarming	adj. 暖心的；令人欣慰感动的	缺	缺	
+31	39	trip	n. 旅行	细节数据有	缺	词/t/trip.json
+31	40	post-trip	adj. 行程结束后的	细节数据有	缺	词/p/post-trip.json
+31	41	quiet	adj. 安静的	细节数据有	缺	词/q/quiet.json
+31	42	quietly	adv. 安静地	细节数据有	缺	词/q/quietly.json
+31	43	quietness	n. 安静	细节数据有	缺	词/q/quietness.json
+31	44	quite	adv. 完全；十分	细节数据有	缺	词/q/quite.json
+31	45	quit	v. 辞职；戒掉	细节数据有	缺	词/q/quit.json
+31	46	quitting	n. 放弃；辞职	细节数据有	缺	词/q/quitting.json
+31	47	warm	adj. 暖和的；热情的	细节数据有	缺	词/w/warm.json
+31	48	warmth	n. 温暖	细节数据有	缺	词/w/warmth.json
+31	49	warmly	adv. 热情地；暖和地	细节数据有	缺	词/w/warmly.json
+31	50	warm-up	n. 热身	细节数据有	缺	词/w/warm-up.json
+31	51	heartwarming	adj. 暖心的；令人欣慰感动的	细节数据有	缺	词/h/heartwarming.json
 31	52	thermostat	n. 恒温器	总表有	kit有（7A-U4）	
-31	53	thermal	adj. 热的、热量的；保暖的	缺	缺	
-31	54	culture	n. 文化	缺	缺	
-31	55	cultural	adj. 文化的	缺	缺	
-31	56	culturally	adv. 在文化上	缺	缺	
-31	57	multicultural	adj. 多元文化的	缺	缺	
-31	58	agriculture	n. 农业	缺	缺	
-31	59	agricultural	adj. 农业的	缺	缺	
-31	60	colony	n. 殖民地	缺	缺	
-31	61	coloniser	n. 殖民者	缺	缺	
-31	62	colonize	v. 开拓殖民地；移居某地	缺	缺	
-31	63	cultivate	v. 耕种；培养	缺	缺	
-31	64	cycle	v. 骑车	缺	缺	
+31	53	thermal	adj. 热的、热量的；保暖的	细节数据有	缺	词/t/thermal.json
+31	54	culture	n. 文化	细节数据有	缺	词/c/culture.json
+31	55	cultural	adj. 文化的	细节数据有	缺	词/c/cultural.json
+31	56	culturally	adv. 在文化上	细节数据有	缺	词/c/culturally.json
+31	57	multicultural	adj. 多元文化的	细节数据有	缺	词/m/multicultural.json
+31	58	agriculture	n. 农业	细节数据有	缺	词/a/agriculture.json
+31	59	agricultural	adj. 农业的	细节数据有	缺	词/a/agricultural.json
+31	60	colony	n. 殖民地	细节数据有	缺	词/c/colony.json
+31	61	coloniser	n. 殖民者	细节数据有	缺	词/c/coloniser.json
+31	62	colonize	v. 开拓殖民地；移居某地	细节数据有	缺	词/c/colonize.json
+31	63	cultivate	v. 耕种；培养	细节数据有	缺	词/c/cultivate.json
+31	64	cycle	v. 骑车	细节数据有	缺	词/c/cycle.json
 31	65	cyclist	n. 骑自行车的人	缺	缺	
 31	66	recycle	v. 回收利用；使再循环	缺	缺	
 31	67	recycling	n. 回收利用	缺	缺	
