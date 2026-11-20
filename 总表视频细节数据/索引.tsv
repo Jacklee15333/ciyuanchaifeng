@@ -2032,31 +2032,31 @@
 26	35	evergreen	n. 常绿植物	细节数据有	缺	词/e/evergreen.json
 26	36	green-hued	adj. 呈绿色的、泛着绿意的	细节数据有	缺	词/g/green-hued.json
 26	37	technology	n. 技术	细节数据有	缺	词/t/technology.json
-26	38	tech	n. 科技、技术	缺	缺	
-26	39	technological	adj. 技术的、科技的	缺	缺	
-26	40	high-tech	adj. 高科技的	缺	缺	
-26	41	human-tech	n. 以人为本的技术	缺	缺	
-26	42	tech-driven	adj. 技术驱动的	缺	缺	
-26	43	technique	n. 技巧、技法	缺	缺	
-26	44	technical	adj. 技术的；严格按条文的	缺	缺	
-26	45	technically	adv. 在技术上；严格说来、按理说	缺	缺	
-26	46	technician	n. 技术员、技师	缺	缺	
-26	47	tectonic	adj. 构造的；重大而根本的	缺	缺	
-26	48	text	n. 文本	缺	缺	
-26	49	textual	adj. 文本的、原文的	缺	缺	
-26	50	context	n. 上下文、语境	缺	缺	
-26	51	contextual	adj. 上下文的、语境的；与背景有关的	缺	缺	
-26	52	texting	n. 发短信	缺	缺	
-26	53	texture	n. 质地、手感	缺	缺	
-26	54	textured	adj. 有质感的、表面不平滑的	缺	缺	
-26	55	textile	n. 纺织品、织物	缺	缺	
-26	56	tissue	n. 纸巾、面巾纸	缺	缺	
-26	57	join	v. 参加；连接	缺	缺	
-26	58	rejoin	v. 重新加入、回到	缺	缺	
-26	59	adjust	v. 调整、调节；适应	缺	缺	
-26	60	adjustment	n. 调整、调节；适应	缺	缺	
-26	61	readjust	v. 重新调整	缺	缺	
-26	62	joint	n. 关节；接头、接缝 adj. 联合的、共同的	缺	缺	
+26	38	tech	n. 科技、技术	细节数据有	缺	词/t/tech.json
+26	39	technological	adj. 技术的、科技的	细节数据有	缺	词/t/technological.json
+26	40	high-tech	adj. 高科技的	细节数据有	缺	词/h/high-tech.json
+26	41	human-tech	n. 以人为本的技术	细节数据有	缺	词/h/human-tech.json
+26	42	tech-driven	adj. 技术驱动的	细节数据有	缺	词/t/tech-driven.json
+26	43	technique	n. 技巧、技法	细节数据有	缺	词/t/technique.json
+26	44	technical	adj. 技术的；严格按条文的	细节数据有	缺	词/t/technical.json
+26	45	technically	adv. 在技术上；严格说来、按理说	细节数据有	缺	词/t/technically.json
+26	46	technician	n. 技术员、技师	细节数据有	缺	词/t/technician.json
+26	47	tectonic	adj. 构造的；重大而根本的	细节数据有	缺	词/t/tectonic.json
+26	48	text	n. 文本	细节数据有	缺	词/t/text.json
+26	49	textual	adj. 文本的、原文的	细节数据有	缺	词/t/textual.json
+26	50	context	n. 上下文、语境	细节数据有	缺	词/c/context.json
+26	51	contextual	adj. 上下文的、语境的；与背景有关的	细节数据有	缺	词/c/contextual.json
+26	52	texting	n. 发短信	细节数据有	缺	词/t/texting.json
+26	53	texture	n. 质地、手感	细节数据有	缺	词/t/texture.json
+26	54	textured	adj. 有质感的、表面不平滑的	细节数据有	缺	词/t/textured.json
+26	55	textile	n. 纺织品、织物	细节数据有	缺	词/t/textile.json
+26	56	tissue	n. 纸巾、面巾纸	细节数据有	缺	词/t/tissue.json
+26	57	join	v. 参加；连接	细节数据有	缺	词/j/join.json
+26	58	rejoin	v. 重新加入、回到	细节数据有	缺	词/r/rejoin.json
+26	59	adjust	v. 调整、调节；适应	细节数据有	缺	词/a/adjust.json
+26	60	adjustment	n. 调整、调节；适应	细节数据有	缺	词/a/adjustment.json
+26	61	readjust	v. 重新调整	细节数据有	缺	词/r/readjust.json
+26	62	joint	n. 关节；接头、接缝 adj. 联合的、共同的	细节数据有	缺	词/j/joint.json
 26	63	conjunction	n. 连词；结合、同时出现	缺	缺	
 26	64	same	adj. 同样的	缺	缺	
 26	65	sameness	n. 同一性；千篇一律、单调	缺	缺	
