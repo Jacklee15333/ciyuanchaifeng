@@ -3644,31 +3644,31 @@
 46	43	just	adv. 刚才；恰好	细节数据有	缺	词/j/just.json
 46	44	justly	adv. 公正地；理所当然地	细节数据有	缺	词/j/justly.json
 46	45	injure	v. 使受伤、伤害	细节数据有	缺	词/i/injure.json
-46	46	injured	adj. 受伤的	缺	缺	
-46	47	injury	n. 伤；侵害	缺	缺	
-46	48	jury	n. 陪审团	缺	缺	
-46	49	justify	v. 证明…正当、为…辩护	缺	缺	
-46	50	judge	n. 裁判；法官 v. 断定	缺	缺	
-46	51	judgement	n. 判断力；看法、意见	缺	缺	
-46	52	judgment	n. 判断力；看法	缺	缺	
-46	53	judgmental	adj. 爱评判人的、动辄指责的	缺	缺	
-46	54	prejudice	n. 偏见、成见 v. 损害	缺	缺	
-46	55	nerve	n. 神经；勇气、胆量	缺	缺	
-46	56	nervous	adj. 紧张的	缺	缺	
-46	57	nervously	adv. 紧张地、不安地	缺	缺	
-46	58	nervousness	n. 紧张、不安	缺	缺	
-46	59	nerve-racking	adj. 让人神经紧绷的、伤脑筋的	缺	缺	
-46	60	neural	adj. 神经的、神经系统的	缺	缺	
-46	61	neuroscience	n. 神经科学	缺	缺	
-46	62	neuroscientist	n. 神经科学家	缺	缺	
-46	63	type	n. 类型 v. 打字	缺	缺	
-46	64	typical	adj. 典型的；一贯的、特有的	缺	缺	
-46	65	typically	adv. 通常、一般；典型地	缺	缺	
-46	66	typist	n. 打字员	缺	缺	
-46	67	prototype	n. 原型、样机	缺	缺	
-46	68	appear	v. 出现	缺	缺	
-46	69	appearance	n. 外貌、外表；出现、露面	缺	缺	
-46	70	disappear	v. 消失	缺	缺	
+46	46	injured	adj. 受伤的	细节数据有	缺	词/i/injured.json
+46	47	injury	n. 伤；侵害	细节数据有	缺	词/i/injury.json
+46	48	jury	n. 陪审团	细节数据有	缺	词/j/jury.json
+46	49	justify	v. 证明…正当、为…辩护	细节数据有	缺	词/j/justify.json
+46	50	judge	n. 裁判；法官 v. 断定	细节数据有	缺	词/j/judge.json
+46	51	judgement	n. 判断力；看法、意见	细节数据有	缺	词/j/judgement.json
+46	52	judgment	n. 判断力；看法	细节数据有	缺	词/j/judgment.json
+46	53	judgmental	adj. 爱评判人的、动辄指责的	细节数据有	缺	词/j/judgmental.json
+46	54	prejudice	n. 偏见、成见 v. 损害	细节数据有	缺	词/p/prejudice.json
+46	55	nerve	n. 神经；勇气、胆量	细节数据有	缺	词/n/nerve.json
+46	56	nervous	adj. 紧张的	细节数据有	缺	词/n/nervous.json
+46	57	nervously	adv. 紧张地、不安地	细节数据有	缺	词/n/nervously.json
+46	58	nervousness	n. 紧张、不安	细节数据有	缺	词/n/nervousness.json
+46	59	nerve-racking	adj. 让人神经紧绷的、伤脑筋的	细节数据有	缺	词/n/nerve-racking.json
+46	60	neural	adj. 神经的、神经系统的	细节数据有	缺	词/n/neural.json
+46	61	neuroscience	n. 神经科学	细节数据有	缺	词/n/neuroscience.json
+46	62	neuroscientist	n. 神经科学家	细节数据有	缺	词/n/neuroscientist.json
+46	63	type	n. 类型 v. 打字	细节数据有	缺	词/t/type.json
+46	64	typical	adj. 典型的；一贯的、特有的	细节数据有	缺	词/t/typical.json
+46	65	typically	adv. 通常、一般；典型地	细节数据有	缺	词/t/typically.json
+46	66	typist	n. 打字员	细节数据有	缺	词/t/typist.json
+46	67	prototype	n. 原型、样机	细节数据有	缺	词/p/prototype.json
+46	68	appear	v. 出现	细节数据有	缺	词/a/appear.json
+46	69	appearance	n. 外貌、外表；出现、露面	细节数据有	缺	词/a/appearance.json
+46	70	disappear	v. 消失	细节数据有	缺	词/d/disappear.json
 46	71	disappearance	n. 消失	缺	缺	
 46	72	transparent	adj. 透明的；易看穿的	缺	缺	
 46	73	digit	n. 数字、数位；手指、脚趾	缺	缺	
