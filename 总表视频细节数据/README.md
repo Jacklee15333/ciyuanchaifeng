@@ -125,6 +125,7 @@
 | 2026-11-20 | 题目第 51 批第 4 组 | 25 | prize-winning … driven（体检全部 0 个问题；hotel 答案就是本词 2 道，改过再存）。累计 4775 个词有题目 |
 | 2026-11-20 | 题目第 52 批第 1 组 | 25 | drove … butterfly-like（体检全部 0 个问题）。累计 4800 个词有题目 |
 | 2026-11-20 | 题目第 52 批第 2 组 | 25 | butterflying … favourite（体检全部 0 个问题）。累计 4825 个词有题目 |
+| 2026-11-20 | 题目第 52 批第 3 组 | 25 | favorite … opinionated（体检全部 0 个问题；width 答案就是本词 2 道，改过再存）。累计 4850 个词有题目 |
 | 2026-11-19 | 试做 truly | 0 | 只用自带素材加表情图拼画面：起草检查不通过（表情图要换成写实插图、每幅画都要动、小图标要自己画）。结论：多数词要专门画插图，每个词的工作量和 7A-U4 一样；全表 9299 个词做不完，要先定先做哪些（等用户定） |
 
 ## 总表里看着不对的地方（出题时绕开了，以后用维护技能核对）
@@ -429,6 +430,10 @@
 - empty：【易混】empty / vacant 里 vacant 的解释是空的（“vacant 偏“””），应补“vacant 偏空着可用的（座位、房间、职位）”
 - drift：【易混】drift / flow 里 flow 的解释是空的（“flow 是“””），应补“flow 是持续、平稳地流动”
 - fled：初中含义只写“v. 过去分词”，应是 flee 的过去式、过去分词；变形编造了 fleds、fledded、fledding，fled 本身没有这些变形
+- tastier：变形编造了比较级 tastierer、最高级 tastierest；tastier 本身就是 tasty 的比较级
+- fluent：变形编造了比较级 fluenter、最高级 fluentest；应是 more fluent、most fluent
+- influenza：写“复数 influenzae（不规则）”不对；influenza 一般不可数
+- bored：【词性转换】写“bore v.承受了”，这里应是 bore v. 使厌烦
 
 ## 总表里出现两次的词（细节数据按单词存一份，两行共用；出题时两个意思都要考到）
 

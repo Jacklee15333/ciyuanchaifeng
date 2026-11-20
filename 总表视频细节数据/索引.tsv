@@ -4849,32 +4849,32 @@
 62	18	favorable	adj. 有利的；赞成的	细节数据有	缺	词/f/favorable.json
 62	19	favourable	adj. 有利的；赞成的	细节数据有	缺	词/f/favourable.json
 62	20	favourite	adj. 最喜爱的	细节数据有	缺	词/f/favourite.json
-62	21	favorite	adj. 最喜爱的	缺	缺	
-62	22	wide	adj. 宽的；广泛的	缺	缺	
-62	23	widely	adv. 宽阔地；广泛地	缺	缺	
-62	24	widen	v. 拓宽	缺	缺	
-62	25	width	n. 宽度	缺	缺	
-62	26	taste	v. 品尝 n. 味道	缺	缺	
-62	27	tasty	adj. 美味的、可口的	缺	缺	
-62	28	tastier	adj. 更美味的	缺	缺	
-62	29	tasteful	adj. 有品味的、雅致的；得体的	缺	缺	
-62	30	tasteless	adj. 无味的；低俗的、没品位的	缺	缺	
+62	21	favorite	adj. 最喜爱的	细节数据有	缺	词/f/favorite.json
+62	22	wide	adj. 宽的；广泛的	细节数据有	缺	词/w/wide.json
+62	23	widely	adv. 宽阔地；广泛地	细节数据有	缺	词/w/widely.json
+62	24	widen	v. 拓宽	细节数据有	缺	词/w/widen.json
+62	25	width	n. 宽度	细节数据有	缺	词/w/width.json
+62	26	taste	v. 品尝 n. 味道	细节数据有	缺	词/t/taste.json
+62	27	tasty	adj. 美味的、可口的	细节数据有	缺	词/t/tasty.json
+62	28	tastier	adj. 更美味的	细节数据有	缺	词/t/tastier.json
+62	29	tasteful	adj. 有品味的、雅致的；得体的	细节数据有	缺	词/t/tasteful.json
+62	30	tasteless	adj. 无味的；低俗的、没品位的	细节数据有	缺	词/t/tasteless.json
 62	31	bore	v. 使厌烦	细节数据有	缺	词/b/bore.json
-62	32	boring	adj. 乏味的；无聊的	缺	缺	
-62	33	bored	adj. 感到乏味的；厌倦的	缺	缺	
-62	34	boredom	n. 厌倦、无聊	缺	缺	
-62	35	influence	n. 影响、作用	缺	缺	
-62	36	influential	adj. 有影响力的；起重要作用的	缺	缺	
-62	37	influencer	n. 有影响力的人	缺	缺	
-62	38	influenza	n. 流行性感冒（正式说法	缺	缺	
-62	39	flu	n. 流感	缺	缺	
-62	40	fluent	adj. 流畅的、自如的	缺	缺	
-62	41	fluently	adv. 流利地	缺	缺	
-62	42	fluency	n. 流利、流畅	缺	缺	
-62	43	fluctuate	v. 动摇不定	缺	缺	
-62	44	fluorescent	adj. 荧光的	缺	缺	
-62	45	opinion	n. 看法	缺	缺	
-62	46	opinionated	adj. 固执己见的、自以为是的	缺	缺	
+62	32	boring	adj. 乏味的；无聊的	细节数据有	缺	词/b/boring.json
+62	33	bored	adj. 感到乏味的；厌倦的	细节数据有	缺	词/b/bored.json
+62	34	boredom	n. 厌倦、无聊	细节数据有	缺	词/b/boredom.json
+62	35	influence	n. 影响、作用	细节数据有	缺	词/i/influence.json
+62	36	influential	adj. 有影响力的；起重要作用的	细节数据有	缺	词/i/influential.json
+62	37	influencer	n. 有影响力的人	细节数据有	缺	词/i/influencer.json
+62	38	influenza	n. 流行性感冒（正式说法	细节数据有	缺	词/i/influenza.json
+62	39	flu	n. 流感	细节数据有	缺	词/f/flu.json
+62	40	fluent	adj. 流畅的、自如的	细节数据有	缺	词/f/fluent.json
+62	41	fluently	adv. 流利地	细节数据有	缺	词/f/fluently.json
+62	42	fluency	n. 流利、流畅	细节数据有	缺	词/f/fluency.json
+62	43	fluctuate	v. 动摇不定	细节数据有	缺	词/f/fluctuate.json
+62	44	fluorescent	adj. 荧光的	细节数据有	缺	词/f/fluorescent.json
+62	45	opinion	n. 看法	细节数据有	缺	词/o/opinion.json
+62	46	opinionated	adj. 固执己见的、自以为是的	细节数据有	缺	词/o/opinionated.json
 62	47	consider	v. 考虑	缺	缺	
 62	48	consideration	n. 考虑；体谅	缺	缺	
 62	49	desire	n. 愿望	缺	缺	
