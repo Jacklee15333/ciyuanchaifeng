@@ -5704,31 +5704,31 @@
 74	37	ID	n. 身份证件	细节数据有	缺	词/i/ID.json
 74	38	identity	n. 身份；特性、认同感	细节数据有	缺	词/i/identity.json
 74	39	social-identity	n. 社会认同	细节数据有	缺	词/s/social-identity.json
-74	40	borrow	v. 借用	缺	缺	
-74	41	borrower	n. 借用者、借款人	缺	缺	
-74	42	bury	v. 埋葬、安葬；掩盖、遮住	缺	缺	
-74	43	buried	adj. 埋着的；深藏的	缺	缺	
-74	44	traffic	n. 交通	缺	缺	
-75	1	monitor	n. 班长；监视器	缺	缺	
-75	2	summon	v. 召唤、传唤	缺	缺	
-75	3	monument	n. 纪念碑、纪念馆；古迹	缺	缺	
-75	4	money	n. 钱；货币	缺	缺	
-75	5	money-making	adj. 赚钱的、能赚钱的	缺	缺	
-75	6	time-and-money	adj. 时间和金钱方面的	缺	缺	
-75	7	demonstrate	v. 证明、论证；演示、示范	缺	缺	
-75	8	demonstration	n. 示威游行；表明、证明	缺	缺	
-75	9	demo	n. 演示、试用版	缺	缺	
-75	10	monster	n. 怪物、妖怪；恶魔般的人	缺	缺	
-75	11	panic	n. 恐慌、惊慌	缺	缺	
-75	12	pretty	adj. 漂亮的	缺	缺	
-75	13	sigh	v. 叹气、叹息	缺	缺	
-75	14	global	adj. 全球的、全世界的	缺	缺	
-75	15	globally	adv. 在全球范围内	缺	缺	
-75	16	globalization	n. 全球化	缺	缺	
-75	17	globalize	v. 全球化、国际化	缺	缺	
-75	18	globe	n. 地球、全世界	缺	缺	
-75	19	dirty	adj. 脏的	缺	缺	
-75	20	dirt	n. 污垢、灰尘；泥土、散土	缺	缺	
+74	40	borrow	v. 借用	细节数据有	缺	词/b/borrow.json
+74	41	borrower	n. 借用者、借款人	细节数据有	缺	词/b/borrower.json
+74	42	bury	v. 埋葬、安葬；掩盖、遮住	细节数据有	缺	词/b/bury.json
+74	43	buried	adj. 埋着的；深藏的	细节数据有	缺	词/b/buried.json
+74	44	traffic	n. 交通	细节数据有	缺	词/t/traffic.json
+75	1	monitor	n. 班长；监视器	细节数据有	缺	词/m/monitor.json
+75	2	summon	v. 召唤、传唤	细节数据有	缺	词/s/summon.json
+75	3	monument	n. 纪念碑、纪念馆；古迹	细节数据有	缺	词/m/monument.json
+75	4	money	n. 钱；货币	细节数据有	缺	词/m/money.json
+75	5	money-making	adj. 赚钱的、能赚钱的	细节数据有	缺	词/m/money-making.json
+75	6	time-and-money	adj. 时间和金钱方面的	细节数据有	缺	词/t/time-and-money.json
+75	7	demonstrate	v. 证明、论证；演示、示范	细节数据有	缺	词/d/demonstrate.json
+75	8	demonstration	n. 示威游行；表明、证明	细节数据有	缺	词/d/demonstration.json
+75	9	demo	n. 演示、试用版	细节数据有	缺	词/d/demo.json
+75	10	monster	n. 怪物、妖怪；恶魔般的人	细节数据有	缺	词/m/monster.json
+75	11	panic	n. 恐慌、惊慌	细节数据有	缺	词/p/panic.json
+75	12	pretty	adj. 漂亮的	细节数据有	缺	词/p/pretty.json
+75	13	sigh	v. 叹气、叹息	细节数据有	缺	词/s/sigh.json
+75	14	global	adj. 全球的、全世界的	细节数据有	缺	词/g/global.json
+75	15	globally	adv. 在全球范围内	细节数据有	缺	词/g/globally.json
+75	16	globalization	n. 全球化	细节数据有	缺	词/g/globalization.json
+75	17	globalize	v. 全球化、国际化	细节数据有	缺	词/g/globalize.json
+75	18	globe	n. 地球、全世界	细节数据有	缺	词/g/globe.json
+75	19	dirty	adj. 脏的	细节数据有	缺	词/d/dirty.json
+75	20	dirt	n. 污垢、灰尘；泥土、散土	细节数据有	缺	词/d/dirt.json
 75	21	child	n. 孩子	缺	缺	
 75	22	childhood	n. 幼年时代	缺	缺	
 75	23	childish	adj. 幼稚的、孩子气的	缺	缺	
