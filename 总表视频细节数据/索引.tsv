@@ -3744,31 +3744,31 @@
 47	64	dark	n. 黑暗；深色	细节数据有	缺	词/d/dark.json
 47	65	darkness	n. 黑暗	细节数据有	缺	词/d/darkness.json
 47	66	darken	v. 变暗	细节数据有	缺	词/d/darken.json
-47	67	drink	v. 喝 n. 饮料	缺	缺	
-47	68	drank	v. drink 的过去式	缺	缺	
-47	69	drown	v. 淹死、溺死	缺	缺	
-47	70	drowning	n. 溺水、溺亡 adj. 快要淹死的	缺	缺	
-47	71	detail	n. 细节	缺	缺	
-47	72	detailed	adj. 详细的	缺	缺	
-47	73	tailor	n. 裁缝 v. 定制、使适应	缺	缺	
-47	74	tailoring	n. 裁缝业、裁缝手艺	缺	缺	
-47	75	retail	n. 零售	缺	缺	
-47	76	age	n. 年龄；时代	缺	缺	
-47	77	aged	adj. 年老的	缺	缺	
-47	78	ageing	n. 衰老、老化	缺	缺	
-47	79	anti-ageing	adj. 抗衰老的	缺	缺	
-47	80	cross-age	adj. 跨年龄的、不同年龄之间的	缺	缺	
-47	81	working-age	adj. 劳动年龄的、适龄劳动的	缺	缺	
-47	82	eternity	n. 永恒	缺	缺	
-48	1	effort	n. 精力	缺	缺	
-48	2	effortless	adj. 不费力的；轻松自如的	缺	缺	
-48	3	effortlessly	adv. 毫不费力地、轻松自如地	缺	缺	
-48	4	comfort	v. 安慰 n. 舒适	缺	缺	
-48	5	comfortable	adj. 舒服的	缺	缺	
-48	6	uncomfortable	adj. 不舒服的；不自在的、尴尬的	缺	缺	
-48	7	comfortably	adv. 舒适地；宽裕地	缺	缺	
-48	8	uncomfortably	adv. 不舒服地；令人不安地、尴尬地	缺	缺	
-48	9	discomfort	n. 不便之处	缺	缺	
+47	67	drink	v. 喝 n. 饮料	细节数据有	缺	词/d/drink.json
+47	68	drank	v. drink 的过去式	细节数据有	缺	词/d/drank.json
+47	69	drown	v. 淹死、溺死	细节数据有	缺	词/d/drown.json
+47	70	drowning	n. 溺水、溺亡 adj. 快要淹死的	细节数据有	缺	词/d/drowning.json
+47	71	detail	n. 细节	细节数据有	缺	词/d/detail.json
+47	72	detailed	adj. 详细的	细节数据有	缺	词/d/detailed.json
+47	73	tailor	n. 裁缝 v. 定制、使适应	细节数据有	缺	词/t/tailor.json
+47	74	tailoring	n. 裁缝业、裁缝手艺	细节数据有	缺	词/t/tailoring.json
+47	75	retail	n. 零售	细节数据有	缺	词/r/retail.json
+47	76	age	n. 年龄；时代	细节数据有	缺	词/a/age.json
+47	77	aged	adj. 年老的	细节数据有	缺	词/a/aged.json
+47	78	ageing	n. 衰老、老化	细节数据有	缺	词/a/ageing.json
+47	79	anti-ageing	adj. 抗衰老的	细节数据有	缺	词/a/anti-ageing.json
+47	80	cross-age	adj. 跨年龄的、不同年龄之间的	细节数据有	缺	词/c/cross-age.json
+47	81	working-age	adj. 劳动年龄的、适龄劳动的	细节数据有	缺	词/w/working-age.json
+47	82	eternity	n. 永恒	细节数据有	缺	词/e/eternity.json
+48	1	effort	n. 精力	细节数据有	缺	词/e/effort.json
+48	2	effortless	adj. 不费力的；轻松自如的	细节数据有	缺	词/e/effortless.json
+48	3	effortlessly	adv. 毫不费力地、轻松自如地	细节数据有	缺	词/e/effortlessly.json
+48	4	comfort	v. 安慰 n. 舒适	细节数据有	缺	词/c/comfort.json
+48	5	comfortable	adj. 舒服的	细节数据有	缺	词/c/comfortable.json
+48	6	uncomfortable	adj. 不舒服的；不自在的、尴尬的	细节数据有	缺	词/u/uncomfortable.json
+48	7	comfortably	adv. 舒适地；宽裕地	细节数据有	缺	词/c/comfortably.json
+48	8	uncomfortably	adv. 不舒服地；令人不安地、尴尬地	细节数据有	缺	词/u/uncomfortably.json
+48	9	discomfort	n. 不便之处	细节数据有	缺	词/d/discomfort.json
 48	10	fortress	n. 要塞、堡垒	缺	缺	
 48	11	comfy	adj. 舒服的	缺	缺	
 48	12	fort	n. 堡垒、要塞	缺	缺	
