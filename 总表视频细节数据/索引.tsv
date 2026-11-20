@@ -2082,31 +2082,31 @@
 27	5	twisty	adj. 弯弯曲曲的	细节数据有	缺	词/t/twisty.json
 27	6	twin	n. 双胞胎之一	细节数据有	缺	词/t/twin.json
 27	7	twig	n. 细枝、嫩枝	细节数据有	缺	词/t/twig.json
-27	8	twenty	num. 基数词	缺	缺	
-27	9	twentieth	num. 序数词	缺	缺	
-27	10	twelve	num. 基数词	缺	缺	
-27	11	twelfth	num. 序数词	缺	缺	
-27	12	balance	n. 平衡	缺	缺	
-27	13	balanced	adj. 平衡的、均衡的；公正的	缺	缺	
-27	14	combine	v. 结合、组合	缺	缺	
-27	15	combination	n. 结合、组合	缺	缺	
-27	16	binocular	adj. 双眼的、双眼并用的	缺	缺	
-27	17	binoculars	n. 双筒望远镜	缺	缺	
-27	18	doubt	n. 怀疑、疑问	缺	缺	
-27	19	doubtful	adj. 可疑的	缺	缺	
-27	20	undoubted	adj. 无可置疑的、确实的	缺	缺	
-27	21	undoubtedly	adv. 无疑地、毫无疑问地	缺	缺	
-27	22	doubtfully	adv. 怀疑地、半信半疑地；不确定地	缺	缺	
-27	23	duo	n. 二人组	缺	缺	
-27	24	double	adj. 两倍的；双的	缺	缺	
-27	25	dozen	n. 一打、十二个	缺	缺	
-27	26	dub	v. 为配音；混录、转录	缺	缺	
-27	27	dubbing	n. 配音、译制；混录、转录	缺	缺	
-27	28	dual	adj. 双重的、两部分的	缺	缺	
-27	29	dilemma	n. 两难、进退维谷	缺	缺	
-27	30	diplomat	n. 外交官	缺	缺	
-27	31	diplomatic	adj. 外交的；得体的、有手腕的	缺	缺	
-27	32	go	v. 去；走	缺	缺	
+27	8	twenty	num. 基数词	细节数据有	缺	词/t/twenty.json
+27	9	twentieth	num. 序数词	细节数据有	缺	词/t/twentieth.json
+27	10	twelve	num. 基数词	细节数据有	缺	词/t/twelve.json
+27	11	twelfth	num. 序数词	细节数据有	缺	词/t/twelfth.json
+27	12	balance	n. 平衡	细节数据有	缺	词/b/balance.json
+27	13	balanced	adj. 平衡的、均衡的；公正的	细节数据有	缺	词/b/balanced.json
+27	14	combine	v. 结合、组合	细节数据有	缺	词/c/combine.json
+27	15	combination	n. 结合、组合	细节数据有	缺	词/c/combination.json
+27	16	binocular	adj. 双眼的、双眼并用的	细节数据有	缺	词/b/binocular.json
+27	17	binoculars	n. 双筒望远镜	细节数据有	缺	词/b/binoculars.json
+27	18	doubt	n. 怀疑、疑问	细节数据有	缺	词/d/doubt.json
+27	19	doubtful	adj. 可疑的	细节数据有	缺	词/d/doubtful.json
+27	20	undoubted	adj. 无可置疑的、确实的	细节数据有	缺	词/u/undoubted.json
+27	21	undoubtedly	adv. 无疑地、毫无疑问地	细节数据有	缺	词/u/undoubtedly.json
+27	22	doubtfully	adv. 怀疑地、半信半疑地；不确定地	细节数据有	缺	词/d/doubtfully.json
+27	23	duo	n. 二人组	细节数据有	缺	词/d/duo.json
+27	24	double	adj. 两倍的；双的	细节数据有	缺	词/d/double.json
+27	25	dozen	n. 一打、十二个	细节数据有	缺	词/d/dozen.json
+27	26	dub	v. 为配音；混录、转录	细节数据有	缺	词/d/dub.json
+27	27	dubbing	n. 配音、译制；混录、转录	细节数据有	缺	词/d/dubbing.json
+27	28	dual	adj. 双重的、两部分的	细节数据有	缺	词/d/dual.json
+27	29	dilemma	n. 两难、进退维谷	细节数据有	缺	词/d/dilemma.json
+27	30	diplomat	n. 外交官	细节数据有	缺	词/d/diplomat.json
+27	31	diplomatic	adj. 外交的；得体的、有手腕的	细节数据有	缺	词/d/diplomatic.json
+27	32	go	v. 去；走	细节数据有	缺	词/g/go.json
 27	33	gone	adj. 走了的、不在了的；用光的	缺	缺	
 27	34	outgoing	adj. 外向的、开朗健谈的；即将离任的	缺	缺	
 27	35	ago	adv. 以前	缺	缺	

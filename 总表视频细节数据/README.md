@@ -201,6 +201,10 @@
 - joint：【变形】编了形容词比较级 jointer、最高级 jointest；joint 作形容词（联合的）没有比较级
 - shouldn't：【变形】编了 shouldn'ts、shouldn'ted、shouldn'ting；情态动词没有三单和过去分词
 - height：【变形】写成“不可数，没有复数”，其实可数（复数 heights，如 be afraid of heights）
+- binoculars：【变形】写成“不可数，没有复数”，其实它是复数形式名词（a pair of binoculars，谓语用复数）
+- doubtful：【易混】括号里写成 doubtful 偏“”，引号里漏了内容
+- double：【变形】编了形容词比较级 doubler、最高级 doublest；double 没有比较级
+- dual：【变形】编了比较级 dualer、最高级 dualest；dual 没有比较级
 
 ## 总表里出现两次的词（细节数据按单词存一份，两行共用；出题时两个意思都要考到）
 
