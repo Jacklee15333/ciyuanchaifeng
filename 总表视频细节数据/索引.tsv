@@ -4522,31 +4522,31 @@
 57	49	drip	v. 滴、滴下	细节数据有	缺	词/d/drip.json
 57	50	dribble	v. 流口水；运球、带球	细节数据有	缺	词/d/dribble.json
 57	51	year	n. 年	细节数据有	缺	词/y/year.json
-57	52	yearly	adj. 每年的、一年一度的	缺	缺	
-57	53	year-old	adj. …岁的	缺	缺	
-57	54	eight-year-old	adj. 八岁的	缺	缺	
-57	55	fourteen-year-old	adj. 十四岁的	缺	缺	
-57	56	six-year-old	adj. 六岁的	缺	缺	
-57	57	thirteen-year-old	adj. 十三岁的	缺	缺	
-57	58	twelve-year-old	adj. 十二岁的	缺	缺	
-57	59	eighteen-year-old	adj. 十八岁的	缺	缺	
-57	60	fifteen-year-old	adj. 十五岁的	缺	缺	
-57	61	five-year-old	adj. 五岁的	缺	缺	
-57	62	four-year-old	adj. 四岁的	缺	缺	
-57	63	thousand-year-old	adj. 有千年历史的、千年的	缺	缺	
-57	64	three-year-old	adj. 三岁的	缺	缺	
-57	65	year-round	adj. 全年的、一年到头的	缺	缺	
-57	66	front	adj. 前面的	缺	缺	
-57	67	frontal	adj. 正面的、迎面的	缺	缺	
-57	68	confront	v. 面对、正视	缺	缺	
-57	69	confrontation	n. 对抗、冲突	缺	缺	
-57	70	frontier	n. 边界、边境	缺	缺	
-57	71	dish	n. 盘	缺	缺	
-57	72	dishwasher	n. 洗碗机	缺	缺	
-57	73	single-dish	adj. 一道菜就是一顿饭的、单盘的	缺	缺	
-57	74	desk	n. 书桌	缺	缺	
-57	75	deskmate	n. 同桌	缺	缺	
-57	76	desktop	n. 桌面；台式电脑	缺	缺	
+57	52	yearly	adj. 每年的、一年一度的	细节数据有	缺	词/y/yearly.json
+57	53	year-old	adj. …岁的	细节数据有	缺	词/y/year-old.json
+57	54	eight-year-old	adj. 八岁的	细节数据有	缺	词/e/eight-year-old.json
+57	55	fourteen-year-old	adj. 十四岁的	细节数据有	缺	词/f/fourteen-year-old.json
+57	56	six-year-old	adj. 六岁的	细节数据有	缺	词/s/six-year-old.json
+57	57	thirteen-year-old	adj. 十三岁的	细节数据有	缺	词/t/thirteen-year-old.json
+57	58	twelve-year-old	adj. 十二岁的	细节数据有	缺	词/t/twelve-year-old.json
+57	59	eighteen-year-old	adj. 十八岁的	细节数据有	缺	词/e/eighteen-year-old.json
+57	60	fifteen-year-old	adj. 十五岁的	细节数据有	缺	词/f/fifteen-year-old.json
+57	61	five-year-old	adj. 五岁的	细节数据有	缺	词/f/five-year-old.json
+57	62	four-year-old	adj. 四岁的	细节数据有	缺	词/f/four-year-old.json
+57	63	thousand-year-old	adj. 有千年历史的、千年的	细节数据有	缺	词/t/thousand-year-old.json
+57	64	three-year-old	adj. 三岁的	细节数据有	缺	词/t/three-year-old.json
+57	65	year-round	adj. 全年的、一年到头的	细节数据有	缺	词/y/year-round.json
+57	66	front	adj. 前面的	细节数据有	缺	词/f/front.json
+57	67	frontal	adj. 正面的、迎面的	细节数据有	缺	词/f/frontal.json
+57	68	confront	v. 面对、正视	细节数据有	缺	词/c/confront.json
+57	69	confrontation	n. 对抗、冲突	细节数据有	缺	词/c/confrontation.json
+57	70	frontier	n. 边界、边境	细节数据有	缺	词/f/frontier.json
+57	71	dish	n. 盘	细节数据有	缺	词/d/dish.json
+57	72	dishwasher	n. 洗碗机	细节数据有	缺	词/d/dishwasher.json
+57	73	single-dish	adj. 一道菜就是一顿饭的、单盘的	细节数据有	缺	词/s/single-dish.json
+57	74	desk	n. 书桌	细节数据有	缺	词/d/desk.json
+57	75	deskmate	n. 同桌	细节数据有	缺	词/d/deskmate.json
+57	76	desktop	n. 桌面；台式电脑	细节数据有	缺	词/d/desktop.json
 57	77	disc	n. 圆盘、圆片	缺	缺	
 57	78	disk	n. 圆盘	缺	缺	
 57	79	DJ	n. 音乐节目主持人；打碟师	缺	缺	
