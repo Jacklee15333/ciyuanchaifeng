@@ -5502,31 +5502,31 @@
 71	8	rather	adv. 相当；宁可	细节数据有	缺	词/r/rather.json
 71	9	pet	n. 宠物	细节数据有	缺	词/p/pet.json
 71	10	rain	n. 雨	细节数据有	缺	词/r/rain.json
-71	11	rainy	adj. 有雨的	缺	缺	
-71	12	rainwater	n. 雨水	缺	缺	
-71	13	rainforest	n. 雨林	缺	缺	
-71	14	rainfall	n. 降雨量	缺	缺	
-71	15	raincoat	n. 雨衣	缺	缺	
-71	16	rainstorm	n. 暴风雨、暴雨	缺	缺	
-71	17	raindrop	n. 雨滴、雨点	缺	缺	
-71	18	rainproof	adj. 防雨的	缺	缺	
-71	19	rainstick	n. 雨声棒、雨棍	缺	缺	
-71	20	rainbow	n. 彩虹	缺	缺	
-71	21	throw	v. 投	缺	缺	
-71	22	threw	v. 扔	缺	缺	
-71	23	thrown	v. throw 的过去分词	缺	缺	
-71	24	thrower	n. 投掷者	缺	缺	
-71	25	overthrow	v. 推翻	缺	缺	
-71	26	throw-away	adj. 一次性的、用后即弃的；随口说的 n. 传单	缺	缺	
-71	27	north	adj. 北的	缺	缺	
-71	28	northwest	n. 西北	缺	缺	
-71	29	northern	adj. 北方的、北部的	缺	缺	
-71	30	northeast	n. 东北	缺	缺	
-71	31	northward	adv. 向北	缺	缺	
-71	32	Norway	n. 挪威	缺	缺	
-71	33	Norwegian	adj. 挪威的	缺	缺	
-71	34	shock	n. 震惊、打击	缺	缺	
-71	35	shocking	adj. 骇人听闻的、令人震惊的	缺	缺	
+71	11	rainy	adj. 有雨的	细节数据有	缺	词/r/rainy.json
+71	12	rainwater	n. 雨水	细节数据有	缺	词/r/rainwater.json
+71	13	rainforest	n. 雨林	细节数据有	缺	词/r/rainforest.json
+71	14	rainfall	n. 降雨量	细节数据有	缺	词/r/rainfall.json
+71	15	raincoat	n. 雨衣	细节数据有	缺	词/r/raincoat.json
+71	16	rainstorm	n. 暴风雨、暴雨	细节数据有	缺	词/r/rainstorm.json
+71	17	raindrop	n. 雨滴、雨点	细节数据有	缺	词/r/raindrop.json
+71	18	rainproof	adj. 防雨的	细节数据有	缺	词/r/rainproof.json
+71	19	rainstick	n. 雨声棒、雨棍	细节数据有	缺	词/r/rainstick.json
+71	20	rainbow	n. 彩虹	细节数据有	缺	词/r/rainbow.json
+71	21	throw	v. 投	细节数据有	缺	词/t/throw.json
+71	22	threw	v. 扔	细节数据有	缺	词/t/threw.json
+71	23	thrown	v. throw 的过去分词	细节数据有	缺	词/t/thrown.json
+71	24	thrower	n. 投掷者	细节数据有	缺	词/t/thrower.json
+71	25	overthrow	v. 推翻	细节数据有	缺	词/o/overthrow.json
+71	26	throw-away	adj. 一次性的、用后即弃的；随口说的 n. 传单	细节数据有	缺	词/t/throw-away.json
+71	27	north	adj. 北的	细节数据有	缺	词/n/north.json
+71	28	northwest	n. 西北	细节数据有	缺	词/n/northwest.json
+71	29	northern	adj. 北方的、北部的	细节数据有	缺	词/n/northern.json
+71	30	northeast	n. 东北	细节数据有	缺	词/n/northeast.json
+71	31	northward	adv. 向北	细节数据有	缺	词/n/northward.json
+71	32	Norway	n. 挪威	细节数据有	缺	词/n/Norway.json
+71	33	Norwegian	adj. 挪威的	细节数据有	缺	词/n/Norwegian.json
+71	34	shock	n. 震惊、打击	细节数据有	缺	词/s/shock.json
+71	35	shocking	adj. 骇人听闻的、令人震惊的	细节数据有	缺	词/s/shocking.json
 71	36	shocked	adj. 震惊的、吃惊的	缺	缺	
 71	37	beat	v. 敲打；跳动	缺	缺	
 71	38	beaten	adj. 被打的	缺	缺	
