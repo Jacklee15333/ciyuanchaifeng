@@ -2966,32 +2966,32 @@
 38	7	discoverer	n. 发现者	细节数据有	缺	词/d/discoverer.json
 38	8	rediscover	v. 重新发现	细节数据有	缺	词/r/rediscover.json
 38	9	garden	n. 花园	细节数据有	缺	词/g/garden.json
-38	10	gardening	n. 园艺；在自家种花种菜	缺	缺	
-38	11	gardener	n. 园丁、花匠	缺	缺	
-38	12	kindergarten	n. 幼儿园	缺	缺	
-38	13	yard	n. 院子	缺	缺	
-38	14	backyard	n. 后院	缺	缺	
-38	15	dockyard	n. 造船厂、修船厂	缺	缺	
-38	16	courtyard	n. 庭院、院落	缺	缺	
-38	17	orchard	n. 果园	缺	缺	
-38	18	curtain	n. 窗帘；幕布	缺	缺	
-38	19	court	n. 法院、法庭；宫廷、朝廷 v. 讨好、拉拢	缺	缺	
-38	20	courtroom	n. 法庭、审判室	缺	缺	
+38	10	gardening	n. 园艺；在自家种花种菜	细节数据有	缺	词/g/gardening.json
+38	11	gardener	n. 园丁、花匠	细节数据有	缺	词/g/gardener.json
+38	12	kindergarten	n. 幼儿园	细节数据有	缺	词/k/kindergarten.json
+38	13	yard	n. 院子	细节数据有	缺	词/y/yard.json
+38	14	backyard	n. 后院	细节数据有	缺	词/b/backyard.json
+38	15	dockyard	n. 造船厂、修船厂	细节数据有	缺	词/d/dockyard.json
+38	16	courtyard	n. 庭院、院落	细节数据有	缺	词/c/courtyard.json
+38	17	orchard	n. 果园	细节数据有	缺	词/o/orchard.json
+38	18	curtain	n. 窗帘；幕布	细节数据有	缺	词/c/curtain.json
+38	19	court	n. 法院、法庭；宫廷、朝廷 v. 讨好、拉拢	细节数据有	缺	词/c/court.json
+38	20	courtroom	n. 法庭、审判室	细节数据有	缺	词/c/courtroom.json
 38	21	explore	v. 探索、探险	总表有	kit有（7A-U4）	
-38	22	exploration	n. 探索、探险	缺	缺	
-38	23	explorer	n. 探险家	缺	缺	
-38	24	exploratory	adj. 探索性的、试探性的	缺	缺	
-38	25	second	n. 第二个；秒 adv. 其次	缺	缺	
-38	26	secondary	adj. 中等的；第二的	缺	缺	
-38	27	secondly	adv. 第二，其次	缺	缺	
-38	28	second-hand	adj. 二手的、旧的；间接的、转述的	缺	缺	
-38	29	second-longest	adj. 第二长的	缺	缺	
-38	30	execute	v. 执行、实施；处决	缺	缺	
-38	31	executive	n. 行政部门 adj. 供高管用的、高档的	缺	缺	
-38	32	execution	n. 执行、实施；处决、死刑	缺	缺	
-38	33	secondhand	adj. 二手的；间接的	缺	缺	
-38	34	social	adj. 社会的；群居的	缺	缺	
-38	35	socially	adv. 在社交方面	缺	缺	
+38	22	exploration	n. 探索、探险	细节数据有	缺	词/e/exploration.json
+38	23	explorer	n. 探险家	细节数据有	缺	词/e/explorer.json
+38	24	exploratory	adj. 探索性的、试探性的	细节数据有	缺	词/e/exploratory.json
+38	25	second	n. 第二个；秒 adv. 其次	细节数据有	缺	词/s/second.json
+38	26	secondary	adj. 中等的；第二的	细节数据有	缺	词/s/secondary.json
+38	27	secondly	adv. 第二，其次	细节数据有	缺	词/s/secondly.json
+38	28	second-hand	adj. 二手的、旧的；间接的、转述的	细节数据有	缺	词/s/second-hand.json
+38	29	second-longest	adj. 第二长的	细节数据有	缺	词/s/second-longest.json
+38	30	execute	v. 执行、实施；处决	细节数据有	缺	词/e/execute.json
+38	31	executive	n. 行政部门 adj. 供高管用的、高档的	细节数据有	缺	词/e/executive.json
+38	32	execution	n. 执行、实施；处决、死刑	细节数据有	缺	词/e/execution.json
+38	33	secondhand	adj. 二手的；间接的	细节数据有	缺	词/s/secondhand.json
+38	34	social	adj. 社会的；群居的	细节数据有	缺	词/s/social.json
+38	35	socially	adv. 在社交方面	细节数据有	缺	词/s/socially.json
 38	36	socialism	n. 社会主义	缺	缺	
 38	37	socialize	v. 交际、应酬；使社会化	缺	缺	
 38	38	socialise	v. 交际、应酬；使社会化	缺	缺	
