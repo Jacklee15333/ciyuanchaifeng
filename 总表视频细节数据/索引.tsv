@@ -5277,31 +5277,31 @@
 67	48	mini-electric	adj. 小型电动的	细节数据有	缺	词/m/mini-electric.json
 67	49	electrolyte	n. 电解质、电解液	细节数据有	缺	词/e/electrolyte.json
 67	50	electrochemical	adj. 电化学的	细节数据有	缺	词/e/electrochemical.json
-67	51	electrode	n. 电极	缺	缺	
-67	52	electromagnetic	adj. 电磁的	缺	缺	
-67	53	electrochemically	adv. 用电化学方法	缺	缺	
-67	54	chemical	n. 化学品	缺	缺	
-67	55	chemist	n. 化学家	缺	缺	
-67	56	chemistry	n. 化学	缺	缺	
-67	57	alchemy	n. 炼金术	缺	缺	
-67	58	alchemist	n. 炼金术士	缺	缺	
-67	59	chemotherapy	n. 化学疗法、化疗	缺	缺	
-67	60	announce	v. 宣布、宣告；预示	缺	缺	
-67	61	announcement	n. 宣布、公告	缺	缺	
-67	62	announcer	n. 播音员	缺	缺	
-67	63	pronounce	v. 发音	缺	缺	
-67	64	pronunciation	n. 发音、读音	缺	缺	
-67	65	pronounceable	adj. 读得出来的、可以发音的	缺	缺	
-67	66	pronouncement	n. 正式声明、公告；断言	缺	缺	
-67	67	sick	adj. 有病的；呕吐的	缺	缺	
-67	68	sickness	n. 病、疾病；恶心、呕吐	缺	缺	
-67	69	sicken	v. 使厌恶、使反感	缺	缺	
-67	70	seasick	adj. 晕船的	缺	缺	
-67	71	climate	n. 气候	缺	缺	
-67	72	climate-control	n. 恒温控制、自动空调	缺	缺	
-67	73	clinic	n. 诊所	缺	缺	
-67	74	clinical	adj. 临床的；冷静客观的、冷漠的	缺	缺	
-67	75	climax	n. 高潮、顶点	缺	缺	
+67	51	electrode	n. 电极	细节数据有	缺	词/e/electrode.json
+67	52	electromagnetic	adj. 电磁的	细节数据有	缺	词/e/electromagnetic.json
+67	53	electrochemically	adv. 用电化学方法	细节数据有	缺	词/e/electrochemically.json
+67	54	chemical	n. 化学品	细节数据有	缺	词/c/chemical.json
+67	55	chemist	n. 化学家	细节数据有	缺	词/c/chemist.json
+67	56	chemistry	n. 化学	细节数据有	缺	词/c/chemistry.json
+67	57	alchemy	n. 炼金术	细节数据有	缺	词/a/alchemy.json
+67	58	alchemist	n. 炼金术士	细节数据有	缺	词/a/alchemist.json
+67	59	chemotherapy	n. 化学疗法、化疗	细节数据有	缺	词/c/chemotherapy.json
+67	60	announce	v. 宣布、宣告；预示	细节数据有	缺	词/a/announce.json
+67	61	announcement	n. 宣布、公告	细节数据有	缺	词/a/announcement.json
+67	62	announcer	n. 播音员	细节数据有	缺	词/a/announcer.json
+67	63	pronounce	v. 发音	细节数据有	缺	词/p/pronounce.json
+67	64	pronunciation	n. 发音、读音	细节数据有	缺	词/p/pronunciation.json
+67	65	pronounceable	adj. 读得出来的、可以发音的	细节数据有	缺	词/p/pronounceable.json
+67	66	pronouncement	n. 正式声明、公告；断言	细节数据有	缺	词/p/pronouncement.json
+67	67	sick	adj. 有病的；呕吐的	细节数据有	缺	词/s/sick.json
+67	68	sickness	n. 病、疾病；恶心、呕吐	细节数据有	缺	词/s/sickness.json
+67	69	sicken	v. 使厌恶、使反感	细节数据有	缺	词/s/sicken.json
+67	70	seasick	adj. 晕船的	细节数据有	缺	词/s/seasick.json
+67	71	climate	n. 气候	细节数据有	缺	词/c/climate.json
+67	72	climate-control	n. 恒温控制、自动空调	细节数据有	缺	词/c/climate-control.json
+67	73	clinic	n. 诊所	细节数据有	缺	词/c/clinic.json
+67	74	clinical	adj. 临床的；冷静客观的、冷漠的	细节数据有	缺	词/c/clinical.json
+67	75	climax	n. 高潮、顶点	细节数据有	缺	词/c/climax.json
 67	76	decline	v. 下降、减少；婉拒 n. 衰落	缺	缺	
 67	77	incline	v. 倾向于、有意 n. 斜坡	缺	缺	
 67	78	inclination	n. 倾向、意愿；爱好、天性	缺	缺	
