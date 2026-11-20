@@ -4,88 +4,88 @@
  "插图": [],
  "总表版本": "第八十五版",
  "题目": {
-  "题目1": "【听力】听录音，回答问题：说话人说校长宣布了什么？\n听：The headmaster announced the results of the match.\nA. 考试日期\nB. 放假时间\nC. 新老师\nD. 比赛结果",
-  "题目2": "【单项选择】选出最恰当的一项。\n题干：They ______ that they would get married next year.\nA. announced\nB. announce\nC. announcement\nD. announcing\n考点：变形",
-  "题目3": "【适当形式填空】用所给单词的适当形式填空。\n题干：Please listen to the ______ carefully. (announce)\n考点：词性转换",
-  "题目4": "【选词填空】从 announce、declare 中选一个，用适当形式填空。\n题干：The USA ______ its independence in 1776.\n考点：易混",
-  "题目5": "【改错】句子里有一处错误，找出来并改正。\n题干：The teacher is announceing the news now.",
-  "题目6": "【完成句子】根据中文完成句子，每空一词。\n中文：他们向大家宣布了这个好消息。\n题干：They ______ the good news ______ everyone.\n考点：用法",
-  "题目7": "【单项选择】选出最恰当的一项。\n题干：The school ______ a new rule every term.\nA. announce\nB. announcing\nC. announcement\nD. announces\n考点：变形",
-  "答案": "【1】D（比赛结果）\n讲解：announced the results 宣布了结果。\n【2】A（announced）\n讲解：讲过去的事，用过去式 announced。\n【3】announcement\n讲解：the 后面要名词 announcement。\n【4】declared\n讲解：正式宣布独立用 declare。\n【5】announceing → announcing\n讲解：announce 去 e 加 ing。\n【6】announced；to\n讲解：announce sth. to sb. 向某人宣布某事。\n【7】D（announces）\n讲解：主语三单、一般现在时，用 announces。"
+  "题目1": "【听力】听录音，回答问题：校长宣布了什么？\n听：The headmaster announced that school would close early.\nA. 明天考试\nB. 运动会推迟\nC. 新老师来了\nD. 学校提前放学",
+  "题目2": "【单项选择】选出最恰当的一项。\n题干：They ______ the winner of the contest yesterday.\nA. announced\nB. announce\nC. announcement\nD. announcing\n考点：变形",
+  "题目3": "【适当形式填空】用所给单词的适当形式填空。\n题干：The ______ of the results made everyone happy. (announce)\n考点：词性转换",
+  "题目4": "【选词填空】从 announce、declare 中选一个，用适当形式填空。\n题干：The country ______ war on its enemy in 1914.\n考点：易混",
+  "题目5": "【改错】句子里有一处错误，找出来并改正。\n题干：They are announcing the news on the radio yesterday.",
+  "题目6": "【完成句子】根据中文完成句子，每空一词。\n中文：她向全班宣布了这个消息。\n题干：She ______ the news ______ the whole class.\n考点：用法",
+  "题目7": "【单项选择】选出最恰当的一项。\n题干：Dark clouds often ______ a coming storm.\nA. announces\nB. announcing\nC. announcement\nD. announce\n考点：用法",
+  "答案": "【1】D（学校提前放学）\n讲解：announce 宣布。\n【2】A（announced）\n讲解：yesterday 表示过去，用 announced。\n【3】announcement\n讲解：the … of 中间要名词 announcement。\n【4】declared\n讲解：declare war 宣战，是固定说法。\n【5】are announcing → announced\n讲解：yesterday 表示过去，用一般过去时。\n【6】announced；to\n讲解：announce sth to sb 向某人宣布某事。\n【7】D（announce）\n讲解：主语 clouds 复数，一般现在时用 announce（预示）。"
  },
  "题目原稿": [
   {
    "type": "听力",
-   "ask": "听录音，回答问题：说话人说校长宣布了什么？",
-   "listen": "The headmaster announced the results of the match.",
+   "ask": "听录音，回答问题：校长宣布了什么？",
+   "listen": "The headmaster announced that school would close early.",
    "opts": [
-    "比赛结果",
-    "考试日期",
-    "放假时间",
-    "新老师"
+    "学校提前放学",
+    "明天考试",
+    "运动会推迟",
+    "新老师来了"
    ],
-   "why": "announced the results 宣布了结果。"
+   "why": "announce 宣布。"
   },
   {
    "type": "单项选择",
    "ask": "选出最恰当的一项。",
-   "stem": "They ______ that they would get married next year.",
+   "stem": "They ______ the winner of the contest yesterday.",
    "opts": [
     "announced",
     "announce",
     "announcement",
     "announcing"
    ],
-   "why": "讲过去的事，用过去式 announced。",
+   "why": "yesterday 表示过去，用 announced。",
    "kd": "变形"
   },
   {
    "type": "适当形式填空",
    "ask": "用所给单词的适当形式填空。",
-   "stem": "Please listen to the ______ carefully. (announce)",
+   "stem": "The ______ of the results made everyone happy. (announce)",
    "ans": "announcement",
-   "why": "the 后面要名词 announcement。",
+   "why": "the … of 中间要名词 announcement。",
    "kd": "词性转换",
    "zh": ""
   },
   {
    "type": "选词填空",
    "ask": "从 announce、declare 中选一个，用适当形式填空。",
-   "stem": "The USA ______ its independence in 1776.",
+   "stem": "The country ______ war on its enemy in 1914.",
    "ans": "declared",
-   "why": "正式宣布独立用 declare。",
+   "why": "declare war 宣战，是固定说法。",
    "kd": "易混",
    "zh": ""
   },
   {
    "type": "改错",
    "ask": "句子里有一处错误，找出来并改正。",
-   "stem": "The teacher is announceing the news now.",
-   "ans": "announceing → announcing",
-   "why": "announce 去 e 加 ing。",
+   "stem": "They are announcing the news on the radio yesterday.",
+   "ans": "are announcing → announced",
+   "why": "yesterday 表示过去，用一般过去时。",
    "zh": ""
   },
   {
    "type": "完成句子",
    "ask": "根据中文完成句子，每空一词。",
-   "zh": "他们向大家宣布了这个好消息。",
-   "stem": "They ______ the good news ______ everyone.",
+   "zh": "她向全班宣布了这个消息。",
+   "stem": "She ______ the news ______ the whole class.",
    "ans": "announced；to",
-   "why": "announce sth. to sb. 向某人宣布某事。",
+   "why": "announce sth to sb 向某人宣布某事。",
    "kd": "用法"
   },
   {
    "type": "单项选择",
    "ask": "选出最恰当的一项。",
-   "stem": "The school ______ a new rule every term.",
+   "stem": "Dark clouds often ______ a coming storm.",
    "opts": [
-    "announces",
     "announce",
+    "announces",
     "announcing",
     "announcement"
    ],
-   "why": "主语三单、一般现在时，用 announces。",
-   "kd": "变形"
+   "why": "主语 clouds 复数，一般现在时用 announce（预示）。",
+   "kd": "用法"
   }
  ],
  "题目生成": "2026-11-20 Claude（云端）",

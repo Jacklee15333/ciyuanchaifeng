@@ -4,88 +4,87 @@
  "插图": [],
  "总表版本": "第八十五版",
  "题目": {
-  "题目1": "【听力】听录音，回答问题：说话人说这种食物里没有什么？\n听：There are no chemicals in this food.\nA. 糖\nB. 盐\nC. 化学品\nD. 水",
-  "题目2": "【单项选择】选出最恰当的一项。\n题干：Some ______ in the river are harmful to fish.\nA. chemical\nB. chemistry\nC. chemist\nD. chemicals\n考点：变形",
-  "题目3": "【适当形式填空】用所给单词的适当形式填空。\n题干：______ is my favourite subject. (chemical)\n考点：词性转换",
-  "题目4": "【选词填空】从 chemical、chemistry 中选一个，用适当形式填空。\n题干：Water is made up of two ______ elements.\n考点：易混",
-  "题目5": "【改错】句子里有一处错误，找出来并改正。\n题干：We did an interesting chemistry experiment and saw a chemical changes.",
-  "题目6": "【完成句子】根据中文完成句子，每空一词。\n中文：这位化学家在研究新的化学品。\n题干：The ______ is studying new ______.\n考点：词性转换",
-  "题目7": "【单项选择】选出最恰当的一项。\n题干：These vegetables are grown without ______.\nA. chemical\nB. chemist\nC. chemicals\nD. chemistry\n考点：用法",
-  "答案": "【1】C（化学品）\n讲解：no chemicals 没有化学品。\n【2】D（chemicals）\n讲解：some 后接复数，谓语 are，用 chemicals。\n【3】Chemistry\n讲解：作主语的学科名“化学”是 chemistry。\n【4】chemical\n讲解：修饰名词 elements 用形容词 chemical（化学的）。\n【5】changes → change\n讲解：a 后面名词用单数。\n【6】chemist；chemicals\n讲解：化学家 chemist，化学品复数 chemicals。\n【7】C（chemicals）\n讲解：without 后面接名词复数 chemicals（化学品）。"
+  "题目1": "【听力】听录音，回答问题：说话人说这些菜是怎么种的？\n听：These vegetables are grown without chemicals.\nA. 不用水\nB. 不晒太阳\nC. 不用化学品\nD. 不用土",
+  "题目2": "【单项选择】选出最恰当的一项。\n题干：Don't touch the ______ in the lab without gloves.\nA. chemistry\nB. chemist\nC. chemically\nD. chemicals",
+  "题目3": "【选词填空】从 chemical、chemistry 中选一个，用适当形式填空。\n题干：We have a ______ lesson every Monday.\n考点：词性转换",
+  "题目4": "【适当形式填空】用所给单词的适当形式填空。\n题干：Mix the two ______ carefully. (chemical)\n考点：变形",
+  "题目5": "【改错】句子里有一处错误，找出来并改正。\n题干：Chemical changes happens when we burn paper.",
+  "题目6": "【完成句子】根据中文完成句子，每空一词。\n中文：这种饮料不含化学添加剂。\n题干：This drink is ______.\n考点：用法",
+  "题目7": "【单项选择】选出最恰当的一项。\n题干：Burning wood is a ______ change.\nA. chemistry\nB. chemist\nC. chemical\nD. chemicals\n考点：词性转换",
+  "答案": "【1】C（不用化学品）\n讲解：without chemicals 不用化学品。\n【2】D（chemicals）\n讲解：touch the 后要名词 chemicals（化学品）。\n【3】chemistry\n讲解：“化学课”是 chemistry lesson。\n【4】chemicals\n讲解：two 后面用复数 chemicals。\n【5】happens → happen\n讲解：主语 changes 是复数，用 happen。\n【6】chemical-free\n讲解：chemical-free 不含化学添加剂的。\n【7】C（chemical）\n讲解：修饰名词 change 用形容词 chemical（化学的）。"
  },
  "题目原稿": [
   {
    "type": "听力",
-   "ask": "听录音，回答问题：说话人说这种食物里没有什么？",
-   "listen": "There are no chemicals in this food.",
+   "ask": "听录音，回答问题：说话人说这些菜是怎么种的？",
+   "listen": "These vegetables are grown without chemicals.",
    "opts": [
-    "化学品",
-    "糖",
-    "盐",
-    "水"
+    "不用化学品",
+    "不用水",
+    "不晒太阳",
+    "不用土"
    ],
-   "why": "no chemicals 没有化学品。"
+   "why": "without chemicals 不用化学品。"
   },
   {
    "type": "单项选择",
    "ask": "选出最恰当的一项。",
-   "stem": "Some ______ in the river are harmful to fish.",
+   "stem": "Don't touch the ______ in the lab without gloves.",
    "opts": [
     "chemicals",
-    "chemical",
     "chemistry",
-    "chemist"
+    "chemist",
+    "chemically"
    ],
-   "why": "some 后接复数，谓语 are，用 chemicals。",
-   "kd": "变形"
-  },
-  {
-   "type": "适当形式填空",
-   "ask": "用所给单词的适当形式填空。",
-   "stem": "______ is my favourite subject. (chemical)",
-   "ans": "Chemistry",
-   "why": "作主语的学科名“化学”是 chemistry。",
-   "kd": "词性转换",
-   "zh": ""
+   "why": "touch the 后要名词 chemicals（化学品）。"
   },
   {
    "type": "选词填空",
    "ask": "从 chemical、chemistry 中选一个，用适当形式填空。",
-   "stem": "Water is made up of two ______ elements.",
-   "ans": "chemical",
-   "why": "修饰名词 elements 用形容词 chemical（化学的）。",
-   "kd": "易混",
+   "stem": "We have a ______ lesson every Monday.",
+   "ans": "chemistry",
+   "why": "“化学课”是 chemistry lesson。",
+   "kd": "词性转换",
+   "zh": ""
+  },
+  {
+   "type": "适当形式填空",
+   "ask": "用所给单词的适当形式填空。",
+   "stem": "Mix the two ______ carefully. (chemical)",
+   "ans": "chemicals",
+   "why": "two 后面用复数 chemicals。",
+   "kd": "变形",
    "zh": ""
   },
   {
    "type": "改错",
    "ask": "句子里有一处错误，找出来并改正。",
-   "stem": "We did an interesting chemistry experiment and saw a chemical changes.",
-   "ans": "changes → change",
-   "why": "a 后面名词用单数。",
+   "stem": "Chemical changes happens when we burn paper.",
+   "ans": "happens → happen",
+   "why": "主语 changes 是复数，用 happen。",
    "zh": ""
   },
   {
    "type": "完成句子",
    "ask": "根据中文完成句子，每空一词。",
-   "zh": "这位化学家在研究新的化学品。",
-   "stem": "The ______ is studying new ______.",
-   "ans": "chemist；chemicals",
-   "why": "化学家 chemist，化学品复数 chemicals。",
-   "kd": "词性转换"
+   "zh": "这种饮料不含化学添加剂。",
+   "stem": "This drink is ______.",
+   "ans": "chemical-free",
+   "why": "chemical-free 不含化学添加剂的。",
+   "kd": "用法"
   },
   {
    "type": "单项选择",
    "ask": "选出最恰当的一项。",
-   "stem": "These vegetables are grown without ______.",
+   "stem": "Burning wood is a ______ change.",
    "opts": [
-    "chemicals",
     "chemical",
+    "chemistry",
     "chemist",
-    "chemistry"
+    "chemicals"
    ],
-   "why": "without 后面接名词复数 chemicals（化学品）。",
-   "kd": "用法"
+   "why": "修饰名词 change 用形容词 chemical（化学的）。",
+   "kd": "词性转换"
   }
  ],
  "题目生成": "2026-11-20 Claude（云端）",
