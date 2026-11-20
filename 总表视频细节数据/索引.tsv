@@ -6005,31 +6005,31 @@
 80	25	sharpener	n. 卷笔刀、削笔器	细节数据有	缺	词/s/sharpener.json
 80	26	automatic	adj. 自动的	细节数据有	缺	词/a/automatic.json
 80	27	automatically	adv. 自动地；不假思索地、下意识地	细节数据有	缺	词/a/automatically.json
-80	28	automate	v. 使自动化	缺	缺	
-80	29	automated	adj. 自动化的	缺	缺	
-80	30	automation	n. 自动化	缺	缺	
-80	31	authentic	adj. 真的、非仿冒的；正宗的、地道的	缺	缺	
-80	32	authentically	adv. 真实地；地道地	缺	缺	
-80	33	autistic	adj. 自闭症的、孤独症的	缺	缺	
-80	34	automobile	n. 汽车	缺	缺	
-80	35	automaker	n. 汽车制造商、车企	缺	缺	
-80	36	origin	n. 起源、由来；出身、血统	缺	缺	
-80	37	original	adj. 最初的、原来的	缺	缺	
-80	38	originally	adv. 起初、原来；独创地、新颖地	缺	缺	
-80	39	originate	v. 起源、发源	缺	缺	
-80	40	orient	v. 使适应、使熟悉；确定方位	缺	缺	
-80	41	oriental	adj. 东方的、东亚的	缺	缺	
-80	42	orientation	n. 方向、朝向；入门培训	缺	缺	
-80	43	rapid	adj. 迅速的、快的	缺	缺	
-80	44	rapidly	adv. 迅速地、很快地	缺	缺	
-80	45	rapidity	n. 迅速、快速	缺	缺	
-80	46	violin	n. 小提琴	缺	缺	
-80	47	violinist	n. 小提琴手、小提琴家	缺	缺	
-80	48	trade	n. 贸易、交易；行业 v. 做买卖	缺	缺	
-80	49	trader	n. 商人、贸易商	缺	缺	
-80	50	trade-off	n. 权衡、取舍	缺	缺	
-80	51	trade-offs	n. 权衡、取舍	缺	缺	
-80	52	clock	n. 钟	缺	缺	
+80	28	automate	v. 使自动化	细节数据有	缺	词/a/automate.json
+80	29	automated	adj. 自动化的	细节数据有	缺	词/a/automated.json
+80	30	automation	n. 自动化	细节数据有	缺	词/a/automation.json
+80	31	authentic	adj. 真的、非仿冒的；正宗的、地道的	细节数据有	缺	词/a/authentic.json
+80	32	authentically	adv. 真实地；地道地	细节数据有	缺	词/a/authentically.json
+80	33	autistic	adj. 自闭症的、孤独症的	细节数据有	缺	词/a/autistic.json
+80	34	automobile	n. 汽车	细节数据有	缺	词/a/automobile.json
+80	35	automaker	n. 汽车制造商、车企	细节数据有	缺	词/a/automaker.json
+80	36	origin	n. 起源、由来；出身、血统	细节数据有	缺	词/o/origin.json
+80	37	original	adj. 最初的、原来的	细节数据有	缺	词/o/original.json
+80	38	originally	adv. 起初、原来；独创地、新颖地	细节数据有	缺	词/o/originally.json
+80	39	originate	v. 起源、发源	细节数据有	缺	词/o/originate.json
+80	40	orient	v. 使适应、使熟悉；确定方位	细节数据有	缺	词/o/orient.json
+80	41	oriental	adj. 东方的、东亚的	细节数据有	缺	词/o/oriental.json
+80	42	orientation	n. 方向、朝向；入门培训	细节数据有	缺	词/o/orientation.json
+80	43	rapid	adj. 迅速的、快的	细节数据有	缺	词/r/rapid.json
+80	44	rapidly	adv. 迅速地、很快地	细节数据有	缺	词/r/rapidly.json
+80	45	rapidity	n. 迅速、快速	细节数据有	缺	词/r/rapidity.json
+80	46	violin	n. 小提琴	细节数据有	缺	词/v/violin.json
+80	47	violinist	n. 小提琴手、小提琴家	细节数据有	缺	词/v/violinist.json
+80	48	trade	n. 贸易、交易；行业 v. 做买卖	细节数据有	缺	词/t/trade.json
+80	49	trader	n. 商人、贸易商	细节数据有	缺	词/t/trader.json
+80	50	trade-off	n. 权衡、取舍	细节数据有	缺	词/t/trade-off.json
+80	51	trade-offs	n. 权衡、取舍	细节数据有	缺	词/t/trade-offs.json
+80	52	clock	n. 钟	细节数据有	缺	词/c/clock.json
 80	53	o'clock	n. …点钟	缺	缺	
 80	54	cloak	n. 斗篷、披风 v. 掩盖	缺	缺	
 80	55	clockwork	n. 钟表机构、发条装置	缺	缺	
