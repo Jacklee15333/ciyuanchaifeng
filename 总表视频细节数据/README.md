@@ -317,6 +317,7 @@
 - darken：考点【易混】darken / dim 的解释写成“dim 是“””，引号里是空的（辨析里有：dim 是灯光调暗、变模糊）。
 - effort：初中含义只写“n. 精力”，最常用的“努力”没写（辨析里写了）。
 - eco：初中含义写 n.、考点写“复数 ecos”；eco 一般只作前缀或形容词（eco products），不作可数名词。
+- reprogrammed：考点里有 reprogrammeds、reprogrammeded、reprogrammeding 这些不存在的变形；reprogramme 的考点写“去 e 加 d”，其实是双写 m（reprogrammed、reprogramming）。
 
 ## 总表里出现两次的词（细节数据按单词存一份，两行共用；出题时两个意思都要考到）
 

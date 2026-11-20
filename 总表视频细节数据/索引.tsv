@@ -3794,31 +3794,31 @@
 48	32	eco-activist	n. 环保活动人士	细节数据有	缺	词/e/eco-activist.json
 48	33	eco-park	n. 生态公园、生态园	细节数据有	缺	词/e/eco-park.json
 48	34	ecological	adj. 生态的；环保的	细节数据有	缺	词/e/ecological.json
-48	35	ecology	n. 生态学	缺	缺	
-48	36	grammar	n. 语法	缺	缺	
-48	37	grammatical	adj. 语法的	缺	缺	
-48	38	programme	n. 节目	缺	缺	
-48	39	programming	n. 编程	缺	缺	
-48	40	program	n. 节目	缺	缺	
-48	41	programmable	adj. 可编程的；可设定的	缺	缺	
-48	42	programmer	n. 程序员	缺	缺	
-48	43	reprogramme	v. 重新编程、重新设定	缺	缺	
-48	44	reprogrammed	v. 过去分词 adj. 已重新编程的	缺	缺	
-48	45	programmatic	adj. 纲领性的、有计划的	缺	缺	
-48	46	diagram	n. 图解、示意图	缺	缺	
-48	47	hologram	n. 全息图	缺	缺	
-48	48	glamour	n. 魅力、诱惑力	缺	缺	
-48	49	glamorous	adj. 迷人的、魅力四射的	缺	缺	
-48	50	telegram	n. 电报	缺	缺	
-48	51	paragraph	n. 段落	缺	缺	
-48	52	calligraphy	n. 书法；漂亮的字	缺	缺	
-48	53	calligrapher	n. 书法家；写美术字的人	缺	缺	
-48	54	calligraphic	adj. 书法的	缺	缺	
-48	55	holograph	n. 亲笔文件、手稿	缺	缺	
-48	56	holographic	adj. 全息的	缺	缺	
-48	57	graph	n. 图表、曲线图	缺	缺	
-48	58	graphic	adj. 图形的、图像的	缺	缺	
-48	59	telegraph	n. 电报	缺	缺	
+48	35	ecology	n. 生态学	细节数据有	缺	词/e/ecology.json
+48	36	grammar	n. 语法	细节数据有	缺	词/g/grammar.json
+48	37	grammatical	adj. 语法的	细节数据有	缺	词/g/grammatical.json
+48	38	programme	n. 节目	细节数据有	缺	词/p/programme.json
+48	39	programming	n. 编程	细节数据有	缺	词/p/programming.json
+48	40	program	n. 节目	细节数据有	缺	词/p/program.json
+48	41	programmable	adj. 可编程的；可设定的	细节数据有	缺	词/p/programmable.json
+48	42	programmer	n. 程序员	细节数据有	缺	词/p/programmer.json
+48	43	reprogramme	v. 重新编程、重新设定	细节数据有	缺	词/r/reprogramme.json
+48	44	reprogrammed	v. 过去分词 adj. 已重新编程的	细节数据有	缺	词/r/reprogrammed.json
+48	45	programmatic	adj. 纲领性的、有计划的	细节数据有	缺	词/p/programmatic.json
+48	46	diagram	n. 图解、示意图	细节数据有	缺	词/d/diagram.json
+48	47	hologram	n. 全息图	细节数据有	缺	词/h/hologram.json
+48	48	glamour	n. 魅力、诱惑力	细节数据有	缺	词/g/glamour.json
+48	49	glamorous	adj. 迷人的、魅力四射的	细节数据有	缺	词/g/glamorous.json
+48	50	telegram	n. 电报	细节数据有	缺	词/t/telegram.json
+48	51	paragraph	n. 段落	细节数据有	缺	词/p/paragraph.json
+48	52	calligraphy	n. 书法；漂亮的字	细节数据有	缺	词/c/calligraphy.json
+48	53	calligrapher	n. 书法家；写美术字的人	细节数据有	缺	词/c/calligrapher.json
+48	54	calligraphic	adj. 书法的	细节数据有	缺	词/c/calligraphic.json
+48	55	holograph	n. 亲笔文件、手稿	细节数据有	缺	词/h/holograph.json
+48	56	holographic	adj. 全息的	细节数据有	缺	词/h/holographic.json
+48	57	graph	n. 图表、曲线图	细节数据有	缺	词/g/graph.json
+48	58	graphic	adj. 图形的、图像的	细节数据有	缺	词/g/graphic.json
+48	59	telegraph	n. 电报	细节数据有	缺	词/t/telegraph.json
 48	60	infographic	n. 信息图	缺	缺	
 48	61	graffiti	n. 涂鸦	缺	缺	
 48	62	choreograph	v. 编舞	缺	缺	
