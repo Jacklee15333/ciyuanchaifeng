@@ -3719,31 +3719,31 @@
 47	39	attractive	adj. 有吸引力的	细节数据有	缺	词/a/attractive.json
 47	40	distract	v. 使分心；转移	细节数据有	缺	词/d/distract.json
 47	41	distraction	n. 让人分心的事物、干扰；消遣	细节数据有	缺	词/d/distraction.json
-47	42	contract	n. 合同、契约 v. 收缩；感染	缺	缺	
-47	43	abstract	adj. 抽象的 v. 提取、摘录	缺	缺	
-47	44	trait	n. 特点、特征	缺	缺	
-47	45	portrait	n. 肖像、画像	缺	缺	
-47	46	portray	v. 描绘、描写；扮演	缺	缺	
-47	47	portrayal	n. 描绘、刻画	缺	缺	
-47	48	retreat	n. 撤退；僻静处、休养所	缺	缺	
-47	49	meet	v. 遇见；迎接 n. 会	缺	缺	
-47	50	met	v. meet 的过去式和过去分词	缺	缺	
-47	51	meeting	n. 会	缺	缺	
-47	52	paint	v. 油漆；绘画 n. 涂料	缺	缺	
-47	53	painting	n. 画	缺	缺	
-47	54	painter	n. 画家；油漆工	缺	缺	
-47	55	repaint	v. 重新油漆、重新粉刷	缺	缺	
-47	56	hand-painted	adj. 手绘的	缺	缺	
-47	57	depict	v. 描绘、描画	缺	缺	
-47	58	pigment	n. 颜料、色料	缺	缺	
-47	59	pixel	n. 像素	缺	缺	
-47	60	situate	v. 使位于、安置	缺	缺	
-47	61	situation	n. 形势；场面	缺	缺	
-47	62	situated	adj. 位于、坐落在	缺	缺	
-47	63	site	n. 场地、工地；地点 v. 给…选址	缺	缺	
-47	64	dark	n. 黑暗；深色	缺	缺	
-47	65	darkness	n. 黑暗	缺	缺	
-47	66	darken	v. 变暗	缺	缺	
+47	42	contract	n. 合同、契约 v. 收缩；感染	细节数据有	缺	词/c/contract.json
+47	43	abstract	adj. 抽象的 v. 提取、摘录	细节数据有	缺	词/a/abstract.json
+47	44	trait	n. 特点、特征	细节数据有	缺	词/t/trait.json
+47	45	portrait	n. 肖像、画像	细节数据有	缺	词/p/portrait.json
+47	46	portray	v. 描绘、描写；扮演	细节数据有	缺	词/p/portray.json
+47	47	portrayal	n. 描绘、刻画	细节数据有	缺	词/p/portrayal.json
+47	48	retreat	n. 撤退；僻静处、休养所	细节数据有	缺	词/r/retreat.json
+47	49	meet	v. 遇见；迎接 n. 会	细节数据有	缺	词/m/meet.json
+47	50	met	v. meet 的过去式和过去分词	细节数据有	缺	词/m/met.json
+47	51	meeting	n. 会	细节数据有	缺	词/m/meeting.json
+47	52	paint	v. 油漆；绘画 n. 涂料	细节数据有	缺	词/p/paint.json
+47	53	painting	n. 画	细节数据有	缺	词/p/painting.json
+47	54	painter	n. 画家；油漆工	细节数据有	缺	词/p/painter.json
+47	55	repaint	v. 重新油漆、重新粉刷	细节数据有	缺	词/r/repaint.json
+47	56	hand-painted	adj. 手绘的	细节数据有	缺	词/h/hand-painted.json
+47	57	depict	v. 描绘、描画	细节数据有	缺	词/d/depict.json
+47	58	pigment	n. 颜料、色料	细节数据有	缺	词/p/pigment.json
+47	59	pixel	n. 像素	细节数据有	缺	词/p/pixel.json
+47	60	situate	v. 使位于、安置	细节数据有	缺	词/s/situate.json
+47	61	situation	n. 形势；场面	细节数据有	缺	词/s/situation.json
+47	62	situated	adj. 位于、坐落在	细节数据有	缺	词/s/situated.json
+47	63	site	n. 场地、工地；地点 v. 给…选址	细节数据有	缺	词/s/site.json
+47	64	dark	n. 黑暗；深色	细节数据有	缺	词/d/dark.json
+47	65	darkness	n. 黑暗	细节数据有	缺	词/d/darkness.json
+47	66	darken	v. 变暗	细节数据有	缺	词/d/darken.json
 47	67	drink	v. 喝 n. 饮料	缺	缺	
 47	68	drank	v. drink 的过去式	缺	缺	
 47	69	drown	v. 淹死、溺死	缺	缺	
