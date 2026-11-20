@@ -4950,31 +4950,31 @@
 63	39	med	n. 药；地中海 adj. 医学的、医科的	细节数据有	缺	词/m/med.json
 63	40	old	adj. 年老的；旧的	细节数据有	缺	词/o/old.json
 63	41	elder	adj. 年龄较大的；前辈的	细节数据有	缺	词/e/elder.json
-63	42	eldest	adj. 年龄最大的	缺	缺	
-63	43	elderly	adj. 上了年纪的	缺	缺	
-63	44	eldercare	n. 老年人护理、养老照护	缺	缺	
-63	45	adult	n. 成年人	缺	缺	
-63	46	adulthood	n. 成年	缺	缺	
-63	47	adolescent	n. 青少年	缺	缺	
-63	48	adolescence	n. 青春期	缺	缺	
-63	49	coalition	n. 联合体	缺	缺	
-63	50	mix	v. 混合	缺	缺	
-63	51	mixed	adj. 混合的、混杂的；好坏参半的	缺	缺	
-63	52	mixture	n. 混合物	缺	缺	
-63	53	medley	n. 混合物、大杂烩	缺	缺	
-63	54	company	n. 公司	缺	缺	
-63	55	company-wide	adj. 全公司的	缺	缺	
-63	56	accompany	v. 陪同、陪伴	缺	缺	
-63	57	accompaniment	n. 伴随物、搭配	缺	缺	
-63	58	companion	n. 同伴、伴侣；陪护	缺	缺	
-63	59	companionship	n. 陪伴、友谊	缺	缺	
-63	60	pantry	n. 食品储藏室、食品柜	缺	缺	
-63	61	feed	v. 喂养	缺	缺	
-63	62	fed	adj. 喂过的	缺	缺	
-63	63	feeding	n. 喂食、喂养	缺	缺	
-63	64	feeder	n. 喂食器；吃东西的人或动物	缺	缺	
-63	65	feedback	n. 反馈、意见	缺	缺	
-63	66	food	n. 食物	缺	缺	
+63	42	eldest	adj. 年龄最大的	细节数据有	缺	词/e/eldest.json
+63	43	elderly	adj. 上了年纪的	细节数据有	缺	词/e/elderly.json
+63	44	eldercare	n. 老年人护理、养老照护	细节数据有	缺	词/e/eldercare.json
+63	45	adult	n. 成年人	细节数据有	缺	词/a/adult.json
+63	46	adulthood	n. 成年	细节数据有	缺	词/a/adulthood.json
+63	47	adolescent	n. 青少年	细节数据有	缺	词/a/adolescent.json
+63	48	adolescence	n. 青春期	细节数据有	缺	词/a/adolescence.json
+63	49	coalition	n. 联合体	细节数据有	缺	词/c/coalition.json
+63	50	mix	v. 混合	细节数据有	缺	词/m/mix.json
+63	51	mixed	adj. 混合的、混杂的；好坏参半的	细节数据有	缺	词/m/mixed.json
+63	52	mixture	n. 混合物	细节数据有	缺	词/m/mixture.json
+63	53	medley	n. 混合物、大杂烩	细节数据有	缺	词/m/medley.json
+63	54	company	n. 公司	细节数据有	缺	词/c/company.json
+63	55	company-wide	adj. 全公司的	细节数据有	缺	词/c/company-wide.json
+63	56	accompany	v. 陪同、陪伴	细节数据有	缺	词/a/accompany.json
+63	57	accompaniment	n. 伴随物、搭配	细节数据有	缺	词/a/accompaniment.json
+63	58	companion	n. 同伴、伴侣；陪护	细节数据有	缺	词/c/companion.json
+63	59	companionship	n. 陪伴、友谊	细节数据有	缺	词/c/companionship.json
+63	60	pantry	n. 食品储藏室、食品柜	细节数据有	缺	词/p/pantry.json
+63	61	feed	v. 喂养	细节数据有	缺	词/f/feed.json
+63	62	fed	adj. 喂过的	细节数据有	缺	词/f/fed.json
+63	63	feeding	n. 喂食、喂养	细节数据有	缺	词/f/feeding.json
+63	64	feeder	n. 喂食器；吃东西的人或动物	细节数据有	缺	词/f/feeder.json
+63	65	feedback	n. 反馈、意见	细节数据有	缺	词/f/feedback.json
+63	66	food	n. 食物	细节数据有	缺	词/f/food.json
 63	67	fast-food	adj. 快餐的	缺	缺	
 63	68	foster	v. 代养、寄养	缺	缺	
 63	69	file	n. 档案、卷宗；纵列 v. 提出	缺	缺	
