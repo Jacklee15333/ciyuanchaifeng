@@ -5176,31 +5176,31 @@
 66	30	construct	v. 建造、修建 n. 构想、概念	细节数据有	缺	词/c/construct.json
 66	31	reconstruct	v. 重建	细节数据有	缺	词/r/reconstruct.json
 66	32	instruct	v. 指示、吩咐；教、传授	细节数据有	缺	词/i/instruct.json
-66	33	instruction	n. 用法说明；命令	缺	缺	
-66	34	instructor	n. 教练、教员；讲师	缺	缺	
-66	35	instructional	adj. 教学的、教育的；指导性的	缺	缺	
-66	36	infrastructure	n. 基础设施	缺	缺	
-66	37	nod	v. 点头；打盹	缺	缺	
-66	38	noise	n. 声音	缺	缺	
-66	39	noisy	adj. 嘈杂的；喧闹的	缺	缺	
-66	40	noisily	adv. 吵闹地、喧闹地	缺	缺	
-66	41	risk	n. 风险、危险	缺	缺	
-66	42	risky	adj. 有风险的、冒险的	缺	缺	
-66	43	risk-taking	n. 冒险	缺	缺	
-66	44	equipment	n. 设备、器材	缺	缺	
-66	45	equip	v. 装备、配备	缺	缺	
-66	46	equipped	adj. 配备了…的	缺	缺	
-66	47	shy	adj. 害羞的	缺	缺	
-66	48	shyly	adv. 害羞地、腼腆地	缺	缺	
-66	49	shyness	n. 害羞、腼腆	缺	缺	
-66	50	giant	n. 巨人	缺	缺	
-66	51	giant-king	n. 巨人之王	缺	缺	
-66	52	giant-prince	n. 巨人族的王子	缺	缺	
-66	53	author	n. 作者、作家 v. 写、编写	缺	缺	
-66	54	co-author	n. 合著者	缺	缺	
-66	55	co-authored	adj. 合著的	缺	缺	
-66	56	auction	n. 拍卖	缺	缺	
-66	57	authority	n. 权力、职权；可信的依据	缺	缺	
+66	33	instruction	n. 用法说明；命令	细节数据有	缺	词/i/instruction.json
+66	34	instructor	n. 教练、教员；讲师	细节数据有	缺	词/i/instructor.json
+66	35	instructional	adj. 教学的、教育的；指导性的	细节数据有	缺	词/i/instructional.json
+66	36	infrastructure	n. 基础设施	细节数据有	缺	词/i/infrastructure.json
+66	37	nod	v. 点头；打盹	细节数据有	缺	词/n/nod.json
+66	38	noise	n. 声音	细节数据有	缺	词/n/noise.json
+66	39	noisy	adj. 嘈杂的；喧闹的	细节数据有	缺	词/n/noisy.json
+66	40	noisily	adv. 吵闹地、喧闹地	细节数据有	缺	词/n/noisily.json
+66	41	risk	n. 风险、危险	细节数据有	缺	词/r/risk.json
+66	42	risky	adj. 有风险的、冒险的	细节数据有	缺	词/r/risky.json
+66	43	risk-taking	n. 冒险	细节数据有	缺	词/r/risk-taking.json
+66	44	equipment	n. 设备、器材	细节数据有	缺	词/e/equipment.json
+66	45	equip	v. 装备、配备	细节数据有	缺	词/e/equip.json
+66	46	equipped	adj. 配备了…的	细节数据有	缺	词/e/equipped.json
+66	47	shy	adj. 害羞的	细节数据有	缺	词/s/shy.json
+66	48	shyly	adv. 害羞地、腼腆地	细节数据有	缺	词/s/shyly.json
+66	49	shyness	n. 害羞、腼腆	细节数据有	缺	词/s/shyness.json
+66	50	giant	n. 巨人	细节数据有	缺	词/g/giant.json
+66	51	giant-king	n. 巨人之王	细节数据有	缺	词/g/giant-king.json
+66	52	giant-prince	n. 巨人族的王子	细节数据有	缺	词/g/giant-prince.json
+66	53	author	n. 作者、作家 v. 写、编写	细节数据有	缺	词/a/author.json
+66	54	co-author	n. 合著者	细节数据有	缺	词/c/co-author.json
+66	55	co-authored	adj. 合著的	细节数据有	缺	词/c/co-authored.json
+66	56	auction	n. 拍卖	细节数据有	缺	词/a/auction.json
+66	57	authority	n. 权力、职权；可信的依据	细节数据有	缺	词/a/authority.json
 66	58	authorized	adj. 经授权的、获准的	缺	缺	
 66	59	unauthorized	adj. 未经授权的、未经许可的	缺	缺	
 66	60	August	n. 八月	缺	缺	
