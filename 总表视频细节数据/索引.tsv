@@ -3267,31 +3267,31 @@
 41	69	tenderly	adv. 温柔地、深情地；小心翼翼地	细节数据有	缺	词/t/tenderly.json
 41	70	wonder	n. 惊奇 v. 想知道	细节数据有	缺	词/w/wonder.json
 41	71	wonderful	adj. 美妙的；太好了	细节数据有	缺	词/w/wonderful.json
-41	72	wonderfully	adv. 极好地	缺	缺	
-41	73	wonderland	n. 仙境、奇境	缺	缺	
-41	74	journey	n. 旅行	缺	缺	
-41	75	journal	n. 期刊、学报；日志	缺	缺	
-41	76	journalist	n. 记者	缺	缺	
-41	77	journalism	n. 新闻业、新闻工作	缺	缺	
-41	78	e-journal	n. 电子期刊	缺	缺	
-41	79	photojournalist	n. 摄影记者	缺	缺	
-41	80	diary	n. 日记	缺	缺	
-41	81	dial	v. 拨电话号码	缺	缺	
-42	1	interest	n. 兴趣	缺	缺	
-42	2	interesting	adj. 有趣的；有意思的	缺	缺	
-42	3	interested	adj. 感兴趣的	缺	缺	
-42	4	interestingly	adv. 有趣地	缺	缺	
-42	5	uninterested	adj. 不感兴趣的、漠不关心的	缺	缺	
-42	6	uninteresting	adj. 乏味的、没意思的	缺	缺	
-42	7	disinterested	adj. 公正的、无私的	缺	缺	
-42	8	present	n. 礼物；赠品 adj. 出现的	缺	缺	
-42	9	presently	adv. 不久、一会儿；目前、现在	缺	缺	
-42	10	presentation	n. 颁发；呈现方式、外观	缺	缺	
-42	11	presence	n. 出席、在场；存在	缺	缺	
-42	12	represent	v. 代表；相当于	缺	缺	
-42	13	representation	n. 代表、代表权	缺	缺	
-42	14	representative	n. 代表	缺	缺	
-42	15	absence	n. 缺席、不在	缺	缺	
+41	72	wonderfully	adv. 极好地	细节数据有	缺	词/w/wonderfully.json
+41	73	wonderland	n. 仙境、奇境	细节数据有	缺	词/w/wonderland.json
+41	74	journey	n. 旅行	细节数据有	缺	词/j/journey.json
+41	75	journal	n. 期刊、学报；日志	细节数据有	缺	词/j/journal.json
+41	76	journalist	n. 记者	细节数据有	缺	词/j/journalist.json
+41	77	journalism	n. 新闻业、新闻工作	细节数据有	缺	词/j/journalism.json
+41	78	e-journal	n. 电子期刊	细节数据有	缺	词/e/e-journal.json
+41	79	photojournalist	n. 摄影记者	细节数据有	缺	词/p/photojournalist.json
+41	80	diary	n. 日记	细节数据有	缺	词/d/diary.json
+41	81	dial	v. 拨电话号码	细节数据有	缺	词/d/dial.json
+42	1	interest	n. 兴趣	细节数据有	缺	词/i/interest.json
+42	2	interesting	adj. 有趣的；有意思的	细节数据有	缺	词/i/interesting.json
+42	3	interested	adj. 感兴趣的	细节数据有	缺	词/i/interested.json
+42	4	interestingly	adv. 有趣地	细节数据有	缺	词/i/interestingly.json
+42	5	uninterested	adj. 不感兴趣的、漠不关心的	细节数据有	缺	词/u/uninterested.json
+42	6	uninteresting	adj. 乏味的、没意思的	细节数据有	缺	词/u/uninteresting.json
+42	7	disinterested	adj. 公正的、无私的	细节数据有	缺	词/d/disinterested.json
+42	8	present	n. 礼物；赠品 adj. 出现的	细节数据有	缺	词/p/present.json
+42	9	presently	adv. 不久、一会儿；目前、现在	细节数据有	缺	词/p/presently.json
+42	10	presentation	n. 颁发；呈现方式、外观	细节数据有	缺	词/p/presentation.json
+42	11	presence	n. 出席、在场；存在	细节数据有	缺	词/p/presence.json
+42	12	represent	v. 代表；相当于	细节数据有	缺	词/r/represent.json
+42	13	representation	n. 代表、代表权	细节数据有	缺	词/r/representation.json
+42	14	representative	n. 代表	细节数据有	缺	词/r/representative.json
+42	15	absence	n. 缺席、不在	细节数据有	缺	词/a/absence.json
 42	16	absent	adj. 缺席的；心不在焉的	缺	缺	
 42	17	absently	adv. 心不在焉地、茫然地	缺	缺	
 42	18	essential	adj. 必不可少的、极其重要的；本质的、基本的	缺	缺	

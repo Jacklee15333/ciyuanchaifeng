@@ -77,6 +77,7 @@
 | 2026-11-20 | 题目第 33 批 | 100 | amount … socially（体检全部 0 个问题）。累计 2975 个词有题目 |
 | 2026-11-20 | 题目第 34 批 | 100 | socialism … occasion（体检全部 0 个问题；acceptable、captivated 改过再存）。累计 3075 个词有题目 |
 | 2026-11-20 | 题目第 35 批 | 100 | occasionally … shape（体检全部 0 个问题；musical、landing、inland、worry、worried、worriedly、behind、unsure、inaccurate 改过再存）。累计 3175 个词有题目 |
+| 2026-11-20 | 题目第 36 批 | 100 | shaped … absence（体检全部 0 个问题；continuously、continuity、continent、tennis 改过再存）。累计 3275 个词有题目 |
 | 2026-11-19 | 试做 truly | 0 | 只用自带素材加表情图拼画面：起草检查不通过（表情图要换成写实插图、每幅画都要动、小图标要自己画）。结论：多数词要专门画插图，每个词的工作量和 7A-U4 一样；全表 9299 个词做不完，要先定先做哪些（等用户定） |
 
 ## 总表里看着不对的地方（出题时绕开了，以后用维护技能核对）
@@ -278,6 +279,7 @@
 - holding：初中含义写“租种的土地 / 暂时存放的”太偏；常见用法是 hold 的现在分词，名词“持有的股份、财产”常用复数 holdings，写成“不可数，没有复数”不对
 - hind：写了“比较级 hinder、最高级 hindest”，是编造的；hind（后面的）没有这样的比较级（hinder 是动词“阻碍”，只有 hindmost 这类说法），应删掉
 - contents：变形写“不可数，没有复数”不对；contents 本身就是复数形式（the contents of the box are …；table of contents 目录），作主语谓语用复数
+- present：作“出现的、在场的”时一般不用比较级，写“比较级 more present、最高级 most present”不妥
 
 ## 总表里出现两次的词（细节数据按单词存一份，两行共用；出题时两个意思都要考到）
 
