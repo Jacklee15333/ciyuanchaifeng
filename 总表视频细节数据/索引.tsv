@@ -1882,31 +1882,31 @@
 24	41	gentleman	n. 绅士；先生	细节数据有	缺	词/g/gentleman.json
 24	42	gentlemen	n. 先生们；男厕	细节数据有	缺	词/g/gentlemen.json
 24	43	engine	n. 发动机	细节数据有	缺	词/e/engine.json
-24	44	engineer	n. 工程师	缺	缺	
-24	45	engineering	n. 工程	缺	缺	
-24	46	genius	n. 天才	缺	缺	
-24	47	generous	adj. 慷慨的；大方的	缺	缺	
-24	48	generosity	n. 慷慨、大方；宽宏大量	缺	缺	
-24	49	generously	adv. 慷慨地、大方地；宽厚地	缺	缺	
-24	50	genuine	adj. 真的、真正的	缺	缺	
-24	51	genuinely	adv. 真正地、确实	缺	缺	
-24	52	gender	n. 性别	缺	缺	
-24	53	genre	n. 类型、体裁	缺	缺	
-24	54	genie	n. 精灵	缺	缺	
-24	55	germ	n. 细菌、病菌；胚芽	缺	缺	
-24	56	genetic	adj. 遗传的、基因的	缺	缺	
-24	57	genetically	adv. 在基因上、遗传上	缺	缺	
-24	58	genetics	n. 遗传学	缺	缺	
-24	59	gene	n. 基因	缺	缺	
-24	60	nitrogen	n. 氮、氮气	缺	缺	
-24	61	open	v. 打开 adj. 营业中的	缺	缺	
-24	62	opening	n. 开口、缝隙	缺	缺	
-24	63	openly	adv. 公开地、毫不隐瞒地	缺	缺	
-24	64	reopen	v. 重新开放、重新营业	缺	缺	
-24	65	reopening	n. 重新开放、重新开业	缺	缺	
-24	66	openness	n. 坦率、坦诚；开放、包容	缺	缺	
-24	67	eye-opening	adj. 令人大开眼界的、发人深省的	缺	缺	
-24	68	upon	prep. 一…就	缺	缺	
+24	44	engineer	n. 工程师	细节数据有	缺	词/e/engineer.json
+24	45	engineering	n. 工程	细节数据有	缺	词/e/engineering.json
+24	46	genius	n. 天才	细节数据有	缺	词/g/genius.json
+24	47	generous	adj. 慷慨的；大方的	细节数据有	缺	词/g/generous.json
+24	48	generosity	n. 慷慨、大方；宽宏大量	细节数据有	缺	词/g/generosity.json
+24	49	generously	adv. 慷慨地、大方地；宽厚地	细节数据有	缺	词/g/generously.json
+24	50	genuine	adj. 真的、真正的	细节数据有	缺	词/g/genuine.json
+24	51	genuinely	adv. 真正地、确实	细节数据有	缺	词/g/genuinely.json
+24	52	gender	n. 性别	细节数据有	缺	词/g/gender.json
+24	53	genre	n. 类型、体裁	细节数据有	缺	词/g/genre.json
+24	54	genie	n. 精灵	细节数据有	缺	词/g/genie.json
+24	55	germ	n. 细菌、病菌；胚芽	细节数据有	缺	词/g/germ.json
+24	56	genetic	adj. 遗传的、基因的	细节数据有	缺	词/g/genetic.json
+24	57	genetically	adv. 在基因上、遗传上	细节数据有	缺	词/g/genetically.json
+24	58	genetics	n. 遗传学	细节数据有	缺	词/g/genetics.json
+24	59	gene	n. 基因	细节数据有	缺	词/g/gene.json
+24	60	nitrogen	n. 氮、氮气	细节数据有	缺	词/n/nitrogen.json
+24	61	open	v. 打开 adj. 营业中的	细节数据有	缺	词/o/open.json
+24	62	opening	n. 开口、缝隙	细节数据有	缺	词/o/opening.json
+24	63	openly	adv. 公开地、毫不隐瞒地	细节数据有	缺	词/o/openly.json
+24	64	reopen	v. 重新开放、重新营业	细节数据有	缺	词/r/reopen.json
+24	65	reopening	n. 重新开放、重新开业	细节数据有	缺	词/r/reopening.json
+24	66	openness	n. 坦率、坦诚；开放、包容	细节数据有	缺	词/o/openness.json
+24	67	eye-opening	adj. 令人大开眼界的、发人深省的	细节数据有	缺	词/e/eye-opening.json
+24	68	upon	prep. 一…就	细节数据有	缺	词/u/upon.json
 24	69	upwards	adv. 向上	缺	缺	
 24	70	upward	adj. 向上的、上升的	缺	缺	
 24	71	upper	adj. 上面的、上部的；上层的 n. 鞋帮	缺	缺	
