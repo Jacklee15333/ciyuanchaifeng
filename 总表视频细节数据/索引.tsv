@@ -2007,31 +2007,31 @@
 26	10	allocate	v. 分配、拨给	细节数据有	缺	词/a/allocate.json
 26	11	allocation	n. 分配	细节数据有	缺	词/a/allocation.json
 26	12	allow	v. 允许	细节数据有	缺	词/a/allow.json
-26	13	allowance	n. 津贴、补助；限额	缺	缺	
-26	14	couch	n. 长沙发	缺	缺	
-26	15	grow	v. 生长；发育	缺	缺	
-26	16	grew	v. 长大、增长	缺	缺	
-26	17	grown	adj. 成年的、长成的	缺	缺	
-26	18	growing	adj. 正在增长的、越来越多的 n. 种植	缺	缺	
-26	19	growth	n. 增长、发展	缺	缺	
-26	20	regrowth	n. 再生长、重新长出	缺	缺	
-26	21	overgrown	adj. 长得过大的	缺	缺	
-26	22	outgrew	v. 长大后不再有	缺	缺	
-26	23	grown-up	adj. 成年的	缺	缺	
-26	24	grown-ups	n. 大人们、成年人	缺	缺	
-26	25	growing-up	n. 成长	缺	缺	
-26	26	grass	n. 草	缺	缺	
-26	27	grassy	adj. 长满草的、草多的	缺	缺	
-26	28	grassland	n. 草原；牧场	缺	缺	
-26	29	grassroots	adj. 基层的、草根的	缺	缺	
-26	30	graze	v. 放牧；擦伤、蹭破	缺	缺	
-26	31	greenhouse	n. 温室	缺	缺	
-26	32	green	adj. 绿色的；青的	缺	缺	
-26	33	greening	n. 绿化	缺	缺	
-26	34	greenery	n. 绿色植物、草木	缺	缺	
-26	35	evergreen	n. 常绿植物	缺	缺	
-26	36	green-hued	adj. 呈绿色的、泛着绿意的	缺	缺	
-26	37	technology	n. 技术	缺	缺	
+26	13	allowance	n. 津贴、补助；限额	细节数据有	缺	词/a/allowance.json
+26	14	couch	n. 长沙发	细节数据有	缺	词/c/couch.json
+26	15	grow	v. 生长；发育	细节数据有	缺	词/g/grow.json
+26	16	grew	v. 长大、增长	细节数据有	缺	词/g/grew.json
+26	17	grown	adj. 成年的、长成的	细节数据有	缺	词/g/grown.json
+26	18	growing	adj. 正在增长的、越来越多的 n. 种植	细节数据有	缺	词/g/growing.json
+26	19	growth	n. 增长、发展	细节数据有	缺	词/g/growth.json
+26	20	regrowth	n. 再生长、重新长出	细节数据有	缺	词/r/regrowth.json
+26	21	overgrown	adj. 长得过大的	细节数据有	缺	词/o/overgrown.json
+26	22	outgrew	v. 长大后不再有	细节数据有	缺	词/o/outgrew.json
+26	23	grown-up	adj. 成年的	细节数据有	缺	词/g/grown-up.json
+26	24	grown-ups	n. 大人们、成年人	细节数据有	缺	词/g/grown-ups.json
+26	25	growing-up	n. 成长	细节数据有	缺	词/g/growing-up.json
+26	26	grass	n. 草	细节数据有	缺	词/g/grass.json
+26	27	grassy	adj. 长满草的、草多的	细节数据有	缺	词/g/grassy.json
+26	28	grassland	n. 草原；牧场	细节数据有	缺	词/g/grassland.json
+26	29	grassroots	adj. 基层的、草根的	细节数据有	缺	词/g/grassroots.json
+26	30	graze	v. 放牧；擦伤、蹭破	细节数据有	缺	词/g/graze.json
+26	31	greenhouse	n. 温室	细节数据有	缺	词/g/greenhouse.json
+26	32	green	adj. 绿色的；青的	细节数据有	缺	词/g/green.json
+26	33	greening	n. 绿化	细节数据有	缺	词/g/greening.json
+26	34	greenery	n. 绿色植物、草木	细节数据有	缺	词/g/greenery.json
+26	35	evergreen	n. 常绿植物	细节数据有	缺	词/e/evergreen.json
+26	36	green-hued	adj. 呈绿色的、泛着绿意的	细节数据有	缺	词/g/green-hued.json
+26	37	technology	n. 技术	细节数据有	缺	词/t/technology.json
 26	38	tech	n. 科技、技术	缺	缺	
 26	39	technological	adj. 技术的、科技的	缺	缺	
 26	40	high-tech	adj. 高科技的	缺	缺	

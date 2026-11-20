@@ -193,6 +193,10 @@
 - gentlemen：【变形】写“复数 gentlemens”是编造的，gentlemen 本身就是 gentleman 的复数
 - jobless：【变形】写“n. 一般不可数，不加 s”，jobless 是形容词“失业的”
 - info：【变形】写“复数 infos”不对，info 是不可数名词
+- outgrew：【变形】编了 outgrews、outgrewed、outgrewing；outgrew 本身是 outgrow 的过去式（过去分词 outgrown）
+- grown-ups：【变形】写成“一般不可数，不加 s”，其实它本身就是 grown-up 的复数（可数）
+- growing-up：【变形】写了复数 growing-ups，这个名词一般不用复数
+- grassroots：【变形】写成名词“一般不可数，不加 s”，其实名词 the grassroots 本身是复数形式；初中含义写的是形容词“基层的”
 
 ## 总表里出现两次的词（细节数据按单词存一份，两行共用；出题时两个意思都要考到）
 
