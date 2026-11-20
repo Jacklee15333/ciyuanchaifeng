@@ -5352,31 +5352,31 @@
 68	43	bio	n. 个人简介、小传	细节数据有	缺	词/b/bio.json
 68	44	biofuel	n. 生物燃料	细节数据有	缺	词/b/biofuel.json
 68	45	biodiesel	n. 生物柴油	细节数据有	缺	词/b/biodiesel.json
-68	46	bioengineer	n. 生物工程师	缺	缺	
-68	47	bioengineered	adj. 经基因工程改造的、转基因的	缺	缺	
-68	48	lift	v. 举起 n. 电梯	缺	缺	
-68	49	tap	n. (自来水	缺	缺	
-68	50	relax	v. 放松	缺	缺	
-68	51	relaxed	adj. 放松的、自在的	缺	缺	
-68	52	relaxing	adj. 令人放松的	缺	缺	
-68	53	relaxation	n. 放松、休息；消遣	缺	缺	
-68	54	release	v. 释放；发行	缺	缺	
-68	55	silence	n. 寂静、无声；沉默	缺	缺	
-68	56	silent	adj. 静的	缺	缺	
-68	57	silently	adv. 默默地、静静地；无声地	缺	缺	
-69	1	track	n. 足迹、踪迹；小路	缺	缺	
-69	2	tracking	n. 追踪、跟踪	缺	缺	
-69	3	tracker	n. 追踪者	缺	缺	
-69	4	trackable	adj. 可追踪的	缺	缺	
-69	5	untrackable	adj. 无法追踪的	缺	缺	
-69	6	tracksuit	n. 运动服、运动套装	缺	缺	
-69	7	three	num. 基数词	缺	缺	
-69	8	third	num. 序数词	缺	缺	
-69	9	thirdly	adv. 第三	缺	缺	
-69	10	one-third	n. 三分之一	缺	缺	
-69	11	thirty	num. 基数词	缺	缺	
-69	12	thirtieth	num. 序数词	缺	缺	
-69	13	mid-thirties	n. 三十四五岁	缺	缺	
+68	46	bioengineer	n. 生物工程师	细节数据有	缺	词/b/bioengineer.json
+68	47	bioengineered	adj. 经基因工程改造的、转基因的	细节数据有	缺	词/b/bioengineered.json
+68	48	lift	v. 举起 n. 电梯	细节数据有	缺	词/l/lift.json
+68	49	tap	n. (自来水	细节数据有	缺	词/t/tap.json
+68	50	relax	v. 放松	细节数据有	缺	词/r/relax.json
+68	51	relaxed	adj. 放松的、自在的	细节数据有	缺	词/r/relaxed.json
+68	52	relaxing	adj. 令人放松的	细节数据有	缺	词/r/relaxing.json
+68	53	relaxation	n. 放松、休息；消遣	细节数据有	缺	词/r/relaxation.json
+68	54	release	v. 释放；发行	细节数据有	缺	词/r/release.json
+68	55	silence	n. 寂静、无声；沉默	细节数据有	缺	词/s/silence.json
+68	56	silent	adj. 静的	细节数据有	缺	词/s/silent.json
+68	57	silently	adv. 默默地、静静地；无声地	细节数据有	缺	词/s/silently.json
+69	1	track	n. 足迹、踪迹；小路	细节数据有	缺	词/t/track.json
+69	2	tracking	n. 追踪、跟踪	细节数据有	缺	词/t/tracking.json
+69	3	tracker	n. 追踪者	细节数据有	缺	词/t/tracker.json
+69	4	trackable	adj. 可追踪的	细节数据有	缺	词/t/trackable.json
+69	5	untrackable	adj. 无法追踪的	细节数据有	缺	词/u/untrackable.json
+69	6	tracksuit	n. 运动服、运动套装	细节数据有	缺	词/t/tracksuit.json
+69	7	three	num. 基数词	细节数据有	缺	词/t/three.json
+69	8	third	num. 序数词	细节数据有	缺	词/t/third.json
+69	9	thirdly	adv. 第三	细节数据有	缺	词/t/thirdly.json
+69	10	one-third	n. 三分之一	细节数据有	缺	词/o/one-third.json
+69	11	thirty	num. 基数词	细节数据有	缺	词/t/thirty.json
+69	12	thirtieth	num. 序数词	细节数据有	缺	词/t/thirtieth.json
+69	13	mid-thirties	n. 三十四五岁	细节数据有	缺	词/m/mid-thirties.json
 69	14	thirty-seven	num. 三十七	缺	缺	
 69	15	trio	n. 三人组	缺	缺	
 69	16	triple	adj. 三倍的、三重的	缺	缺	
