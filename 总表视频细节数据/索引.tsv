@@ -4975,31 +4975,31 @@
 63	64	feeder	n. 喂食器；吃东西的人或动物	细节数据有	缺	词/f/feeder.json
 63	65	feedback	n. 反馈、意见	细节数据有	缺	词/f/feedback.json
 63	66	food	n. 食物	细节数据有	缺	词/f/food.json
-63	67	fast-food	adj. 快餐的	缺	缺	
-63	68	foster	v. 代养、寄养	缺	缺	
-63	69	file	n. 档案、卷宗；纵列 v. 提出	缺	缺	
-63	70	single-file	adv. 成一路纵队地	缺	缺	
-63	71	profile	n. 侧面；轮廓 v. 为…写简介	缺	缺	
-63	72	filament	n. 细丝、纤维	缺	缺	
-63	73	buy	v. 买	缺	缺	
-63	74	bought	v. 买了	缺	缺	
-63	75	buyer	n. 买主、买方	缺	缺	
-64	1	confident	adj. 自信的	缺	缺	
-64	2	confidently	adv. 自信地、有把握地	缺	缺	
-64	3	confidence	n. 自信心	缺	缺	
-64	4	faith	n. 信任、信心；宗教	缺	缺	
-64	5	faithfully	adv. 忠实地、忠诚地	缺	缺	
-64	6	faithful	adj. 忠诚的	缺	缺	
-64	7	defy	v. 违抗、公然反抗；激	缺	缺	
-64	8	defiance	n. 违抗、蔑视	缺	缺	
-64	9	gravity-defying	adj. 违反重力的、似乎不受重力约束的	缺	缺	
-64	10	federal	adj. 联邦的	缺	缺	
-64	11	emergency	n. 紧急情况；突发事件	缺	缺	
-64	12	non-emergency	adj. 非紧急的	缺	缺	
-64	13	emerge	v. 出现、露出	缺	缺	
-64	14	emergent	adj. 新兴的、正在形成的	缺	缺	
-64	15	immerse	v. 浸没、浸泡	缺	缺	
-64	16	immersion	n. 浸没	缺	缺	
+63	67	fast-food	adj. 快餐的	细节数据有	缺	词/f/fast-food.json
+63	68	foster	v. 代养、寄养	细节数据有	缺	词/f/foster.json
+63	69	file	n. 档案、卷宗；纵列 v. 提出	细节数据有	缺	词/f/file.json
+63	70	single-file	adv. 成一路纵队地	细节数据有	缺	词/s/single-file.json
+63	71	profile	n. 侧面；轮廓 v. 为…写简介	细节数据有	缺	词/p/profile.json
+63	72	filament	n. 细丝、纤维	细节数据有	缺	词/f/filament.json
+63	73	buy	v. 买	细节数据有	缺	词/b/buy.json
+63	74	bought	v. 买了	细节数据有	缺	词/b/bought.json
+63	75	buyer	n. 买主、买方	细节数据有	缺	词/b/buyer.json
+64	1	confident	adj. 自信的	细节数据有	缺	词/c/confident.json
+64	2	confidently	adv. 自信地、有把握地	细节数据有	缺	词/c/confidently.json
+64	3	confidence	n. 自信心	细节数据有	缺	词/c/confidence.json
+64	4	faith	n. 信任、信心；宗教	细节数据有	缺	词/f/faith.json
+64	5	faithfully	adv. 忠实地、忠诚地	细节数据有	缺	词/f/faithfully.json
+64	6	faithful	adj. 忠诚的	细节数据有	缺	词/f/faithful.json
+64	7	defy	v. 违抗、公然反抗；激	细节数据有	缺	词/d/defy.json
+64	8	defiance	n. 违抗、蔑视	细节数据有	缺	词/d/defiance.json
+64	9	gravity-defying	adj. 违反重力的、似乎不受重力约束的	细节数据有	缺	词/g/gravity-defying.json
+64	10	federal	adj. 联邦的	细节数据有	缺	词/f/federal.json
+64	11	emergency	n. 紧急情况；突发事件	细节数据有	缺	词/e/emergency.json
+64	12	non-emergency	adj. 非紧急的	细节数据有	缺	词/n/non-emergency.json
+64	13	emerge	v. 出现、露出	细节数据有	缺	词/e/emerge.json
+64	14	emergent	adj. 新兴的、正在形成的	细节数据有	缺	词/e/emergent.json
+64	15	immerse	v. 浸没、浸泡	细节数据有	缺	词/i/immerse.json
+64	16	immersion	n. 浸没	细节数据有	缺	词/i/immersion.json
 64	17	immersive	adj. 沉浸式的	缺	缺	
 64	18	merge	v. 合并	缺	缺	
 64	19	submerge	v. 淹没、浸没	缺	缺	
