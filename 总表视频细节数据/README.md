@@ -294,6 +294,8 @@
 - right-and-wrong：考点写“复数 right-and-wrongs”；“是非”一般写 right and wrong，不加连字符，也不用复数。
 - spent：考点里有 spents、spented、spenting、spenter、spentest 这些不存在的变形（spent 是 spend 的过去式、过去分词，作形容词“精疲力竭的”没有比较级）。
 - spend：初中含义写成“v. 度过；花费(钱”，括号没有关上，应是“花费（钱）”。
+- overspend：考点写“过去式、过去分词 overspended”，应是 overspent；还写了“n. 不可数”，overspend 一般只作动词。
+- spun：考点里有 spuns、spunned、spunning、spunner、spunnest 这些不存在的变形（spun 是 spin 的过去式、过去分词）。
 
 ## 总表里出现两次的词（细节数据按单词存一份，两行共用；出题时两个意思都要考到）
 

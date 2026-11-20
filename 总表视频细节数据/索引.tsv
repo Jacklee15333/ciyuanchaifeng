@@ -3442,32 +3442,32 @@
 43	82	envelope	n. 信封	细节数据有	缺	词/e/envelope.json
 44	1	spend	v. 度过；花费(钱	细节数据有	缺	词/s/spend.json
 44	2	spent	v. 过去分词 adj. 精疲力竭的	细节数据有	缺	词/s/spent.json
-44	3	spending	n. 开支、花费	缺	缺	
-44	4	overspend	v. 超支、花钱过多	缺	缺	
-44	5	expensive	adj. 昂贵的	缺	缺	
-44	6	inexpensive	adj. 不贵的、价格公道的	缺	缺	
-44	7	inexpensively	adv. 花钱不多地、便宜地	缺	缺	
-44	8	expense	n. 费用、开支；代价	缺	缺	
-44	9	compensate	v. 补偿、赔偿	缺	缺	
+44	3	spending	n. 开支、花费	细节数据有	缺	词/s/spending.json
+44	4	overspend	v. 超支、花钱过多	细节数据有	缺	词/o/overspend.json
+44	5	expensive	adj. 昂贵的	细节数据有	缺	词/e/expensive.json
+44	6	inexpensive	adj. 不贵的、价格公道的	细节数据有	缺	词/i/inexpensive.json
+44	7	inexpensively	adv. 花钱不多地、便宜地	细节数据有	缺	词/i/inexpensively.json
+44	8	expense	n. 费用、开支；代价	细节数据有	缺	词/e/expense.json
+44	9	compensate	v. 补偿、赔偿	细节数据有	缺	词/c/compensate.json
 44	10	depend	v. 依靠、依赖；取决于	总表有	缺	
-44	11	dependent	adj. 依靠的、依赖的；取决于…的	缺	缺	
-44	12	independent	adj. 独立的；有主见的	缺	缺	
-44	13	independently	adv. 独立地、自主地	缺	缺	
-44	14	independence	n. 独立	缺	缺	
-44	15	dependence	n. 依赖、依靠	缺	缺	
-44	16	suspend	v. 暂停、中止；悬挂、使悬浮	缺	缺	
-44	17	suspended	adj. 暂停的；悬挂的、悬浮的	缺	缺	
-44	18	suspension	n. 暂停；悬浮液	缺	缺	
-44	19	suspense	n. 悬念；焦急、紧张的期待	缺	缺	
-44	20	spin	v. 纺 n. 旋转；对事实的偏向性解读、公关“包装”	缺	缺	
-44	21	spun	v. 过去分词 adj. 纺成的	缺	缺	
-44	22	spinning-wheel	n. 纺车	缺	缺	
-44	23	spider	n. 蜘蛛	缺	缺	
-44	24	point	v. 指 n. 点；分数	缺	缺	
-44	25	pointed	adj. 尖的	缺	缺	
-44	26	pointer	n. 教鞭、激光笔；指示犬	缺	缺	
-44	27	pointless	adj. 无意义的、徒劳的	缺	缺	
-44	28	pointy	adj. 尖尖的、尖头的	缺	缺	
+44	11	dependent	adj. 依靠的、依赖的；取决于…的	细节数据有	缺	词/d/dependent.json
+44	12	independent	adj. 独立的；有主见的	细节数据有	缺	词/i/independent.json
+44	13	independently	adv. 独立地、自主地	细节数据有	缺	词/i/independently.json
+44	14	independence	n. 独立	细节数据有	缺	词/i/independence.json
+44	15	dependence	n. 依赖、依靠	细节数据有	缺	词/d/dependence.json
+44	16	suspend	v. 暂停、中止；悬挂、使悬浮	细节数据有	缺	词/s/suspend.json
+44	17	suspended	adj. 暂停的；悬挂的、悬浮的	细节数据有	缺	词/s/suspended.json
+44	18	suspension	n. 暂停；悬浮液	细节数据有	缺	词/s/suspension.json
+44	19	suspense	n. 悬念；焦急、紧张的期待	细节数据有	缺	词/s/suspense.json
+44	20	spin	v. 纺 n. 旋转；对事实的偏向性解读、公关“包装”	细节数据有	缺	词/s/spin.json
+44	21	spun	v. 过去分词 adj. 纺成的	细节数据有	缺	词/s/spun.json
+44	22	spinning-wheel	n. 纺车	细节数据有	缺	词/s/spinning-wheel.json
+44	23	spider	n. 蜘蛛	细节数据有	缺	词/s/spider.json
+44	24	point	v. 指 n. 点；分数	细节数据有	缺	词/p/point.json
+44	25	pointed	adj. 尖的	细节数据有	缺	词/p/pointed.json
+44	26	pointer	n. 教鞭、激光笔；指示犬	细节数据有	缺	词/p/pointer.json
+44	27	pointless	adj. 无意义的、徒劳的	细节数据有	缺	词/p/pointless.json
+44	28	pointy	adj. 尖尖的、尖头的	细节数据有	缺	词/p/pointy.json
 44	29	disappoint	v. 使失望；使落空	缺	缺	
 44	30	disappointed	adj. 失望的	缺	缺	
 44	31	disappointing	adj. 令人失望的、不如预期的	缺	缺	
