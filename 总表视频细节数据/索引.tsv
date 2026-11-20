@@ -5000,31 +5000,31 @@
 64	14	emergent	adj. 新兴的、正在形成的	细节数据有	缺	词/e/emergent.json
 64	15	immerse	v. 浸没、浸泡	细节数据有	缺	词/i/immerse.json
 64	16	immersion	n. 浸没	细节数据有	缺	词/i/immersion.json
-64	17	immersive	adj. 沉浸式的	缺	缺	
-64	18	merge	v. 合并	缺	缺	
-64	19	submerge	v. 淹没、浸没	缺	缺	
-64	20	over	prep. 覆盖着；越过 adj. 结束	缺	缺	
-64	21	overly	adv. 过于、过分地	缺	缺	
-64	22	super	adj. 超级的；极好的	缺	缺	
-64	23	supreme	adj. 最高的	缺	缺	
-64	24	supremely	adv. 极其、无比地	缺	缺	
-64	25	superior	adj. 更好的、更优越的；上级的	缺	缺	
-64	26	superiority	n. 优越、优势	缺	缺	
-64	27	audience	n. 观众	缺	缺	
-64	28	auditorium	n. 礼堂、会堂	缺	缺	
-64	29	audit	n. 审计、查账	缺	缺	
-64	30	auditory	adj. 听觉的	缺	缺	
-64	31	audition	n. 试演、试唱	缺	缺	
-64	32	audio	n. 音频、声音	缺	缺	
-64	33	obey	v. 服从	缺	缺	
-64	34	bad	adj. 坏的；有害的	缺	缺	
-64	35	badly	adv. 糟糕地、差劲地；严重地	缺	缺	
-64	36	worse	adj. 更坏的、更差的	缺	缺	
-64	37	worst	adj. 最坏的、最差的	缺	缺	
-64	38	war	n. 战争	缺	缺	
-64	39	wartime	n. 战时	缺	缺	
-64	40	warrior	n. 武士、战士	缺	缺	
-64	41	warfare	n. 战争、作战	缺	缺	
+64	17	immersive	adj. 沉浸式的	细节数据有	缺	词/i/immersive.json
+64	18	merge	v. 合并	细节数据有	缺	词/m/merge.json
+64	19	submerge	v. 淹没、浸没	细节数据有	缺	词/s/submerge.json
+64	20	over	prep. 覆盖着；越过 adj. 结束	细节数据有	缺	词/o/over.json
+64	21	overly	adv. 过于、过分地	细节数据有	缺	词/o/overly.json
+64	22	super	adj. 超级的；极好的	细节数据有	缺	词/s/super.json
+64	23	supreme	adj. 最高的	细节数据有	缺	词/s/supreme.json
+64	24	supremely	adv. 极其、无比地	细节数据有	缺	词/s/supremely.json
+64	25	superior	adj. 更好的、更优越的；上级的	细节数据有	缺	词/s/superior.json
+64	26	superiority	n. 优越、优势	细节数据有	缺	词/s/superiority.json
+64	27	audience	n. 观众	细节数据有	缺	词/a/audience.json
+64	28	auditorium	n. 礼堂、会堂	细节数据有	缺	词/a/auditorium.json
+64	29	audit	n. 审计、查账	细节数据有	缺	词/a/audit.json
+64	30	auditory	adj. 听觉的	细节数据有	缺	词/a/auditory.json
+64	31	audition	n. 试演、试唱	细节数据有	缺	词/a/audition.json
+64	32	audio	n. 音频、声音	细节数据有	缺	词/a/audio.json
+64	33	obey	v. 服从	细节数据有	缺	词/o/obey.json
+64	34	bad	adj. 坏的；有害的	细节数据有	缺	词/b/bad.json
+64	35	badly	adv. 糟糕地、差劲地；严重地	细节数据有	缺	词/b/badly.json
+64	36	worse	adj. 更坏的、更差的	细节数据有	缺	词/w/worse.json
+64	37	worst	adj. 最坏的、最差的	细节数据有	缺	词/w/worst.json
+64	38	war	n. 战争	细节数据有	缺	词/w/war.json
+64	39	wartime	n. 战时	细节数据有	缺	词/w/wartime.json
+64	40	warrior	n. 武士、战士	细节数据有	缺	词/w/warrior.json
+64	41	warfare	n. 战争、作战	细节数据有	缺	词/w/warfare.json
 64	42	similar	adj. 相似的	缺	缺	
 64	43	similarly	adv. 相似地、同样地	缺	缺	
 64	44	similarity	n. 相似	缺	缺	
