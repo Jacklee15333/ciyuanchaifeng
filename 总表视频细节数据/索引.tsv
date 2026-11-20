@@ -4774,31 +4774,31 @@
 61	23	pricey	adj. 价格高的、贵的	细节数据有	缺	词/p/pricey.json
 61	24	prize	n. 奖赏	细节数据有	缺	词/p/prize.json
 61	25	prized	adj. 珍贵的、被视为宝贝的	细节数据有	缺	词/p/prized.json
-61	26	prize-winning	adj. 获奖的	缺	缺	
-61	27	precious	adj. 宝贵的	缺	缺	
-61	28	preciousness	n. 珍贵、宝贵	缺	缺	
-61	29	appreciate	v. 欣赏、赏识；感激	缺	缺	
-61	30	appreciation	n. 欣赏、鉴赏；感激	缺	缺	
-61	31	underappreciate	v. 低估…的价值、对…重视不够	缺	缺	
-61	32	hospital	n. 医院	缺	缺	
-61	33	host	n. 主人	缺	缺	
-61	34	hostess	n. 女主人	缺	缺	
-61	35	hotel	n. 旅馆	缺	缺	
-61	36	mini-hotel	n. 迷你酒店、小型旅馆	缺	缺	
-61	37	hostel	n. 旅舍、招待所	缺	缺	
-61	38	hostile	adj. 敌意的、不友好的	缺	缺	
-61	39	hostility	n. 敌意、敌对	缺	缺	
-61	40	guest	n. 客人	缺	缺	
-61	41	guesthouse	n. 家庭旅馆、民宿	缺	缺	
-61	42	centre	n. 中心	缺	缺	
-61	43	center	n. 中心	缺	缺	
-61	44	central	adj. 中央的、中心的	缺	缺	
-61	45	centrally	adv. 在中心、在中央	缺	缺	
-61	46	centralize	v. 使集中、集权	缺	缺	
-61	47	concentrate	v. 集中精力、专心；浓缩	缺	缺	
-61	48	concentration	n. 专注、注意力；集中、聚集	缺	缺	
-61	49	drive	v. 驾驶；驱赶	缺	缺	
-61	50	driven	adj. 有强烈内在动力的、拼命的	缺	缺	
+61	26	prize-winning	adj. 获奖的	细节数据有	缺	词/p/prize-winning.json
+61	27	precious	adj. 宝贵的	细节数据有	缺	词/p/precious.json
+61	28	preciousness	n. 珍贵、宝贵	细节数据有	缺	词/p/preciousness.json
+61	29	appreciate	v. 欣赏、赏识；感激	细节数据有	缺	词/a/appreciate.json
+61	30	appreciation	n. 欣赏、鉴赏；感激	细节数据有	缺	词/a/appreciation.json
+61	31	underappreciate	v. 低估…的价值、对…重视不够	细节数据有	缺	词/u/underappreciate.json
+61	32	hospital	n. 医院	细节数据有	缺	词/h/hospital.json
+61	33	host	n. 主人	细节数据有	缺	词/h/host.json
+61	34	hostess	n. 女主人	细节数据有	缺	词/h/hostess.json
+61	35	hotel	n. 旅馆	细节数据有	缺	词/h/hotel.json
+61	36	mini-hotel	n. 迷你酒店、小型旅馆	细节数据有	缺	词/m/mini-hotel.json
+61	37	hostel	n. 旅舍、招待所	细节数据有	缺	词/h/hostel.json
+61	38	hostile	adj. 敌意的、不友好的	细节数据有	缺	词/h/hostile.json
+61	39	hostility	n. 敌意、敌对	细节数据有	缺	词/h/hostility.json
+61	40	guest	n. 客人	细节数据有	缺	词/g/guest.json
+61	41	guesthouse	n. 家庭旅馆、民宿	细节数据有	缺	词/g/guesthouse.json
+61	42	centre	n. 中心	细节数据有	缺	词/c/centre.json
+61	43	center	n. 中心	细节数据有	缺	词/c/center.json
+61	44	central	adj. 中央的、中心的	细节数据有	缺	词/c/central.json
+61	45	centrally	adv. 在中心、在中央	细节数据有	缺	词/c/centrally.json
+61	46	centralize	v. 使集中、集权	细节数据有	缺	词/c/centralize.json
+61	47	concentrate	v. 集中精力、专心；浓缩	细节数据有	缺	词/c/concentrate.json
+61	48	concentration	n. 专注、注意力；集中、聚集	细节数据有	缺	词/c/concentration.json
+61	49	drive	v. 驾驶；驱赶	细节数据有	缺	词/d/drive.json
+61	50	driven	adj. 有强烈内在动力的、拼命的	细节数据有	缺	词/d/driven.json
 61	51	drove	v. drive 的过去式	缺	缺	
 61	52	driver	n. 司机	缺	缺	
 61	53	drift	v. 漂流、漂移 n. 大意、要旨	缺	缺	
