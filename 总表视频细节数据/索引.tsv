@@ -3117,31 +3117,31 @@
 39	78	practise	n. 练习；实践	细节数据有	缺	词/p/practise.json
 39	79	practical	adj. 实际的、实践的	细节数据有	缺	词/p/practical.json
 39	80	practically	adv. 几乎；实际上	细节数据有	缺	词/p/practically.json
-39	81	impractical	adj. 不切实际的、不实用的	缺	缺	
-40	1	museum	n. 博物馆	缺	缺	
-40	2	music	n. 音乐	缺	缺	
-40	3	musician	n. 音乐家	缺	缺	
-40	4	musical	adj. 音乐的；悦耳的	缺	缺	
-40	5	science-music	adj. 科学与音乐结合的、科学与音乐跨界的	缺	缺	
-40	6	musically	adv. 在音乐方面；悦耳地	缺	缺	
-40	7	mosaic	n. 马赛克；镶嵌画、镶嵌图案	缺	缺	
-40	8	hold	v. 拿；抱	缺	缺	
-40	9	held	v. 过去分词	缺	缺	
-40	10	holding	n. 租种的土地 adj. 暂时存放的	缺	缺	
-40	11	holder	n. 持有人；支架、托	缺	缺	
-40	12	uphold	v. 维护、捍卫	缺	缺	
-40	13	land	n. 陆地；土地 v. 降落	缺	缺	
-40	14	landing	n. 着陆、降落；楼梯平台	缺	缺	
-40	15	inland	adj. 内陆的、内地的	缺	缺	
-40	16	landfill	n. 垃圾填埋场	缺	缺	
-40	17	landline	n. 固定电话、座机	缺	缺	
-40	18	landform	n. 地形、地貌	缺	缺	
-40	19	mainland	n. 大陆、本土	缺	缺	
-40	20	island	n. 岛	缺	缺	
-40	21	islander	n. 岛民、岛上居民	缺	缺	
-40	22	landscape	n. 风景、景观	缺	缺	
-40	23	highland	n. 高地、高原地区	缺	缺	
-40	24	landfall	n. 抵达陆地	缺	缺	
+39	81	impractical	adj. 不切实际的、不实用的	细节数据有	缺	词/i/impractical.json
+40	1	museum	n. 博物馆	细节数据有	缺	词/m/museum.json
+40	2	music	n. 音乐	细节数据有	缺	词/m/music.json
+40	3	musician	n. 音乐家	细节数据有	缺	词/m/musician.json
+40	4	musical	adj. 音乐的；悦耳的	细节数据有	缺	词/m/musical.json
+40	5	science-music	adj. 科学与音乐结合的、科学与音乐跨界的	细节数据有	缺	词/s/science-music.json
+40	6	musically	adv. 在音乐方面；悦耳地	细节数据有	缺	词/m/musically.json
+40	7	mosaic	n. 马赛克；镶嵌画、镶嵌图案	细节数据有	缺	词/m/mosaic.json
+40	8	hold	v. 拿；抱	细节数据有	缺	词/h/hold.json
+40	9	held	v. 过去分词	细节数据有	缺	词/h/held.json
+40	10	holding	n. 租种的土地 adj. 暂时存放的	细节数据有	缺	词/h/holding.json
+40	11	holder	n. 持有人；支架、托	细节数据有	缺	词/h/holder.json
+40	12	uphold	v. 维护、捍卫	细节数据有	缺	词/u/uphold.json
+40	13	land	n. 陆地；土地 v. 降落	细节数据有	缺	词/l/land.json
+40	14	landing	n. 着陆、降落；楼梯平台	细节数据有	缺	词/l/landing.json
+40	15	inland	adj. 内陆的、内地的	细节数据有	缺	词/i/inland.json
+40	16	landfill	n. 垃圾填埋场	细节数据有	缺	词/l/landfill.json
+40	17	landline	n. 固定电话、座机	细节数据有	缺	词/l/landline.json
+40	18	landform	n. 地形、地貌	细节数据有	缺	词/l/landform.json
+40	19	mainland	n. 大陆、本土	细节数据有	缺	词/m/mainland.json
+40	20	island	n. 岛	细节数据有	缺	词/i/island.json
+40	21	islander	n. 岛民、岛上居民	细节数据有	缺	词/i/islander.json
+40	22	landscape	n. 风景、景观	细节数据有	缺	词/l/landscape.json
+40	23	highland	n. 高地、高原地区	细节数据有	缺	词/h/highland.json
+40	24	landfall	n. 抵达陆地	细节数据有	缺	词/l/landfall.json
 40	25	aquatic	adj. 水生的、水栖的	缺	缺	
 40	26	cut	v. 切；剪	缺	缺	
 40	27	cutter	n. 刀具、切割器	缺	缺	

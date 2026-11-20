@@ -273,6 +273,8 @@
 - cloth：易混写成“cloth / fabrique（fabrique 是工厂）”，fabrique 不是英语词，应为 cloth / fabric（面料）
 - decay：只写了 n.（不可数），decay 也常作动词“腐烂、衰败”，应补 v. 三单 decays；过去式、过去分词 decayed；现在分词 decaying
 - practise：词性写成 n. 练习；实践，practise 是英式动词“练习”（名词写 practice），应改为 v.
+- science-music：词典里查不到，不是英语常用词，像是自造的复合词；按“科学与音乐结合的”出了题，建议核实是否保留
+- holding：初中含义写“租种的土地 / 暂时存放的”太偏；常见用法是 hold 的现在分词，名词“持有的股份、财产”常用复数 holdings，写成“不可数，没有复数”不对
 
 ## 总表里出现两次的词（细节数据按单词存一份，两行共用；出题时两个意思都要考到）
 
