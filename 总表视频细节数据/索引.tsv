@@ -6236,25 +6236,25 @@
 84	60	theatergoer	n. 常看戏的人、戏迷	缺	缺	
 84	61	theory	n. 理论、学说；看法、推测	缺	缺	
 84	62	theoretical	adj. 理论的；假设的、未必成真的	缺	缺	
-84	63	theoretically	adv. 理论上	缺	缺	
-85	1	recover	v. 恢复、康复；找回、追回	缺	缺	
-85	2	recovery	n. 恢复、康复；追回、找回	缺	缺	
-85	3	trend	n. 趋势、动向；潮流	缺	缺	
-85	4	trendy	adj. 赶时髦的、时兴的	缺	缺	
-85	5	noun	n. 名词	缺	缺	
+84	63	theoretically	adv. 理论上	细节数据有	缺	词/t/theoretically.json
+85	1	recover	v. 恢复、康复；找回、追回	细节数据有	缺	词/r/recover.json
+85	2	recovery	n. 恢复、康复；追回、找回	细节数据有	缺	词/r/recovery.json
+85	3	trend	n. 趋势、动向；潮流	细节数据有	缺	词/t/trend.json
+85	4	trendy	adj. 赶时髦的、时兴的	细节数据有	缺	词/t/trendy.json
+85	5	noun	n. 名词	细节数据有	缺	词/n/noun.json
 85	6	pronoun	n. 代词	缺	缺	
 85	7	nominate	v. 提名；任命、指定	缺	缺	
 85	8	renown	n. 声望、名望	缺	缺	
-85	9	renowned	adj. 著名的、享有盛誉的	缺	缺	
-85	10	name	n. 名字	缺	缺	
-85	11	rename	v. 重新命名、改名	缺	缺	
-85	12	username	n. 用户名、账号名	缺	缺	
-85	13	nickname	n. 绰号、外号；昵称、小名	缺	缺	
-85	14	anonymous	adj. 匿名的	缺	缺	
-85	15	synonym	n. 同义词	缺	缺	
-85	16	instal	v. 使就职	缺	缺	
-85	17	install	v. 安装；使就职	缺	缺	
-85	18	installation	n. 安装；就职典礼	缺	缺	
+85	9	renowned	adj. 著名的、享有盛誉的	细节数据有	缺	词/r/renowned.json
+85	10	name	n. 名字	细节数据有	缺	词/n/name.json
+85	11	rename	v. 重新命名、改名	细节数据有	缺	词/r/rename.json
+85	12	username	n. 用户名、账号名	细节数据有	缺	词/u/username.json
+85	13	nickname	n. 绰号、外号；昵称、小名	细节数据有	缺	词/n/nickname.json
+85	14	anonymous	adj. 匿名的	细节数据有	缺	词/a/anonymous.json
+85	15	synonym	n. 同义词	细节数据有	缺	词/s/synonym.json
+85	16	instal	v. 使就职	细节数据有	缺	词/i/instal.json
+85	17	install	v. 安装；使就职	细节数据有	缺	词/i/install.json
+85	18	installation	n. 安装；就职典礼	细节数据有	缺	词/i/installation.json
 85	19	stall	n. 畜栏；摊位 v. 熄火、抛锚	缺	缺	
 85	20	stallion	n. 种马、未阉割的公马	缺	缺	
 85	21	refrigerator	n. 冰箱、冷藏柜	缺	缺	
