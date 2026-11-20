@@ -4019,31 +4019,31 @@
 51	13	sunlight	n. 阳光、日光	细节数据有	缺	词/s/sunlight.json
 51	14	sunshine	n. 阳光；晴天	细节数据有	缺	词/s/sunshine.json
 51	15	sunset	n. 日落、黄昏；晚霞	细节数据有	缺	词/s/sunset.json
-51	16	sunrise	n. 日出	缺	缺	
-51	17	sundown	n. 日落	缺	缺	
-51	18	sunlit	adj. 阳光照耀的、洒满阳光的	缺	缺	
-51	19	sunscreen	n. 防晒霜、防晒乳；遮阳物	缺	缺	
-51	20	sunshade	n. 遮阳伞	缺	缺	
-51	21	sunshiny	adj. 阳光明媚的；开朗的	缺	缺	
-51	22	sunflower	n. 向日葵	缺	缺	
-51	23	solar	adj. 太阳的	缺	缺	
-51	24	solar-powered	adj. 太阳能驱动的	缺	缺	
-51	25	solar-energy	n. 太阳能	缺	缺	
-51	26	bloom	n. 花；盛开	缺	缺	
-51	27	blossom	n. 花期 v. 发展、成长	缺	缺	
-51	28	helium	n. 氦	缺	缺	
-51	29	blade	n. 刀刃、刀片；草叶	缺	缺	
-51	30	success	n. 成功	缺	缺	
-51	31	successful	adj. 成功的	缺	缺	
-51	32	successfully	adv. 成功地、顺利地	缺	缺	
-51	33	succeed	v. 获得成功	缺	缺	
-51	34	process	v. 处理；加工 n. 过程	缺	缺	
-51	35	processed	adj. 加工过的	缺	缺	
-51	36	access	n. 接近、使用的机会或权利；通道、入口 v. 访问、存取	缺	缺	
-51	37	accessible	adj. 可到达的；可获得、可使用的	缺	缺	
-51	38	accessory	n. 配件、附件	缺	缺	
-51	39	excess	n. 过量、过剩；超出部分	缺	缺	
-51	40	excessive	adj. 过度的、过多的	缺	缺	
+51	16	sunrise	n. 日出	细节数据有	缺	词/s/sunrise.json
+51	17	sundown	n. 日落	细节数据有	缺	词/s/sundown.json
+51	18	sunlit	adj. 阳光照耀的、洒满阳光的	细节数据有	缺	词/s/sunlit.json
+51	19	sunscreen	n. 防晒霜、防晒乳；遮阳物	细节数据有	缺	词/s/sunscreen.json
+51	20	sunshade	n. 遮阳伞	细节数据有	缺	词/s/sunshade.json
+51	21	sunshiny	adj. 阳光明媚的；开朗的	细节数据有	缺	词/s/sunshiny.json
+51	22	sunflower	n. 向日葵	细节数据有	缺	词/s/sunflower.json
+51	23	solar	adj. 太阳的	细节数据有	缺	词/s/solar.json
+51	24	solar-powered	adj. 太阳能驱动的	细节数据有	缺	词/s/solar-powered.json
+51	25	solar-energy	n. 太阳能	细节数据有	缺	词/s/solar-energy.json
+51	26	bloom	n. 花；盛开	细节数据有	缺	词/b/bloom.json
+51	27	blossom	n. 花期 v. 发展、成长	细节数据有	缺	词/b/blossom.json
+51	28	helium	n. 氦	细节数据有	缺	词/h/helium.json
+51	29	blade	n. 刀刃、刀片；草叶	细节数据有	缺	词/b/blade.json
+51	30	success	n. 成功	细节数据有	缺	词/s/success.json
+51	31	successful	adj. 成功的	细节数据有	缺	词/s/successful.json
+51	32	successfully	adv. 成功地、顺利地	细节数据有	缺	词/s/successfully.json
+51	33	succeed	v. 获得成功	细节数据有	缺	词/s/succeed.json
+51	34	process	v. 处理；加工 n. 过程	细节数据有	缺	词/p/process.json
+51	35	processed	adj. 加工过的	细节数据有	缺	词/p/processed.json
+51	36	access	n. 接近、使用的机会或权利；通道、入口 v. 访问、存取	细节数据有	缺	词/a/access.json
+51	37	accessible	adj. 可到达的；可获得、可使用的	细节数据有	缺	词/a/accessible.json
+51	38	accessory	n. 配件、附件	细节数据有	缺	词/a/accessory.json
+51	39	excess	n. 过量、过剩；超出部分	细节数据有	缺	词/e/excess.json
+51	40	excessive	adj. 过度的、过多的	细节数据有	缺	词/e/excessive.json
 51	41	exceed	v. 超过、超出	缺	缺	
 51	42	proceed	v. 继续进行；前往	缺	缺	
 51	43	procedure	n. 程序、手续	缺	缺	
