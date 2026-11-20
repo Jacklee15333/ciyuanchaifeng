@@ -5151,31 +5151,31 @@
 66	5	conserve	v. 节约；保护、保存	细节数据有	缺	词/c/conserve.json
 66	6	conservation	n. 节约	细节数据有	缺	词/c/conservation.json
 66	7	conservationist	n. 自然保护主义者、自然保护工作者	细节数据有	缺	词/c/conservationist.json
-66	8	preserve	v. 保护、维护 n. 果酱；专属领域	缺	缺	
-66	9	preservation	n. 保护、保存	缺	缺	
-66	10	best-preserved	adj. 保存最完好的	缺	缺	
-66	11	reserve	v. 预订；保留、留出 n. 储备	缺	缺	
-66	12	reservation	n. 预订	缺	缺	
-66	13	reservoir	n. 水库；储液器、储液罐	缺	缺	
-66	14	destroy	v. 破坏	缺	缺	
-66	15	destruction	n. 破坏、毁灭	缺	缺	
-66	16	destructive	adj. 破坏性的、毁灭性的	缺	缺	
-66	17	destructible	adj. 可毁坏的	缺	缺	
-66	18	indestructible	adj. 坚不可摧的、毁不掉的	缺	缺	
-66	19	instrument	n. 乐器；手段、工具	缺	缺	
-66	20	instrumental	adj. 起重要作用的；器乐的	缺	缺	
-66	21	instrumentalist	n. 乐器演奏者、器乐演奏家	缺	缺	
-66	22	industry	n. 工业	缺	缺	
-66	23	industrial	adj. 工业的	缺	缺	
-66	24	industrialize	v. 工业化	缺	缺	
-66	25	industrialization	n. 工业化	缺	缺	
-66	26	structure	n. 结构、构造 v. 组织、安排	缺	缺	
-66	27	structured	adj. 有组织的、有条理的	缺	缺	
-66	28	structural	adj. 结构的	缺	缺	
-66	29	construction	n. 建造、建筑；解释	缺	缺	
-66	30	construct	v. 建造、修建 n. 构想、概念	缺	缺	
-66	31	reconstruct	v. 重建	缺	缺	
-66	32	instruct	v. 指示、吩咐；教、传授	缺	缺	
+66	8	preserve	v. 保护、维护 n. 果酱；专属领域	细节数据有	缺	词/p/preserve.json
+66	9	preservation	n. 保护、保存	细节数据有	缺	词/p/preservation.json
+66	10	best-preserved	adj. 保存最完好的	细节数据有	缺	词/b/best-preserved.json
+66	11	reserve	v. 预订；保留、留出 n. 储备	细节数据有	缺	词/r/reserve.json
+66	12	reservation	n. 预订	细节数据有	缺	词/r/reservation.json
+66	13	reservoir	n. 水库；储液器、储液罐	细节数据有	缺	词/r/reservoir.json
+66	14	destroy	v. 破坏	细节数据有	缺	词/d/destroy.json
+66	15	destruction	n. 破坏、毁灭	细节数据有	缺	词/d/destruction.json
+66	16	destructive	adj. 破坏性的、毁灭性的	细节数据有	缺	词/d/destructive.json
+66	17	destructible	adj. 可毁坏的	细节数据有	缺	词/d/destructible.json
+66	18	indestructible	adj. 坚不可摧的、毁不掉的	细节数据有	缺	词/i/indestructible.json
+66	19	instrument	n. 乐器；手段、工具	细节数据有	缺	词/i/instrument.json
+66	20	instrumental	adj. 起重要作用的；器乐的	细节数据有	缺	词/i/instrumental.json
+66	21	instrumentalist	n. 乐器演奏者、器乐演奏家	细节数据有	缺	词/i/instrumentalist.json
+66	22	industry	n. 工业	细节数据有	缺	词/i/industry.json
+66	23	industrial	adj. 工业的	细节数据有	缺	词/i/industrial.json
+66	24	industrialize	v. 工业化	细节数据有	缺	词/i/industrialize.json
+66	25	industrialization	n. 工业化	细节数据有	缺	词/i/industrialization.json
+66	26	structure	n. 结构、构造 v. 组织、安排	细节数据有	缺	词/s/structure.json
+66	27	structured	adj. 有组织的、有条理的	细节数据有	缺	词/s/structured.json
+66	28	structural	adj. 结构的	细节数据有	缺	词/s/structural.json
+66	29	construction	n. 建造、建筑；解释	细节数据有	缺	词/c/construction.json
+66	30	construct	v. 建造、修建 n. 构想、概念	细节数据有	缺	词/c/construct.json
+66	31	reconstruct	v. 重建	细节数据有	缺	词/r/reconstruct.json
+66	32	instruct	v. 指示、吩咐；教、传授	细节数据有	缺	词/i/instruct.json
 66	33	instruction	n. 用法说明；命令	缺	缺	
 66	34	instructor	n. 教练、教员；讲师	缺	缺	
 66	35	instructional	adj. 教学的、教育的；指导性的	缺	缺	
