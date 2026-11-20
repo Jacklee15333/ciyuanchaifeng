@@ -4421,31 +4421,31 @@
 56	22	low	adv. 低；矮	细节数据有	缺	词/l/low.json
 56	23	lower	adj. 较低的、下面的	细节数据有	缺	词/l/lower.json
 56	24	below	prep. 低于	细节数据有	缺	词/b/below.json
-56	25	low-lying	adj. 地势低的、低洼的	缺	缺	
-56	26	low-cost	adj. 低成本的、廉价的	缺	缺	
-56	27	lie	v. 谎言 v. 卧；位于	缺	缺	
-56	28	lay	v. 放；下蛋	缺	缺	
-56	29	laid	v. 过去分词 adj. 铺好的、摆好的	缺	缺	
-56	30	layout	n. 布局、格局；版面设计、排版	缺	缺	
-56	31	layer	n. 层、一层；下蛋的母鸡	缺	缺	
-56	32	law	n. 法律	缺	缺	
-56	33	lawmaker	n. 立法者、议员	缺	缺	
-56	34	lawmaking	n. 立法	缺	缺	
-56	35	lawyer	n. 律师	缺	缺	
-56	36	wood	n. 木头；树林	缺	缺	
-56	37	woods	n. 树林、林地	缺	缺	
-56	38	wooded	adj. 树木茂盛的、有林的	缺	缺	
-56	39	wooden	adj. 木质的	缺	缺	
-56	40	woodblock	n. 木版、木刻版	缺	缺	
-56	41	rosewood	n. 吉他、钢琴	缺	缺	
-56	42	woodcutter	n. 樵夫、伐木工	缺	缺	
-56	43	wooden-structured	adj. 木结构的	缺	缺	
-56	44	woodland	n. 林地、树林	缺	缺	
-56	45	woodshed	n. 柴房、柴棚	缺	缺	
-56	46	woodworker	n. 木工、木匠	缺	缺	
-56	47	climb	v. 爬	缺	缺	
-56	48	climbing	n. 攀登、登山运动 adj. 上升的	缺	缺	
-56	49	climber	n. 登山者、攀岩者	缺	缺	
+56	25	low-lying	adj. 地势低的、低洼的	细节数据有	缺	词/l/low-lying.json
+56	26	low-cost	adj. 低成本的、廉价的	细节数据有	缺	词/l/low-cost.json
+56	27	lie	v. 谎言 v. 卧；位于	细节数据有	缺	词/l/lie.json
+56	28	lay	v. 放；下蛋	细节数据有	缺	词/l/lay.json
+56	29	laid	v. 过去分词 adj. 铺好的、摆好的	细节数据有	缺	词/l/laid.json
+56	30	layout	n. 布局、格局；版面设计、排版	细节数据有	缺	词/l/layout.json
+56	31	layer	n. 层、一层；下蛋的母鸡	细节数据有	缺	词/l/layer.json
+56	32	law	n. 法律	细节数据有	缺	词/l/law.json
+56	33	lawmaker	n. 立法者、议员	细节数据有	缺	词/l/lawmaker.json
+56	34	lawmaking	n. 立法	细节数据有	缺	词/l/lawmaking.json
+56	35	lawyer	n. 律师	细节数据有	缺	词/l/lawyer.json
+56	36	wood	n. 木头；树林	细节数据有	缺	词/w/wood.json
+56	37	woods	n. 树林、林地	细节数据有	缺	词/w/woods.json
+56	38	wooded	adj. 树木茂盛的、有林的	细节数据有	缺	词/w/wooded.json
+56	39	wooden	adj. 木质的	细节数据有	缺	词/w/wooden.json
+56	40	woodblock	n. 木版、木刻版	细节数据有	缺	词/w/woodblock.json
+56	41	rosewood	n. 吉他、钢琴	细节数据有	缺	词/r/rosewood.json
+56	42	woodcutter	n. 樵夫、伐木工	细节数据有	缺	词/w/woodcutter.json
+56	43	wooden-structured	adj. 木结构的	细节数据有	缺	词/w/wooden-structured.json
+56	44	woodland	n. 林地、树林	细节数据有	缺	词/w/woodland.json
+56	45	woodshed	n. 柴房、柴棚	细节数据有	缺	词/w/woodshed.json
+56	46	woodworker	n. 木工、木匠	细节数据有	缺	词/w/woodworker.json
+56	47	climb	v. 爬	细节数据有	缺	词/c/climb.json
+56	48	climbing	n. 攀登、登山运动 adj. 上升的	细节数据有	缺	词/c/climbing.json
+56	49	climber	n. 登山者、攀岩者	细节数据有	缺	词/c/climber.json
 56	50	century	n. 世纪	缺	缺	
 56	51	centurial	adj. 世纪的、百年的	缺	缺	
 56	52	century-old	adj. 百年的、有百年历史的	缺	缺	
@@ -4458,7 +4458,7 @@
 56	59	corner	n. 角	缺	缺	
 56	60	cornerstone	n. 奠基石	缺	缺	
 56	61	horn	n. 角质；号、管乐器	缺	缺	
-56	62	lie	v. 谎言 v. 卧；位于	缺	缺	
+56	62	lie	v. 谎言 v. 卧；位于	细节数据有	缺	词/l/lie.json
 56	63	liar	n. 说谎者、骗子	缺	缺	
 56	64	responsible	adj. 负责的	缺	缺	
 56	65	responsibility	n. 责任	缺	缺	
