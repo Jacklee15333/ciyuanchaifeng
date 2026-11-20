@@ -223,6 +223,7 @@
 - filling：【变形】写成“不可数，没有复数”，作“补牙的填料、馅”时可数（two fillings）
 - fulfil / fulfillment：英式 fulfil 配美式 fulfillment，拼写混用；英式应是 fulfilment，美式是 fulfill
 - included：【变形】编了 includeds、includeded、includeding；included 本身是 include 的过去式、过去分词
+- teachings：【变形】写成“一般不可数，不加 s”，其实它本身是复数形式（谓语用复数）
 
 ## 总表里出现两次的词（细节数据按单词存一份，两行共用；出题时两个意思都要考到）
 

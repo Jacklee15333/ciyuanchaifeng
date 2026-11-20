@@ -2310,31 +2310,31 @@
 29	72	outrun	v. 甩掉；超出	细节数据有	缺	词/o/outrun.json
 29	73	runoff	n. 决选、加赛	细节数据有	缺	词/r/runoff.json
 29	74	run-down	adj. 疲惫的、身体差的；破败的、失修的	细节数据有	缺	词/r/run-down.json
-29	75	read	v. 读	缺	缺	
-29	76	reading	n. 阅读	缺	缺	
-29	77	reader	n. 读者	缺	缺	
-29	78	reread	v. 重读、再读	缺	缺	
-29	79	post-reading	adj. 读后的	缺	缺	
-29	80	riddle	n. 谜语	缺	缺	
-30	1	teach	v. 教书	缺	缺	
-30	2	taught	v. 过去分词	缺	缺	
-30	3	teaching	n. 教学、教书	缺	缺	
-30	4	teachings	n. 教义、学说	缺	缺	
-30	5	token	n. 象征、表示；代币、筹码	缺	缺	
-30	6	predict	v. 预言	缺	缺	
-30	7	prediction	n. 预测、预言	缺	缺	
-30	8	unpredictable	adj. 不可预测的、难以预料的	缺	缺	
-30	9	predictable	adj. 可预测的	缺	缺	
-30	10	predictor	n. 预测者	缺	缺	
-30	11	predictive	adj. 预测性的、有预测作用的	缺	缺	
-30	12	condition	n. 条件；状况、状态 v. 使适应、训练	缺	缺	
-30	13	conditioner	n. 护发素；空调	缺	缺	
-30	14	conditional	adj. 有条件的	缺	缺	
-30	15	unconditional	adj. 无条件的	缺	缺	
-30	16	unconditionally	adv. 无条件地	缺	缺	
-30	17	dictionary	n. 词典	缺	缺	
-30	18	addict	n. 成瘾者	缺	缺	
-30	19	addicted	adj. 上瘾的、沉迷的	缺	缺	
+29	75	read	v. 读	细节数据有	缺	词/r/read.json
+29	76	reading	n. 阅读	细节数据有	缺	词/r/reading.json
+29	77	reader	n. 读者	细节数据有	缺	词/r/reader.json
+29	78	reread	v. 重读、再读	细节数据有	缺	词/r/reread.json
+29	79	post-reading	adj. 读后的	细节数据有	缺	词/p/post-reading.json
+29	80	riddle	n. 谜语	细节数据有	缺	词/r/riddle.json
+30	1	teach	v. 教书	细节数据有	缺	词/t/teach.json
+30	2	taught	v. 过去分词	细节数据有	缺	词/t/taught.json
+30	3	teaching	n. 教学、教书	细节数据有	缺	词/t/teaching.json
+30	4	teachings	n. 教义、学说	细节数据有	缺	词/t/teachings.json
+30	5	token	n. 象征、表示；代币、筹码	细节数据有	缺	词/t/token.json
+30	6	predict	v. 预言	细节数据有	缺	词/p/predict.json
+30	7	prediction	n. 预测、预言	细节数据有	缺	词/p/prediction.json
+30	8	unpredictable	adj. 不可预测的、难以预料的	细节数据有	缺	词/u/unpredictable.json
+30	9	predictable	adj. 可预测的	细节数据有	缺	词/p/predictable.json
+30	10	predictor	n. 预测者	细节数据有	缺	词/p/predictor.json
+30	11	predictive	adj. 预测性的、有预测作用的	细节数据有	缺	词/p/predictive.json
+30	12	condition	n. 条件；状况、状态 v. 使适应、训练	细节数据有	缺	词/c/condition.json
+30	13	conditioner	n. 护发素；空调	细节数据有	缺	词/c/conditioner.json
+30	14	conditional	adj. 有条件的	细节数据有	缺	词/c/conditional.json
+30	15	unconditional	adj. 无条件的	细节数据有	缺	词/u/unconditional.json
+30	16	unconditionally	adv. 无条件地	细节数据有	缺	词/u/unconditionally.json
+30	17	dictionary	n. 词典	细节数据有	缺	词/d/dictionary.json
+30	18	addict	n. 成瘾者	细节数据有	缺	词/a/addict.json
+30	19	addicted	adj. 上瘾的、沉迷的	细节数据有	缺	词/a/addicted.json
 30	20	addiction	n. 成瘾、瘾	缺	缺	
 30	21	addictive	adj. 使人上瘾的	缺	缺	
 30	22	contradict	v. 反驳、否认；与…相矛盾	缺	缺	
